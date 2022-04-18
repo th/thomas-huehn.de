@@ -6,6 +6,7 @@ sources:
 - https://git.sr.ht/~huehn/www.thomas-huehn.de
 - https://github.com/gohugoio/hugo.git
 secrets:
+- d75d3b96-f524-42c2-adc5-43ce6ac7bf2f
 - b3dc0e2a-38b9-4e85-8514-2f01ed189aec
 tasks:
 - hugo: |
