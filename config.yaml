@@ -1,0 +1,35 @@
+baseURL: 'https://www.thomas-huehn.de/'
+author: Thomas Hühn
+languageCode: 'de'
+title: 'Entdeckungsreisen'
+
+theme: 'th'
+
+assetDir: 'assets'
+dataDir: 'data'
+
+disableHugoGeneratorInject: true
+disableKinds:
+    - section
+    - robotsTXT
+    - 404
+
+permalinks:
+  post: '/:year/:month/:filename/'
+  page: '/:filename/'
+
+outputFormats:
+    RSS:
+        mediatype: "application/rss"
+        baseName: "feed"
+
+taxonomies:
+    tag: tags
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        style: bw
+        noClasses: false
