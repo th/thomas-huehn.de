@@ -14,7 +14,7 @@ tasks:
 - build: |
     cd www.thomas-huehn.de
     git submodule init
-    git submodule update
+    git submodule update --remote
     /usr/local/bin/hugo --minify
 - deploy: |
     cd www.thomas-huehn.de
