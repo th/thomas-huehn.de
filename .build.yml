@@ -1,6 +1,6 @@
 image: debian/stable
 packages:
-- go
+- golang
 - rsync
 sources:
 - https://git.sr.ht/~huehn/www.thomas-huehn.de
