@@ -14,7 +14,7 @@ Monrovia hat jede Menge Softwareentwickler, einige Manager und das Ziel, größt
 
 Außerdem wollen unser Protagonist und seine Manager einige Experimente am echten Softwareprojekt anstellen: mit je drei Teams für jedes der sechs geplanten Produkte können verschiedene Herangehensweisen verglichen und meßbar gemacht werden.
 
-Der Roman führt in jedem Kapitel ein neues Problem ein (persönliche Konflikte zwischen Entwicklern or enge Deadlines). Dazu kommt jeweils eine neue Person, die meistens ein weltberühmter Experte auf dem gerade relevanten Gebiet ist, und die an einem Nachmittag mal eben die Schlüsselerkenntnis zur Lösung des aktuellen Problems liefert. Das ist offensichtlich einer der Gründe, warum das Buch als Roman versagt.
+Der Roman führt in jedem Kapitel ein neues Problem ein (persönliche Konflikte zwischen Entwicklern oder enge Deadlines). Dazu kommt jeweils eine neue Person, die meistens ein weltberühmter Experte auf dem gerade relevanten Gebiet ist, und die an einem Nachmittag mal eben die Schlüsselerkenntnis zur Lösung des aktuellen Problems liefert. Das ist offensichtlich einer der Gründe, warum das Buch als Roman versagt.
 
 Dem Leser muß glasklar sein, daß diese Experten keine echten Experten sind, sondern Stellvertreterfiguren für Tom DeMarco, die seine Überzeugungen präsentieren. Das ist auch völlig in Ordnung, schließlich ist das Buch Tom DeMarcos Darstellung, aber der Leser darf sich da nicht verwirren lassen. Die Buchfiguren hängen an den Lippen dieser Experten, stellen niemals eine Empfehlung in Frage, finden niemals Spannungen oder Widersprüche zu den Empfehlungen anderer „Experten“. Der Leser darf sich nicht einlullen lassen und genauso verhalten.
 
