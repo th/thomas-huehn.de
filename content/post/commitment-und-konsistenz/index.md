@@ -8,7 +8,7 @@ Die Wahrscheinlichkeit, daß Menschen einer Bitte nachkommen, ist höher, wenn s
 
 Eine sehr interessante Anekdote handelt von amerikanischen Kriegsgefangenen in einem chinesischen Lager in Korea. Die Chinesen hileten regelmäßige Essay-Schreibwettbewerbe für die amerikanischen Gefangenen ab. Und sie waren clever genug, ab und an auch Pro-Amerika-Essays zu prämieren, denn auf diese Art hatten die Gefangenen nicht das Gefühl, ihr Land verraten zu müssen. Sie schrieben also positiv über ihre Heimat, aber streuten hier und da ein paar warme Worte fürs chinesische System ein, um ihre Chance auf den Preis zu erhöhen. Damit ebneten die Chinesen den Weg für substantiellere schriftliche Zugeständnisse der Gefangenen später.
 
-Ein weiterer Aspekt war, daß die Preis klein waren, hier ein Stück Obst, da ein paar Zigaretten. Die Autoren mußten zu dem stehen, was sie schrieben, niemand konnte ernsthaft glauben, sie hätten es nur für den großen Preis getan.
+Ein weiterer Aspekt war, daß die Preise klein waren, hier ein Stück Obst, da ein paar Zigaretten. Die Autoren mußten zu dem stehen, was sie schrieben, niemand konnte ernsthaft glauben, sie hätten es nur für den großen Preis getan.
 
 Wenn Menschen zu dem stehen, was sie selbst geschrieben haben, identifizieren sie sich damit und es fällt ihnen schwer, ihren Standpunkt später zu ändern. Das kann auch in weniger dramatischen Umständen praktisch sein: ein Verkäufer, der den Käufer den Vertrag ausfüllen läßt, sieht später weniger Stornierungen. Menschen fühlen sich an einen Vertrag mehr gebunden, wenn sie einen Teil davon eigenhändig geschrieben haben.
 
