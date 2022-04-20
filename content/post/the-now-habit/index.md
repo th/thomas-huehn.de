@@ -58,4 +58,4 @@ Streben Sie dreißig Minuten ununterbrochene, und hochqualitative Arbeit an. Neh
 
 Rückschläge sind unvermeidbar. Nehmen Sie sie wahr. Beobachten Sie sich selbst. Wie waren Ihre Gefühle und Gedanken? Warum sind Sie in alte Muster zurückgefallen? Planen Sie, wie Sie dem künftig entgegenwirken.
 
-Lassen Sie Ziele fallen, die in naher Zukunft weder erreicht, noch begonnen werden können. PLanen Sie um und planen Sie diese zu einem späteren Zeitpunkt ein. Lassen Sie Ziele nicht ohne Möglichkeit voranzukommen auf Ihrem Aufgabenberg.
+Lassen Sie Ziele fallen, die in naher Zukunft weder erreicht, noch begonnen werden können. Planen Sie um und planen Sie diese zu einem späteren Zeitpunkt ein. Lassen Sie Ziele nicht ohne Möglichkeit voranzukommen auf Ihrem Aufgabenberg.

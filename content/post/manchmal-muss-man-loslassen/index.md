@@ -6,7 +6,7 @@ vgwort: 'e4536812a5d5468795ac4f27ff656a0e'
 ---
 Nächsten Monat ist es zwanzig Jahre her, daß ich mein Informatikstudium begonnen hatte. Übriggeblieben außer ein paar Bescheinigungen, einer gedruckten Studien- und Diplomarbeit sowie dem Diplomzeugnis waren aber immer noch ein paar Aktenordner mit Skripten, Übungsblättern, Mitschrieben und so.
 
-In den letzten Jahren bin ich mehrfach umgezogen, und natürlich habe ich jedes Mal ausgemistet. Jedes Mal habe ich auch Studienkram entsorgt. Aber von ein paar wollte ich mich nie trennen.
+In den letzten Jahren bin ich mehrfach umgezogen, und natürlich habe ich jedes Mal ausgemistet. Jedes Mal habe ich auch Studienkram entsorgt. Aber von ein paar Skripten wollte ich mich nie trennen.
 
 Heute war es dann soweit: die letzten Skripten und Mitschriebe sind in der Papiertonne gelandet.
 
