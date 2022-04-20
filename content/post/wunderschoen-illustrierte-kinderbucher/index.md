@@ -19,7 +19,7 @@ Alles habe ich von Hand gemacht, und es hat viel länger gedauert, als ich erwar
 
 Was ist dabei gelernt habe:
 
-* Menschen blockieren Werbung. Auch ich blockiere Werbung. Und da wundere ich mich, wieso die Amazon-Affiliate-Links nicht funktionieren. Bis ist an uBlock Origin dachte. Und dann an Privacy Badger. Und an meinen Pi-Hole.
+* Menschen blockieren Werbung. *Auch ich* blockiere Werbung. Und da wundere ich mich, wieso die Amazon-Affiliate-Links nicht funktionieren. Bis ist an uBlock Origin dachte. Und dann an Privacy Badger. Und an meinen Pi-Hole.
 
   Ich habe das dann so gelöst, daß ich die Titelbilder heruntergeladen und selbst gehostet habe. Nach Amazons Vertragsbestimmungen darf ich höchstens 100 Bilder downloaden. Ich habe 66. Also nichts mit „hunderte Bücher“, wie DanBC schrieb.
 
