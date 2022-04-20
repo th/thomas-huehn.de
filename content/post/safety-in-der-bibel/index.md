@@ -1,7 +1,7 @@
 ---
 title: "Safety in der Bibel"
 date: 2020-07-25
-tags: ['Safety', 'Skurilles', 'Zitat']
+tags: ['Safety', 'Skurriles', 'Zitat']
 ---
 Schon die Bibel kannte Vorschriften zum Schutz von Leib und Leben. Das ist zwar keine funktionale Sicherheit, aber dennoch Safety. Heute würde man sagen „trennende Schutzeinrichtung“.
 
