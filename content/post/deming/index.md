@@ -205,7 +205,7 @@ Im Ergebnis sieht das Muster so wie hier aus: es divergiert schnell, und im allg
 
 Gewöhnliche Fehler und besondere Fehler können mathematisch auseinandergehalten werden. Die Basis für diese Unterscheidung ist die [Qualitätsregelkarte](https://de.wikipedia.org/wiki/Qualit%C3%A4tsregelkarte), auf englisch “control chart” oder zuweilen auch “Shewhart chart” oder “process-behaviour chart”.
 
-![](controlchart.jpg "Die y-Achse zeigt eine kontinuierliche Messung, 0 korrespondiert mit dem Ideal. Es gibt ein “upper control limit” (UCL) und ein “lower control limit” (LCL). Beide sitzen respektive bei +3σ und -3σ.")
+![](controlchart.jpg "Die y-Achse zeigt eine kontinuierliche Messung, „target“ korrespondiert mit dem Ideal. Es gibt ein “upper control limit” (UCL) und ein “lower control limit” (LCL). Beide sitzen respektive bei +3σ und -3σ.")
 
 **UCL und LCL werden aus echten Prozeßdaten errechnet!** Sie sind keine Spezifikationsgrenzen.
 
