@@ -43,7 +43,7 @@ Nun lege ich alles bereit. Der Papierstapel wird auf die Rückseite gedreht.
 
 Die Anleitung der Maschine, wie man das Papier einlegt, finde ich nach wie vor verwirrend.
 
-Am besten legt man den Papierstapel so hin wie gezeigt und führt mit einer Drehbewegung dann jeweils einen kleineren Teilstapel zur Stanzöffnung. Dabei sollte man anfangs mehrfach kontrollieren, daß die Lochstanzung auf der linken Seite (der ungeradzahligen Seitenummern!) erfolgt. Dann stanzt man mit dem hinteren, langen Hebel die Löcher ins Papier.
+Am besten legt man den Papierstapel so hin wie gezeigt und führt mit einer Drehbewegung dann jeweils einen kleineren Teilstapel zur Stanzöffnung. Dabei sollte man anfangs mehrfach kontrollieren, daß die Lochstanzung auf der linken Seite (der ungeradzahligen Seitennummern!) erfolgt. Dann stanzt man mit dem hinteren, langen Hebel die Löcher ins Papier.
 
 Der Drahtkamm kann an einer Metallklappe festgeklemmt werden, so daß er nicht wegrutscht.
 

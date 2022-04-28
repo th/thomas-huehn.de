@@ -177,7 +177,7 @@ Und die Antwort liegt in der folgenden Tabelle:
 
 Kurzer Plausibilitätscheck:
 
-1. Die Wahrscheinlichkeit für null Treffer ist exakt 10 hoch minus 10. Denn als kalibrierter Schätzer liegen Sie in 90% der Fälle richtig, also in zehn Prozent der Fälle falsch. Die Wahrscheinlichkeit, bei alles zehn Fragen falsch zu liegen, lautet also 0,1 × 0,1 × … × 0,1, also 10 hoch minus 10.
+1. Die Wahrscheinlichkeit für null Treffer ist exakt 10 hoch minus 10. Denn als kalibrierter Schätzer liegen Sie in 90% der Fälle richtig, also in zehn Prozent der Fälle falsch. Die Wahrscheinlichkeit, bei allen zehn Fragen falsch zu liegen, lautet also 0,1 × 0,1 × … × 0,1, also 10 hoch minus 10.
 
 2. Die höchste Wahrscheinlichkeit liegt bei neun Treffern, wie erwartet. Doch zehn Treffer sind deutlich wahrscheinlicher als acht Treffer. Wieso? Weil Sie zu 90% korrekt schätzen, irren Sie leichter in Richtung „zu viele Treffer“.
 
@@ -201,7 +201,7 @@ Diese Erwiderung geht in eine ähnliche Richtung, entspringt aber einem Mißvers
 
 Natürlich wäre die Antwort des durchschnittlichen Layouters auf die Frage „hier ist ein Schaltplan, wie muß dieser Kondensator dimensioniert werden?“ genauer.
 
-Bei einer Fachfrage würde ich selbstverständlich ein engeres Intervall erwartet als bei einer Triviafrage.
+Bei einer Fachfrage würde ich selbstverständlich ein engeres Intervall erwarten als bei einer Triviafrage.
 
 Doch die Breite des geschätzten Intervalls wurde überhaupt nicht ausgewertet. An dieser Stelle stutzen viele Teilnehmer und blättern zurück zu ihrer Auswertung. Doch es stimmt. Die Auswertung war binär: Entweder die korrekte Antwort befindet sich im Intervall oder nicht. Es gab keine Bonuspunkte dafür, ein möglichst enges Intervall gewählt zu haben.
 
@@ -229,7 +229,7 @@ Bei den allermeisten Fragen sollten die Intervallgrenzen symmetrisch sein. Das b
 
 Ich halte es für wichtig, meine Schätzungen an eine Konfidenz anpassen zu können. Im Berufsleben ist mir bislang allerdings noch niemals begegnet, daß jemand dies eingefordert hätte.
 
-Meine persönlichen Ergebnisse bei den beiden Prüfungen waren katastrophal. Ich war viel zu selbstbewußt (das bedeutet, meine Intervalle waren deutlich zu eng), und das ist wohl nach Studienlage auch der Regelfall.
+Meine persönlichen Ergebnisse bei den beiden Übungen waren katastrophal. Ich war viel zu selbstbewußt (das bedeutet, meine Intervalle waren deutlich zu eng), und das ist wohl nach Studienlage auch der Regelfall.
 
 Daher habe ich mir vorgenommen, solche Übungen regelmäßig zu wiederholen. Gegebenenfalls werde ich sogar hier im Weblog ab und an diese Versuche dokumentieren.
 

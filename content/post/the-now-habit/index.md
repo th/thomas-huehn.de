@@ -44,7 +44,7 @@ Spielen Sie den schlimmsten Fall durch. Was ist das Schlimmste, was Ihnen passie
 
 Manchmal arbeiten Leute ziemlich gut und produktiv an ihren Aufgabenm aber sie scheinen nie fertig zu werden. Eine fast beendete Aufgabe zu verlängern kostet auch Energie. Stecken Sie diese Energie ins Fertigmachen und ernsten Sie die Belohnung.
 
-Übermäßige Vorbereitung ist auch nur Aufschieben. Begrenzen Sie die Vorbereitung und fangen Sie dann an. Wenn Sie wirklich mehr VOrbereitung benötigen, merken Sie das später noch.
+Übermäßige Vorbereitung ist auch nur Aufschieben. Begrenzen Sie die Vorbereitung und fangen Sie dann an. Wenn Sie wirklich mehr Vorbereitung benötigen, merken Sie das später noch.
 
 Seien Sie von scheinbar fehlendem Fortschritt am Anfang einer Aufgabenbearbeitung nicht entmutigt. Der Anfang ist oft der schwierigste und langwierigste Teil. Die dort aufgewendete Zeit ist nicht verloren, Sie haben nun ein besseres Verständnis für das Problem und Ihre Aufgabe.
 
