@@ -35,6 +35,6 @@ Was ist dabei gelernt habe:
 
 * Buchbeschreibungen sind schwer. Besonders wenn man das Buch nicht physisch vor sich liegen hat. Meine Beschreibungen sind kurz und sprühen nicht unbedingt vor Esprit, aber sie geben eine grobe Richtung an.
 
-* Meine Datenschutzerklärung ist streng formaljuristisch wahrscheinlich noch immer nicht gut genug, obwohl sie wenigstens so geschrieben ist, daß ein Laie sie versteht. Wenn man Affiliate-Links auf eine Webseite streut, dann verspürt man einen gewissen Druck, diese rechtlichen Dinge richtig zu machen. Und ich mag das <details>-Tag in HTML, es ermöglicht das Aufklappen des langen Texts ohne jegliches Javascript.
+* Meine Datenschutzerklärung ist streng formaljuristisch wahrscheinlich noch immer nicht gut genug, obwohl sie wenigstens so geschrieben ist, daß ein Laie sie versteht. Wenn man Affiliate-Links auf eine Webseite streut, dann verspürt man einen gewissen Druck, diese rechtlichen Dinge richtig zu machen. Und ich mag das \<details>-Tag in HTML, es ermöglicht das Aufklappen des langen Texts ohne jegliches Javascript.
 
 DanBC fand meine Seite gut und schlug vor, daß ich sie als “Show HN” an Hacker News submitte. Allerdings sind dort nur Dinge zugelassen, die man im eigentlichen Sinne ausprobieren kann, und eine normale Submission macht wohl auch wenig Sinn, da nicht-englischsprachige Submissions dort keinerlei Stand haben.
