@@ -25,7 +25,7 @@ Was ist dabei gelernt habe:
 
   (Zunächst wollte ich das komplett werbefrei machen, zumal ich ohnehin kaum Einnahmen erwartete, aber all die Verleger anschreiben und um Nutzungsrechte für Titelbilder bitten? Nein danke, dann lieber die harschen Restriktionen von Amazon Partnernet, aber dafür auch Pauschalrechte.)
 
-* Webdesign ist eine Katastrophe. Ich habe das Projekt als Ausrede genommen, ein wenig CSS Grid oder Flexbox zu lernen, bin mit beiden eine ganze Weile gescheitert und habe dann beide kombiniert. Und am Ende mußte ich eine Sonderbehandlung für den Internet Explorer 11 einführen, denn obwohl eigentlich alles alut Dokumentation mit Vendor-Präfixen funktionieren sollte, war das Layout komplett zerschossen und alles lag übereinander. Ich hatte wenig Lust, noch einen weiteren Abend mit IE11 zu verbringen.
+* Webdesign ist eine Katastrophe. Ich habe das Projekt als Ausrede genommen, ein wenig CSS Grid oder Flexbox zu lernen, bin mit beiden eine ganze Weile gescheitert und habe dann beide kombiniert. Und am Ende mußte ich eine Sonderbehandlung für den Internet Explorer 11 einführen, denn obwohl eigentlich alles laut Dokumentation mit Vendor-Präfixen funktionieren sollte, war das Layout komplett zerschossen und alles lag übereinander. Ich hatte wenig Lust, noch einen weiteren Abend mit IE11 zu verbringen.
 
 * Selbst wenn es keine Katastrophe wäre, bin ich kein Designer. Ich wollte die Webseite aber etwas weniger nach dem „Hacker-News-Minimalismus-Klischee“ aussehen lassen. Es ist erstaunlich, wieviel man mit einem einfachen Boxschatten und abgerundeten Ecken erreichen kann!
 
