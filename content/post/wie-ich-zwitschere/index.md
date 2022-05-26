@@ -58,7 +58,7 @@ Wenn ich eine Liste anschaue, dann erhalte ich chronologisch sortiert genau die 
 
 Ich kann sortieren, wie immer ich mag, niemand sieht es, niemand ist beleidigt, weil er auf der „Langweiler, aber manchmal wichtig“-Liste steht.
 
-Ich entscheide, welche Liste ich anschauen möchte. Im Moment sind Formale Methoden etwas aus dem Fokus geraten. Egal, die Liste existiert, sie stört nicht, und wenn das Thema wieder aktuell wird, ist sie vorhanden. Ich entfolge niemanden von dieser Liste, weil der ganze Formale-Methoden-Kram gerade eher nervt. Ich gucke sie einfach nicht an So kann ich Themen ein- und ausblenden.
+Ich entscheide, welche Liste ich anschauen möchte. Im Moment sind Formale Methoden etwas aus dem Fokus geraten. Egal, die Liste existiert, sie stört nicht, und wenn das Thema wieder aktuell wird, ist sie vorhanden. Ich entfolge niemanden von dieser Liste, weil der ganze Formale-Methoden-Kram gerade eher nervt. Ich gucke sie einfach nicht an. So kann ich Themen ein- und ausblenden.
 
 Es bleibt ein Problem: Das User-Interface für Listen ist okay, aber nicht berauschend. Zum Glück hat Twitter noch ein weiteres User-Interface, auch im Web, auch kostenlos (noch – es gibt immer wieder Gerüchte, das solle sich ändern): [Tweetdeck](https://tweetdeck.twitter.com/).
 
