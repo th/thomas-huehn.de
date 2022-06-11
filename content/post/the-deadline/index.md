@@ -32,7 +32,7 @@ Eine interessante Wendung im Buch ist, daß der „Beichtvater“ stets ganz gen
 
 # Risikoverantwortlicher
 
-Risikomanagment ist im Projekt von herausragender Bedeutung. Auch wenn jedes Projektteammitglied die Aufgabe hat, Risiken zu managen, so sollte es doch einen expliziten Risikoverantwortlichen geben. Dieser Risikoverantwortliche muß (mit Unterstützung des Projektteams natürlich) Frühindikatoren für wichtige Risiken identifizieren, lange bevor diese Risiken eintreten, und dann ständig nach ihnen Ausschau halten.
+Risikomanagement ist im Projekt von herausragender Bedeutung. Auch wenn jedes Projektteammitglied die Aufgabe hat, Risiken zu managen, so sollte es doch einen expliziten Risikoverantwortlichen geben. Dieser Risikoverantwortliche muß (mit Unterstützung des Projektteams natürlich) Frühindikatoren für wichtige Risiken identifizieren, lange bevor diese Risiken eintreten, und dann ständig nach ihnen Ausschau halten.
 
 # Gefahren des „das schaffen wir“
 
