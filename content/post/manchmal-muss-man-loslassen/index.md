@@ -16,7 +16,7 @@ Und Schätze waren es fürwahr!
 
 Besonders hing ich an dem Skript zu Syntax (und den Proseminaren Syntax I und II) aus meinem Nebenfach – Computerlinguistik.
 
-Deutsche Grammatik verstehen. In einem Seminar eine gute halbe Stunde nur über die Phrase „jedes dritte Eis“ diskutieren. C-Strukturen und F-Strukturen zeichen. Damals sagte mir „↑PCASE = ↑( ↓PCASE)“ noch etwas. Irgendwann lese ich das nochmal nach. Immerhin weiß ich noch, daß die Pfeile „ups“ und „downs“ ausgesprochen wurden.
+Deutsche Grammatik verstehen. In einem Seminar eine gute halbe Stunde nur über die Phrase „jedes dritte Eis“ diskutieren. C-Strukturen und F-Strukturen zeichnen. Damals sagte mir „↑PCASE = ↑( ↓PCASE)“ noch etwas. Irgendwann lese ich das nochmal nach. Immerhin weiß ich noch, daß die Pfeile „ups“ und „downs“ ausgesprochen wurden.
 
 Jedenfalls war das Nebenfach kuschelig, weil klein. Es hatte eine interessante Besetzung auch in der Studentenschaft, denn etwa die Hälfte der Studenten war eher Typ geisteswissenschaftlicher Öko, die andere Hälfte aber eher Informatik-Nerds.
 
