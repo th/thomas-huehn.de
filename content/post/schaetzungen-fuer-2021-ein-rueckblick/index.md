@@ -129,7 +129,7 @@ Ende vergangenen Jahres habe ich [meine Schätzungen für 2021]({{< relref "scha
 
 - Ich habe mein eigenes Kochbuch zusammengestellt, physisch ausgedruckt und in Verwendung: 70%
 
-  Nein, aber das ich nach wie vor eine gute Idee!
+  Nein, aber das halte ich nach wie vor eine gute Idee!
 
 - Wir backen wieder ein Lebkuchenhaus: 60%
 
