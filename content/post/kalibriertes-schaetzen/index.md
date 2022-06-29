@@ -74,7 +74,7 @@ Sie antworten diesmal also nicht mit einem Intervall, sondern einfach mit „wah
 
 Und außerdem mit Ihrer persönlichen Konfidenz: wie sicher sind Sie sich bei Ihrer Antwort?
 
-Als Konfidenz können 50%, 60%, 70%, 80%, 90% und 100% angegeben werden. Bitte keine 82,7%. Und nicht kleiner als 50%. Wenn Sie geneigt sind, 40% anzugeben, verdrehen Sie Ihre Antwort und geben 60% an.
+Als Konfidenz können 50%, 60%, 70%, 80%, 90% und 100% angegeben werden. Bitte keine 82,7%. Und nicht kleiner als 50%. Wenn Sie geneigt sind, 40% anzugeben, drehen Sie Ihre Antwort um und geben 60% an.
 
 Die Aussagen:
 
@@ -106,7 +106,7 @@ Kommen wir nun zur Auswertung. Zunächst für Teil Eins:
 |In welchem Jahr wurde Macbeth uraufgeführt?|1606|
 |Wie hoch war der Listenpreis des Golf 1 in DM?|7995|
 
-Markieren Sie die Werte, die innerhalb Ihrer Intervalle liegen. Wenn sie bereits ein gut kalibrierter Schätzer sind sollten es etwa neun von diesen zehn sein. Natürlich ist das mit einer statistischen Schwankung versehen, [dazu später nochmal](#signifikanz).
+Markieren Sie die Werte, die innerhalb Ihrer Intervalle liegen. Wenn sie bereits ein gut kalibrierter Schätzer sind sollten es etwa neun von diesen zehn sein. Natürlich ist das mit einer statistischen Schwankung versehen, [dazu später nochmal](#statistische-signifikanz).
 
 Nun zu Teil Zwei:
 
