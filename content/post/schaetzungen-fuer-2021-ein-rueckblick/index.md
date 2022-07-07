@@ -161,7 +161,7 @@ Ende vergangenen Jahres habe ich [meine Schätzungen für 2021]({{< relref "scha
 
   Ja.
 
-  - \[…\]: 10%
+- \[…\]: 10%
 
   Nein.
 
