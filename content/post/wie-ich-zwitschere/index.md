@@ -72,6 +72,6 @@ Und ich habe Keyboard-Shortcuts!
 
 ![Tastaturbedienung bei Tweetdeck](twitter_tweetdeck_shortcuts.png)
 
-Ich kann schnell in bestimmte Spalten springen (jedenfalls die ersten neun und die letzte). Ich kann Details mit einer taste aufrufen, mit einer Taste antworten. So muß das sein!
+Ich kann schnell in bestimmte Spalten springen (jedenfalls die ersten neun und die letzte). Ich kann Details mit einer Taste aufrufen, mit einer Taste antworten. So muß das sein!
 
 Derzeit ist das meine absolut favorisierte Lösung für Twitter. Nach außen sehe ich völlig inaktiv aus, wie ein toter Account. Niemand folgt mir, ich folge auch niemandem. Aber in Wirklichkeit nutze ich Twitter für das, wofür es am besten ist: aus ganz unterschiedlichen Quellen schnell und ohne weiteren Verwaltungsaufwand Informationen bekommen.
