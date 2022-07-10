@@ -79,7 +79,7 @@ Walter Shewhart.
 
 Vieles von dem, wofür Deming bekannt ist, gab es bereits in der ein oder anderen Form bei Shewhart. Was kein Zufall ist, Deming studierte unter Shewhart und arbeitete später mit ihm zusammen. Und am bekanntesten an Shewharts Arbeit ist der Shewhartkreis:
 
-![](shewhartcycle.jpg "Plan – Do – Check – Act. Eine Grundlage des Projektmanagements. Auch PDCA-Kreis genannt, PDCA-Zyklus, Scrum-Sprint oder – Überraschung! – der Deming-Kreis.")
+![](deming-cycle.svg "Plan – Do – Check – Act. Eine Grundlage des Projektmanagements. Auch PDCA-Kreis genannt, PDCA-Zyklus, Scrum-Sprint oder – Überraschung! – der Deming-Kreis.")
 
 Deming selbst nannte dieses Konzept stets „Shewhartkreis“.
 
