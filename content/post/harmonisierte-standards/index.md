@@ -39,9 +39,9 @@ Die rechtliche Funktionsweise dieses Themenkomplexes sieht wie folgt aus:
 
 6. Hier kommt nun [diese Tabelle](http://www.industry-finder.com/download/2006-42-ce-machinery-directive/machinery-harmonized-standards/2013-C-348-02-de.pdf) ins Spiel. Diese sind die Standards, die „unter der Richtlinie harmonisiert“ sind.
    
-   Wenn Sie einen Standard finden, der (teilweise) auf Ihren Anwendungsfall zutrifft (Sie dürfen keinen Standard zur Reaktorsicherheit auf Ihre Spielwaren anwenden…), können Sie die Beweislast von Gesetz und Verordnung zum Standard verschieben (soweit anwendbar).
+   Wenn Sie einen Standard finden, der auf Ihren Anwendungsfall zutrifft (Sie dürfen keinen Standard zur Reaktorsicherheit auf Ihre Spielwaren anwenden…), können Sie die Beweislast von Gesetz und Verordnung zum Standard verschieben (soweit anwendbar).
 
-7. Bislang klingt das nicht sehr aufregend. Sie haben lediglich einen Satz von Anforderungen, für den Sie die Beweislast tragen, durch einen anderen Satz von Anforderungen, für den Sie auch die Beweislast tragen) ersetzt.
+7. Bislang klingt das nicht sehr aufregend. Sie haben lediglich einen Satz von Anforderungen, für den Sie die Beweislast tragen, durch einen anderen Satz von Anforderungen, für den Sie auch die Beweislast tragen, ersetzt.
 
    Der Witz dabei ist, daß diese Standards auf Ihren Anwendungsfall zugeschnitten und damit viel praxistauglicher und handhabbarer sind.
    
