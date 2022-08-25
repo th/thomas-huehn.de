@@ -9,7 +9,7 @@ Wenn man heutzutage Produktenwicklung für den Europäischen Markt betreibt, mu�
 
 Und obwohl Ingenieure diese Anforderungen auf technischer Seite üblicherweise sehr gut beherrschen, kann es manchmal desillusionieren, wenn man sie über ihre Wahrnehmung der rechtlichen Mechanismen sprechen hört.
 
-Die Vorstellung, daß Standards und Normen (beispielsweise der [IEC](https://www.iec.ch/) oder der [ISO](https://www.iso.org/home.html)) an sich bereits rechtliche Verbindlichkeit besitzen, ist erstaunnlich verbreitet. Ebenso glauben viele Ingenieure, EU-Richtlinien seien direkt bindendes Recht.
+Die Vorstellung, daß Standards und Normen (beispielsweise der [IEC](https://www.iec.ch/) oder der [ISO](https://www.iso.org/home.html)) an sich bereits rechtliche Verbindlichkeit besitzen, ist erstaunlich verbreitet. Ebenso glauben viele Ingenieure, EU-Richtlinien seien direkt bindendes Recht.
 
 Aber das ist falsch. Daher möchte ich in groben Zügen skizzieren, wie EU-Richtlinien, nationale Gesetze und Internationale Standards zusammenwirken.
 
