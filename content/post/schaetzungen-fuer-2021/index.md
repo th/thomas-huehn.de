@@ -38,7 +38,8 @@ In [Kalibriertes Schätzen]({{< relref "kalibriertes-schaetzen" >}}) habe ich ge
 * Eine neue Partei kommt in den Bundestag: 10%
 * Es gibt einen Terroranschlag in Deutschland mit mehr als 1000 Toten: 10%
 * Ich ziehe mich während des Jahres noch einmal von Hacker News zurück (ob dauerhaft oder vorübergehend): 30%
-* Ich habe 20 Follower auf Twitter: 10%* Der DAX schließt höher als 2020: 60%
+* Ich habe 20 Follower auf Twitter: 10%
+* Der DAX schließt höher als 2020: 60%
 * Ein Ereignis tritt ein, daß mich unerwartet mindestens 20000 Euro kostet (keine eigenen Entscheidungen wie Autokauf): 5%
 * Ein Ereignis tritt ein, daß mir unerwartet mindestens 20000 Euro einbringt: 5%
 * Ich benutze den Instant Pot noch regelmäßig für Hauptgerichte: 90%
