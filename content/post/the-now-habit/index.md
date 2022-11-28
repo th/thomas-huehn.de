@@ -42,7 +42,7 @@ Kanalisieren Sie ihre Energie in Handlungen, die die Gefahren beseitigen, die si
 
 Spielen Sie den schlimmsten Fall durch. Was ist das Schlimmste, was Ihnen passieren kann? Stellen Sie sich vor, was Sie in dieser Situation tun könnten. Gibt es Alternativen? Gibt es gar auch Vorteile? Wie können Sie die Wahrscheinlichkeit verringern, daß der schlimmste Fall eintritt?
 
-Manchmal arbeiten Leute ziemlich gut und produktiv an ihren Aufgabenm aber sie scheinen nie fertig zu werden. Eine fast beendete Aufgabe zu verlängern kostet auch Energie. Stecken Sie diese Energie ins Fertigmachen und ernsten Sie die Belohnung.
+Manchmal arbeiten Leute ziemlich gut und produktiv an ihren Aufgaben, aber sie scheinen nie fertig zu werden. Eine fast beendete Aufgabe zu verlängern kostet auch Energie. Stecken Sie diese Energie ins Fertigmachen und ernten Sie die Belohnung.
 
 Übermäßige Vorbereitung ist auch nur Aufschieben. Begrenzen Sie die Vorbereitung und fangen Sie dann an. Wenn Sie wirklich mehr Vorbereitung benötigen, merken Sie das später noch.
 

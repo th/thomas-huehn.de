@@ -4,7 +4,7 @@ date: 2022-01-30
 tags: ['Buch', 'Management']
 vgwort: '0e4c30178c404d17976087ce33daa7da'
 ---
-*The Deadline* von Tom DeMarco ist ein wahrer Klassiker der Projektmanagementliteratur. Ich hatte das Buch schon vor längerem gekauft, aber im Regal einstauben lassen, obwohl ich sein Buch Peopleware mochte. Stellt sich heraus, daß das ein Fehler war. Das Einstauben lassen, nicht der Kauf.
+*The Deadline* von Tom DeMarco ist ein wahrer Klassiker der Projektmanagementliteratur. Ich hatte das Buch schon vor längerem gekauft, aber im Regal einstauben lassen, obwohl ich sein Buch Peopleware mochte. Stellt sich heraus, daß das ein Fehler war. Das einstauben lassen, nicht der Kauf.
 
 Es ist ein Softwareprojektmanagementbuch, das sich als Roman verkleidet hat. Und auch wenn es flüssig zu lesen ist, und oftmals auch witzig, so hat es als Roman doch wenig Wert. Aber diese Verpackung macht es deutlich leichter durchzuhalten.
 
@@ -32,7 +32,7 @@ Eine interessante Wendung im Buch ist, daß der „Beichtvater“ stets ganz gen
 
 # Risikoverantwortlicher
 
-Risikomanagment ist im Projekt von herausragender Bedeutung. Auch wenn jedes Projektteammitglied die Aufgabe hat, Risiken zu managen, so sollte es doch einen expliziten Risikoverantwortlichen geben. Dieser Risikoverantwortliche muß (mit Unterstützung des Projektteams natürlich) Frühindikatoren für wichtige Risiken identifizieren, lange bevor diese Risiken eintreten, und dann ständig nach ihnen Ausschau halten.
+Risikomanagement ist im Projekt von herausragender Bedeutung. Auch wenn jedes Projektteammitglied die Aufgabe hat, Risiken zu managen, so sollte es doch einen expliziten Risikoverantwortlichen geben. Dieser Risikoverantwortliche muß (mit Unterstützung des Projektteams natürlich) Frühindikatoren für wichtige Risiken identifizieren, lange bevor diese Risiken eintreten, und dann ständig nach ihnen Ausschau halten.
 
 # Gefahren des „das schaffen wir“
 
