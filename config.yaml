@@ -33,3 +33,14 @@ markup:
     highlight:
         style: bw
         noClasses: false
+
+params:
+    links:
+        - title: "Home"
+          url: "/"
+        - title: "Thomas Hühn"
+          url: "/thomas/"
+        - title: "Datenschutzerklärung"
+          url: "/datenschutzerklaerung/"
+        - title: "Impressum"
+          url: "/impressum/"
