@@ -8,7 +8,7 @@ vgwort: '0e4c30178c404d17976087ce33daa7da'
 
 Es ist ein Softwareprojektmanagementbuch, das sich als Roman verkleidet hat. Und auch wenn es flüssig zu lesen ist, und oftmals auch witzig, so hat es als Roman doch wenig Wert. Aber diese Verpackung macht es deutlich leichter durchzuhalten.
 
-Unser Protagonist ist ein Projektmanager, der kürzlich seinen Arbeitsplatz verloren hat, weil er zu viel Wahrheit ausgesprochen hat. Er wird von einer charmanten jungen Frau entführt, die für ein aufstrebendes früheres Ostblockland, das fiktive Monrovia, und dessen Softwareindustrie Talente „anwirbt“.
+Unser Protagonist ist ein Projektmanager, der kürzlich seinen Arbeitsplatz verloren hat, weil er zu viel Wahrheit ausgesprochen hat. Er wird von einer charmanten jungen Frau entführt, die für ein aufstrebendes früheres Ostblockland, das fiktive Monrovia und dessen Softwareindustrie Talente „anwirbt“.
 
 Monrovia hat jede Menge Softwareentwickler, einige Manager und das Ziel, größter Softwarelieferant der Welt zu werden. Sechs Softwareprodukte sind bereits geplant (allesamt Nachahmungen von Bestsellern wie Photoshop), und nun soll die Vision umgesetzt werden.
 
