@@ -5,7 +5,7 @@ tags: ['Management', 'Psychologie', 'Schätzen']
 vgwort: 'a3bcf092ef634aab871c4ac8e82a8fc8'
 favorite: true
 ---
-# Warum das alles?
+## Warum das alles?
 
 Von uns werden häufig Schätzungen verlangt. Gerade im Projektumfeld möchte der Projektleiter gerne Aufwandsabschätzungen bekommen, die dann auch belastbar sind. Manchmal eine einfache Zahl, häufig aber auch Korridore „best case – average case – worst case“.
 
@@ -27,9 +27,9 @@ Wenn ich in der Regel Schätzungen abgebe, die in Übereinstimmung mit dieser vo
 
 Und darum geht es in diesem Artikel. Wie ermittle ich meinen aktuellen Stand der Kalibrierung und wie kann ich meine Kalibrierung verbessern?
 
-# Übungen
+## Übungen
 
-## Vorbemerkungen
+### Vorbemerkungen
 
 Sollen diese Übungen in einer Gruppe durchgeführt werden, so sind gewisse Grundregeln wichtig:
 
@@ -39,7 +39,7 @@ Sollen diese Übungen in einer Gruppe durchgeführt werden, so sind gewisse Grun
 * Jeder Teilnehmer nimmt seinen Zettel mit Antworten und der Auswertung mit, wenn er den Raum verläßt.
 * Anschließend kann jeder Teilnehmer den Zettel schreddern, in den Papierkorb werfen oder in der Teeküche aushängen, je nach persönlichem Mitteilungsbedürfnis.
 
-## Teil Eins: Intervalle
+### Teil Eins: Intervalle
 
 Es folgen zehn Fragen. Die Antwort auf jede Frage ist eine einzelne Zahl, beispielsweise eine Jahreszahl oder eine Geschwindigkeit.
 
@@ -66,7 +66,7 @@ Hier nun die Fragen:
 * In welchem Jahr wurde Macbeth uraufgeführt?
 * Wie hoch war der Listenpreis des Golf 1 in DM?
 
-# Teil Zwei: Konfidenz
+## Teil Zwei: Konfidenz
 
 Die Übung besteht aus zehn Sachaussagen. Jede ist entweder wahr oder falsch.
 
@@ -89,7 +89,7 @@ Die Aussagen:
 * Hannover hat mehr Stadtteile als Stuttgart.
 * Ein Eishockey-Puck paßt in ein Golfloch.
 
-# Auswertung
+## Auswertung
 
 Kommen wir nun zur Auswertung. Zunächst für Teil Eins:
 
@@ -149,9 +149,9 @@ In diesem Beispiel hätten Sie also mit Ihrer Antwort eigentlich etwa 8 mal rich
 
 Keine Sorge, solche Ergebnisse (und schlechter) sind normal.
 
-# Einschränkungen und Einwände
+## Einschränkungen und Einwände
 
-## Statistische Signifikanz
+### Statistische Signifikanz
 
 Natürlich war das nur ein einzelner Versuch mit zehn Fragen, also eine sehr kleine Stichprobe. „ich hatte sieben Antworten im Intervall, das ist doch innerhalb der statistischen Schwankung“ mag Ihnen auf der Zunge liegen. Doch ist dem so?
 
@@ -189,7 +189,7 @@ Deutlich wird dabei, daß sieben Treffer schon sehr unwahrscheinlich sind, alles
 
 Wenn Sie sich in den Bereichen sieben Treffer und niedriger bewegen, dann ist es unplausibel, daß Sie bereits ein kalibrierter Schätzer sind, trotz der geringen Zahl an Fragen.
 
-## Fragen
+### Fragen
 
 Der nächste Einwand, der üblicherweise kommt, lautet „das waren ja keine Fachfragen, sondern Trivia“ oder „die Fragen waren albern“.
 
@@ -209,7 +209,7 @@ Die Breite des Intervalls spielt natürlich eine Rolle, aber nicht für die Frag
 
 Es handelt sich um keine Trickfragen oder Fangfragen. Aber sie sind so gewählt, daß der Teilnehmer sich gut überlegen muß, wie sicher er sich ist.
 
-# Sich verbessern
+## Sich verbessern
 
 Sehr wenige Menschen sind von Natur aus kalibrierte Schätzer. Die gute Nachricht ist aber: fast alle Menschen können sich durch Übung verbessern (Studien sagen, daß etwa 5% sich nicht verbessern).
 
@@ -225,7 +225,7 @@ Es ist okay, absurd große Intervalle als Startpunkt zu nehmen, sie sind ein Zwi
 
 Bei den allermeisten Fragen sollten die Intervallgrenzen symmetrisch sein. Das bedeutet, wenn Sie ein Intervall von 100 bis 200 mit Konfidenz 90% schätzen, dann sollten Sie den Intervallen „-unendlich bis 200“ sowie „100 bis plus unendlich“ beiden eine Konfidenz von 95% zuschreiben, weil sich die „übrigen“ 10% gleichmäßig auf „darüber“ und „darunter“ verteilen sollten.
 
-# Abschließendes
+## Abschließendes
 
 Ich halte es für wichtig, meine Schätzungen an eine Konfidenz anpassen zu können. Im Berufsleben ist mir bislang allerdings noch niemals begegnet, daß jemand dies eingefordert hätte.
 

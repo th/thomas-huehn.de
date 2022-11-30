@@ -9,7 +9,7 @@ vgwort: '4dceae44298f47c6b351397e39705f0f'
 
 Dieses Dokument hat informativen (d.h. nicht-normativen) Charakter. Obwohl es technischer Natur ist, versucht es, die beinhalteten Konzepte verständlich und auf realistische Situationen anwendbar zu machen. Daher sind einige Aspekte der Thematik im Sinne einer klaren Erläuterung vereinfacht oder weggelassen. Wenn Sie sich für die Einzelheiten des Gebietes interessieren, durchstöbern Sie bitte die [Verweise und weitere Informationen](#verweise-und-weitere-informationen) am Ende.
 
-# Was ist ein Web-Cache? Warum benutzen die Leute welche?
+## Was ist ein Web-Cache? Warum benutzen die Leute welche?
 
 Ein Web-Cache sitzt zwischen einem oder mehreren Webservern (auch Origin-Server genannt) und einem oder vielen Clients. Er sieht Anfragen vorbeikommen und speichert dabei Kopien der Antworten – wie HTML-Seiten, Bilder und Dateien (zusammen auch Repräsentationen genannt) – für sich selbst ab. Dann kann er bei einer anderen Anfrage nach derselben URL die Antwort nutzen, die er bereits hat, anstatt den Origin-Server erneut danach zu fragen.
 
@@ -19,9 +19,9 @@ Es gibt zwei Hauptgründe, weshalb Web-Caches genutzt werden:
 
 * **Um Netzwerkverkehr zu verringern** – Weil Repräsentationen wiederverwendet werden, verringert sich die Bandbreite, die ein Client nutzt. Das spart Geld, wenn der Client für Netzwerkverkehr bezahlt und hält die Bandbreitenanforderungen niedriger und handhabbarer.
 
-# Arten von Web-Caches
+## Arten von Web-Caches
 
-## Browser-Caches
+### Browser-Caches
 
 Wenn Sie den Einstellungsdialog eines modernen Webbrowsers (wie Internet Explorer, Safari oder Mozilla) erkunden, finden Sie wahrscheinlich eine Einstellung für „Cache“. Mit dieser Einstellung können Sie einen Teil der Computerfestplatte zur Seite nehmen, um darin Repräsentationen zu speichern, die Sie bereits gesehen haben. Nur für sich selbst. Der Browser-Cache arbeitet nach ziemlich einfachen Regeln. Er stellt sicher, daß die Repräsentationen „fresh“ sind, üblicherweise einmal pro Sitzung (also einmal pro Aufruf des Webbrowsers).
 
@@ -31,7 +31,7 @@ Anmerkung des Übersetzers: Ich verzichte darauf, „fresh“ als „frisch“ u
 
 Dieser Cache ist besonders nützlich, wenn Benutzer auf den „Zurück“-Button oder auf einen Link zu einer Seite klicken, die sie gerade eben angesehen haben. Und wenn Sie dieselben Bilder zur Navigation auf der gesamten Webpräsenz nutzen, werden sie fast sofort aus den Browsercaches geliefert.
 
-## Proxy-Caches
+### Proxy-Caches
 
 Web-Proxy-Caches arbeiten nach demselben Prinzip, aber in einem viel größeren Rahmen. Proxies bedienen hunderte oder tausende von Benutzern auf dieselbe Art; große Unternehmen und Internetprovider richten sie oft auf ihren Firewalls oder als eigenständige Server ein (auch intermediaries genannt).
 
@@ -39,7 +39,7 @@ Weil Proxy-Caches weder zum Client, noch zum Origin-Server gehören, sondern sic
 
 Proxy-Caches sind eine Form von gemeinsamen Caches; anstatt nur von einer Person benutzt zu werden, haben sie üblicherweise eine große Anzahl von Nutzern, und deswegen sind sie sehr gut darin, Latenzen und Netzwerkverkehr zu reduzieren. Denn beliebte Repräsentationen werden mehrfach wiederverwendet.
 
-## Gateway-Caches
+### Gateway-Caches
 
 Auch als *reverse proxy caches* oder *surrogate caches* bekannt, sind Gateway-Caches ebenfalls intermediaries, doch werden sie üblicherweise nicht von Netzwerkadministratoren eingerichtet, um Bandbreite zu sparen, sondern von Webmastern selbst, um ihre Seite besser skalierbar, zuverlässiger und schneller zu machen.
 
@@ -49,7 +49,7 @@ Content delivery networks (CDNs) verteilen Gateway-Caches über das ganze Intern
 
 Dieses Tutorial konzentriert sich hauptsächlich auf Browser- und Proxy-Caches, obwohl einige der Informationen auch für diejenigen geeignet sind, die sich auch für Gateway-Caches interessieren.
 
-# Sind Web-Caches nicht etwas Schlechtes? Warum sollte ich ihnen behilflich sein?
+## Sind Web-Caches nicht etwas Schlechtes? Warum sollte ich ihnen behilflich sein?
 
 Web-Caching ist eine der am meisten mißverstandenen Techniken im Internet. Besonders Webmaster fürchten, die Kontrolle über ihre Webpräsenz zu verlieren, denn ein Proxy-Cache kann Benutzer vor ihnen „verstecken“, wodurch es schwierig wird festzustellen, wer die Webpräsenz nutzt.
 
@@ -67,7 +67,7 @@ Es ist einfach so, daß Proxy- und Browsercaches genutzt werden, ob Sie es nun m
 CDNs (content delivery networks) sind eine interessante Entwicklung, weil deren Gateway-Caches im Gegensatz zu vielen Proxy-Caches auf die Interessen der Webpräsenz, die gecachet wird, abgestimmt sind, so daß diese Probleme nicht zu sehen sind. Doch selbst wenn Sie ein CDN nutzen, müssen Sie daran denken, daß es „weiter hinten im Netz“ Proxy- und Browsercaches geben wird.
 </aside>
 
-# Wie Web-Caches arbeiten
+## Wie Web-Caches arbeiten
 
 Alle Caches haben eine Sammlung von Regeln, die sie benutzen, um zu bestimmen, wann sie eine Repräsentation aus dem Cache ausliefern, falls sie verfügbar ist. Einige dieser Regeln sind in den Protokollen (HTTP 1.0 und 1.1) festgelegt, andere werden vom Administrator des Cache bestimmt (entweder der Benutzer des Browser-Cache oder der Proxy-Administrator).
 
@@ -91,11 +91,11 @@ Wenn es keinen Validator (einen ETag- oder Last-Modified-Header) bei einer Antwo
 
 Freshness und Validierung sind zusammen die wichtigsten Arten, auf die ein Cache mit Inhalten arbeitet. Eine Repräsentation, die fresh ist, wird sofort aus dem Cache verfügbar sein, wohingegen eine validierte Repräsentation verhindert, daß die gesamte Repräsentation wiederum geschickt werden muß, wenn sie sich nicht geändert hat.
 
-# Wie man Caches steuert (und wie man es nicht tut)
+## Wie man Caches steuert (und wie man es nicht tut)
 
 Es gibt mehrere Werkzeuge, die Webdesigner und Webmaster nutzen können, um einzustellen, wie Caches ihre Webpräsenzen behandeln. Es mag erfordern, daß Sie sich Ihre Hände ein wenig mit der Serverkonfiguration schmutzig machen, aber die Ergebnisse sind es wert. Für Einzelheiten zur Benutzung dieser Werkzeuge mit Ihrem Server, lesen Sie bitte die [Implementierungshinweise](#implementierungshinweise-fuer-webserver) weiter unten.
 
-## HTML-Meta-Tags und HTTP-Header
+### HTML-Meta-Tags und HTTP-Header
 
 HTML-Autoren können in den `<HEAD>`-Abschnitt ihres Dokuments Tags einfügen, die dessen Eigenschaften beschreiben. Diese Meta-Tags werden häufig im Glauben benutzt daß sie ein Dokument als uncachebar oder als nach einer bestimmten Zeit ablaufend markieren können.
 
@@ -119,11 +119,11 @@ Content-Type: text/html
 
 Der HTML-Code würde nun durch eine Leerzeile getrennt auf diese Header folgen. Lesen Sie bitte die [Implementierungshinweise](#implementierungshinweise-fuer-webserver), um zu erfahren, wie Sie diese HTTP-Header setzen können.
 
-## Pragma-HTTP-Header (und warum diese nicht funktionieren)
+### Pragma-HTTP-Header (und warum diese nicht funktionieren)
 
 Viele Leute glauben, daß eine Repräsentation uncachebar gemacht wird, wenn sie ihr einen `Pragma: no-cache`-HTTP-Header zuordnen. Das ist nicht unbedingt richtig; die HTTP-Spezifikation gibt keinerlei Richtlinien zu Pragma-Antwort-Headern vor, stattdessen werden Pragma-Anforderungs-Header besprochen (die Header, die ein Browser an den Server sendet). Auch wenn einige wenige Caches diesen Header beachten mögen, wird die Mehrzahl es nicht tun und der Header hat keine Wirkung. Nutzen Sie stattdessen die folgenden Header.
 
-## Freshness über den Expires-HTTP-Header steuern
+### Freshness über den Expires-HTTP-Header steuern
 
 Der `Expires`-HTTP-Header ist ein grundlegendes Mittel, um Caches zu steuern; er sagt allen Caches, wie lange die zugeordnete Repräsentation *fresh* ist. Nach Ablauf dieser Zeit fragen Caches stets beim Origin-Server nach, ob sich das Dokument geändert hat. `Expires`-Header werden von praktisch jedem Cache unterstützt.
 
@@ -147,7 +147,7 @@ Ein weiteres Problem mit `Expires` ist, daß man leicht vergißt, daß Sie einen
 Es ist wichtig sicherzustellen, daß die Uhr Ihres Webserver richtig geht, wenn Sie den `Expires`-Header verwenden. Eine Möglichkeit, das zu tun, ist, das Network Time Protocol zu verwenden; sprechen Sie mit Ihrem örtlichen Systemadministrator, um mehr zu erfahren.
 </aside>
 
-## Cache-Control-HTTP-Header
+### Cache-Control-HTTP-Header
 
 HTTP 1.1 führte eine neue Klasse von Headern ein, die `Cache-Control`-Antwort-Header, um Webautoren mehr Kontrolle über ihren Inhalt zu geben und um die Beschränkungen von `Expire` anzugehen.
 
@@ -183,7 +183,7 @@ Nützliche `Cache-Control`-Antwort-Header beinhalten:
 
 Wenn sowohl `Cache-Control` als auch `Expires` vorhanden sind, hat `Cache-Control` Vorrang. Wenn Sie vorhaben, die `Cache-Control`-Header einzusetzen, sollten Sie einen Blick in die hervorragende Dokumentation in HTTP 1.1 werfen, siehe [Verweise und weitere Informationen](#verweise-und-weitere-informationen).
 
-## Validatoren und Validierung
+### Validatoren und Validierung
 
 In [Wie Web-Caches arbeiten](#wie-web-caches-arbeiten) hatten wir gesagt, daß Server und Caches die Validierung nutzen, um sich mitzuteilen, wenn eine Repräsentation verändert worden ist. Dadurch vermeiden Caches, daß die gesamte Repräsentation heruntergeladen werden muß, wenn sie zwar bereits eine Kopie lokal vorhalten, sich aber nicht sicher sind, ob diese noch fresh ist.
 
@@ -197,7 +197,7 @@ Nahezu alle Caches nutzen `Last-Modified`-Zeiten, um festzustellen, ob eine Repr
 
 Die meisten modernen Webserver erzeugen sowohl `ETag`-, als auch `Last-Modified`-Header als Validatoren für statische Inhalte (zum Beispiel Dateien) automatisch; Sie müssen dazu nichts tun. Die Server wissen jedoch nicht genug über dynamische Inhalte (wie CGI, ASP oder Datenbankinhalte), um dafür Validatoren generieren zu können; siehe [Cachebewußte Skripte schreiben](#cachebewusste-skripte-schreiben).
 
-# Tipps zum Bau einer cachebewußten Seite
+## Tipps zum Bau einer cachebewußten Seite
 
 Neben Freshness-Informationen und Validierung gibt es eine Reihe weiterer Dinge, die Sie tun können, um Ihre Webpräsenz cache-freundlicher zu gestalten.
 
@@ -219,7 +219,7 @@ Neben Freshness-Informationen und Validierung gibt es eine Reihe weiterer Dinge,
 
 * **Prüfen Sie ihre Seiten mit [REDbot](https://redbot.org/)** – er kann Ihnen helfen, viele der Konzepte aus diesem Tutorial anzuwenden.
 
-# Cachebewußte Skripte schreiben
+## Cachebewußte Skripte schreiben
 
 Standardmäßig liefern die meisten Skripte keinen Validator (einen `Last-Modified-If`– oder `ETag`-Antwort-Header) zurück. Während manche Skripte wirklich dynamisch sind (das bedeutet, daß sie unterschiedliche Antworten auf jede Anfrage liefern), können viele Skripte (wie Suchmaschinen und datenbankbasierte Webpräsenzen) einen Vorteil daraus ziehen, cache-freundlich zu sein.
 
@@ -243,23 +243,23 @@ Einige weitere Tipps:
 
 Siehe auch die [Implementierungshinweise](#implementierungshinweise-fuer-webserver) für spezifischere Informationen.
 
-# Häufig gestellte Fragen
+## Häufig gestellte Fragen
 
-## Welche sind die wichtigsten Dinge, die cachebar gemacht werden sollten?
+### Welche sind die wichtigsten Dinge, die cachebar gemacht werden sollten?
 
 Eine gute Strategie besteht darin, herauszufinden, welches die beliebtesten und größten Repräsentationen sind (besonders Bilder) und mit ihnen zu beginnen.
 
-## Wie kann ich meine Seiten durch Caches so schnell wie möglich machen?
+### Wie kann ich meine Seiten durch Caches so schnell wie möglich machen?
 
 Die am besten cachebaren Repräsentationen sind die, die eine lange Haltbarkeitszeit gesetzt haben. Validierung hilft die Zeit zu verringern, die es dauert, bis man eine Repräsentation sieht, aber der Cache muß noch immer zum Origin-Server Verbindung aufnehmen, um zu sehen, ob sie fresh ist. Wenn der Cache bereits weiß, daß sie fresh ist, wird sie sofort ausgeliefert.
 
-## Ich verstehe, daß Caching eine gute Sache ist, aber ich brauche Statistiken, wie viele Leute meine Seite besuchen!
+### Ich verstehe, daß Caching eine gute Sache ist, aber ich brauche Statistiken, wie viele Leute meine Seite besuchen!
 
 Wenn Sie jedes Mal mitbekommen wollen, wenn auf eine Seite zugegriffen wird, wählen Sie ein kleines Element der Seite (oder die Seite selbst) und machen Sie sie uncachebar, indem Sie die passenden Header vergeben. Beispielsweise könnten Sie von jeder Seite aus auf ein transparentes Ein-Pixel-Bild verlinken. Der Referer Header enthält dann die Information, von welcher Seite aus das Bild aufgerufen worden ist.
 
 Seien Sie sich im Klaren darüber, daß Sie nicht einmal dadurch wirklich genaue Statistiken über Ihre Benutzer erhalten, und es ist unfreundlich zum Internet und zu Ihren Benutzern; es erzeugt unnötigen Netzwerkverkehr und zwingt die Leute, auf das Herunterladen dieses ungecacheten Elements zu warten. Für weitere Informationen zum Thema siehe „On Interpreting Access Statistics“ in den [Verweisen](#verweise-und-weitere-informationen).
 
-## Wie kann ich die HTTP-Header einer Repräsentation ansehen?
+### Wie kann ich die HTTP-Header einer Repräsentation ansehen?
 
 Viele Webbrowser zeigen die Expires- und Last-Modified-Header in einer „Seiteninformation“ oder einer ähnlichen Benutzerschnittstelle an. Falls diese verfügbar ist, bekommen Sie ein Menü von der Seite und etwaiger verknüpfter Repräsentationen (wie Bilder), samt derer Einzelheiten.
 
@@ -276,7 +276,7 @@ Host: www.example.com [return][return]
 
 Drücken Sie die Enter-Taste an jeder Stelle, an der Sie `[return]` sehen; stellen Sie sicher, daß Sie sie am Ende zweimal drücken. Dies wird erst die Header und dann die volle Repräsentation anzeigen. Um nur die Header zu sehen, ersetzen Sie `GET` durch `HEAD`.
 
-## Meine Seiten sind paßwortgeschützt; wie gehen Proxy-Caches mit ihnen um?
+### Meine Seiten sind paßwortgeschützt; wie gehen Proxy-Caches mit ihnen um?
 
 Standardmäßig werden durch HTTP-Authentifizierung geschützte Seiten als privat betrachtet und von gemeinsamen Caches nicht gespeichert. Jedoch können Sie authentifizierte Seiten durch einen `Cache-Control: public`-Header öffentlich machen; Caches, die HTTP 1.1 unterstützen, werden dann zulassen, daß diese Seiten gecachet werden.
 
@@ -288,7 +288,7 @@ Cache-Control: public, no-cache
 
 Ob man es nun so tut oder nicht, es ist am besten, die Benutzung von Authentifizierung zu minimieren. Wenn beispielsweise Ihre Bilder nicht schutzbedürftig sind, legen Sie sie in ein gesondertes Verzeichnis und konfigurieren Sie Ihren Server so, daß er dafür keine Authentifizierung erzwingt. So sind diese Bilder cachebar.
 
-## Sollte ich mir über die Sicherheit Sorgen machen, wenn die Leute über einen Cache auf meine Webpräsenz zugreifen?
+### Sollte ich mir über die Sicherheit Sorgen machen, wenn die Leute über einen Cache auf meine Webpräsenz zugreifen?
 
 SSL-verschlüsselte Seiten werden von Proxy-Caches nicht gecachet (oder entschlüsselt), also müssen Sie sich darum keine Sorgen machen. Weil Caches Nicht-SSL-Anfragen und -URLs speichern, die durch sie abgerufen werden,wäre es jedoch vorstellbar, daß ein skrupelloser Administrator Informationen über die Benutzer sammeln könnte, besonders in der URL.
 
@@ -296,11 +296,11 @@ Tatsächlich könnte jeder Administrator im Netzwerk zwischen Ihrem Server und I
 
 Wenn Sie sich allgemein der Probleme bewußt sind, die es im Bereich Websicherheit gibt, dann sollten Sie keine Überraschungen durch Proxy-Caches erleben.
 
-## Ich suche nach einer integrierten Web-Veröffentlichungs-Lösung. Welche sind cachebewußt?
+### Ich suche nach einer integrierten Web-Veröffentlichungs-Lösung. Welche sind cachebewußt?
 
 Das ist unterschiedlich. Grundsätzlich gesprochen ist es um so schwieriger zu cachen, je komplexer die Lösung ist. Die schlimmsten Lösungen sind diejenigen, die alle Inhalte dynamisch generieren, aber keine Validatoren bereitstellen. Diese sind möglicherweise gar nicht cachebar. Sprechen Sie mit technischen Ansprechpartnern des Herstellers, und lesen Sie die Implementierungshinweise weiter unten.
 
-## Meine Bilder laufen in einem Monat ab, aber ich muß sie jetzt in den Caches verändern!
+### Meine Bilder laufen in einem Monat ab, aber ich muß sie jetzt in den Caches verändern!
 
 Der Expires-Header kann nicht umgangen werden; solange dem Cache (ob Browser oder Proxy) nicht der Speicher ausgeht und er die Repräsentationen löschen muß, wird die gecachete Kopie bis dahin genutzt werden.
 
@@ -308,7 +308,7 @@ Die erfolgversprechendste Lösung besteht darin, jegliche Links zu ihnen zu änd
 
 Wenn Sie eine Repräsentation von einem bestimmten Cache neu laden möchten, können Sie entweder ein neues Laden erzwingen, wenn Sie den Cache nutzen (Firefox setzt einen `Pragma: no-cache`-Anforderungs-Header, wenn Sie Shift gedrückt halten, während Sie „Aktuelle Seite neu laden“ anklicken). Oder Sie können den Cache-Administrator bitten, die Repräsentation über seine Administrationsschnittstelle zu entfernen.
 
-## Ich betreibe einen Webhosting-Dienst. Wie kann ich meine Nutzer cache-freundliche Seiten veröffentlichen lassen?
+### Ich betreibe einen Webhosting-Dienst. Wie kann ich meine Nutzer cache-freundliche Seiten veröffentlichen lassen?
 
 Wenn Sie Apache benutzen, denken Sie darüber nach, .htaccess-Dateien verwenden zu lassen und angemessene Dokumentation bereitzustellen.
 
@@ -316,15 +316,15 @@ Andernfalls können Sie auf jedem virtuellen Server vorbestimmte Bereiche für v
 
 Was auch immer Sie tun können, am besten ist es, wenn Sie als erstes mit Ihren größten Kunden am Caching arbeiten. Die meisten Einsparungen (an Bandbreite und Last auf Ihren Servern) werden von Webpräsenzen mit vielen Zugriffen stammen.
 
-## Ich habe meine Seiten als cachebar markiert, aber mein Webbrowser holt sie bei jeder Anforderung neu. Wie zwinge ich den Cache, Repräsentationen daraus zu speichern?
+### Ich habe meine Seiten als cachebar markiert, aber mein Webbrowser holt sie bei jeder Anforderung neu. Wie zwinge ich den Cache, Repräsentationen daraus zu speichern?
 
 Von Caches wird nicht verlangt, daß sie eine Repräsentation speichern und wiederverwenden, von ihnen wird lediglich verlangt, daß sie sie unter bestimmten Bedingungen nicht speichern oder verwenden. Alle Caches fällen Entscheidungen, welche Repräsentationen sie speichern, anhand derer Größe, Art (z.B. Bild gegenüber HTML), oder wieviel Speicherplatz ihnen noch für lokale Kopien zur Verfügung steht. Ihre Repräsentationen werden möglicherweise nicht als aufhebenswert betrachtet, verglichen mit beliebteren oder größeren Repräsentationen.
 
 Einige Caches erlauben ihren Administratoren zu priorisieren, welche Arten von Repräsentationen gespeichert werden, und manche erlauben es, daß Repräsentationen im Cache „festgenagelt“ werden, so daß sie immer verfügbar sind.
 
-# Implementierungshinweise für Webserver
+## Implementierungshinweise für Webserver
 
-## Apache HTTP Server
+### Apache HTTP Server
 
 [Apache](https://www.apache.org/) verwendet optionale Module, um Header einzufügen. Das betrifft auch `Expires` und `Cache-Control`. Beide Module sind in der Distribution ab Version 1.2 enthalten.
 
@@ -341,14 +341,14 @@ Hier ist eine Beispiel-.htaccess-Datei, die den Gebrauch einiger Header vorführ
 .htaccess-Dateien erlauben es Webautoren, Kommandos zu verwenden, die normalerweise nur in Konfigurationsdateien auftreten. Diese beeinflussen die Inhalte des Verzeichnisses, in denen sie sich befinden, sowie dessen Unterverzeichnisse. Sprechen Sie mit Ihrem Server-Administrator, um herauszufinden, ob sie aktiviert sind.
 
 ```
-### mod_expires aktivieren
+#### mod_expires aktivieren
 ExpiresActive On
-###  .gif's laufen einen Monat nach dem letzten Zugriff ab
+####  .gif's laufen einen Monat nach dem letzten Zugriff ab
 ExpiresByType image/gif A2592000
-### Alles andere läuft einen Tag nach der letzten Änderung ab
-### (hier wird die alternative Syntax verwendet)
+#### Alles andere läuft einen Tag nach der letzten Änderung ab
+#### (hier wird die alternative Syntax verwendet)
 ExpiresDefault "modification plus 1 day"
-### Einen Cache-Control-Header auf index.html anwenden
+#### Einen Cache-Control-Header auf index.html anwenden
 <Files index.html>
 Header append Cache-Control "public, must-revalidate"
 </Files>
@@ -358,7 +358,7 @@ Beachten Sie, daß mod_expires automatisch einen passenden `Cache-Control: max-a
 
 Die Konfiguration von Apache 2 ähnelt sehr der von Apache 1.3, lesen Sie die 2.2er Dokumentation zu [mod_expires](https://httpd.apache.org/docs/2.2/mod/mod_expires.html) und [mod_headers](https://httpd.apache.org/docs/2.2/mod/mod_headers.html) für weitere Informationen.
 
-## Microsoft IIS
+### Microsoft IIS
 
 [Microsofts](https://www.microsoft.com/) Internet Information Server macht es sehr leicht, Header auf einigermaßen flexible Art zu setzen. Beachten Sie, daß dies nur in Version 4 des Servers möglich ist, die nur unter Windows NT Server läuft.
 
@@ -366,13 +366,13 @@ Um Header für einen Bereich einer Webpräsenz zu festzulegen, wählen Sie diese
 
 Lesen Sie den ASP-Abschnitt weiter unten, um Informationen zu erhalten, wie Sie Header in den Active Server Pages setzen können. Es ist auch möglich, Header aus ISAPI -Modulen heraus zu setzen; schauen Sie für Details ins MSDN.
 
-## Netscape/iPlanet Enterprise Server
+### Netscape/iPlanet Enterprise Server
 
 In der Version 3.6 bietet der Enterprise Server keine offensichtliche Möglichkeit, Expires-Header zu setzen. Er hat jedoch Funktionalität aus HTTP 1.1 seit Version 3.0 unterstützt. Das bedeutet, daß HTTP-1.1-Caches (Proxy und Browser) die Cache-Control-Einstellungen, die Sie vornehmen, ausnutzen können.
 
 Um Cache-Control-Header zu nutzen, wählen Sie „Content Management | Cache Control Directives“ im Administrations-Server. Dann wählen Sie das Verzeichnis, in dem Sie die Header setzen wollen, indem Sie den „Resource Picker“ verwenden. Nachdem Sie die Header gesetzt haben, klicken Sie „OK“. Für weitere Informationen schauen Sie ins Handbuch des NES.
 
-# Implementierungshinweise für serverseitiges Skripten
+## Implementierungshinweise für serverseitiges Skripten
 
 Weil der Augenmerk beim serverseitigen Skripten auf dynamischen Inhalten liegt, führt es nicht zu besonders cachebaren Seiten, selbst wenn der Inhalt gecachet werden könnte. Wenn sich Ihr Inhalt häufig ändert, aber nicht bei jedem Seitenbesuch, ziehen Sie in Betracht, einen `Cache-Control: max-age`-Header zu setzen; die meisten Benutzer greifen auf Seiten in relativ kurzer Zeit erneut zu. Beispielsweise müssen Benutzer, wenn sie auf den „Zurück“-Button klicken und keine Validatoren oder Freshness-Information verfügbar sind, warten, bis die Seite vom Server erneut heruntergeladen worden ist, um sie sehen zu können.
 
@@ -380,7 +380,7 @@ Weil der Augenmerk beim serverseitigen Skripten auf dynamischen Inhalten liegt, 
 Denken Sie daran, daß es möglicherweise einfacher ist, HTTP-Header mittels des Webservers zu setzen, als dies in der Skriptsprache zu tun. Versuchen Sie beides.
 </aside>
 
-## CGI
+### CGI
 
 CGI-Skripte sind eine der beliebtesten Arten, Inhalte zu erzeugen. Sie können HTTP-Antwort-Header leicht anhängen, indem Sie sie hinzufügen, bevor Sie den Body senden. Die meisten CGI-Implementierungen verlangen das bereits für den Content-Type-Header von Ihnen. Ein Beispiel in Perl:
 
@@ -389,7 +389,7 @@ CGI-Skripte sind eine der beliebtesten Arten, Inhalte zu erzeugen. Sie können H
 print "Content-type: text/html\n";
 print "Expires: Thu, 29 Oct 1998 17:04:19 GMT\n";
 print "\n";
-### Der Body-Inhalt folgt...
+#### Der Body-Inhalt folgt...
 ```
 
 Weil dies alles reiner Text ist, können Sie die Expires- und andere Zeit-bezogene Header leicht mit eingebauten Funktionen erzeugen. Es ist sogar noch einfacher, wenn sie `Cache-Control: max-age` verwenden.
@@ -408,13 +408,13 @@ HTTP_IF_MODIFIED_SINCE = Fri, 30 Oct 1998 14:19:41 GMT
 
 Beachten Sie auch die [cgi_buffer-Bibliothek](https://github.com/nigelhorne/CGI-Buffer), die sich für Perl- und Python-CGI-Skripte mit einem einzeiligen Include automatisch um ETag-Generierung und -Validation, `Content-Length`-Erzeugung und gzip-Inhaltskodierung kümmert. Die Python-Version kann auch benutzt werden, um damit beliebige CGI-Skripte zu wrappen.
 
-## Server Side Includes
+### Server Side Includes
 
 SSI (oft mit der Dateierweiterung .shtml benutzt) sind eine der ersten Arten gewesen, auf die Webautoren in die Lage versetzt wurden, dynamische Inhalte in Seiten einzufügen. Indem sie besondere Tags in den Seiten benutzten, war eine beschränkte Art von Skripting in HTML möglich.
 
 Die meisten SSI-Implementierungen setzen keine Validatoren und sind damit nicht cachebar. Die Implementierung des Apache erlaubt Benutzern jedoch festzulegen, welche SSI-Dateien gecachet werden können, indem sie die Gruppen-Ausführungsrechte der entsprechenden Dateien setzen und die Anweisung `XbitHack full` verwenden. Für weitere Informationen lesen Sie bitte die [mod_include-Dokumentation](https://httpd.apache.org/docs/current/mod/mod_include.html).
 
-## PHP
+### PHP
 
 PHP ist eine serverseitige Skriptsprache wie SSI, mit der Skripte im HTML-Code einer Webseite eingebettet werden können, nur mit viel mehr Möglichkeiten. PHP kann als CGI-Skript auf jedem beliebigen Webserver (Unix oder Windows) oder als Apache-Modul verwendet werden.
 
@@ -439,7 +439,7 @@ Für weitere Informationen lesen Sie bitte den [Handbucheintrag zu header](https
 
 Schauen Sie sich auch die [cgi_buffer-Bibliothek](https://github.com/nigelhorne/CGI-Buffer) an, die ETag-Generierung und -Validation, `Content-Length`-Erzeugung und gzip-Inhaltskodierung für PHP-Skripte mit einem einzeiligen Include erledigt.
 
-## Cold Fusion
+### Cold Fusion
 
 [Cold Fusion](https://www.adobe.com/products/coldfusion-family.html) von Macromedia ist ein kommerzielles, serverseitiges Skriptsystem mit Unterstützung mehrerer Webserver für Windows, Linux und verschiedenen Linux-Arten.
 
@@ -461,7 +461,7 @@ Sie können auch das `CFHEADER`-Tag verwenden, um `Cache-Control: max-age` und a
 
 Denken Sie daran, daß Webserver-Header in einigen Installationsarten von Cold Fusion (so wie CGI) durchgeschleift werden; prüfen Sie Ihre Installation, ob Sie das ausnutzen können, indem Sie Header im Server setzen, statt in Cold Fusion.
 
-## ASP und ASP.NET
+### ASP und ASP.NET
 
 Active Server Pages, in IIS eingebaut und auch für andere Webserver verfügbar, erlauben Ihnen ebenfalls, HTTP-Header zu setzen. Beispielsweise können Sie die Eigenschaften des Response-Objekts nutzen, um eine Ablaufzeit zu setzen
 
@@ -488,7 +488,7 @@ Wenn Sie HTTP-Header aus ASP heraus setzen, stellen Sie sicher, daß Sie entwede
 
 Schauen Sie für weitere Informationen in die [MSDN-Dokumentation](https://docs.microsoft.com/de-de/aspnet/core/?view=aspnetcore-6.0).
 
-# Verweise und weitere Informationen
+## Verweise und weitere Informationen
 
 * [HTTP-1.1-Spezifikation](http://www.ietf.org/rfc/rfc2616.txt)
 
@@ -510,7 +510,7 @@ Schauen Sie für weitere Informationen in die [MSDN-Dokumentation](https://docs.
 
   Einzeiliger Include in Perl-CGI, Python-CGI und PHP-Skripten, der `ETag`-Erzeugung und -Validation, `Content-Length`-Generierung und gzip-Inhaltskodierung automatisch handhabt — auf korrekte Art. Die Python-Version kann auch als Wrapper um beliebige CGI-Skripte verwendet werden.
 
-# Über dieses Dokument
+## Über dieses Dokument
 
 Dieses Dokument unterliegt dem gemeinsamen Urheberrecht von Mark Nottingham <mnot@pobox.com> (© 1998-2013) für den Inhalt und Thomas Hühn <mail@thomas.huehn.de> (© 2010-2014) für die deutsche Übersetzung. Dieses Werk ist unter einer Creative-Commons-Lizenz, der [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/), lizenziert.
 

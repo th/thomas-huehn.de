@@ -49,7 +49,7 @@ Verfügbare Übersetzungen:
 
 * [Chinesisch](http://matt.might.net/articles/my-sons-killer/translation/chinese/)
 
-# Normal
+## Normal
 
 Abgesehen von schwerer Gelbsucht war Bertrand bei der Geburt normal.
 
@@ -63,7 +63,7 @@ Seine Bewegungen schienen „ruckelig“, wie wir es beschrieben.
 
 Etwas stimmte nicht.
 
-# „Hirnschaden“
+## „Hirnschaden“
 
 Bertrand war acht Monate alt, als wir seine Kinderärztin für Entwicklungsstörungen zum ersten Mal trafen – gleich nach unserem Umzug nach Utah.
 
@@ -73,7 +73,7 @@ Mein Herz setzte einen Moment aus.
 
 Die Kinderärztin vermutete, Bertrand habe einen Hirnschaden, daher setzte sie ein MRT in der folgenden Woche aufs Programm.
 
-# Kein Hirnschaden
+## Kein Hirnschaden
 
 Das MRT zeigte ein anscheinend gesundes, normales Gehirn.
 
@@ -87,7 +87,7 @@ Dies war der erste von Dutzenden Bluttests, die noch folgen würden.
 
 (Inzwischen schicken wir Bertrands „Lieblings“-Blutabnehmern Weihnachtskarten.)
 
-# Das erste Todesurteil
+## Das erste Todesurteil
 
 Die Laborergebnisse zeigten nur eine Anomalie: extrem erhöhtes [Alpha-Fetoprotein](http://de.wikipedia.org/wiki/Alpha-1-Fetoprotein) (AFP), im Vergleich zu dem, was in seinem Alter normal wäre.
 
@@ -99,7 +99,7 @@ A-T ist eine degenerative, tödliche, unheilbare, unbehandelbare Störung.
 
 Meiner Frau und mir hat es das Herz gebrochen.
 
-# Sind Sie miteinander verwandt?
+## Sind Sie miteinander verwandt?
 
 Weil A-T eine autosomal-rezessive Genstörung ist, würde dies nur das erste von vielen Malen sein, an denen meine Frau und ich gefragt wurden:
 
@@ -113,7 +113,7 @@ Nein.
 
 Wir sind *nicht* miteinander verwandt.
 
-# Genetik für Programmierer
+## Genetik für Programmierer
 
 <aside>
 Hinweis: Meine formelle Ausbildung in Biologie beträgt zwei Monate in der High-School. Bitte mailen Sie mir, wenn ich Fehler gemacht haben sollte.
@@ -121,7 +121,7 @@ Hinweis: Meine formelle Ausbildung in Biologie beträgt zwei Monate in der High-
 
 Um zu verstehen, warum uns immer jeder Arzt gefragt hat, ob wir miteinander verwandt sind, und wie unwahrscheinlich Bertrands schlußendliche Diagnose ist, müssen Sie verstehen, wie Gene und Mutationen funktionieren.
 
-## DNS
+### DNS
 
 Ihr Genom enthält die notwendige Information, um Sie zu bauen und zu betreiben.
 
@@ -135,7 +135,7 @@ Wie bei Computern ist es auch im Leben wichtig, wie diese Abfolgen Informationen
 
 Bei Computern könnte eine Abfolge wie 00000100 „an der Stelle addieren“ bedeuten, so daß 000001000 0001 0010 „addiere die Zahl in Register 1 zur Zahl im Register 2“ bedeuten könnte.
 
-## Codons und der genetische Code
+### Codons und der genetische Code
 
 Die meisten Computer laufen mit dem x86-Befehlssatz.
 
@@ -151,7 +151,7 @@ Zum Beispiel bedeutet das Codon TTG „füge ein Leucin ein“.
 
 Mit vier Buchstaben im Alphabet gibt es 43 = 64 mögliche Codons, aber es gibt nur 25 genetische Befehle, weil einige Codons dieselbe Aminosäure und mehrere Codons „Stop“ kodieren.
 
-## Gene
+### Gene
 
 Im menschlichen Genom ist ein Gen eine funktionale Einheit – ein wenig wie der *Code* für eine Prozedur in einem Programm. Jedes ist aus Exons (Codon-Abfolgen, die daran beteiligt sind, das Protein zu beschreiben) und Introns (ignorierte Abfolgen, die in etwa dieselbe Wirkung haben wie Codekommentare) zusammengesetzt.
 
@@ -163,7 +163,7 @@ Mit Ausnahme der Geschlechtschromosomen bei Männern haben Menschen zwei Version
 
 Zwei funktional ähnliche Versionen eines jeden Gens zu besitzen, bringt Redundanz.
 
-## Mutation und Evolution
+### Mutation und Evolution
 
 Die Redundanz der Gene ist ein wichtiger Schutz gegen Mutationen.
 
@@ -173,13 +173,13 @@ Manche Mutationen ändern einen Buchstaben in einen anderen, zum Beispiel T zu A
 
 Dadurch kann sich die Aminosäure ändern, die eingefügt wird, wie bei TTT (Phenylalanin) zu TTA (Leucin), sie muß es aber nicht, wie bei TTA (Leucin) zu TTG (Leucin).
 
-### Stop-Mutationen
+#### Stop-Mutationen
 
 Obschon ungewöhnlich, ist es möglich, daß eine Mutation ein Codon in einen „Stop“-Befehl umwandelt, der den Zusammenbau des Proteins vorzeitig beendet, beispielsweise TCG (Tryptophan) zu TGA (Stop).
 
 Dies nennt man eine Nonsens-Mutation, weil das entstehende Protein selten dazu fähig ist, die Aufgabe des Originals zu erfüllen.
 
-### Frame-Shift-Mutationen
+#### Frame-Shift-Mutationen
 
 Manche Mutationen fügen eine beliebige Zahl von Buchstaben ein oder löschen sie. Wenn die Zahl der Veränderungen durch drei teilbar ist, können die Codons nach der Einfügung oder Löschung weiterhin richtig gelesen werden; dies nennt man eine In-Frame-Mutation.
 
@@ -191,7 +191,7 @@ Wenn die Zahl der veränderten Buchstaben *nicht* glatt durch drei teilbar ist, 
 
 In den meisten Fällen wird das entstandene Protein um so funktionsfähiger sein, je weiter hinten im Gen die Mutation auftritt. (Doch, wie wir schließlich bei Bertrand gesehen haben, zerstört selbst eine Frame-Shift-Mutation ganz am Ende des Gens manchmal das entstehende Protein.)
 
-### Was passiert dann?
+#### Was passiert dann?
 
 Wenn eine Mutation auftritt, gibt es für ihren Träger vier Möglichkeiten:
 
@@ -203,7 +203,7 @@ Wenn eine Mutation auftritt, gibt es für ihren Träger vier Möglichkeiten:
 
 4. Evolution. Wenn das mutierte Gen eine bessere, effektivere Version des Proteins herstellt, ist das resultierende Individuum „fitter“. Die Wahrscheinlichkeit für Überleben und Vermehrung steigt.
 
-## Autosomal-rezessive Störungen
+### Autosomal-rezessive Störungen
 
 Autosomal-rezessive Störungen wie A-T geschehen, wenn ansonsten harmlose (aber nicht-funktionierende) mutierte Gene aufeinander treffen.
 
@@ -217,7 +217,7 @@ Doch Cristina und ich sind (nachweislich) nicht miteinander verwandt.
 
 Dennoch leidet Bertrand an einer autosomal-rezessiven Störung.
 
-# Untreuevorwürfe
+## Untreuevorwürfe
 
 Es war nicht hilfreich, daß Bertrand Cristina viel ähnlicher sieht als mir.
 
@@ -225,7 +225,7 @@ Nach überzeugten Versicherungen, daß wir nicht miteinander verwandt sind, fand
 
 Dem ist nicht so.
 
-# In die leere Menge
+## In die leere Menge
 
 Als der Schock der A-T-Diagnose sich gelegt hatte, begannen wir nachzuforschen.
 
@@ -239,7 +239,7 @@ Mit zehn Monaten hatte die Schnittmenge seiner Symptome Bertrand in die leere Me
 
 Mit jeder neuen Erkenntnis wurde die leere Menge nur immer noch leerer.
 
-# Gib dein bestes
+## Gib dein bestes
 
 Kleine Erkenntnisse ergaben sich die nächsten paar Monate immer wieder.
 
@@ -255,7 +255,7 @@ Die sonderbare Natur von Bertrands Fall zog die Aufmerksamkeit von Spezialisten 
 
 Keiner hatte Erfolg.
 
-# Das nächste Todesurteil
+## Das nächste Todesurteil
 
 Mit etwa 15 Monaten folgte der nächste große Fund.
 
@@ -287,7 +287,7 @@ Wir wußten nicht, welche er davon hatte, aber diese (ultraseltenen) Störungen 
 * Sandhoff-Krankheit
 * Sialidose
 
-# Optionen
+## Optionen
 
 Mit Ausnahme von mitochondrialen Störungen werden diese Krankheiten tendentiell durch die Unfähigkeit verursacht, ein Enzym herzustellen, das für einen Teil des Zellstoffwechsels notwendig ist.
 
@@ -301,7 +301,7 @@ Doch in den meisten Fällen weiß die Menschheit nicht, wie man das Enzym synthe
 
 Deshalb ist eine [Knochenmarktransplantation](http://www.dkms.de/) die einzige Chance, das Enzym zu verteilen.
 
-# Die Erschaffung einer Chimäre
+## Die Erschaffung einer Chimäre
 
 Bei einer Knochenmarktransplantation wird das Knochenmark, das Stammzellen produziert, abgetötet (übrigens zusammen mit dem größten restlichen Teil des Patienten) und (hauptsächlich) durch stammzellproduzierendes Knochenmark eines Spenders ersetzt.
 
@@ -311,7 +311,7 @@ Wenn sich die Spender-Stammzellen ausbreiten, wird der Empfänger zu einer küns
 
 Wenn die Spenderzellen das fehlende Enzym herstellen, kann das genug sein, damit der Körper normal, oder zumindest besser funktioniert.
 
-# Duke
+## Duke
 
 Innerhalb von Wochen nach dem Oligosaccharide-Fund hatten wir mit Bluttests begonnen, um einzugrenzen, welche genaue Störung (und welches fehlende Enzym) vorlag.
 
@@ -323,7 +323,7 @@ Also trafen wir uns mit den Genetikern [Dr. Vandana Shashi](http://www.dukemedic
 
 Wir arbeiten seitdem mit den beiden und ihrem Team.
 
-# Epilepsie und Verlust weißer Substanz
+## Epilepsie und Verlust weißer Substanz
 
 An der Duke führte das Neurologenteam ein EEG und ein weiteres MRT durch.
 
@@ -337,13 +337,13 @@ Sein Gehirn verlor (oder baute zumindest nicht auf) weiße Substanz (oder funkti
 
 Dieser Befund paßte zu [Leukodystrophie](http://de.wikipedia.org/wiki/Leukodystrophie) – die oft durch angeborene Fehler des Zellstoffwechsels verursacht wird.
 
-# Keine weiteren Optionen
+## Keine weiteren Optionen
 
 Bevor wir die Duke verließen, sagte uns Dr. Kurtzberg offen, aber voll Mitgefühl, daß Bertrands Störung, um welche auch immer es sich handele, zu weit fortgeschritten sei, als daß ihm eine Knochenmarktransplantation noch helfen könnte.
 
 Wir waren am Boden zerstört.
 
-# Konzentration auf die Behandlung
+## Konzentration auf die Behandlung
 
 Nach der Duke verlagerten wir einen Teil der Energie von der Diagnose auf die Behandlung.
 
@@ -355,7 +355,7 @@ Innerhalb einiger Monate begann er tonische Anfälle mit langdauernden und schme
 
 Bertrand fing an, Keppra zu nehmen, ein oft verschriebenes Epilepsie-Medikament.
 
-# Ketogene Diät
+## Ketogene Diät
 
 Als Keppra nur teilweise dabei erfolgreich war, seine Epilepsie in den Griff zu bekommen, versuchten wir ketogene Diät.
 
@@ -369,7 +369,7 @@ Auf der Diät verschwanden Bertrands Fall-Anfälle annähernd vollständig, und 
 
 Doch als die tonischen Anfälle einsetzten, begannen wir, nach weiteren Möglichkeiten zu suchen.
 
-# Keine Tränen
+## Keine Tränen
 
 Manchmal ist ein Symptom zu offensichtlich, um es zu bemerken.
 
@@ -383,7 +383,7 @@ Eine kurze Suche nach „Alacrima“ führte zum [Allgrove-Syndrom](http://en.wi
 
 Inzwischen hatten wir auf alle bekannten angeborenen Fehler der Zellstoffwechsels getestet und alle ausgeschlossen. Daher folgten wir eifrig dieser Spur.
 
-# Am NIH
+## Am NIH
 
 Cristina kontaktierte den Allgrove-Spezialisten [Dr. Stratakis](http://segen.nichd.nih.gov/stratakis.html) am NIH, der amerikanischen Gesundheitsbehörde.
 
@@ -397,7 +397,7 @@ Die Expertenkommission am NIH folgerte schließlich, daß Bertrand unter dem [Re
 
 Obwohl er phänotypisch dem Rett-Syndrom ähnelte, ergaben weitere Tests, daß er an keiner der beiden Störungen leidet.
 
-# Die nukleare Option: ACTH
+## Die nukleare Option: ACTH
 
 Weil Bertrands schmerzhafte tonische Anfälle häufiger und heftiger wurden, versuchten wir verzweifelt, sie zu stoppen.
 
@@ -419,7 +419,7 @@ Stellen Sie sich vor, mit zwei Jahren in Höchstgeschwindigkeit durch die Pubert
 
 Aber die Anfälle waren weg.
 
-# Nahtoderfahrung
+## Nahtoderfahrung
 
 Das Ende sowohl von ACTH als auch der ketogenen Diät kam plötzlich.
 
@@ -437,7 +437,7 @@ Um ihn zu retten, setzten wir sowohl ACTH als auch die ketogene Diät ab, und er
 
 Er sah aus wie die Borg.
 
-# Lachen
+## Lachen
 
 Am Morgen, nachdem Bertrand von ACTH und der ketogenen Diät heruntergenommen worden war, hörten wir etwas, das wir zuvor noch nicht gehört hatten: Lachen.
 
@@ -449,7 +449,7 @@ Es war das direkteste Anzeichen für Bertrands Menschlichkeit, das wir jemals ge
 
 Cristina war in Tränen aufgelöst.
 
-# Im Auge des Sturms
+## Im Auge des Sturms
 
 Nachdem Bertrands sich erholt hatte, blieben seine Anfälle fast zwei Monate weg.
 
@@ -461,7 +461,7 @@ Für Cristina und mich waren dies die besten zwei Monate unseres Lebens.
 
 **Video:** Zwei Monate nach ACTH lacht Bertrand zu Spielfilmen.
 
-# Die Anfälle kehren zurück
+## Die Anfälle kehren zurück
 
 Die myoklonischen Anfälle kehrten schließlich zurück, doch die atonischen sowie die tonischen Anfälle und die Absencen taten dies nicht.
 
@@ -469,7 +469,7 @@ Die myoklonischen Anfälle wurden schwächer, als wir Lamotrigin zu seiner Medik
 
 Unsere Mission, eine Diagnose zu finden, ging weiter.
 
-# Leberfibrose
+## Leberfibrose
 
 Da Bertrands Leberwerte beständig erhöht blieben, stimmten wir einer Leberbiopsie zu, während er im Krankenhaus war.
 
@@ -481,7 +481,7 @@ Sein Gastroenterologe sagte voraus, daß seine Leber schließlich eine Zirrhose 
 
 Er empfahl Ursodiol, also versuchten wir es.
 
-# Herzprobleme: Long-QT-Syndrom
+## Herzprobleme: Long-QT-Syndrom
 
 Während Bertrands Krankenhausaufenthalts deckte ein [Elektrokardiogramm](http://de.wikipedia.org/wiki/Elektrokardiogramm) das Long-QT-Syndrom auf.
 
@@ -493,7 +493,7 @@ Für kurze Zeit untersuchten wir angeborene Kanalopathien als mögliche Ursache 
 
 Während dieser Zeit schien es ein düsteres Wettrennen zwischen Bertrands Gehirn, Herz und Leber zu geben, wer ihn töten würde.
 
-# Eine gefährliche Hypothese
+## Eine gefährliche Hypothese
 
 Nachdem fast alle Wege zu einer Diagnose erschöpft waren, hatten Cristina und ich Hypothesen zu Bertrands Zustand ausgearbeitet.
 
@@ -507,7 +507,7 @@ Wir lagen falsch.
 
 Aber für den Fall, daß Bertrand eine neuartige Mutation hatte, schmiedeten wir einen Plan, diese zu finden.
 
-# Abendessen mit einem Genetiker
+## Abendessen mit einem Genetiker
 
 Ich schaffte es, ein Abendessen mit dem Genetiker [Dr. Lynn Jorde](http://medicine.utah.edu/faculty/mddetail.php?facultyID=u0030694) von der University of Utah zu bekommen.
 
@@ -519,7 +519,7 @@ Wenn wir diese drei Sequenzen hätten, könnten wir mutmaßlich die wenigen Muta
 
 Doch das ist leichter gesagt als getan, und selbst, wenn es getan ist, ist es immer noch nicht sonderlich leicht.
 
-# Fehlerraten bei der Sequenzierung
+## Fehlerraten bei der Sequenzierung
 
 Dieser Sequenzierungsvorgang hat eine Fehlerrate.
 
@@ -533,7 +533,7 @@ Bei Tisch schätzte ich, daß es etwa 500000 Dollar kosten würde, um ein vernü
 
 Dr. Jorde nickte entschuldigend.
 
-# Und was dann?
+## Und was dann?
 
 Aber angenommen wir fänden die Mutationen, was dann?
 
@@ -541,7 +541,7 @@ Wir müßten jede einzelne untersuchen, um herauszufinden, wie sie die Proteinhe
 
 Aber *theoretisch* wäre es möglich.
 
-# Eine Gelegenheit: Exom-Sequenzierung
+## Eine Gelegenheit: Exom-Sequenzierung
 
 Die ganze Zeit über waren Dr. Shashi und Kelly Schoch an der Duke mit uns in Verbindung geblieben und arbeiteten mit uns daran, Hypothesen zu testen.
 
@@ -561,7 +561,7 @@ Falls die Mutation in Bertrands Exom aufträte, würden wir sie finden können.
 
 Bertrand und elf andere Kinder mit undiagnostizierten Krankheiten nahmen an einer Pilotstudie an der Duke teil.
 
-# Zwei Kugeln ausgewichen
+## Zwei Kugeln ausgewichen
 
 Nachdem wir Bertrands Leber mit Ursodiol behandelten und Anzeichen für Leberversagen fest im Blick behielten, sahen wir eine stetige Verbesserung,
 
@@ -573,7 +573,7 @@ Wiederholtes Testen seines Herzens ließ seinen Kardiologen zu dem Schluß komme
 
 In Bertrands Fall stellte sich Erythromycin, womit seine Infektion im Krankenhaus bekämpft worden war, als Ursache seines Long-QT heraus.
 
-# Hornhauterosion
+## Hornhauterosion
 
 Direkt nachdem er von Long-QT und Leberversagen geheilt war, bekam Bertrand immer wieder schwere Augeninfektionen.
 
@@ -589,7 +589,7 @@ Seit wir damit begonnen haben, haben sich seine Augen verbessert, aber wenn wir 
 
 Bertrand kann nicht länger als ein paar Stunden ohne ausgebildeten und vertrauenswürdigen Pfleger auskommen.
 
-# Schwangerschaft
+## Schwangerschaft
 
 Etwa einen Monat, nachdem das Exom-Experiment an der Duke begonnen hatte, wurde Cristina mit unserem zweiten Kind schwanger.
 
@@ -599,7 +599,7 @@ Wir beschlossen, daß wir diese Information nicht dazu verwenden würden, den Ve
 
 (Der Prüfplan der Ethikkommission schrieb vor, daß schwangere Familien vom Experiment ausgeschlossen waren, eben aufgrund dieser heiklen ethischen Frage.)
 
-# Stammzellen
+## Stammzellen
 
 Während das Experiment lief, behandelten wir Bertrands Epilepsie weiterhin.
 
@@ -619,7 +619,7 @@ Unsere Überlegung war, daß diese Stammzellen damit anfangen könnten, bei der 
 
 Selbst wenn sie das Enzym nicht herstellen würden, bestand Grund zur Hoffnung, daß der Verlust weißer Substanz im Gehirn zeitweise gestoppt oder umgekehrt würde.
 
-# In der Cleveland Clinic
+## In der Cleveland Clinic
 
 Wegen des multifokalen Charakters von Bertrands Epilepsie war uns gesagt worden, daß eine Operation nicht möglich sei.
 
@@ -631,7 +631,7 @@ Doch das MRT an der Cleveland zeigte etwas überwältigendes: der Verlust weiße
 
 Für sich genommen ist das nicht genug, um sagen zu können, daß die Stammzellinfusion gewirkt hatte, aber es ist ermutigend und deutet darauf hin, daß weitere Forschung zu Stammzelltherapie angebracht ist.
 
-# Die erste Mutation
+## Die erste Mutation
 
 Als Bertrand dreieinhalb war, eine Woche bevor Bertrands Schwester Victoria geboren wurde, erhielten wir einen Anruf von Dr. Shahis Team an der Duke.
 
@@ -651,7 +651,7 @@ Wir waren überglücklich.
 
 Doch das Team an der Duke lag falsch.
 
-# Die falsche Mutation
+## Die falsche Mutation
 
 Die Testergebnisse für Cristinas Eltern kamen, nachdem Victoria geboren worden war.
 
@@ -659,7 +659,7 @@ Cristinas Vater hatte dieselbe Mutation in seinem X-Chromosom.
 
 Selbst wenn diese mit dem X-Chromosom zusammenhängende Mutation unter der Kontroll-Datenbank von über tausend Genomen einzigartig war, und sie ein Protein beeinflusste, das einige von Bertrands Symptomen plausibel hätte erklären können, schloß die Tatsache, daß Cristinas Vater „normal“ war, ihre Schuld aus.
 
-# Vitaminmangel
+## Vitaminmangel
 
 Manchmal scheint eine Lösung fast zu einfach, um sie zu probieren.
 
@@ -675,7 +675,7 @@ Seitdem ist Bertrand in der Lage, Tränen zu vergießen – nicht viele – aber
 
 Aufgrund der Hornhautvernarbung blinzelt er leider nicht mehr, daher braucht er weiterhin häufiges Salben und Befeuchten – aber viel weniger als zuvor.
 
-# Diagnose: N-Glykanase-1-Mangel
+## Diagnose: N-Glykanase-1-Mangel
 
 Mit viereinhalb Jahren erhielten wir den Anruf von der Duke.
 
@@ -697,7 +697,7 @@ N-Glykanase 1 spielt eine wichtige Rolle bei der Deglykosylierung falsch gefalte
 
 Bertrands Zellen scheinen falsch gefaltete Glykoproteine anzusammeln.
 
-# Die Wahrscheinlichkeiten
+## Die Wahrscheinlichkeiten
 
 Es lohnt sich, die Wahrscheinlichkeit dieser Diagnose zu betrachten.
 
@@ -715,7 +715,7 @@ Sie hat keine.
 
 ![](v-pushing-small-a802a347.jpg "Mit nicht einmal einem Jahr schiebt Victoria Bertrand zur Haltestelle für den Schulbus.")
 
-# Neue Optionen
+## Neue Optionen
 
 In Zusammenarbeit mit Cristinas Vater [Dr. Manuel Casanova](http://en.wikipedia.org/wiki/Manuel_Casanova) und unserer Freundin Dr. Karen Ho haben wir damit begonnen, die biologischen Folgen von N-Glykanase-1-Mangel zu untersuchen.
 
@@ -727,7 +727,7 @@ Dr. Casanova konzentriert sich auf Medikamente, die in der Lage sein könnten, m
 
 Nach einem Treffen mit einem Forscher in Toronto, hat sich Dr. Casanova auf [Gentamicin](http://de.wikipedia.org/wiki/Gentamicin) als vielversprechenden Kandidaten festegelegt, weil es in dieser Eigenschaft bereits dazu benutzt wird, bestimmte Formen von Mukoviszidose zu behandeln.
 
-# N-Glykanase synthetisieren
+## N-Glykanase synthetisieren
 
 Doch ein paar Tage nach unseren Treffen an der Duke traf Cristina mit ihren Forschungen den Jackpot: ohne daß das Team an der Duke oder unser Team in Salt Lake davon wußten, kann eine Variante von N-Glykanase 1 bereits synthetisiert werden.
 
@@ -737,7 +737,7 @@ Seine deglykosylierende Eigenschaft ist im Laborumfeld nützlich, und wir Mensch
 
 Man kann ein [Los für 244 Dollar bestellen](http://www.prozyme.com/product_details.html?key=GKE-5006A).
 
-# Die nächsten Schritte
+## Die nächsten Schritte
 
 Leider können wir nicht einfach ein Los bestellen und Bertrand injizieren.
 
@@ -753,7 +753,7 @@ Aber Bertrands Leben steht auf dem Spiel
 
 Und daher werden wir genau das tun.
 
-# Nachwort
+## Nachwort
 
 In dem[ düsteren Blogeintrag vor drei Jahren, in dem wir die Entdeckung von Oligosacchariden bekanntgegeben haben](http://overcomingmovementdisorder.blogspot.com/2009/03/bad-news.html), haben wir mit einem Versprechen an Bertrand geschlossen:
 

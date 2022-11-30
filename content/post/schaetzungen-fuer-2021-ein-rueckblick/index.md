@@ -6,7 +6,7 @@ vgwort: 'ca053dc3dbf54bdba87f6428dd394ff2'
 ---
 Ende vergangenen Jahres habe ich [meine Schätzungen für 2021]({{< relref "schaetzungen-fuer-2021" >}}) veröffentlicht. Es wird Zeit, diese Revue passieren zu lassen.
 
-# Rückblick
+## Rückblick
 
 - Die Werbeeinnahmen auf www.schoene-kinderbuecher.de decken die Hostingkosten (abgeschätzt mit 30 Euro im Jahr): 60%
 
@@ -181,7 +181,7 @@ Ende vergangenen Jahres habe ich [meine Schätzungen für 2021]({{< relref "scha
 
   Nein.
 
-# Auswertung
+## Auswertung
 
 Wie in [Kalibriertes Schätzen](https://www.thomas-huehn.de/2020/10/kalibriertes-schaetzen/) beschrieben: die Prozentzielmarken in Dezimalzahlen umwandeln und aufaddieren. Dann mit der Anzahl der eingetretenen Aussagen vergleichen.
 

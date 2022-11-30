@@ -5,7 +5,7 @@ tags: ['Qualität', 'Systeme']
 vgwort: '2fc2b565905949e996ed5fee3f6ba071'
 favorite: true
 ---
-# Einführung
+## Einführung
 
 Manchmal auch „Vater des Qualitätswesens“ genannt, prägte [William Edwards Deming](https://de.wikipedia.org/wiki/William_Edwards_Deming) das Feld im 20. Jahrhundert.
 
@@ -19,7 +19,7 @@ Deming schrieb mehrere Bücher, die bekanntesten sind wohl “The New Economics 
 
 Vieles in diesen Büchern ist politisch. Er schreibt über Amerika in der Welt. Die Themen wechseln, es geht um Managerethik, aber auch um die Post. Vieles ist nicht gut gealtert, beispielsweise wenn er sich verächtlich darüber äußert, daß die Regierung so ein wunderbares Monopol wie Bell Telephone zerschlagen hat. Anderes wirkt wahllos, wie beispielsweise mehrere Absätze über den Zusammenhang von Zeugnisnoten und Schlägen für Kinder. Zumindest in “New Economics“ scheinen die ersten Kapitel eher „was ich schon immer mal sagen wollte“ zu sein. Glücklicherweise kommt der Leser zum inhaltlichen Teil, sobald er die ersten paar Kapitel überstanden hat.
 
-# Deming und Systeme
+## Deming und Systeme
 
 Ein Eckpfeiler seiner Managementphilosophie lautet, daß das Problem nicht die Menschen selbst sind.
 
@@ -43,7 +43,7 @@ Das bedeutet nicht, daß Menschen unwichtig seien, Deming glaubt im in Wirklichk
 
 Aber das wichtigste, was man aus diesem Experiment mitnimmt, ist folgendes: **Systeme sind wichtig.**
 
-# Demings Bedeutung
+## Demings Bedeutung
 
 Deming versuchte, seinen Ideen in Amerika in die Praxis umzusetzen, aber er wurde von amerikanischen Industriellen weitgehend ignoriert. Das ist nicht sonderlich überraschend, wenn man sich die Zeit vergegenwärtigt, besonders kurz nach dem Zweiten Weltkrieg: Amerika war der Herrscher der Welt. Europa lag in Schutt und Asche, teilweise rauchte es noch. China war noch lange nicht der High-Tech-Lieferant, das es heute ist, sondern ein armes Agrarland. Das Akronym BRIC war noch nicht einmal erfunden, und von „Tigerstaaten“ hat noch niemand gesprochen.
 
@@ -71,7 +71,7 @@ Aber seine Schüler taten es.
 
 All dies fand hauptsächlich von den Fünfzigern bis in die Achtziger statt. Auf breite Anerkennung in Amerika mußte Deming aber noch bis viel später – kurz vor seinem Tod – warten.
 
-# Der Demingkreis
+## Der Demingkreis
 
 Diese Japaner kamen nach ihm, aber auf wessen Schultern stand Deming?
 
@@ -99,7 +99,7 @@ Dieses letzte Zitat ist leicht miszuverstehen. Deming sagt nicht „fertigen Sie
 
 Was sonst sollen Sie tun?
 
-# Statistische Prozeßlenkung
+## Statistische Prozeßlenkung
 
 Der Produktionsprozeß kann anhand einer Produktionsfunktion P(μ,σ) modelliert werden, die annähernd normalverteilt ist, mit μ als Erwartungswert und σ als Standardabweichung.
 
@@ -137,7 +137,7 @@ Was bedeutet „den Prozeß zentrieren“? Zunächst bedeutet es, die Produktion
 
 Die Standardabweichung zu verringern dreht sich eher um Instandhaltung und Wartung. Muß die Maschine mal wieder geölt werden? Gibt es defekte Teile, die ersetzt werden sollten? Aber auch hier spielt die Bedienung eine Rolle. Ein Maschinenführer mag die Maschine anders bedienen als ein anderer. Es ist wichtig, eine offizielle Art der Bedienung festgelegt zu haben und seine Arbeiter richtig zu schulen, wenn eine geringe Standardabweichung herauskommen soll.
 
-# Fehlerarten
+## Fehlerarten
 
 Lassen Sie uns über Fehler sprechen. Es gibt zwei grundlegend verschiedene Kategorien von Fehlern, und Deming ist unnachgiebig, wenn es darum geht herauszufinden, zu welcher Kategorie ein beobachteter Fehler gehört: es gibt **besondere Fehler** (“special causes of variation”) und **gewöhnliche Fehler** (“common causes of variation”).
 
@@ -169,7 +169,7 @@ Ja, wirklich. Sie behandeln gewöhnliche Fehler alle auf einmal, indem Sie den P
 
 Aber was passiert, wenn Sie einen gewöhnlichen Fehler für sich allein behandeln? Gut, daß Sie fragen, denn jetzt kann ich Ihnen etwas über Demings zweites berühmtes Experiment erzählen, das Trichterexperiment.
 
-# Das Trichterexperiment
+## Das Trichterexperiment
 
 Im Trichterexperiment legte Deming ein Blatt Papier auf den Tisch, markierte einen Punkt in der Mitte als Ziel (nennen wir ihn Z) und hielt einen Trichter etwas über den Zielpunkt. Dann warf er eine Kugel durch den Trichter und markierte, wo die Kugel aufs Papier gefallen war. Üblicherweise war das nicht genau der Zielpunkt, sondern knapp daneben, nennen wir diesen Punkt T.
 
@@ -201,7 +201,7 @@ Die vierte Strategie sieht ähnlich wild aus. Deming zielte einfach immer auf de
 
 Im Ergebnis sieht das Muster so wie hier aus: es divergiert schnell, und im allgemeinen auch in ziemlich direkter Linie in einer Richtung.
 
-# Verschiedene Fehlerarten unterscheiden
+## Verschiedene Fehlerarten unterscheiden
 
 Gewöhnliche Fehler und besondere Fehler können mathematisch auseinandergehalten werden. Die Basis für diese Unterscheidung ist die [Qualitätsregelkarte](https://de.wikipedia.org/wiki/Qualit%C3%A4tsregelkarte), auf englisch “control chart” oder zuweilen auch “Shewhart chart” oder “process-behaviour chart”.
 
@@ -224,7 +224,7 @@ Ein Prozeß heißt „unter Kontrolle“, wenn nur gewöhnliche Fehler übrigble
 
 Doch wenn die Qualitätsregelkarte zeigt, daß die meisten Ihrer Fehler besondere Fehler sind, haben Sie ein Problem: Ihr Prozeß ist am Anschlag und definitiv nicht unter Kontrolle. Es mag eine alte, abgenutzte Maschine sein, ungenügend ausgebildete oder gestreßte Arbeiter, aber Sie müssen den Prozeß erstmal unter Kontrolle bekommen, indem Sie die besonderen Fehler zuerst angehen. Erst dann können sie Ihren Prozeß verbessern.
 
-# Zusammenfassung
+## Zusammenfassung
 
 * Systeme sind wichtig
 * Von absoluten Spezifikationsgrenzen und Toleranzen hin zu Statistischer Prozeßlenkung

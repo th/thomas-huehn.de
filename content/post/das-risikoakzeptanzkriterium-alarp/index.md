@@ -15,7 +15,7 @@ ALARP stammt aus England und ist unter einem weiteren Akronym – SFAIRP (“so 
 
 Normalerweise wird in jeder Erklärung von ALARP nun das Karottendiagramm gezeigt. Ich verstehe nicht warum, denn weder Farbe noch Form (die beide an eine Karotte erinnern) stellen irgendeine Information dar. Ich begnüge mich mit ein paar kurzen Absätzen, die ALARP ebenfalls vollständig beschreiben.
 
-# Unacceptable region
+## Unacceptable region
 
 Die inakzeptable Region ist schnell erklärt: wenn das technische System nach allen ergriffenen Maßnahmen noch immer ein Risiko aufweist, das von der Gesellschaft als inakzeptabel hoch betrachtet wird, dann darf das System so nicht gebaut werden.
 
@@ -27,7 +27,7 @@ Dieser inakzeptable Bereich spielt in der Praxis keine Rolle. Niemand baut Syste
 
 *Ein System im inakzeptablen Bereich muß eine weitere Risikominderung erfahren, oder es wird eben nicht existieren.*
 
-# Tolerable region
+## Tolerable region
 
 Der tolerierbare Bereich (auch ALARP-Bereich) erfordert eine ständige Abwägung im Einzelfall: man darf sich nicht darauf ausruhen, den tolerierbaren Bereich erreicht zu haben und weitere Risikominderungen weglassen, aber man muß auch keine Risikominderung um jeden Preis betreiben.
 
@@ -35,7 +35,7 @@ Der tolerierbare Bereich ist eben kein Zielbereich, und sobald ich drin bin, hab
 
 *Das ist der Bereich, in dem man sich in einer normalen Entwicklung befindet.* Hier fordert die Benannte Stelle immer weitere Maßnahmen (aus Sicht des entwickelnden Unternehmens bis zum Stillstand des Projekts), läßt sich aber überzeugen, wenn man aufzeigen kann, daß die ergriffenen Maßnahmen wirksam sind und man alles getan hat, was vernünftig ist.
 
-# Broadly acceptable region
+## Broadly acceptable region
 
 In dieser Region ist das Risiko bereits so weit gemindert, daß jede weitere Diskussion als Zeitverschwendung betrachtet wird. Man könnte noch weitere Maßnahmen ergreifen, diese wären auch nicht übertrieben aufwendig und teuer.
 
@@ -45,7 +45,7 @@ In diese Region kommt man natürlich ebenfalls so gut wie nie. Sie stellt aber k
 
 Ab welchem Wert für das Restrisiko gilt das? Wiederum gibt es keine konkrete Zahl. Wie immer entscheidet zunächst der Entwickler, dann die Benannte Stelle und zuletzt das Gericht.
 
-# Eigenschaften von ALARP
+## Eigenschaften von ALARP
 
 ALARP ist ein subjektives Maß. Unterschiedliche Personen können vertretbar zu unterschiedlichen Bewertungen kommen.
 

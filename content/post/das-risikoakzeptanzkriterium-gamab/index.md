@@ -14,7 +14,7 @@ Dieses Riskoakzeptanzkriterium ist recht einfach: sei mindestens so gut wie das 
 
 Das Referenzsystem ist häufig das Vorgängersystem oder ein vergleichbares System. Wenn ich eine neue U-Bahn bauen möchte, muß sie mindestens so sicher sein wie andere U-Bahnen.
 
-# Eigenschaften von GAMAB
+## Eigenschaften von GAMAB
 
 GAMAB ist ein absolutes Maß. „Besser als“ ist eine klare Relation. Letztenendes werden zwei oder mehrere Zahlen verglichen.
 

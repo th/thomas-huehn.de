@@ -10,7 +10,7 @@ Die Minimale Endogene Mortalität ist ein relativ altes deutsches Risikoakzeptan
 
 Es geht also um die Frage, wie wahrscheinlich es ist zu sterben. Dabei wird die minimale Sterbenswahrscheinlichkeit gesucht. Also nicht die des 60-jährigen oder des Krebspatienten, sondern die reale Sterbenswahrscheinlichkeit für Kinder und Jugendliche zwischen fünf und fünfzehn Jahren. Die Zahlenwerte basieren auf einer Studie aus dem Jahr 1981. Daraus ergibt sich eine natürliche Sterblichkeit dieser Gruppe von 2×10^-4 Todesfällen pro Person und Jahr.
 
-# Rechnung
+## Rechnung
 
 Das Ziel lautet, daß das System keine merkliche Auswirkung auf das Todesfallrisiko haben soll. Es soll also höchstens im Bereich dieses „allgemeinen Hintergrundrisikos“ liegen.
 
@@ -23,7 +23,7 @@ Minimale Endogene Mortalität
 
 ![](MEM-scaled.jpg)
 
-# Eigenschaften
+## Eigenschaften
 
 Die Minimale Endogene Mortalität ist ein absolutes Maß, sogar mit konkretem Zahlenwert. Dadurch sticht sie aus der Konkurrenz von ALARP und GAMAB hervor.
 

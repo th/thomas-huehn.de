@@ -14,7 +14,7 @@ Aber das ist gar nicht schlimm. Ich habe auch heute, Monate später, noch 0 Foll
 
 Die normale Art, Twitter zu nutzen, ist: ich folge ganz vielen interessanten Menschen und dann habe ich eine interessante Timeline. Das funktioniert aber so nicht.
 
-# Die Timeline
+## Die Timeline
 
 Zunächst zur Timeline: Die Standard-Chronik auf Twitter zeigt ganz viel Mist, von dem Twitter glaubt, daß er unser „Engagement“ steigert. Tweets von Personen, denen Personen folgen, denen Personen folgen, denen wir folgen. Tweets, die gerade deutschland- oder weltweit wie blöde retweetet werden. Das sind vor allem Tweets, die uns aufregen. Emotionale Tweets. Die Sau, die durchs Dorf getrieben wird. Dazu ganz viele „empfohlene“ Tweets, die letztenendes auch nur Werbung sind.
 
@@ -34,7 +34,7 @@ Auch hier gibt es eine Teil-Lösung: Mit der „Sternschaltfläche“ oben recht
 
 Warum ist das nur eine Teil-Lösung? Weil Twitter das immer wieder mal selbstständig auf den von ihnen gewünschten Default „wild durcheinander“ zurückschaltet. Es besteht ganz leise Hoffnung, daß sie damit aufgehört haben, bei mir ist die Einstellung nun schon bestimmt zwei Monate stabil, aber ich habe das schon mehrfach neu einschalten müssen.
 
-# Follower
+## Follower
 
 Was bedeutet es, jemandem zu folgen? Nach herkömmlicher Ansicht bedeutet das „ich möchte seine Tweets sehen“. Und das ist auch eine Folge des Folgens.
 
@@ -46,7 +46,7 @@ Das ist keine blanke Theorie, inzwischen nutzen viele, die sich häufig an solch
 
 Es empfiehlt sich daher, das soziale Signal „ich folge jemandem“ vom Abonnement „ich möchte seine Tweets lesen“ zu trennen. Glücklicherweise geht das.
 
-# Twitterlisten
+## Twitterlisten
 
 Und es geht nicht nur, die Lösung für das „ich möchte nur lesen“-Problem ist dieselbe, wie die Lösung für das „Twitter spielt mit meiner Chronik herum“-Problem. Und zwar sind die Lösung Twitterlisten.
 
