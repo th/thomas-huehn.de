@@ -49,5 +49,3 @@ Das arithmetische Mittel der von mir angegebenen Konfidenzen beträgt 7,6. Es so
 Es fällt allerdings auf, daß sich unter den falschen Antworten eine mit immerhin 80% Konfidenz befindet. Das ist Selbstüberschätzung, die aber hier einigermaßen weggemittelt wurde.
 
 Ein paar Fragebögen habe ich noch, die werde ich dann noch bearbeiten.
-
-Spannend wird am Jahresende auch die Auswertung von [Schätzungen für 2021]({{< relref "schaetzungen-fuer-2021" >}}), ich weiß jetzt bereits, daß ich bei einigen Schätzungen böse danebenlag und diese auch nicht mehr „heilen“ kann.
