@@ -3,8 +3,6 @@ author: Thomas Hühn
 languageCode: 'de'
 title: 'Entdeckungsreisen'
 
-theme: 'th'
-
 assetDir: 'assets'
 dataDir: 'data'
 
