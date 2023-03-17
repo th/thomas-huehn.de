@@ -8,6 +8,7 @@ html {
 
 article {
     hyphens: auto;
+	-webkit-hyphens: auto;
 }
 
 body {
@@ -104,35 +105,12 @@ header {
 	text-align: center;
 }
 
-footer {
-	text-align: center;
-    border-top: 1px solid lightgray;
-    font-size: small;
-    margin-top: 2rem;
-    clear: both;
-}
-
 .articlemeta {
     display: flex;
     flex-wrap: wrap;
     align-content: space-between;
     font-size: medium;
     margin-bottom: 0.5rem;
-}
-
-.tags {
-    display: flex;
-    flex: 1 1 40%;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    margin: 0;
-}
-
-.tag {
-    display: inline;
-    list-style-type: none;
-    font-size: medium;
 }
 
 .dates {
@@ -168,19 +146,20 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
-    gap: 0.5rem;
+    gap: 1rem;
     padding: 0;
 }
 
 #siteheader li {
     flex: 1;
     list-style: none;
-    font-size: small;
+    font-size: medium;
     white-space: nowrap;
 }
 
 #siteheader a {
-    padding: 10px 0;
+	min-width: 48px;
+	min-height: 48px;
 }
 
 #articleheader {
@@ -193,29 +172,27 @@ ul {
 }
 
 .articlelist {
-    padding: 0;
+    display: table;
+	table-layout: fixed;
+	width: 100%;
+	padding: 0;
 }
 
 .articlelist > li {
     list-style-type: none;
-    align-content: space-between;
-    padding-top: 1rem;
-    display: flex;
-    flex-direction: column;
+    display: table-row;
 }
 
 .articlelist > li > a {
-    flex: 3;
+    display: table-cell;
+	padding-bottom: 1rem;
 }
 
-.indexmeta {
-    display: flex;
-    justify-content: space-between;
-}
 
-.indexmeta > time {
-    flex: 1;
+.articlelist > li > time {
+	display: table-cell;
     font-size: medium;
+	width: 13ch;
 }
 
 a.favitem:before {
