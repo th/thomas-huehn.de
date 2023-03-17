@@ -13,8 +13,6 @@ tasks:
         sudo apt install ./hugo_extended_0.97.2_Linux-64bit.deb --yes
 - build: |
     cd www.thomas-huehn.de
-    git submodule init
-    git submodule update
     /usr/local/bin/hugo --minify
 - deploy: |
     cd www.thomas-huehn.de
