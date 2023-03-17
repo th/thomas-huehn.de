@@ -11,7 +11,9 @@ disableKinds:
     - section
     - robotsTXT
     - 404
-
+    - taxonomy
+    - taxonomyTerm
+    
 permalinks:
   post: '/:year/:month/:filename/'
   page: '/:filename/'
@@ -20,9 +22,6 @@ outputFormats:
     RSS:
         mediatype: "application/rss"
         baseName: "feed"
-
-taxonomies:
-    tag: tags
 
 markup:
     goldmark:
