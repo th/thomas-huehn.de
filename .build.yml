@@ -14,6 +14,8 @@ tasks:
 - build: |
     cd www.thomas-huehn.de
     /usr/local/bin/hugo --minify
+- clean: |
+    find . -type f -name "*.html" -exec sed -i 's/<p><\/p>//g' {} +
 - deploy: |
     cd www.thomas-huehn.de
     ln -sf ~/.ssh/b3dc0e2a-38b9-4e85-8514-2f01ed189aec ~/.ssh/id_rsa
