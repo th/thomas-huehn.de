@@ -1,5 +1,6 @@
 ---
 title: "Wunderschön illustrierte Kinderbücher"
+description: Mein kleines Projekt zu Kinderbuchillustrationen
 date: 2019-08-12
 lastmod: 2019-08-22
 tags: ['Buch', 'Projekt']

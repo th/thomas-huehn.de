@@ -1,5 +1,6 @@
 ---
 title: "Ein Start in Blender 3D"
+description: Ein Wochenende mit einem Anfängerkurs in der 3D-Software Blender
 date: 2020-11-15
 tags: ['Blender']
 vgwort: 'fef1907616cc4d0caec3074f531a2fbf'

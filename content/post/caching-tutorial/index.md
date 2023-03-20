@@ -1,5 +1,6 @@
 ---
 title: "Caching-Tutorial für Webautoren und Webmaster"
+description: Deutsche Übersetzung von Mark Nottinghams Caching-Tutorial
 date: 2010-02-26
 lastmod: 2014-12-07
 tags: ['Übersetzung', 'Web', 'Caching']

@@ -1,5 +1,6 @@
 ---
 title: "Investment Punk"
+description: Rezension des Buchs Investment Punk
 date: 2011-08-13
 lastmod: 2014-05-26
 tags: ['Buch']

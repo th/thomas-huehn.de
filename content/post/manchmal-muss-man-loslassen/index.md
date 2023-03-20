@@ -1,5 +1,6 @@
 ---
 title: "Manchmal muß man loslassen"
+description: Rückblick auf mein Informatik- und COmputerlinguistikstudium
 date: 2021-09-11
 tags: ['Studium']
 vgwort: 'e4536812a5d5468795ac4f27ff656a0e'

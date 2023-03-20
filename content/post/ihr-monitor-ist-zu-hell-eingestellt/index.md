@@ -1,5 +1,6 @@
 ---
 title: "Ihr Monitor ist zu hell eingestellt!"
+description: Ergonomische Einstellung des Computerbildschirms
 date: 2020-10-21
 tags: ['Gesundheit']
 vgwort: '57d1a5533a2e4dafa77a4744c68275a1'

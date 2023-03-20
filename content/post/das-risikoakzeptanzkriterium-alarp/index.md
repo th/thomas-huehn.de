@@ -1,5 +1,6 @@
 ---
 title: "Das Risikoakzeptanzkriterium ALARP"
+description: Ein gängiges Maß zur Risikoreduktion
 date: 2020-09-10
 tags: ['Risiko', 'Safety']
 vgwort: 'ee88e2da510a4a2dafdb5e4a18f917fc'

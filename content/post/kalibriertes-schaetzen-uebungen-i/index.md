@@ -1,5 +1,6 @@
 ---
 title: "Kalibriertes Schätzen: Übungen I"
+description: Übungen zum kalibrierten Schätzen
 date: 2021-05-27
 tags: [Management, Psychologie, Schätzen]
 vgwort: '1e33b7b8490148d2b4e3c843c2f9aa7f'

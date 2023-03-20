@@ -1,5 +1,6 @@
 ---
 title: "Statische Typen und Defaultargumente in C++"
+description: Defaultargumente in C++
 date: 2019-02-17
 lastmod: 2019-10-19
 tags: ['C++']

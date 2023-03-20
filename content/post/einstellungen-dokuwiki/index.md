@@ -1,10 +1,11 @@
 ---
-title: "Einstellungen für eine neue Dokuwiki-Installation"
+title: "Einstellungen für eine neue DokuWiki-Installation"
+description: Konfiguration fürs DokuWiki
 date: 2018-08-12
 lastmod: 2019-01-01
 tags: ['Software']
 ---
-Dokuwiki ist ein sehr feines, no-nonsense Wikisystem. Es bietet viele Features, sieht okay aus und braucht keine Datenbank (was das [Backup]({{< relref "backup-dokuwiki-tarsnap" >}}) trivial macht).
+DokuWiki ist ein sehr feines, no-nonsense Wikisystem. Es bietet viele Features, sieht okay aus und braucht keine Datenbank (was das [Backup]({{< relref "backup-dokuwiki-tarsnap" >}}) trivial macht).
 
 Allerdings gefallen mir die Werkseinstellungen nicht sonderlich. Daher dokumentiere ich hier, was ich bei einer frischen Installation ändern möchte.
 

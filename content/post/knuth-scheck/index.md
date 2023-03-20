@@ -1,5 +1,6 @@
 ---
 title: "Knuth-Scheck"
+description: Ich besitze einen Scheck von Donald Knuth!
 date: 2020-07-25
 tags: ['Donald Knuth']
 vgwort: '38df58c3a4fa4e7cb8e18358e93813f8'

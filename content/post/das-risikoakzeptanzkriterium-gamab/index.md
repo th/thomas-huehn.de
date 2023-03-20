@@ -1,5 +1,6 @@
 ---
 title: "Das Risikoakzeptanzkriterium GAMAB"
+description: Ein älteres französisches Maß zur Risikoreduktion
 date: 2020-09-19
 tags: ['Risiko', 'Safety']
 vgwort: '4df7bef908784b169b9e0ea66411530e'

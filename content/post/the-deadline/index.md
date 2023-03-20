@@ -1,5 +1,6 @@
 ---
 title: "The Deadline"
+description: Rezension zum Projektmanagementklassiker The Deadline
 date: 2022-01-30
 tags: ['Buch', 'Management']
 vgwort: '0e4c30178c404d17976087ce33daa7da'

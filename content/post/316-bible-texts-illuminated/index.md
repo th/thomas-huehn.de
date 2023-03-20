@@ -1,5 +1,6 @@
 ---
 title: "3:16 Bible Texts Illuminated"
+description: Rezension des Buchs 3:16 Bible Texts Illuminated von Donald Knuth.
 date: 2010-02-23
 lastmod: 2014-03-16
 tags: ['Buch']

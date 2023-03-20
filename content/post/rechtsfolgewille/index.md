@@ -1,5 +1,6 @@
 ---
 title: "Rechtsfolgewille"
+description: Der Begriff des Rechtsfolgewillens und seine Abgrenzung von verwandten Begriffen
 date: 2013-01-16
 lastmod: 2014-03-16
 tags: ['Recht']

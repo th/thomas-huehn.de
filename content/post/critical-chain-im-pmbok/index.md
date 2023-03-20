@@ -1,5 +1,6 @@
 ---
 title: "Critical Chain im PMBOK"
+description: Critical-Chain-Projektmanagement und die PMI
 date: 2020-10-04
 tags: ['Management']
 vgwort: '65bbecf75d054a79a91301af8994170d'

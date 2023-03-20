@@ -1,5 +1,6 @@
 ---
 title: "Safety in der Karibik"
+description: Eine Fundstelle aus einem alten Buch zum Thema Sicherheit
 date: 2020-08-15
 tags: ['Safety', 'Skurriles', 'Zitat']
 ---

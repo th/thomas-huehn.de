@@ -1,5 +1,6 @@
 ---
 title: "Das Risikoakzeptanzkriterium MEM"
+description: Ein älteres deutsches Maß zur Risikoreduktion
 date: 2020-09-19
 tags: ['Risiko', 'Safety']
 vgwort: '23b26f77cef74feba8f6d71c2536c188'

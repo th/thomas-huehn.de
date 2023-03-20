@@ -1,5 +1,6 @@
 ---
 title: "Vom Gatter zum Computer"
+description: Der Aufbau einer kompletten Hardware- und Softwarehierarchie zu Lehrzwecken
 date: 2020-11-30
 tags: ['nand2tetris', 'Hardware']
 vgwort: 'ba8903bb4a5c49b3b17c22945a1a5ae5'

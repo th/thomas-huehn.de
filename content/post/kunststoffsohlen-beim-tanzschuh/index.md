@@ -1,5 +1,6 @@
 ---
 title: "Kunststoffsohlen beim Tanzschuh"
+description: Vor- und Nachteile der Kunststoffsohle fürs Tanzen
 date: 2020-08-21
 tags: ['Tanzen']
 vgwort: 'f6bf42299ca54e0ea41b688c3ff6a4db'

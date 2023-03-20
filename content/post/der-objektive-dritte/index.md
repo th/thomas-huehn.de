@@ -1,5 +1,6 @@
 ---
 title: "Der objektive Dritte"
+description: Der Aspekt des Erklärungsempfängers bei Willenserklärungen
 date: 2013-01-16
 lastmod: 2014-03-03
 tags: ['Recht']

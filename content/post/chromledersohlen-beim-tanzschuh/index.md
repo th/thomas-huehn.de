@@ -1,5 +1,6 @@
 ---
 title: "Chromledersohlen beim Tanzschuh"
+description: Vor- und Nachteile von Chromleder fürs Tanzen
 date: 2020-09-04
 tags: ['Tanzen']
 vgwort: '338775335c754f3686f7a8e0616143df'

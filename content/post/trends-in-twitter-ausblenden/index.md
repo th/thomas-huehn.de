@@ -1,5 +1,6 @@
 ---
 title: "Trends in Twitter ausblenden"
+description: Keine Twitter-Trends mehr!
 date: 2021-11-14
 tags: ['Twitter']
 ---

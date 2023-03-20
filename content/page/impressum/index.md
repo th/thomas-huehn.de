@@ -1,5 +1,6 @@
 ---
 title: "Impressum"
+description: Impressum für www.thomas-huehn.de
 date: 2022-02-15T00:00:00+01:00
 ---
 ## Betreiber

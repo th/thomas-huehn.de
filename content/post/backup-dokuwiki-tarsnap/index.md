@@ -1,10 +1,11 @@
 ---
-title: "Backup für Dokuwiki mit Tarsnap"
+title: "Backup für DokuWiki mit Tarsnap"
+description: Wiem an ein DokuWiki backupt
 date: 2019-02-07
 lastmod: 2019-10-09
 tags: ['Software']
 ---
-Mein [Dokuwiki]({{< relref "einstellungen-dokuwiki" >}}) wird jede Nacht durch dieses Skript gebackuppt, wobei Verzeichnisse ausgeschlossen sind, die sich permanent ändern:
+Mein [DokuWiki]({{< relref "einstellungen-dokuwiki" >}}) wird jede Nacht durch dieses Skript gebackuppt, wobei Verzeichnisse ausgeschlossen sind, die sich permanent ändern:
 
 ```bash
 #!/bin/sh

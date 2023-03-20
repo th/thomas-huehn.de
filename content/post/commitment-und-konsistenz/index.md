@@ -1,5 +1,6 @@
 ---
 title: "Commitment und Konsistenz"
+description: Kurzzusammenfassung des psychologischen Effekts des Commitments
 date: 2015-04-05
 tags: ['Psychologie']
 vgwort: '4034ded0094346638e50b08790d6adfe'

@@ -1,5 +1,6 @@
 ---
 title: "Interessante Enzyklopädien"
+description: Ungewöhnliche Enzyklopädien
 date: 2020-07-26
 tags: ['Recherche']
 vgwort: '5698e093302e44728a880e5382078d58'

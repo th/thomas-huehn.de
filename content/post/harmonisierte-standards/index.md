@@ -1,5 +1,6 @@
 ---
 title: "Harmonisierte Standards und EU-Richtlinien"
+description: Die rechtlichen Zusammenhänge der Maschinenrichtlinie und des nationalen Rechts
 date: 2014-03-02
 lastmod: 2014-09-19
 tags: ['Europa', 'Recht', 'Safety']

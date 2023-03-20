@@ -1,5 +1,6 @@
 ---
 title: "Wikipedia als Übersetzungshilfe"
+description: Wikipedia hilft übersetzen!
 date: 2021-01-28
 tags: ['Übersetzung']
 vgwort: '194b986d5b5a4706b0573aef9a16d997'

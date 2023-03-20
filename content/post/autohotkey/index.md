@@ -1,5 +1,6 @@
 ---
 title: "AutoHotKey"
+description: Beispielkonfiguration für AutoHotKey
 date: 2018-08-12
 lastmod: 2019-12-08
 tags: ['Software']

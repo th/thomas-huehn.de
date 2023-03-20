@@ -1,5 +1,6 @@
 ---
 title: "Drahtkammbinden"
+description: Drahtkammbinden zuhause
 date: 2021-01-29
 vgwort: '2684acd043c1427f81c40ebffcf2bb18'
 ---

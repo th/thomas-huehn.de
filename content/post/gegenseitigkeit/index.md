@@ -1,5 +1,6 @@
 ---
 title: "Gegenseitigkeit"
+description: Der psychologische Effekt der Gegenseitigkeit
 date: 2015-04-05
 tags: ['Psychologie']
 vgwort: '176f23ecf4764073850c6233b4059ded'

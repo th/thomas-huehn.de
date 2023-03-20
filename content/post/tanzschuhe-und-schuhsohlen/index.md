@@ -1,5 +1,6 @@
 ---
 title: "Tanzschuhe und Schuhsohlen"
+description: Verschiedene Materialien der Sohle beim Tanzschuh
 date: 2020-07-09
 tags: ['Tanzen']
 vgwort: 'c88ab85633314287ad8dbbb8cab0190e'

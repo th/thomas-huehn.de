@@ -1,5 +1,6 @@
 ---
 title: "Verlage als gesetzgebende Gewalt"
+description: Als der Gesetzgeber geschlampt hat…
 date: 2013-01-16
 lastmod: 2014-03-16
 tags: ['Recht']
