@@ -12,7 +12,7 @@ Und absoluter Pedant. So hat er auf seiner Webseite [einen eigenen Abschnitt](ht
 
 Legendär ist sein Angebot, fürs Finden von Fehlern in seinen Büchern Schecks auszustellen. „Fehler“ heißt hier nicht unbedingt „inhaltlicher Fehler“. Davon gab es von Anfang nicht sehr viele, und nun nach Jahrzehnten noch viel weniger.
 
-Nein, auch Tippfehler qualifizieren für einen Belohnungsscheck über zwei Dollar und sechsundfünfzig Cent (ein hexadezimaler Dollar). Ebenso typographische Mängel. Ein Zeilenabstand um einen Zehntel Millimeter zu groß? Scheck. Ein kaum wahrnehmbarer Lerraum vor einem Komma? Scheck. Ein Eintrag einer Aufzählung nicht korrekt eingerückt. Scheck.
+Nein, auch Tippfehler qualifizieren für einen Belohnungsscheck über zwei Dollar und sechsundfünfzig Cent (ein hexadezimaler Dollar). Ebenso typographische Mängel. Ein Zeilenabstand um einen Zehntel Millimeter zu groß? Scheck. Ein kaum wahrnehmbarer Leerraum vor einem Komma? Scheck. Ein Eintrag einer Aufzählung nicht korrekt eingerückt. Scheck.
 
 Man kann sich schon denken, der Durchschnittsautor würde auch bei Zwei-Dollar-Belohnungen arm. Aber die Fehlerhäufigkeit ist eben überschaubar bei Knuth.
 
