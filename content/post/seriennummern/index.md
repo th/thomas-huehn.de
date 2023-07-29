@@ -3,7 +3,6 @@ title: "Seriennummern"
 description: Idee zur Kodierung und Darstellung von Seriennummern
 date: 2015-09-01
 tags: ['Idee']
-vgwort: '3c0653734be546f59d1dcfc2bdcfe007'
 ---
 ## Motivation
 

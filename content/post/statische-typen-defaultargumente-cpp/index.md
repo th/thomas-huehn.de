@@ -4,7 +4,6 @@ description: Defaultargumente in C++
 date: 2019-02-17
 lastmod: 2019-10-19
 tags: ['C++']
-vgwort: 'd6a08a318bbf4d75983a2b8d62e32c74'
 ---
 Quiz. Was gibt dieses Programm aus?
 

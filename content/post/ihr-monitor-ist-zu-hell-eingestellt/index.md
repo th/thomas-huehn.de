@@ -3,7 +3,6 @@ title: "Ihr Monitor ist zu hell eingestellt!"
 description: Ergonomische Einstellung des Computerbildschirms
 date: 2020-10-21
 tags: ['Gesundheit']
-vgwort: '57d1a5533a2e4dafa77a4744c68275a1'
 ---
 „Dark Themes“ sind gerade unheimlich in Mode. Viele Menschen mögen das moderne Aussehen. Doch immer wieder lese ich als Argument für dunkle Themes auch, daß Menschen sich von hellen Themes geblendet fühlen, wenn es Abend wird und das Licht schummrig wird.
 

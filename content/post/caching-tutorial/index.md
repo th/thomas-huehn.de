@@ -4,7 +4,6 @@ description: Deutsche Übersetzung von Mark Nottinghams Caching-Tutorial
 date: 2010-02-26
 lastmod: 2014-12-07
 tags: ['Übersetzung', 'Web', 'Caching']
-vgwort: '4dceae44298f47c6b351397e39705f0f'
 ---
 **Anmerkung des Übersetzers:** Dies ist das [Caching Tutorial for Web Authors and Webmasters](https://www.mnot.net/cache_docs/) von [Mark Nottingham](https://www.mnot.net/personal/), übersetzt ins Deutsche von [Thomas Hühn](https://www.thomas-huehn.de/).
 

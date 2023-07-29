@@ -4,7 +4,6 @@ description: Rezension des Buchs 3:16 Bible Texts Illuminated von Donald Knuth.
 date: 2010-02-23
 lastmod: 2014-03-16
 tags: ['Buch']
-vgwort: '67723cf3f16d4422a4ad01b7148d501a'
 ---
 Die Bibel, das Buch der Bücher. Doch nur wenige Menschen, die nicht bereits tief gläubig sind oder ein wissenschaftliches Interesse an ihr haben, haben sie wirklich zum guten Teil gelesen. Einzelne Sentenzen aus ihr haben sich in unserer Kultur und unserer Umgangssprache festgesetzt, doch die Bibel schüchtert ob ihres schieren Umfanges auch ein. Selbst diejenigen, die eigentlich zugeben müssen, daß an sie wegen ihrer Bedeutung für die westliche Welt eigentlich gelesen haben sollte.
 

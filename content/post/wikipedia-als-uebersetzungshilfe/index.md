@@ -3,7 +3,6 @@ title: "Wikipedia als Übersetzungshilfe"
 description: Wikipedia hilft übersetzen!
 date: 2021-01-28
 tags: ['Übersetzung']
-vgwort: '194b986d5b5a4706b0573aef9a16d997'
 ---
 Es ist keine weltbewegende Erkenntnis, aber: mir wurde neulich klar, daß Wikipedia eine großartige kontextabhängige Übersetzungsfunktion hat. Sozusagen.
 

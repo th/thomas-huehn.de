@@ -3,7 +3,6 @@ title: "The Deadline"
 description: Rezension zum Projektmanagementklassiker The Deadline
 date: 2022-01-30
 tags: ['Buch', 'Management']
-vgwort: '0e4c30178c404d17976087ce33daa7da'
 ---
 *The Deadline* von Tom DeMarco ist ein wahrer Klassiker der Projektmanagementliteratur. Ich hatte das Buch schon vor längerem gekauft, aber im Regal einstauben lassen, obwohl ich sein Buch Peopleware mochte. Stellt sich heraus, daß das ein Fehler war. Das einstauben lassen, nicht der Kauf.
 

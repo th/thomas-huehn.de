@@ -3,7 +3,6 @@ title: "Wie ich zwitschere"
 description: Tips für Twitter
 date: 2021-06-01
 tags: ['Twitter']
-vgwort: 'b2cb4e0d456a44408628467c88ab887c'
 ---
 Twitter steht bei vielen Menschen im Ruf, auch nur ein weiteres sinnloses Social-Media-Netzwerk zu sein. Ich glaube aber, daß man Twitter ganz hervorragend gewinnbringend nutzen kann.
 

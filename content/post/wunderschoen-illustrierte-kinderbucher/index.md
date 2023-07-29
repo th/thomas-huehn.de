@@ -4,7 +4,6 @@ description: Mein kleines Projekt zu Kinderbuchillustrationen
 date: 2019-08-12
 lastmod: 2019-08-22
 tags: ['Buch', 'Projekt']
-vgwort: '6972e5cf76bd40fcb9ff459a2979f0f2'
 ---
 2015 schrieb [DanBC](https://news.ycombinator.com/user?id=DanBC) [in Hacker News:](https://news.ycombinator.com/item?id=9848031)
 

@@ -3,7 +3,6 @@ title: "The Now Habit"
 description: Zusammenfassung von Techniken zur Bekämpfung der Prokrastination
 date: 2022-01-16
 tags: ['Buch', 'Psychologie']
-vgwort: '86f102ab4873411cac1d3b0e7fe02e83'
 ---
 *The Now Habit* von Neil Fiore ist ein Selbsthilfebuch, um Aufschieberitis zu verstehen und zu überwinden.
 

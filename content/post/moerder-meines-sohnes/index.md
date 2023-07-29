@@ -3,8 +3,6 @@ title: "Wie wir den Mörder meines Sohnes zur Strecke gebracht haben"
 description: Deutsche Übersetzung der Geschichte von Bertrand Might
 date: 2014-07-06
 tags: ['Krankheit', 'Übersetzung']
-vgwort: 'ecfe9e4879d244a08119efae6301d2b8'
-favorite: true
 ---
 ![](taken-0c7012dd.jpg)
 

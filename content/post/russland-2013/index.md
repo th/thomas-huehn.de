@@ -4,8 +4,6 @@ description: Impressionen aus dem Rußlandurlaub
 date: 2018-06-23
 lastmod: 2020-01-12
 tags: ['Rußland']
-vgwort: 'e84669caa6314bf18069a88e43be0ae7'
-favorite: true
 ---
 ## Moskau
 

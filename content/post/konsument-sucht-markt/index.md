@@ -4,7 +4,6 @@ description: Über die Verfügbarkeit fremdsprachiger eBooks
 date: 2010-08-17
 lastmod: 2014-03-16
 tags: ['Buch']
-vgwort: '2d28a238ca974a4b8e090d025ad01d1d'
 ---
 Hallo? Ist dort jemand?
 Nein, nicht Sie, verehrter Leser, auch wenn Sie mir natürlich

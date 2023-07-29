@@ -3,7 +3,6 @@ title: "Interessante Enzyklopädien"
 description: Ungewöhnliche Enzyklopädien
 date: 2020-07-26
 tags: ['Recherche']
-vgwort: '5698e093302e44728a880e5382078d58'
 ---
 Weil ich mich gerade etwas für Systemtheorie und Systems Thinking interessiere, hatte ich neulich die [„International Encyclopedia of Systems and Cybernetics“](https://en.wikipedia.org/wiki/International_Encyclopedia_of_Systems_and_Cybernetics) ausgeliehen. Diese ist ein wertvolles Werk, weil sie all die Begriffe, die in der Systemtheorie-Literatur (bis 2004) verwendet werden, definiert, einordnet und miteinander in Beziehung setzt.
 

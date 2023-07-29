@@ -3,7 +3,6 @@ title: "Gegenseitigkeit"
 description: Der psychologische Effekt der Gegenseitigkeit
 date: 2015-04-05
 tags: ['Psychologie']
-vgwort: '176f23ecf4764073850c6233b4059ded'
 ---
 Wir Menschen fühlen eine Verantwortung, Güte und Freundlichkeit zu erwidern. Ein Beispiel ist die Praxis der Hare-Krishna-Bewegung, Passanten „ein Geschenk zu machen“, bevor sie um eine Spende bitten. Dieses Geschenk – oft ein Blume– kann ruhig billig sein, selbst anschließend aus dem Mülleimer gefischt und noch einmal verschenkt, es steigert das Spendenaufkommen trotzdem deutlich.
 

@@ -4,7 +4,6 @@ description: Rezension des Buchs Investment Punk
 date: 2011-08-13
 lastmod: 2014-05-26
 tags: ['Buch']
-vgwort: 'fafde7df576747ffadadb81ca73224af'
 ---
 <em>Investment Punk</em> von Gerald Hörhan hat sich 2011 eine kleine Fangemeinde erobert.
 

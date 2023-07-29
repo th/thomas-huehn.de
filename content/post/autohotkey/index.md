@@ -4,7 +4,6 @@ description: Beispielkonfiguration für AutoHotKey
 date: 2018-08-12
 lastmod: 2019-12-08
 tags: ['Software']
-vgwort: 'e7d9c592266b45338aced08633046d2c'
 ---
 Ich verwende schon seit langem [AutoHotKey](https://www.autohotkey.com/), um wiederkehrende Aufgaben zu automatisieren oder Ärgernisse zu umschiffen.
 

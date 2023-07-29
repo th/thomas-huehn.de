@@ -3,7 +3,6 @@ title: "Gummisohlen beim Tanzschuh"
 description: Vor- und Nachteile der Gummisohle fürs Tanzen
 date: 2020-08-07
 tags: ['Tanzen']
-vgwort: '9308598df5134a74a7e1b0e09d923448'
 ---
 ![](IMG_6182.jpg)
 

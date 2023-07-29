@@ -4,7 +4,6 @@ description: Der Begriff des Rechtsfolgewillens und seine Abgrenzung von verwand
 date: 2013-01-16
 lastmod: 2014-03-16
 tags: ['Recht']
-vgwort: 'ceeddb134033440f8c951209b098d00e'
 ---
 Seit ich [Köhlers BGB-AT-Lehrbuch](http://www.amazon.de/BGB-Allgemeiner-Teil-Helmut-K%C3%B6hler/dp/3406625959) gelesen hatte, verwendete ich den Begriff „Rechtsfolgewille“ anstatt „Rechtsbindungswille“ bei Willenserklärungen. Ich fand den Begriff einfach griffiger.
 
