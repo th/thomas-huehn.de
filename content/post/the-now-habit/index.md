@@ -22,7 +22,7 @@ Der erste Schritt zur Abwehr der Aufschieberitis ist, Sicherheit zu schaffen. Ei
 
 Eine Möglichkeit, den gefühlten Druck zu verringern, ist, auf Ihre Sprache zu achten. Vermeiden Sie „ich muß“ und „ich sollte“. Versuchen Sie, in Formen von „ich möchte“, „ich entscheide mich“ und „ich beschließe“ zu denken.
 
-Ein „sollte“ bedeutet, daß Sie mit einer Situtation unzufrieden sind und etwas daran ändern möchten. Es bedeutet nicht, daß sie die Realität blöd finden und sich beschweren.
+Ein „sollte“ bedeutet, daß Sie mit einer Situation unzufrieden sind und etwas daran ändern möchten. Es bedeutet nicht, daß sie die Realität blöd finden und sich beschweren.
 
 „Ich muß fertig werden“ ist kein hilfreicher Gedanke. Ein besserer Gedanke lautet „wann kann ich anfangen?“. Versuchen Sie, Dinge zumindest teilweise zu erledigen, lange bevor die Deadline droht.
 
