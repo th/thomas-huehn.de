@@ -5,7 +5,6 @@
     {{- $width = .Width -}}
     {{- $height = .Height -}}
 {{- end -}}
-</p>
 <figure>
 <img
     src="{{ .Destination | safeURL }}"
@@ -17,4 +16,3 @@
 />
 {{- if .Title -}}<figcaption>{{.Title}}</figcaption>{{- end -}}
 </figure>
-<p>
