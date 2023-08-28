@@ -12,7 +12,6 @@ disableKinds:
     - robotsTXT
     - 404
     - taxonomy
-    - taxonomyTerm
     
 permalinks:
   post: '/:year/:month/:filename/'
