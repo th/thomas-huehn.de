@@ -1,5 +1,5 @@
 ---
-title: "Innerbetriebliche Anerkennung informell erworbener Kompetenzen in Anlehnung an Validierung"
+title: 'Innerbetriebliche Anerkennung informell erworbener Kompetenzen in Anlehnung an Validierung'
 description: 'Welche Aspekte der Validierung informell erworbener Kompetenzen können in eine innerbetriebliche Anerkennung übernommen werden?'
 date: 2023-10-03
 tags: ['Beruf', 'Lernen']
@@ -25,11 +25,11 @@ geradlinigen Karrierewege nicht mehr garantiert werden, sondern die
 Anpassung an wechselnde Aufgaben und Positionen auch innerhalb eines
 Arbeitsverhältnisses wird gefordert (vgl. Sonntag et al., 2004, p. 105).
 Bei solchen Umorientierungen sollten „sämtliche Kenntnisse, Fertigkeiten
-und Kompetenzen eines Individuums in den Blick genommen werden"
+und Kompetenzen eines Individuums in den Blick genommen werden“
 (Dehnbostel et al., 2010, p. 38).
 
 Durch informelles Lernen erworbene Kompetenzen („informell erworbene
-Kompetenzen") sind dabei zunehmend in den Fokus gerückt. Als Gegenmodell
+Kompetenzen“) sind dabei zunehmend in den Fokus gerückt. Als Gegenmodell
 zu organisierter Weiterbildung (vgl. Gillen, 2003, p. 5) versprechen sie
 nicht nur flexible Situationsreaktionen, sondern auch eine schnellere
 Anpassung auf neue Anforderungen in einem Wirtschaftsleben, das
@@ -53,7 +53,7 @@ kaum beteiligt: ihre eigenen Interessen richten sich auf
 innerbetriebliche Weiterbildung und Personalentwicklung, weniger auf die
 Einbettung verschiedener Kompetenzarten und -qualitäten in eine
 Taxonomie zum gesellschaftlichen Gemeinwohl. Die Kompetenzen der
-Mitarbeitenden spielen auch in Unternehmen eine große Rolle und werden
+Mitarbeiter spielen auch in Unternehmen eine große Rolle und werden
 zunehmend aktiv gemanagt, jedoch richten sich diese Maßnahmen nicht nach
 dem Vorgehen der Validierung. Da jedoch informell erworbene Kompetenzen
 in Unternehmen in ihrer Anerkennung noch immer deutlich hinter formalen
@@ -61,7 +61,7 @@ Schulungen und Weiterbildungen zurückstehen -- außer in
 Bewerbungsgesprächen (vgl. Stegemann, 2008, p. 66) -- bietet sich an,
 die im Kontext der Validierung angewendeten Prozeßschritte in Hinblick
 auf betriebliche Nutzbarkeit für eine innerbetriebliche Anerkennung
-informell erworbener Kompetenzen der Mitarbeitenden zu prüfen. Damit
+informell erworbener Kompetenzen der Mitarbeiter zu prüfen. Damit
 ergibt sich als Forschungsfrage:
 
 **Was kann aus bestehenden Verfahren zur Validierung informeller
@@ -70,7 +70,7 @@ informeller Kompetenzen übertragen werden?**
 
 ## Theoretische Rahmung
 
-Der Begriff „Informell erworbene Kompetenzen" beinhaltet zwei Aspekte:
+Der Begriff „Informell erworbene Kompetenzen“ beinhaltet zwei Aspekte:
 Es handelt sich um Kompetenzen, wozu eine Begriffsklärung samt
 Abgrenzung zu benachbarten Begriffen erforderlich ist. Außerdem sollen
 nur solche Kompetenzen betrachtet werden, die in einem informellen
@@ -103,8 +103,8 @@ Im berufspädagogischen Bereich war lange Zeit die nachfrageorientierte
 Sicht vorherrschend, so wurden Fähigkeiten und Fertigkeiten untersucht,
 die zur Ausfüllung eines Berufs bzw. beruflicher Arbeitsaufgaben
 erforderlich sind (vgl. Kaufhold, 2006, p. 51). Diese wurden auch als
-„Qualifikationen" bezeichnet. Stark rezipiert wurde dann in den 1970er
-Jahren insbesondere Dieter Mertens Begriff der „Schlüsselqualifikation"
+„Qualifikationen“ bezeichnet. Stark rezipiert wurde dann in den 1970er
+Jahren insbesondere Dieter Mertens Begriff der „Schlüsselqualifikation“
 (Mertens, 1974), der persönliche Eigenschaften von Menschen bezeichnet,
 die besonders wichtig sind, um zukünftige Anforderungen und
 Herausforderungen zu bewältigen (vgl. Mertens, 1974, p. 40). Während
@@ -114,8 +114,8 @@ Breitenelemente und Vintage-Faktoren (vgl. Mertens, 1974, p. 41)
 -- beschränkte und lediglich exemplarisch einige konkrete Beispiele
 aufzählte, so sammelte die Literatur alsbald hunderte Beispiele für
 Schlüsselqualifikationen (vgl. Reibold and Regier, 2009, p. 91). Diesen
-blieb jedoch gemein, daß sie aus Richtung der Nachfragenden einer
-Arbeitsleistung her auf die Mitarbeitenden und ihre Qualifikationen
+blieb jedoch gemein, daß sie aus Richtung der Nachfrager einer
+Arbeitsleistung her auf die Mitarbeiter und ihre Qualifikationen
 blickten.
 
 Dieser Blickwinkel wird mittlerweile überwiegend als zu eng kritisiert:
@@ -136,13 +136,13 @@ Wissen alleine genügt aber nicht zur Bewältigung von Problemen und
 Aufgabenstellungen. Aus dem Wissen heraus müssen auch Handlungen
 generiert werden (vgl. Fischer, 2020, p. 267; vgl. Kaufhold, 2006, p.
 22). Darüberhinaus ist eine motivationale Komponente erforderlich, die
-zu einer tatsächlichen Handlung führt, eine Verknüpfung des „Könnens"
-und des „Wollens" (Gillen, 2006, p. 76). In diese Richtung zielen die
+zu einer tatsächlichen Handlung führt, eine Verknüpfung des „Könnens“
+und des „Wollens“ (Gillen, 2006, p. 76). In diese Richtung zielen die
 drei weiteren Arten von Kompetenzen. Methodenkompetenz zeigt sich
 insbesondere in strukturiertem Vorgehen und flexibler Reaktion auf eine
 Problemstellung (vgl. Kaufhold, 2006, p. 163). Sozialkompetenz ist das
 Verhalten in Gruppen, besonders auch „wertende Äußerungen gegenüber
-Personen und ihren Handlungen\" (Kaufhold, 2006, p. 164).
+Personen und ihren Handlungen\“ (Kaufhold, 2006, p. 164).
 Personalkompetenz zielt auf die Selbstorganisationsfähigkeit des
 Individuums ab, beispielsweise das Zeitmanagement (vgl. Gnahs, 2010, p.
 27).
@@ -152,7 +152,7 @@ p. 166) und beruflich verwertbar (vgl. Gnahs, 2010, p. 27), weswegen sie
 in Unternehmen bislang primär im Fokus stand und durch fachliche
 Weiterbildungen gefördert wurde. Aber auch Methodenkompetenz und
 Sozialkompetenz gehen mit Wissen einher, jedoch eher mit prozeduralem
-Wissen -- „wie?" anstelle von „was?" (vgl. Kaufhold, 2006, p. 166).
+Wissen -- „wie?“ anstelle von „was?“ (vgl. Kaufhold, 2006, p. 166).
 Methoden-, Sozial und Personalkompetenzen sind häufig auch außerhalb des
 beruflichen Kontextes einsetzbar und sind damit für Unternehmen schwer
 faßbar (vgl. Gnahs, 2010, p. 27).
@@ -160,7 +160,7 @@ faßbar (vgl. Gnahs, 2010, p. 27).
 ### Informell erworbene Kompetenzen
 
 Kompetenzen sind Ergebnisse von Lernprozessen (vgl. Bjørnåvold, 2001, p.
-28). Lernprozesse lassen sich anhand ihrer „Settings" bzw. Lernkontexte
+28). Lernprozesse lassen sich anhand ihrer „Settings“ bzw. Lernkontexte
 kategorisieren.
 
 Formales Lernen zeichnet sich dadurch aus, daß es explizit als
@@ -179,7 +179,7 @@ Weiterbildungsangebote von Volkshochschulen bis zu kommerziellen
 Weiterbildungsanbietern. Hier zeigen sich jedoch Divergenzen in der
 Literatur, während das formale Lernen weitgehend einheitlich verstanden
 wird. Dohmen sieht jegliches Lernen „außerhalb des formalisierten
-Bildungssystems" (Dohmen, 2001, p. 18) als zugehörig, auch können
+Bildungssystems“ (Dohmen, 2001, p. 18) als zugehörig, auch können
 informelles und non-formales Lernen gleichgesetzt oder zumindest als
 Teilbereiche voneinander verstanden werden (vgl. Stegemann, 2008, p. 8).
 Ein wesentlicher Aspekt, den die verschiedenen Definitionen gemein
@@ -197,16 +197,16 @@ Lernen (vgl. Stegemann, 2008, p. 14), aber auch die Selbststeuerung
 Selbstorganisation (vgl. Annen and Bretschneider, 2009, p. 189) im
 Vordergrund stehen. Zudem ist die Nicht-Professionalität der Lehrenden
 ein Kriterium, das auf informelles Lernen hinweist (vgl. Gnahs, 2010, p.
-37), sei es die der Lernenden selbst oder anderer Lehrpersonen. Das
-informelle Lernen ist daher auch als „Residualkategorie" (Dobischat and
+37), sei es die der Lerner selbst oder anderer Lehrpersonen. Das
+informelle Lernen ist daher auch als „Residualkategorie“ (Dobischat and
 Schurgatz, 2015, p. 34) bezeichnet worden.
 
 Außerhalb des Berufs erworbene Kompetenzen können in allen drei
-Lernsettings erworben worden sein. Häufig sind aber gerade die „weichen"
+Lernsettings erworben worden sein. Häufig sind aber gerade die „weichen“
 Kompetenzen wie Sozialkompetenz oder Personalkompetenz in nicht explizit
 als Lernvorhaben ausgewiesenen Situationen, und damit im Wege des
 informellen Lernens, erworben worden. So kann ein Hausbau (vgl. Gnahs,
-2010, p. 37) „nebenbei" (Annen and Bretschneider, 2009, p. 189) sowohl
+2010, p. 37) „nebenbei“ (Annen and Bretschneider, 2009, p. 189) sowohl
 das Verhandlungsgeschick üben als auch Projektplanungsmethoden erlernen
 lassen. Ebenso werden soziale und personale Kompetenzen gerade auch im
 Management eines Familienalltags erworben (vgl. Kaufhold, 2006, p. 214;
@@ -224,7 +224,7 @@ Gillen, 2003, p. 3).
 ## Validierung
 
 Diese Schrittkette von der Erfassung bis zur Zertifizierung informell
-erworbener Kompetenzen, wird als „Validierung" bezeichnet, sofern es
+erworbener Kompetenzen, wird als „Validierung“ bezeichnet, sofern es
 sich um einen formellen Prozeß handelt, dessen rechtswirksame
 Zertifizierung durch eine *zugelassene Stelle* vorgenommen wird (vgl.
 Annen, 2017, p. 701). Dieser Prozeß besteht aus fünf Schritten: nach
@@ -306,11 +306,11 @@ bestimmter Stufe einzuordnen und damit gleichwertig ist.
 
 Abschließend erfolgt die Zertifizierung, wenn alle vorherigen
 Prozeßschritte erfolgreich durchlaufen worden sind. Ein Beispiel ist die
-französische „bilans de compétences" (vgl. Stegemann, 2008, p. 82).
+französische „bilans de compétences“ (vgl. Stegemann, 2008, p. 82).
 Dieses Zertifikat ist für die zertifizierte Person wertvoll, da es in
 einem formalen, gegebenenfalls staatlichen Prozeß erworben wird und
 seine Anerkennung nicht auf einzelne Unternehmen beschränkt ist. Dadurch
-wird die Mobilität der Arbeitnehmenden gefördert (vgl. Cedefop, 2016, p.
+wird die Mobilität der Arbeitnehmer gefördert (vgl. Cedefop, 2016, p.
 52), anders als bei rein betrieblichen Anerkennungsverfahren (vgl.
 Gutschow, 2020, p. 466).
 
@@ -323,14 +323,14 @@ Eigenschaften der Person, hier der Lernerfolg, auch tatsächlich gemessen
 wird. Reliabilität zielt insbesondere auf konsistente Ergebnisse
 zwischen verschiedenen Bewertenden in unterschiedlichen
 Bewertungssituationen ab. Objektivität fordert, daß Eigenschaften der
-Bewertenden die Ergebnisse nicht beeinflussen (vgl. Stegemann, 2008, p.
+Bewerter die Ergebnisse nicht beeinflussen (vgl. Stegemann, 2008, p.
 43). Hinzu kommen bei den häufig eingesetzten qualitativen Verfahren
 eigene Gütekriterien wie Regelgeleitetheit, Gegenstandsnähe oder
 Verfahrensdokumentation (vgl. Gillen, 2006, p. 138). Die
 Regelgeleitetheit wird durch die Prozeßhaftigkeit der Validierung
 gefördert, die Verfahrensdokumentation ist ein eigener Prozeßschritt,
 und die Gegenstandsnähe spräche tatsächlich für eine unternehmensinterne
-Form der Validierung, wo sich Beurteilende und Beurteilte kennen und im
+Form der Validierung, wo sich Beurteiler und Beurteilte kennen und im
 Arbeitsalltag dauerhaft interagieren. Die Erfüllung von Gütekriterien
 ist wichtig, genügt aber nicht. Das Gefühl, fair bewertet zu werden, und
 die Bewertung auch im Falle eines negativen Ergebnisses zu akzeptieren,
@@ -378,7 +378,7 @@ sich aus dem Stegreif zu beliebigen Themen zu äußern (vgl. Niedermair
 and Mair, 2015, p. 367). Dies hat den Vorteil, daß eigene Kompetenzen
 abseits fester Kompetenzraster und -modelle (vgl. Gillen, 2006, p. 51)
 Bestandteil sein können. Zudem können „subjektive Einstellungen sowie
-individuelle Deutungen" (Gillen, 2006, p. 150) Raum finden. Nachteilig
+individuelle Deutungen“ (Gillen, 2006, p. 150) Raum finden. Nachteilig
 sind die fehlende Fokussierung und der erhöhte Auswertungsaufwand. Reine
 *Leitfadeninterviews* sind standardisiert, bieten jedoch wenig Spielraum
 jenseits der vorgefertigten Fragebogenkonstruktion. Als vermittelnde
@@ -391,10 +391,10 @@ Sowohl gesprächsbasierte Methoden, als auch solche Methoden, die auf
 Selbstbeurteilungen basieren, führen in besonderem Maße dazu, daß die
 Befragten sich und ihr Handeln reflektieren (vgl. Kaufhold, 2006, p.
 129). Durch diese Reflexion überprüfen Menschen ihr Handeln „im Kontext
-der Situation" (North et al., 2018, p. 80). Dadurch wird gegebenenfalls
+der Situation“ (North et al., 2018, p. 80). Dadurch wird gegebenenfalls
 persönliche Weiterentwicklung stimuliert (vgl. Cedefop, 2016, p. 51).
 Dies geschieht auch dadurch, daß Selbstreflexion besonders auf
-„Entwicklungen und Potenziale der Betroffenen" abstellt (Stegemann,
+„Entwicklungen und Potenziale der Betroffenen“ abstellt (Stegemann,
 2008, p. 36). Selbst bei Fehleinschätzungen wirkt die Selbstbeurteilung
 noch über die reine Antwort hinaus: sie leitet künftige Handlungen an
 (vgl. Kaufhold, 2006, p. 153) und führt gar zur aktiveren Übernahme
@@ -403,26 +403,26 @@ Darüberhinaus führt Reflexion dazu, daß implizites Wissen expliziert und
 auch vermittelbar gemacht wird (vgl. Gillen, 2006, p. 227).
 
 Die *Beobachtung* findet während der normalen Arbeit in üblichen, nicht
-gestellten Situationen statt. Beobachtende sind insbesondere beauftragte
+gestellten Situationen statt. Beobachter sind insbesondere beauftragte
 Externe, um die Neutralität sicherzustellen. Durch beide Aspekte wird
 die Fairneß dieser Methode gefördert. Vorteil der Beobachtung ist
 insbesondere, daß komplexe, multifaktorielle Kompetenzen erfaßt werden
 können. (vgl. Cedefop, 2016, p. 64). Zudem wird das Handeln beobachtet
 (vgl. Kaufhold, 2006, p. 133), also die letztendlich interessierende
 Größe, deren künftige Performanz in der Arbeitsausübung genutzt werden
-soll. Wichtig ist, daß die Beobachtenden wertfrei beobachten und erst in
+soll. Wichtig ist, daß die Beobachter wertfrei beobachten und erst in
 einem zweiten Schritt die wahrgenommenen Handlungen und Tatsachen
 bewerten (vgl. North et al., 2018, pp. 99--100). Dabei müssen sie auf
 die üblichen Wahrnehmungstäuschungen bzw. Beurteilungsverzerrungen
 achten (vgl. North et al., 2018, p. 88). Im Arbeitskontext finden
-Beobachtungen der Mitarbeitenden durch ihre Führungskräfte stets auch
+Beobachtungen der Mitarbeiter durch ihre Führungskräfte stets auch
 informell und implizit statt (vgl. Cedefop, 2014, p. 51; vgl. Gnahs,
 2010, p. 65). Diese permanente Beobachtung wirkt dem Nachteil des hohen
 Zeitaufwands entgegen, der sich zumindest rechnerisch auch in Kosten
 niederschlägt (vgl. Kaufhold, 2006, p. 133).
 
 *Simulationen* ähneln Beobachtungen, allerdings sind die Situationen, in
-denen die Arbeitnehmenden ihre Kompetenz unter Beweis stellen sollen,
+denen die Arbeitnehmer ihre Kompetenz unter Beweis stellen sollen,
 zwar an Situationen des Arbeitsalltags angelehnt, jedoch gezielt
 konstruiert (vgl. Cedefop, 2014, p. 53). Dies bietet sich beispielsweise
 an, wenn eine Beobachtung kaum möglich ist, weil die gewünschte
@@ -437,13 +437,13 @@ bestätigen. Dies können *Arbeitsproben* sein (vgl. Cedefop, 2016, p.
 Vorteil, Personal-, Methoden- und Sozialkompetenzen abprüfen zu können.
 Zudem können sie auf Einsatzbereich und Person angepaßt werden (vgl.
 Döring and Kreider, 2017, p. 9). Aber auch *Arbeitszeugnisse* fallen in
-diese Kategorie*.* Sie weisen „auf dem Arbeitsmarkt eine hohe Akzeptanz"
+diese Kategorie*.* Sie weisen „auf dem Arbeitsmarkt eine hohe Akzeptanz“
 (Stegemann, 2008, p. 68) auf, da sie von ehemaligen Arbeitgebern
 ausgestellt sind und damit die Wirtschaftsnähe und die Seriosität belegt
 ist (vgl. Stegemann, 2008, p. 51). Dies gilt, obwohl ihre eingeschränkte
 Aussagekraft allgemein bekannt ist (vgl. Geldermann et al., 2009, p.
 20), zumal Gesetz und Rechtsprechung die wahrheitsgemäße und
-vollständige Beschreibung von Mitarbeitenden einschränken (Stegemann,
+vollständige Beschreibung von Mitarbeitern einschränken (Stegemann,
 2008, p. 68). Arbeitsproben sind simulationsnah (vgl. Kaufhold, 2006, p.
 136), basieren aber nicht auf gestellten, sondern realen
 Arbeitssituationen.
@@ -466,7 +466,7 @@ Bildungssystems herausgelöst und in die Gegebenheiten und
 Eigentümlichkeiten von privatwirtschaftlichen Unternehmen eingepaßt
 werden? Dazu müssen zunächst die Randbedingungen, insbesondere die
 widerstreitenden Interessenlagen der Akteure geklärt werden.
-Anschließend werden anhand „typischer" Rollen und Funktionen in
+Anschließend werden anhand „typischer“ Rollen und Funktionen in
 wissensbasierten Unternehmen die Anforderungen an diese geklärt, um
 schließlich den Validierungsprozeß anzupassen.
 
@@ -480,7 +480,7 @@ unterstützt wird (vgl. Gillen, 2003, p. 4).
 Gerade in schnellebigen und neuartigen Bereichen wie Künstlicher
 Intelligenz, für die das Unternehmen noch keine strategische Planung und
 Weiterbildungsplanung aufgestellt hat, kann die flexible Nutzung
-autodidaktischen Lernens der Mitarbeitenden (vgl. Gnahs, 2010, p. 37)
+autodidaktischen Lernens der Mitarbeiter (vgl. Gnahs, 2010, p. 37)
 einen entscheidenden Geschwindigkeitsvorsprung bescheren (vgl. Rohs,
 2020, p. 449). Hinzu kommt der Vorteil der Kostenersparnis (vgl. Rohs
 and Schmidt, 2009, p. 8), denn informelles Lernen bindet weder
@@ -489,7 +489,7 @@ Durchführung von Weiterbildungsmaßnahmen.
 
 Jedoch sind Unternehmen in der Regel nicht an einer
 unternehmensunabhängigen Zertifizierung interessiert (vgl. Cedefop,
-2014, p. 16). Für Arbeitnehmende wäre dies vorteilhaft, da eine
+2014, p. 16). Für Arbeitnehmer wäre dies vorteilhaft, da eine
 allgemein anerkannte Zertifizierung im Arbeitsmarkt ein Gut wäre, die
 Unternehmen möchten umgekehrt jedoch einen etwaigen Unternehmenswechsel
 nicht fördern (vgl. Stegemann, 2008, p. 67).
@@ -497,22 +497,22 @@ nicht fördern (vgl. Stegemann, 2008, p. 67).
 Ebenso scheuen Unternehmen zuweilen das Erfassen und die -- auch nur
 unternehmensinterne -- Sichtbarmachung von Kompetenzen, die nicht als
 Kernanforderung der ausgeübten Tätigkeit verstanden wird, weil
-Mitarbeitende daraus Gehaltsforderungen ableiten können (vgl. Gnahs,
+Mitarbeiter daraus Gehaltsforderungen ableiten können (vgl. Gnahs,
 2010, p. 66; vgl. Stegemann, 2008, p. 67).
 
 Problematisch können auch die differierenden Weiterbildungswünsche von
-Unternehmen und Mitarbeitenden sein (vgl. Gillen, 2006, p. 36). Während
+Unternehmen und Mitarbeitern sein (vgl. Gillen, 2006, p. 36). Während
 die Unternehmen vorwiegend konkret in laufenden Projekten einsetzbare
 Kompetenzen zu entwickeln wünschen, in zweiter Linie auch prospektiv in
 die Zukunft schauende Kompetenzen, die dann aber auch tatsächliche
-Verwendung finden sollen, so möchten Mitarbeitende oftmals entweder eher
+Verwendung finden sollen, so möchten Mitarbeiter oftmals entweder eher
 eigenen Interessen folgen oder ihren Wert auf dem Arbeitsmarkt, also
 gegebenenfalls auch für andere Unternehmen, stärken (vgl. Cedefop, 2016,
 pp. 51--52; vgl. Gillen, 2006, p. 38).
 
 ### Handelnde Personen
 
-Die Mitarbeitenden, die Kompetenzen durch informelles Lernen erworben
+Die Mitarbeiter, die Kompetenzen durch informelles Lernen erworben
 haben, stehen im Mittelpunkt der Anerkennung. Jedoch ist nicht
 unmittelbar klar, ob sie ihre Kompetenzen offenlegen möchten. Denn dies
 könnte dazu führen, daß sie unmittelbar mit einem entsprechenden
@@ -523,8 +523,8 @@ Befürchtungen, Privates und Beruf würden dadurch unerwünscht vermischt
 (vgl. Gnahs, 2010, p. 66). Grundsätzlich empfiehlt sich größtmögliche
 Transparenz, wie das Verfahren abläuft und welche Folgen daraus
 entstehen können (vgl. North et al., 2018, p. 240), um die Wahrung der
-Interessen der Arbeitnehmenden sicherzustellen (vgl. Dehnbostel, 2011,
-p. 105). Zudem ist möglich, daß Mitarbeitende bereits geistig mit ihrem
+Interessen der Arbeitnehmer sicherzustellen (vgl. Dehnbostel, 2011,
+p. 105). Zudem ist möglich, daß Mitarbeiter bereits geistig mit ihrem
 Unternehmen abgeschlossen haben und mit dem Erwerb von zusätzlichen
 Kompetenzen einen Stellenwechsel vorbereiten (vgl. North et al., 2018,
 p. 185). Hinzu kommt, daß ihnen ihre Kompetenzen nicht unbedingt bewußt
@@ -534,20 +534,20 @@ offenlegen können.
 
 Doch selbst wenn sie dazu bereit wären, ist nicht in allen Fällen zu
 erwarten, daß der Impuls für die Erfassung und Verwertung von informell
-erworbenen Kompetenzen von den Mitarbeitenden ausgeht. Hier kommt der
+erworbenen Kompetenzen von den Mitarbeitern ausgeht. Hier kommt der
 direkten Führungskraft eine wichtige Rolle zu. Oftmals wissen
-Führungskräfte sehr wenig über Kompetenzen ihrer Mitarbeitenden, sofern
+Führungskräfte sehr wenig über Kompetenzen ihrer Mitarbeiter, sofern
 diese außerhalb der gemeinsamen Arbeit erworben worden sind (vgl. North
 et al., 2018, p. 171). Sie haben hinreichend nahen Kontakt zu den
-Mitarbeitenden im Arbeitsalltag, um niederschwellig Informationen, auch
+Mitarbeitern im Arbeitsalltag, um niederschwellig Informationen, auch
 im informellen Gespräch, zu erlangen. Dazu müssen sie allerdings auch
 bereit sein, die Rolle des Coaches anzunehmen (vgl. Seufert and Meier,
 2016, p. 556), und dürfen die Personalentwicklung nicht alleine der
 Personalabteilung überlassen.
 
-Die Personalabteilungen der Unternehmen haben erkannt, daß Mitarbeitende
+Die Personalabteilungen der Unternehmen haben erkannt, daß Mitarbeiter
 gewinnen wichtig ist (vgl. Brussig and Leber, 2005, p. 12). Ebenso
-wichtig ist, diese Mitarbeitenden dann auch zu halten (vgl. North et
+wichtig ist, diese Mitarbeiter dann auch zu halten (vgl. North et
 al., 2018, p. 172), beispielsweise durch persönlich befriedigende
 Entwicklungsperspektiven oder konkrete Karrierepfade (vgl. Gillen, 2003,
 p. 9; vgl. Kaufhold, 2006, p. 215), und diese auch weiterzuentwickeln.
@@ -557,30 +557,30 @@ sowohl in höhere als auch in besser passende gleichrangige Positionen
 (vgl. Gillen, 2003, p. 10). Eine Seitwärtsbewegung kann interessant
 sein, da wissensorientierte Unternehmen in der Tendenz wenige
 Hierarchiestufen und damit offene Positionen aufweisen, und gerade
-technisch orientierte Mitarbeitende oftmals wenig Interesse an
+technisch orientierte Mitarbeiter oftmals wenig Interesse an
 klassischer Personalführung zeigen (vgl. North et al., 2018, p. 171).
 
 Beide -- Führungskräfte wie Personalabteilung -- agieren
-unternehmensintern als Bewertende der informell erworbenen Kompetenzen.
-Doch wo Personalabteilungsmitarbeitende oftmals besonders geschult sind,
+unternehmensintern als Bewerter der informell erworbenen Kompetenzen.
+Doch wo Personalabteilungsmitarbeiter oftmals besonders geschult sind,
 informell erworbene Kompetenzen einzuschätzen, da dies insbesondere bei
 Bewerbungsgesprächen alltägliche Aufgabe ist (vgl. Stegemann, 2008, p.
 66), kann bei Führungskräften nicht allgemein mit konkreten Fertigkeiten
 in diesem Bereich gerechnet werden.
 
 Beiden Personengruppen kommt insbesondere auch eine beratende Funktion
-zu. Die Führungskraft sollte ihre Mitarbeitenden ermutigen, informell
+zu. Die Führungskraft sollte ihre Mitarbeiter ermutigen, informell
 erworbene Kompetenzen aktiv zu suchen und einzubringen, die
 Personalabteilung sollte Rahmenbedingungen schaffen, um zur Nutzung
 solcher Möglichkeiten zu ermutigen. Dies können Informationsangebote im
 Intranet oder Broschüren sein, das Anbieten von Informationsgesprächen,
 aber auch die Etablierung von Prozessen.
 
-Der Betriebsrat ist idealerweise selbst im Interesse der Mitarbeitenden
+Der Betriebsrat ist idealerweise selbst im Interesse der Mitarbeiter
 an Fragen der Weiterentwicklung und des Kompetenzaufbaus aktiv. Es
 empfiehlt sich, den Betriebsrat vollumfänglich einzubinden, ohne zu
 hinterfragen, wie weit das gesetzliche Mitbestimmungsrecht wirklich
-reicht, da diese Diskussion „nicht zielführend" (North et al., 2018, p.
+reicht, da diese Diskussion „nicht zielführend“ (North et al., 2018, p.
 254) ist.
 
 ## Übertragbare Aspekte
@@ -588,7 +588,7 @@ reicht, da diese Diskussion „nicht zielführend" (North et al., 2018, p.
 Die Prozeßhaftigkeit der Validierung fügt sich nahtlos in die
 Prozeßorientierung moderner Unternehmen ein. Dadurch wird auch die
 Transparenz und Fairneß gefördert, denn offiziell eingeführte Prozesse
-stehen allen Mitarbeitenden offen und werden einheitlich gehandhabt,
+stehen allen Mitarbeitern offen und werden einheitlich gehandhabt,
 statt von der eigenen Führungskraft abzuhängen. Eine Eigentümlichkeit
 einer betriebsinternen Validierung ist allerdings die fehlende
 staatliche Anerkennung einer Zertifizierung (vgl. Gillen, 2006, p. 263).
@@ -598,7 +598,7 @@ die Erfassung, die Dokumentation und die Bewertung (vgl. Dehnbostel,
 die als eigene Phase, analog zur Zertifizierung in der Validierung,
 betrachtet wird (vgl. Cedefop, 2014, p. 26).
 
-Die eingesetzten Verfahren sollten „offen für das Unerwartete" (Cedefop,
+Die eingesetzten Verfahren sollten „offen für das Unerwartete“ (Cedefop,
 2016, p. 18) sein. Damit bieten sich biographische Verfahren (vgl.
 Dehnbostel et al., 2010, p. 25) oder deklarative Verfahren (vgl.
 Gutschow, 2020, p. 463) der Selbstbeurteilung an, die beide
@@ -607,45 +607,45 @@ Selbstreflexion voraussetzen.
 Der berechtigten Befürchtung, reine Selbstbeurteilungen könnten zu
 unwahren und stark geschönten Angaben führen, kann begegnet werden,
 indem die Personen anschließend mit „realen Arbeitsaufträgen aus dem
-beruflichen Alltag konfrontiert" werden (Kaufhold, 2006, p. 136). Diese
+beruflichen Alltag konfrontiert“ werden (Kaufhold, 2006, p. 136). Diese
 nachgelagerte Beobachtung wirkt nicht nur im Sinne einer Überprüfung,
 sondern schreckt Falschangaben auch präventiv ab, setzt jedoch einen
 zeitnahen Arbeitseinsatz voraus.
 
 Die meisten Unternehmen kennen bereits das Mittel der periodischen,
-zumeist jährlichen Mitarbeitendengespräche. Hier kann die
+zumeist jährlichen Mitarbeitergespräche. Hier kann die
 innerbetriebliche Validierung am einfachsten ansetzen, da bereits eine
 Gesprächssituation zwischen Unternehmen, vertreten durch die
-Führungskraft, und Mitarbeitenden vorliegt. Die Kompetenzerfassung und
--beurteilung findet im Mitarbeitendengespräch allerdings eher am Rande
+Führungskraft, und Mitarbeitern vorliegt. Die Kompetenzerfassung und
+-beurteilung findet im Mitarbeitergespräch allerdings eher am Rande
 (vgl. Stegemann, 2008, p. 37) und unsystematisch (vgl. Gillen, 2006, p.
 51) sowie ohne vorab bestimmte Kriterien (vgl. Grunau and Bals, 2015, p.
 357) statt.
 
-Selbstreflexion ist im Wege des Mitarbeitendengesprächs auch am ehesten
+Selbstreflexion ist im Wege des Mitarbeitergesprächs auch am ehesten
 zu erwarten, da es sich um eine Eins-zu-Eins-Gesprächssituation handelt.
 Allerdings ist eine Vertrauensbasis zwischen Führungskraft und
-Mitarbeitenden notwendig, ebenso empfiehlt sich eine explizite
+Mitarbeitern notwendig, ebenso empfiehlt sich eine explizite
 Zeitperiode vorab zur Vorbereitung des Mitarbeitendengesprächs, in der
 Selbstreflexion stattfinden kann.
 
-Eine wichtige Aufgabe der Führungskräfte ist, die Mitarbeitenden zu
+Eine wichtige Aufgabe der Führungskräfte ist, die Mitarbeiter zu
 beraten und im Prozeß zu begleiten. Diese Beratung und Begleitung
 beginnt vor dem offiziellen Beginn des Anerkennungsverfahrens, noch
-bevor die Mitarbeitenden eventuell darüber nachgedacht haben, und zieht
+bevor die Mitarbeiter eventuell darüber nachgedacht haben, und zieht
 sich durch den gesamten Ablauf (vgl. Gillen, 2006, p. 233), in dem
 insbesondere Unterstützung bei der Erfassung geleistet werden muß, weil
 vorhandene eigene Kompetenz nicht notwendigerweise auch selbst
 überblickt und beschrieben werden kann (vgl. Fischer, 2020, p. 273).
 
-Im Allgemeinen wissen die Führungskräfte, daß sie als Beobachtende eine
+Im Allgemeinen wissen die Führungskräfte, daß sie als Beobachter eine
 besondere Verantwortung tragen (vgl. Kaufhold, 2006, p. 133). Die
 Unparteilichkeit und Objektivität in der Bewertung ist aus
 Unternehmenssicht eine grundlegende Voraussetzung (vgl. Cedefop, 2014,
 p. 20), um zu sachgemäßen Bewertungen zu kommen und diesen Prozeß zu
 rechtfertigen. Nicht allgemein vorausgesetzt werden kann insbesondere
 qualitatives Methodenwissen, speziell zur Interviewführung. Hier müssen
-Personalabteilungen und gegebenenfalls externe Beratende die
+Personalabteilungen und gegebenenfalls externe Berater die
 Führungskräfte stärken.
 
 Die Kombination mehrerer Methoden (Methodentriangulation,
@@ -661,7 +661,7 @@ Schritt, die Erfassung und Dokumentation, ein wichtiger Schritt nach
 vorne. Denn die Beschreibung ist Grundlage für alle weitere Verwertung
 (vgl. Dehnbostel et al., 2010, p. 39).
 
-Wenn die Kompetenzen der Mitarbeitenden erfaßt und bewertet worden sind,
+Wenn die Kompetenzen der Mitarbeiter erfaßt und bewertet worden sind,
 kann eine unternehmensinterne Veröffentlichung im Sinne eines
 Kompetenzverzeichnisses vorteilhaft sein (vgl. North et al., 2018, p.
 211), um die Kooperation zu fördern und das Zusammenstellen geeigneter
@@ -681,14 +681,14 @@ werden, wo sie ökonomisch vertretbar sind, da gerade kleine und mittlere
 Unternehmen nur begrenzte Ressourcen für solche Prozesse aufwenden
 können (vgl. Cedefop, 2016, p. 52). Die gesprächsbasierten Methoden
 stechen heraus, weil sie sich gut ins bereits bestehende Umfeld mit
-Mitarbeitendengesprächen, Bewerbungsgesprächen, Leistungsbeurteilungen
+Mitarbeitergesprächen, Bewerbungsgesprächen, Leistungsbeurteilungen
 etc. einfügen (vgl. Cedefop, 2014, p. 48). Dabei darf nicht zu viel
 sozialwissenschaftliche Methodik erwartet werden, im Bereich der
-innerbetrieblichen Anerkennung ist „gut genug" wirklich gut genug.
+innerbetrieblichen Anerkennung ist „gut genug“ wirklich gut genug.
 
 Wichtig ist auch, daß der Umgang mit den erhobenen Informationen erklärt
 und, wo nötig, vertraulich gehalten wird. Ebenso müssen sachliche
-Rückmeldungen an die Mitarbeitenden erfolgen, die offenlegen, welche
+Rückmeldungen an die Mitarbeiter erfolgen, die offenlegen, welche
 Kompetenzen weswegen oder weswegen nicht anerkannt worden sind (vgl.
 Gillen, 2003, p. 21). Zudem muß das Verfahren fair gehalten sein, das
 bedeutet neben der Transparenz -- es darf kein geheimes Verfahren mit
