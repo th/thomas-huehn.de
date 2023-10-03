@@ -3,7 +3,9 @@ title: "Kalibriertes Schätzen"
 description: Wie man seine Schätzungen kalibriert und zu einem besseren Schätzer wird
 date: 2020-10-02
 tags: ['Management', 'Psychologie', 'Schätzen']
----:|
+---
+| |        |
+|-|--------|
 |0|1,00E-10|
 |1|9,00E-09|
 |2|3,64E-07|

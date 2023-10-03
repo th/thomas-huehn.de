@@ -3,8 +3,9 @@ title: "Kalibriertes Schätzen: Übungen I"
 description: Übungen zum kalibrierten Schätzen
 date: 2021-05-27
 tags: [Management, Psychologie, Schätzen]
----:|
+---
 |falsch|100%|richtig|
+|------|----|-------|
 |wahr|70%|richtig|
 |wahr|100%|richtig|
 |wahr|60%|falsch|
