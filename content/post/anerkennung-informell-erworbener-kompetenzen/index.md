@@ -234,7 +234,7 @@ definitorische Ungenauigkeit ergibt sich, daß die Validierung, die den
 vierten Prozeßschritt darstellt, auch pars pro toto als Begriff für den
 Gesamtprozeß steht (vgl. Dehnbostel et al., 2010, p. 16).
 
-## Ziel
+### Ziel
 
 Die Validierung soll die Gleichwertigkeit informell erworbener
 Kompetenzen zu Qualifikationsstandards wie dem DQR oder dem EQR (vgl.
