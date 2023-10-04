@@ -21,7 +21,7 @@ Bildungsbiographien oftmals keine adäquaten Zertifikate des klassischen
 (Berufs-)Bildungssystems vorweisen. Dennoch besitzen sie beruflich
 verwertbare Fähigkeiten und Kompetenzen, die nutzbar gemacht werden
 sollen (vgl. Gillen, 2003, p. 4). Auch seitens der Unternehmen können
-geradlinigen Karrierewege nicht mehr garantiert werden, sondern die
+geradlinige Karrierewege nicht mehr garantiert werden, sondern die
 Anpassung an wechselnde Aufgaben und Positionen auch innerhalb eines
 Arbeitsverhältnisses wird gefordert (vgl. Sonntag et al., 2004, p. 105).
 Bei solchen Umorientierungen sollten „sämtliche Kenntnisse, Fertigkeiten
