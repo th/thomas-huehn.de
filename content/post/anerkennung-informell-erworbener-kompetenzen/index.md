@@ -626,7 +626,7 @@ Selbstreflexion ist im Wege des Mitarbeitergesprächs auch am ehesten
 zu erwarten, da es sich um eine Eins-zu-Eins-Gesprächssituation handelt.
 Allerdings ist eine Vertrauensbasis zwischen Führungskraft und
 Mitarbeitern notwendig, ebenso empfiehlt sich eine explizite
-Zeitperiode vorab zur Vorbereitung des Mitarbeitendengesprächs, in der
+Zeitperiode vorab zur Vorbereitung des Mitarbeitergesprächs, in der
 Selbstreflexion stattfinden kann.
 
 Eine wichtige Aufgabe der Führungskräfte ist, die Mitarbeiter zu
