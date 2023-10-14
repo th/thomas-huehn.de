@@ -142,7 +142,7 @@ drei weiteren Arten von Kompetenzen. Methodenkompetenz zeigt sich
 insbesondere in strukturiertem Vorgehen und flexibler Reaktion auf eine
 Problemstellung (vgl. Kaufhold, 2006, p. 163). Sozialkompetenz ist das
 Verhalten in Gruppen, besonders auch „wertende Äußerungen gegenüber
-Personen und ihren Handlungen\“ (Kaufhold, 2006, p. 164).
+Personen und ihren Handlungen“ (Kaufhold, 2006, p. 164).
 Personalkompetenz zielt auf die Selbstorganisationsfähigkeit des
 Individuums ab, beispielsweise das Zeitmanagement (vgl. Gnahs, 2010, p.
 27).
