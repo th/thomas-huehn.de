@@ -496,7 +496,7 @@ nicht fördern (vgl. Stegemann, 2008, p. 67).
 
 Ebenso scheuen Unternehmen zuweilen das Erfassen und die -- auch nur
 unternehmensinterne -- Sichtbarmachung von Kompetenzen, die nicht als
-Kernanforderung der ausgeübten Tätigkeit verstanden wird, weil
+Kernanforderung der ausgeübten Tätigkeit verstanden werden, weil
 Mitarbeiter daraus Gehaltsforderungen ableiten können (vgl. Gnahs,
 2010, p. 66; vgl. Stegemann, 2008, p. 67).
 
