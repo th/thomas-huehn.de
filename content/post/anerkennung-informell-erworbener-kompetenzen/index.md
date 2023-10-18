@@ -437,7 +437,7 @@ bestätigen. Dies können *Arbeitsproben* sein (vgl. Cedefop, 2016, p.
 Vorteil, Personal-, Methoden- und Sozialkompetenzen abprüfen zu können.
 Zudem können sie auf Einsatzbereich und Person angepaßt werden (vgl.
 Döring and Kreider, 2017, p. 9). Aber auch *Arbeitszeugnisse* fallen in
-diese Kategorie*.* Sie weisen „auf dem Arbeitsmarkt eine hohe Akzeptanz“
+diese Kategorie. Sie weisen „auf dem Arbeitsmarkt eine hohe Akzeptanz“
 (Stegemann, 2008, p. 68) auf, da sie von ehemaligen Arbeitgebern
 ausgestellt sind und damit die Wirtschaftsnähe und die Seriosität belegt
 ist (vgl. Stegemann, 2008, p. 51). Dies gilt, obwohl ihre eingeschränkte
