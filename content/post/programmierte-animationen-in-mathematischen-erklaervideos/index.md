@@ -1103,7 +1103,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                        |
 |        |       | K17       |                                                                                                                        |
 |        |       | K08       |                                                                                                                        |
-|        |       | -K02      |                                                                                                                        |
+|        |       | **-K02**      |                                                                                                                        |
 | 03:29  | 04:29 | K08       | Multiplikation zweier Matrizen                                                                                         |
 |        |       | K06       |                                                                                                                        |
 |        |       | K03       |                                                                                                                        |
@@ -1123,7 +1123,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K09       | Raum dehnen und stauchen: Determinante                                                                                    |
 |        |       | K16       |                                                                                                                           |
 | 00:47  | 01:45 | K04       | konkretes Beispiel                                                                                                        |
-|        |       | -K02      |                                                                                                                           |
+|        |       | **-K02**      |                                                                                                                           |
 |        |       | K06       |                                                                                                                           |
 |        |       | K17       | Fläche markiert                                                                                                           |
 | 01:46  | 02:30 | K16       | was mit dem Einheitsquadrat geschieht, bestimmt was mit allen Flächen geschieht                                           |
@@ -1185,12 +1185,12 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K17       |                                                                                                                         |
 |        |       | K06       |                                                                                                                         |
 | 03:15  | 04:44 | K04       | konkretes Beispiel                                                                                                      |
-|        |       | -K02      |                                                                                                                         |
+|        |       | **-K02**      |                                                                                                                         |
 |        |       | K06       |                                                                                                                         |
 |        |       | K17       |                                                                                                                         |
 | 03:42  |       | K03       | “In the language of the last video”                                                                                     |
 | 03:51  | 05:39 | K21       | “Let's start with the most likely case...”                                                                              |
-| 04:45  |       | -K02      | “In general...”                                                                                                         |
+| 04:45  |       | **-K02**      | “In general...”                                                                                                         |
 |        |       | K07       | “A inverse is...", "identity transformation”                                                                            |
 | 05:21  |       | K21       | “Once you find this inverse...”                                                                                         |
 | 05:40  | 07:44 | K08       | Anzahl Lösungen                                                                                                         |
@@ -1257,7 +1257,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                                                                |
 |        |       | K17       |                                                                                                                                                                |
 | 04:20  |       | K09       | Vorschau auf später im Video                                                                                                                                   |
-|        |       | -K14      |                                                                                                                                                                |
+|        |       | **-K14**      |                                                                                                                                                                |
 | 04:44  |       | K03       | Verweis auf Kapitel 3                                                                                                                                          |
 |        |       | K13       | Aufforderung, Kapitel 3 anzusehen, falls nicht bereits geschehen                                                                                               |
 | 04:50  | 05:19 | K05       | statt formeller Definition: äquivalente graphische Eigenschaft                                                                                                  |
