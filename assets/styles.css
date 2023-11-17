@@ -48,7 +48,7 @@ kbd, samp, pre {
 table {
 	border-collapse: collapse;
 	margin: 1.5rem auto;
-	width: 80%;
+	width: 100%;
 	text-align: left;
 	display: table;
     table-layout: fixed;
@@ -213,4 +213,44 @@ a.favitem:before {
     a.noprint:after {
 		content: "";
 	}
+}
+
+/* Base styles for all headings */
+h1, h2, h3, h4, h5, h6 {
+th    margin-top: 1em; /* Space above each heading */
+    margin-bottom: 0.5em; /* Space below each heading */
+}
+
+/* Specific styles for each heading level */
+h1 {
+    font-size: 1.8em; /* Largest heading */
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.4em;
+    font-weight: normal;
+}
+
+h4 {
+    font-size: 1.2em;
+    font-weight: normal;
+    text-transform: uppercase; /* A stylistic choice */
+    letter-spacing: 1px; /* Increased letter spacing */
+}
+
+h5 {
+    font-size: 1.1em;
+    font-weight: normal;
+}
+
+h6 {
+    font-size: 1em;
+    font-weight: normal;
+    text-transform: italic; /* Italic for distinction */
 }
