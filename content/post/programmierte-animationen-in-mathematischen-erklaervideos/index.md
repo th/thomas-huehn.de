@@ -880,7 +880,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       |K20          ||
 |        |       |K22          || 
 | 02:00  | 02:20 | K23       | "think of vector as arrow"                                                                                                                                |
-|        |       | -K02      | erst konkrete Ausprägung                                                                                                                                  |
+|        |       | **-K02**      | erst konkrete Ausprägung                                                                                                                                  |
 |        |       | K13       |                                                                                                                                                           |
 | 02:20  | 02:22 | K22       | schnell, ausgeprägte Prosodie: "a liiitttle bit different", angenehme Stimme                                                                               |
 | 02:19  | 02:24 | K03       | "a little bit different from the Physics student perspective where vectors can freely sit anywhere they want in space"                                    |
