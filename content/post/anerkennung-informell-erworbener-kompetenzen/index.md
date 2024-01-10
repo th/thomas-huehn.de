@@ -321,7 +321,7 @@ anhand der Gütekriterien Validität, Reliabilität und Objektivität
 beurteilt. Dabei bedeutet Validität, daß die zu messen beabsichtigten
 Eigenschaften der Person, hier der Lernerfolg, auch tatsächlich gemessen
 wird. Reliabilität zielt insbesondere auf konsistente Ergebnisse
-zwischen verschiedenen Bewertenden in unterschiedlichen
+zwischen verschiedenen Bewertern in unterschiedlichen
 Bewertungssituationen ab. Objektivität fordert, daß Eigenschaften der
 Bewerter die Ergebnisse nicht beeinflussen (vgl. Stegemann, 2008, p.
 43). Hinzu kommen bei den häufig eingesetzten qualitativen Verfahren
@@ -334,7 +334,7 @@ Form der Validierung, wo sich Beurteiler und Beurteilte kennen und im
 Arbeitsalltag dauerhaft interagieren. Die Erfüllung von Gütekriterien
 ist wichtig, genügt aber nicht. Das Gefühl, fair bewertet zu werden, und
 die Bewertung auch im Falle eines negativen Ergebnisses zu akzeptieren,
-erfordert Vertrauen in die Bewertenden (vgl. Bjørnåvold, 2001, p. 29).
+erfordert Vertrauen in die Bewerter (vgl. Bjørnåvold, 2001, p. 29).
 Dazu gehört auch die kommunikative Validierung, also die Rückmeldung der
 erfaßten und bewerteten Kompetenzen an die Bewerteten (vgl. Gillen,
 2006, p. 139). Dabei gilt jedoch nicht, daß die Bewertung im nachhinein
