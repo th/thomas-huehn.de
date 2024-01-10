@@ -708,7 +708,7 @@ Sozial- und Personalkompetenzen in ein bestehendes, gegebenenfalls
 zugekauftes, Kompetenzraster eingefügt und dadurch über Gebühr
 formalisiert werden. Durch solche Formalisierung und daran
 anschließender Lenkung könnten die Vorteile und Chancen informell
-erworbener Kompetenzen ungenutzt bleibem (vgl. Rohs, 2020, p. 449).
+erworbener Kompetenzen ungenutzt bleiben (vgl. Rohs, 2020, p. 449).
 
 Eine künftig weiter zu erforschende Frage ist auch, ob zur Erfassung und
 Bewertung informell erworbener Kompetenzen neue Methoden entwickelt
