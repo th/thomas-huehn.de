@@ -7,9 +7,9 @@ favorite: true
 ---
 ![](taken-0c7012dd.jpg)
 
-**Übersetzer:** Dies ist die deutsche Übersetzung des Artikels [“Hunting down my son’s killer”](http://matt.might.net/articles/my-sons-killer/) von [Matt Might](http://matt.might.net/), übersetzt ins Deutsche von [Thomas Hühn](http://www.2uo.de/).
+**Übersetzer:** Dies ist die deutsche Übersetzung des Artikels [“Hunting down my son’s killer”](http://matt.might.net/articles/my-sons-killer/) von [Matt Might](http://matt.might.net/), übersetzt ins Deutsche von [Thomas Hühn](http://www.thomas-huehn.de/).
 
-**Übersetzer:** Bitte melden Sie mögliche Fehler in der Übersetzung, insbesondere solche medizinischer Natur, unbedingt an <mail@thomas-huehn.de>.
+**Übersetzer:** Bitte melden Sie mögliche Fehler in der Übersetzung, insbesondere solche medizinischer Natur, unbedingt an <t@2uo.de>.
 
 Ich habe den Mörder meines Sohnes gefunden.
 
