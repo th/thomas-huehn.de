@@ -31,7 +31,7 @@ Probleme gab es auf dem Weg auch einige, aber keine, die ich nicht beheben oder 
 
 Wir modellieren einen Korb mit Äpfeln, davor zwei Apfelhälften und ein Messer. Alles texturiert, beleuchtet (3-Punkt-Beleuchtung) und mit viel Liebe zum Detail.
 
-Mein Ergebnis, daß im Beitragsbild oben zu bestaunen ist, kommt bei weitem nicht an die Vorlage, die Zach im Tutorial erstellt, heran. Aber für ein Wochenende, von Null auf Obstkorb, finde ich das schon sehr anständig.
+Mein Ergebnis, das im Bild weiter unten zu bestaunen ist, kommt bei weitem nicht an die Vorlage, die Zach im Tutorial erstellt, heran. Aber für ein Wochenende, von Null auf Obstkorb, finde ich das schon sehr anständig.
 
 Natürlich könnte ich das jetzt nicht, ohne das Video zu gucken, nochmal nachvollziehen. Aber Teile davon schon. Und manche Dinge sind schon fast im Muskelgedächtnis. „g x“ zum Verschieben entlang der x-Achse, „Shift-d“ zum duplizieren. Ich kann jedenfalls mehr Blender als zuvor.
 
