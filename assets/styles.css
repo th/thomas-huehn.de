@@ -33,7 +33,7 @@ code {
 }
 
 kbd, samp, pre {
-	font-family: font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+	font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 	margin: 3rem auto;
 	width: 80%;
 	padding: 0rem 1rem 1rem 1rem;
@@ -216,8 +216,8 @@ a.favitem:before {
 }
 
 /* Base styles for all headings */
-h1, h2, h3, h4, h5, h6 {
-th    margin-top: 1em; /* Space above each heading */
+h1, h2, h3, h4, h5, h6 th {
+    margin-top: 1em; /* Space above each heading */
     margin-bottom: 0.5em; /* Space below each heading */
 }
 
