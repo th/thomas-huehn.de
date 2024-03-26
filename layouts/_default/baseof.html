@@ -10,8 +10,8 @@
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{- end -}}
-    {{ $style := resources.Get "styles.css" | minify | fingerprint  }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" />
+	{{- $css := resources.Get "styles.css" | resources.ToCSS }}
+    <style>{{ $css.Content | safeCSS }}</style>
 	<title>{{ with .Params.Title }}{{ . }}{{ end }}</title>
   </head>
   <body>
