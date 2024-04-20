@@ -4,6 +4,7 @@
 {{- with (imageConfig $path) -}}
     {{- $width = .Width -}}
     {{- $height = .Height -}}
+{{- end -}}
 <figure>
 <img src="data:image/jpeg;base64,{{ readFile $path | base64Encode }}"
     alt="{{ .Text }}"
@@ -11,6 +12,5 @@
     {{ if ne $height 0 }}height="{{ $height }}"{{ end }}
     {{ with .Title}}title="{{ . }}"{{ end }}
 />
-{{- end -}}
 {{- if .Title -}}<figcaption>{{.Title}}</figcaption>{{- end -}}
 </figure>
