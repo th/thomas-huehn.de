@@ -42,3 +42,8 @@ params:
           url: "/datenschutzerklaerung/"
         - title: "Impressum"
           url: "/impressum/"
+
+ignoreFiles:
+    - \.jpg$
+    - \.png$
+    - \.svg$
