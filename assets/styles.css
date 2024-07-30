@@ -160,6 +160,7 @@ ul {
 #siteheader a {
 	min-width: 48px;
 	min-height: 48px;
+	color: darkgray;
 }
 
 #articleheader {
@@ -169,6 +170,7 @@ ul {
 .year {
     clear: both;
     padding-top: 3rem;
+	color: darkgray;
 }
 
 .articlelist {
@@ -186,6 +188,7 @@ ul {
 .articlelist > li > a {
     display: table-cell;
 	padding-bottom: 1rem;
+	color: black;
 }
 
 
