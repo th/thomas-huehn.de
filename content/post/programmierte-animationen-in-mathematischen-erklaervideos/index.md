@@ -108,7 +108,7 @@ Animationen vorliegen, muß auf allgemeinere Theorien zurückgegriffen
 werden. Zunächst wird die Medieneigenschaft von Erklärvideos diskutiert.
 Anschließend wird als erstes die Theorie der Dualen Kodierung
 beschrieben. Darauf aufbauend wird die „Kognitive Theorie Multimedialen
-Lernens" vorgestellt, die aufgrund der multimedialen Verknüpfung von
+Lernens” vorgestellt, die aufgrund der multimedialen Verknüpfung von
 Sprache und Bild in Erklärvideos Ansätze zur Untersuchung der
 3Blue1Brown-Videos liefern kann. Abschließend wird eine Erweiterung
 dieser Theorie vorgestellt, die „Cognitive-Affective Theory of Learning
