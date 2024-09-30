@@ -3,6 +3,7 @@ title: 'Die Community of Practice im Spannungsfeld zwischen Unternehmens- und An
 description: 'Welchen Beitrag leisten Communities of Practice zur Vermittlung zwischen Unternehmens- und Angestellteninteressen in der betrieblichen Weiterbildung?'
 date: 2024-07-04
 tags: ['Beruf', 'Community of Practice', 'Lernen']
+favorite: true
 ---
 # Einleitung
 
