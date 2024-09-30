@@ -1,6 +1,6 @@
 ---
 title: 'Die Community of Practice im Spannungsfeld zwischen Unternehmens- und Angestellteninteressen'
-description: 'Welchen Beitrag leisten Communities of Practice zur Vermittlung zwischen Unternehmens- und Angestellteninteressen in der betrieblichen Weiterbildung?"'
+description: 'Welchen Beitrag leisten Communities of Practice zur Vermittlung zwischen Unternehmens- und Angestellteninteressen in der betrieblichen Weiterbildung?'
 date: 2024-07-04
 tags: ['Beruf', 'Community of Practice', 'Lernen']
 ---
@@ -55,7 +55,7 @@ Verbesserungen vorzunehmen (vgl. North & Güldenberg, 2009, S. 35).
 
 Unternehmen stellen immer wieder fest, daß in den Köpfen ihrer
 Angestellten zwar viel Wissen steckt, dieses Wissen jedoch träge bleibt
-(vgl. Karg, 2006, S. 26) und von seinen Wissenstragenden nicht zur
+(vgl. Karg, 2006, S. 26) und von seinen Wissensträgern nicht zur
 praktischen Anwendung gebracht werden kann (vgl. Nolda, 2023, S. 443),
 weil es entweder an Motivation der einzelnen Angestellten mangelt,
 dieses Wissen in praktische Handlungen umzusetzen, oder weil die
@@ -79,7 +79,7 @@ Während die obigen Überlegungen aus Unternehmenssicht auf die moderne
 Wissensarbeit gerichtet waren, so können die Perspektiven der
 Angestellten nicht vernachlässigt werden. Diese unterscheiden sich zwar
 individuell, werden jedoch in dieser Abschlußarbeit dennoch unter eine
-kollektive Perspektive „der Angestellten" subsumiert. Ein Gesichtspunkt,
+kollektive Perspektive „der Angestellten“ subsumiert. Ein Gesichtspunkt,
 unter dem diese Angestelltenwünsche betrachtet werden können, ist das
 Maß der Autonomie, also der Selbstbestimmung. Wieviel bestimmt die
 Führungskraft oder andere Organe des Unternehmens, wieviel können
@@ -102,7 +102,7 @@ ergibt sich folgende Forschungsfrage:
 
 **„Welchen Beitrag leisten Communities of Practice zur Vermittlung
 zwischen Unternehmens- und Angestellteninteressen in der betrieblichen
-Weiterbildung?"**
+Weiterbildung?“**
 
 Die Interessen beider Seiten werden in dieser Abschlußarbeit mittels
 geeigneter bildungswissenschaftlicher Theorien untersucht und
@@ -153,10 +153,10 @@ Angestellte einer bestimmter Rolle (z.B. Softwarearchitektin oder
 Softwarearchitekt) zusammenkommen, um unter Gleichgesinnten die eigenen
 Probleme und Herausforderungen zu erörtern, aber auch, um ein
 Gemeinschaftsgefühl zu erleben, beispielsweise „als
-Softwarearchitektinnen und Softwarearchitekten". Es ist dabei nicht
+Softwarearchitektinnen und Softwarearchitekten“. Es ist dabei nicht
 wichtig, ob eine Community of Practice im Unternehmen als solche
 bezeichnet wird, andere gängige Bezeichnungen können
-„Innovationszirkel", „Kompetenznetzwerke" oder viele andere sein (vgl.
+„Innovationszirkel“, „Kompetenznetzwerke“ oder viele andere sein (vgl.
 North et al., 2004, S. 16), lediglich auf die Art der Gruppe und ihre
 Eigenschaften kommt es an.
 
@@ -166,7 +166,7 @@ kein organisatorisches ist. Der Begriff bezeichnet bestimmte
 Konstellationen von Personen und deren Beziehungen zueinander in einem
 Lernkontext. Denn die Community of Practice bezeichnet nach
 ursprünglicher Begriffsbildung einen Prozeß der *Legitimen Peripheren
-Partizipation* (vgl. Lave & Wenger, 1991, S. 98), in dem Teilnehmende
+Partizipation* (vgl. Lave & Wenger, 1991, S. 98), in dem Teilnehmer
 neu in die Gemeinschaft kommen und dort in einem sozialen Prozeß
 Fähigkeiten erwerben (vgl. Lave & Wenger, 1991, S. 29). Dabei steht das
 Berufssetting stets im Vordergrund, eine Anwendung auf den schulischen
@@ -178,7 +178,7 @@ Analysekategorie des Situierten Lernens und später des Sozialen Lernens,
 jedoch erkannte Wenger auch bald die Anwendbarkeit auf konkrete
 Problemstellungen von Unternehmen, beispielsweise des Wissensmanagements
 (siehe den Untertitel von Wenger et al., 2002: „A Guide to Managing
-Knowledge").
+Knowledge“).
 
 ## Theoretische Rahmung
 
@@ -212,7 +212,7 @@ Kapitel 2.1.2).
 
 ### Situiertes Lernen
 
-Situiertes Lernen ist mehr als „Learning by Doing". Die Situierung
+Situiertes Lernen ist mehr als „Learning by Doing“. Die Situierung
 bezeichnet nicht lediglich eine Lernumgebung im Sinne eines weltlichen
 Ortes oder einer praktischen Berufstätigkeit, sondern konzentriert sich
 auf die sozialen Prozesse (vgl. Czauderna, 2014, S. 43; vgl. Lave &
@@ -220,29 +220,29 @@ Wenger, 1991, S. 31). Wissen ist insofern situiert, als es von der
 konkreten Handlung, dem Anwendungsfeld und der umgebenden Kultur
 mitbestimmt wird (vgl. von Wright, 1992, S. 66). Beim Situierten Lernen
 prägt diese soziale Umgebung das Lernen. Lernen ist an keinen bestimmten
-Zweck gebunden, dem sich die Lernenden durch Lernaufgaben gezielt
+Zweck gebunden, dem sich die Lerner durch Lernaufgaben gezielt
 nähern, sondern wirkt eher in Form von Enkulturation (vgl. Dehnbostel,
 2022, S. 66) und geschieht durch „aktives Handeln und praktische
-Erfahrungen" (Dehnbostel, 2022, S. 67). An Stelle des rein individuellen
+Erfahrungen“ (Dehnbostel, 2022, S. 67). An Stelle des rein individuellen
 Lernens tritt eine allmähliche, durch die Gruppe ermöglichte Entwicklung
-von Neu-Teilnehmenden zu Alt-Teilnehmenden (vgl. Czauderna, 2014, S.
+von Neu-Teilnehmern zu Alt-Teilnehmern (vgl. Czauderna, 2014, S.
 44), die mit einer graduell zunehmenden Qualität der Partizipation in
 der Gruppe einhergeht: von peripherer Partizipation zu vollständiger
-Partizipation. Der Übergang von Neu-Teilnehmenden zu Alt-Teilnehmenden
+Partizipation. Der Übergang von Neu-Teilnehmern zu Alt-Teilnehmern
 ist dabei nicht abrupt und binär, ebensowenig lassen sich die Akteure
-dichotom in Lehrende und Lernende kategorisieren. Stattdessen existiert
+dichotom in Lehrer und Lerner kategorisieren. Stattdessen existiert
 in einer Community of Practice ein ganzes Sozialgefüge unterschiedlicher
 Personen, deren Verhältnisse zueinander komplexer sind (vgl. Lave &
 Wenger, 1991, S. 56). Beispielsweise kann eine Community of Practice,
 die sich in einem klassischen Lehrbetrieb einstellt, aus Gesellinnen und
 Gesellen, Meisterinnen und Meistern, aber auch aus „Alt-Meisterinnen und
--Meistern", die vormals die Meisterinnen und Meister ausgebildet haben,
+-Meistern“, die vormals die Meisterinnen und Meister ausgebildet haben,
 bestehen (vgl. Lave & Wenger, 1991, S. 56). Insofern sind Begriffe wie
-„Neu-Teilnehmende" oder „Alt-Teilnehmende" relativ und relational zu
-verstehen; in einem anderen Kontext können Alt-Teilnehmende selbst
-relative Neu-Teilnehmende sein (vgl. Lave & Wenger, 1991, S. 57).
+„Neu-Teilnehmer“ oder „Alt-Teilnehmer“ relativ und relational zu
+verstehen; in einem anderen Kontext können Alt-Teilnehmer selbst
+relative Neu-Teilnehmer sein (vgl. Lave & Wenger, 1991, S. 57).
 
-Lernen geschieht durch Beobachten erfahrener Teilnehmender in
+Lernen geschieht durch Beobachten erfahrener Teilnehmerr in
 Praxissituationen (vgl. Lave & Wenger, 1991, S. 78). Jedoch reicht die
 Beobachtung nicht aus, in der Community of Practice können Neuzugänge
 auch partizipieren, wodurch sie die Kultur der Gruppe von innen
@@ -251,10 +251,10 @@ Wenger, 1991, S. 95). Dazu müssen sie jedoch ein breites Spektrum realer
 (Arbeits-)Situationen beobachten können und nicht ausschließlich
 ausgewählten, als lehrreich empfundenen Situationen ausgesetzt werden
 (vgl. Lave & Wenger, 1991, S. 86). Dadurch erwerben die
-Neu-Teilnehmenden einen ganzheitlichen Blick auf die Domäne und
+Neu-Teilnehmern einen ganzheitlichen Blick auf die Domäne und
 erkennen, welchen Umfang die Tätigkeit aufweist (vgl. Lave & Wenger,
-1991, S. 93). Wenn die Fachpersonen Neu-Teilnehmenden jedoch als
-Lehrpersonen anstatt als Gleichrangige gegenübertreten, die lediglich
+1991, S. 93). Wenn die Experten Neu-Teilnehmern jedoch als
+Lehrer anstatt als Gleichrangige gegenübertreten, die lediglich
 einen Erfahrungs- und Wissensvorsprung besitzen, so wird Lernen
 behindert (vgl. Lave & Wenger, 1991, S. 76).
 
@@ -267,7 +267,7 @@ klassischen Lehrverhältnissen, wobei Lave und Wenger ihre ethnologische
 Betrachtung um eine Betrachtung der Anonymen Alkoholiker als untypische
 Konstellation erweitern (vgl. Lave & Wenger, 1991, S. 79--84). Die
 Umsetzung in ein Lehr-Lernkonzept erfolgte erst später, insbesondere
-durch Wenger (siehe Kapitel 2.1.2). Teilnehmende können sich zu Beginn
+durch Wenger (siehe Kapitel 2.1.2). Teilnehmer können sich zu Beginn
 ihrer Partizipation am Rande der Praxis, also peripher, befinden, da sie
 im Lernprozeß noch zu weit am Anfang stehen, um bereits für die Gruppe
 wertvolle Ergebnisse zu produzieren. Durch sukzessives Eintauchen in die
@@ -282,16 +282,16 @@ Gruppenmitgliedschaft. Sofern die künftige vollständige Partizipation an
 der sozialen Praxis nicht nur möglich, sondern auch erklärter Wunsch der
 Gruppe ist, bietet sie eine Entwicklungsmöglichkeit über Hierarchie- und
 Statusgrenzen hinweg (vgl. Lave & Wenger, 1991, S. 36). Legitimität
-erhält die Partizipation der Neu-Teilnehmenden durch die explizite
+erhält die Partizipation der Neu-Teilnehmern durch die explizite
 soziale Übereinkunft, zu solch peripherer Partizipation einzuladen. Zur
-vollen Partizipation motiviert insbesondere, von erfahrenen Fachpersonen
+vollen Partizipation motiviert insbesondere, von erfahrenen Experten
 der Community of Practice akzeptiert und anerkannt zu werden (vgl. Lave
 & Wenger, 1991, S. 110). Legitime periphere Partizipation bezeichnet
-Prozesse, die Menschen verändern, indem die Teilnehmenden eine eigene
+Prozesse, die Menschen verändern, indem die Teilnehmer eine eigene
 Identität ausbilden, die auf Wissen und Kompetenz im Kontext der Domäne
 der Community of Practice beruht. Auch die Communities of Practice als
 Gruppen verändern sich, indem sich die Gemeinschaft im Zeitverlauf nicht
-nur reproduziert, Teilnehmende ausscheiden und neu hinzukommen (vgl.
+nur reproduziert, Teilnehmer ausscheiden und neu hinzukommen (vgl.
 Lave & Wenger, 1991, S. 55).
 
 Legitime periphere Partizipation bedeutet nicht, daß auch illegitime
@@ -303,11 +303,11 @@ gestattet ist, aber die Partizipation an der Praxis der Gruppe dennoch
 eingeschränkt ist oder gar verweigert wird (vgl. Lave & Wenger, 1991, S.
 104). Auf diese Weise besteht kein Zugang zum Kern der Community of
 Practice, der sozialen Praxis, sondern lediglich Zugang zur
-organisatorisch-administrativen Hülle. Erfahrene Teilnehmende einer
+organisatorisch-administrativen Hülle. Erfahrene Teilnehmer einer
 Community of Practice können die legitime Partizipation der
-Neu-Teilnehmenden unterstützen, indem sie sie deren Äußerungen nicht
+Neu-Teilnehmern unterstützen, indem sie sie deren Äußerungen nicht
 kritisieren oder direkt korrigieren, sondern eigene Ansichten äußern,
-die den Neu-Teilnehmenden eine produktivere Lerngelegenheit bieten (vgl.
+die den Neu-Teilnehmern eine produktivere Lerngelegenheit bieten (vgl.
 Lave & Wenger, 1991, S. 106). Dies ist ein Beispiel für die grundlegende
 Empfehlung, auf spezielle pädagogisch motivierte Kommunikationsformate
 und Übungen zu verzichten und stattdessen normale gruppeninterne
@@ -321,7 +321,7 @@ Bestandteil einer Praxis und führt zu einer Stärkung der
 Gruppenidentität (vgl. Lave & Wenger, 1991, S. 85). Jedoch geht es nicht
 darum, durch Sprache zu lernen, sondern sprechen zu lernen (vgl. Lave &
 Wenger, 1991, S. 109) und dadurch vollständige Partizipation zu
-erlangen. Die Identitätsentwicklung einzelner Teilnehmender wird jedoch
+erlangen. Die Identitätsentwicklung einzelner Teilnehmerr wird jedoch
 nur angeschnitten und nimmt bei Wenger als zentralem Bestandteil seiner
 theoretischen Fundierung der Community of Practice dann breiteren Raum
 ein (siehe Kapitel 2.1.2).
@@ -330,24 +330,24 @@ ein (siehe Kapitel 2.1.2).
 
 Die Community of Practice in der wengerschen Definition weist drei
 konstitutive Merkmale auf: die *Domäne,* die *Gemeinschaft* und die
-geteilte *Praxis* (vgl. Wenger et al., 2002, S. 27)[.]{.underline} Die
+geteilte *Praxis* (vgl. Wenger et al., 2002, S. 27). Die
 Domäne beschreibt das Thema, das als gemeinsames Interesse der Gruppe
 fungiert und zudem von Bedeutung für den Geschäftsbetrieb des
 Unternehmens ist (vgl. North et al., 2004, S. 42). Die Gemeinschaft
-besteht aus den Personen, die das Thema gemeinsam bearbeiten oder
+besteht aus denjenigen, die das Thema gemeinsam bearbeiten oder
 verantworten möchten. Der Gemeinschaftsaspekt der Community of Practice
 entsteht durch die unbestimmte Dauer ihrer Existenz, die jedenfalls
 nicht nur kurzzeitig ist (vgl. North et al., 2004, S. 43). Die
-Teilnehmenden entwickeln eine gemeinsame Haltung, eine gemeinsame Art zu
+Teilnehmern entwickeln eine gemeinsame Haltung, eine gemeinsame Art zu
 handeln und zu denken (vgl. Mohajan, 2017, S. 47). Praxis sind
 gemeinsame historische und soziale Perspektiven auf die Welt, die
 gegenseitige Beteiligung an der gemeinsamen Tätigkeit fördern (vgl.
 Wenger, 1998, S. 5). Die gegenseitige Beteiligung bezeichnet die
-sozialen Relationen der beteiligten Personen (vgl. Wenger, 1998, S. 73).
-Ihre Arbeitsaufgabe könnte genauso von anderen Personen erledigt werden,
+sozialen Relationen der beteiligten (vgl. Wenger, 1998, S. 73).
+Ihre Arbeitsaufgabe könnte genauso von anderen erledigt werden,
 aber die konkreten und spezifischen Arten der Abhängigkeiten, die
 sozialen Beziehungen und die emotionalen Verbindungen zwischen den
-konkret handelnden Personen sind ihnen eigen. Darin geht die Community
+konkret Handelnden sind ihnen eigen. Darin geht die Community
 of Practice über ein reines Netzwerk von Personen hinaus, die sich
 kennen und miteinander sprechen, aber relativ losgelöst voneinander
 handeln (vgl. Wenger, 1998, S. 74). Geteilte Praxis können Erfahrungen
@@ -355,7 +355,7 @@ sein, aber auch daraus resultierende Geschichten. Dazu gehört auch das
 geteilte Repertoire (vgl. Wenger, 1998, S. 73), beispielsweise die
 Nutzung bestimmter Werkzeuge und Softwareprogramme, Methoden, aber auch
 erarbeitete Dokumente (vgl. Mohajan, 2017, S. 46--47). Das geteilte
-Repertoire beeinflußt die Sicht der Teilnehmenden auf die Domäne und
+Repertoire beeinflußt die Sicht der Teilnehmern auf die Domäne und
 damit auch ihre Handlungen (vgl. North et al., 2004, S. 43). Dieses
 Verständnis eines geteilten Repertoires wird jedoch teilweise auch als
 zu unscharf kritisiert; es erlaube letztenendes jedes auch
@@ -397,15 +397,15 @@ Hilfsmittel, um das breitere Konzept der Sozialen Lernens zu untersuchen
 (vgl. Wenger, 1998, S. 5). Der Vorteil dieses Hilfsmittel liegt in
 Vertrautheit des konkreteren, handfesteren Konzepts (vgl. Wenger, 1998,
 S. 6). Legitime periphere Partizipation verändert die Identität der
-Teilnehmenden im Zuge der Änderung ihrer Partizipation (vgl. Wenger,
+Teilnehmern im Zuge der Änderung ihrer Partizipation (vgl. Wenger,
 1998, S. 11). Legitim ist die Partizipation insofern, als die
-Neu-Teilnehmenden als künftige Mitglieder der Community of Practice
+Neu-Teilnehmern als künftige Mitglieder der Community of Practice
 behandelt werden. Nachdem sie den Enkulturationsprozeß durchlaufen
-haben, nehmen sie voll teil und werden zu Alt-Teilnehmenden (vgl.
+haben, nehmen sie voll teil und werden zu Alt-Teilnehmern (vgl.
 Kahnwald, 2013, S. 78). Dieser Prozeß ist jedoch nicht zwangsläufig
-(vgl. Kahnwald, 2013, S. 84), so können Neu-Teilnehmende längere Zeit in
+(vgl. Kahnwald, 2013, S. 84), so können Neu-Teilnehmer längere Zeit in
 diesem Status verharren, bevor sie endgültig ausscheiden, ebenso
-scheiden Alt-Teilnehmende typischerweise irgendwann aus (vgl. Kahnwald,
+scheiden Alt-Teilnehmer typischerweise irgendwann aus (vgl. Kahnwald,
 2013, S. 85).
 
 ## Die Community of Practice im Unternehmen
@@ -423,16 +423,16 @@ fruchtvoll. Doch welche Aussagen können über Communities of Practice in
 Unternehmen getroffen werden und welche Aspekte der Theorie greifen sie
 dabei auf, wenn auch möglicherweise nicht gezielt?
 
-Die Teilnehmenden einer Community of Practice sind einander
+Die Teilnehmer einer Community of Practice sind einander
 gleichgestellt (siehe Kapitel 2.1.1) und sie lernen vorwiegend informell
 (vgl. Dehnbostel, 2022, S. 111), wobei gezielte organisierte
 Lerngelegenheiten, beispielsweise in Form von Vorträgen, ebenfalls
-vorkommen. Die Teilnehmenden einer Community of Practice erhalten in der
+vorkommen. Die Teilnehmer einer Community of Practice erhalten in der
 Regel kein explizites Zeitbudget für ihre Teilnahme, sondern müssen die
 Community of Practice mit ihren gewöhnlichen Arbeitsaufgaben und ihrer
 verfügbaren Arbeitszeit in Einklang bringen (vgl. Dehnbostel, 2022, S.
 112). Dies stützt die Selbstselektion und die Freiwilligkeit der
-Teilnehmenden, führt jedoch auch zu einem latenten Rechtfertigungsdruck
+Teilnehmern, führt jedoch auch zu einem latenten Rechtfertigungsdruck
 (siehe Kapitel 6.2).
 
 Communities of Practice fügen sich nicht nahtlos in klassisch geführte
@@ -455,7 +455,7 @@ zuweilen jedoch ebenfalls unter dem Begriff der Community of Practice
 geführt (vgl. Lindkvist, 2005, S. 1190), sei es aus Unwissenheit oder
 aus berechnender Nutzung der positiven Konnotationen. Communities of
 Practice haben keine direkten Ziele, sondern sind an den Interessen
-ihrer Teilnehmenden orientiert. Die Statusrelationen der Teilnehmenden
+ihrer Teilnehmern orientiert. Die Statusrelationen der Teilnehmern
 untereinander basieren nicht auf klassischen Organisationshierarchien,
 sondern sie entstehen durch Anerkenntnis der jeweiligen Expertise und
 des normierten sozialen Verhaltens in der Gruppe. Sie definieren ihre
@@ -464,14 +464,14 @@ iterieren auf diesen. Im Gegensatz dazu basieren Teams im klassischen
 Sinne sowohl in ihrer Zusammensetzung, als auch in ihren
 Statusrelationen (Teamleiter -- Teammitglieder) auf Festsetzungen der
 Organisation, die auch die Ziele der Teams vorgibt (vgl. Lesser &
-Storck, 2001, S. 832). Es sind also nicht nur die Teilnehmenden einer
+Storck, 2001, S. 832). Es sind also nicht nur die Teilnehmer einer
 Community of Practice autonom und selbstbestimmt (siehe Kapitel 4.2.1),
 sondern die Gruppe im Ganzen ist es ebenfalls.
 
 Die Bedeutung der Praxis mag dabei zuweilen unterschätzt werden (vgl.
 Brown & Duguid, 2001, S. 203). Die gemeinsame Praxis ist jedoch
 konstitutiv, setzt aber auch eine längere Dauer der Existenz der
-Community of Practice voraus, in dem die Teilnehmenden sich in ihren
+Community of Practice voraus, in dem die Teilnehmer sich in ihren
 Handlungen aufeinander beziehen (vgl. Kahnwald, 2013, S. 71). Indem
 Communities of Practice ihr geteiltes Repertoire entwickeln,
 differenzieren sie sich ersichtlich aus (vgl. Gongla & Rizzuto, 2001, S.
@@ -480,15 +480,15 @@ externen Anstoß gegründet werden (siehe Kapitel 6.2), so entwickeln sie
 sich danach jedoch durch Selbstorganisation (vgl. Kahnwald, 2013, S.
 71).
 
-Neu-Teilnehmende können trotz relativer Unerfahrenheit wichtige
-Perspektiven einbringen und durch Fragen, die Alt-Teilnehmende nicht
+Neu-Teilnehmer können trotz relativer Unerfahrenheit wichtige
+Perspektiven einbringen und durch Fragen, die Alt-Teilnehmer nicht
 stellen würden, zur Innovationsfähigkeit der Gruppe, und damit indirekt
 auch zur Innovationsfähigkeit des Unternehmens beitragen (vgl. Lave &
 Wenger, 1991, S. 117; vgl. Lesser & Storck, 2001, S. 832). Die periphere
-Partizipation ermöglicht Zugang zu Fachpersonen (vgl. Lave & Wenger,
-1991, S. 37). Respekt und Scheu Fachpersonen gegenüber können jedoch
-dazu führen, daß Neuteilnehmende besser von etwas fortgeschrittenen
-Teilnehmern lernen, die jedoch selbst noch nicht zu den Fachpersonen
+Partizipation ermöglicht Zugang zu Experten (vgl. Lave & Wenger,
+1991, S. 37). Respekt und Scheu Experten gegenüber können jedoch
+dazu führen, daß NeuTeilnehmer besser von etwas fortgeschrittenen
+Teilnehmern lernen, die jedoch selbst noch nicht zu den Experten
 zählen (vgl. Lave & Wenger, 1991, S. 92). Die formelle Gleichrangigkeit
 innerhalb der Community of Practice ist hierbei durch emotionale
 Barrieren unterminiert. Die gemeinsame Identitätsbildung (siehe Kapitel
@@ -542,7 +542,7 @@ Unternehmen sind darauf angewiesen, ihren Wissensaufbau und ihre
 Weiterbildungsmaßnahmen gezielt zu planen. Denn natürliche Lernprozesse
 sind langsam, zuweilen in erfolgreichen Strategien der Vergangenheit
 verhaftet, und fallen oft auch der persönlichen Bequemlichkeit und dem
-Beharrungswillen der handelnden Personen zum Opfer (vgl. Sattelberger,
+Beharrungswillen der Handelnden zum Opfer (vgl. Sattelberger,
 1994, S. 18). Organisierte betriebliche Weiterbildung, in Form von
 Seminaren oder Schulungen, ist häufig zu langsam, um flexibel auf
 Herausforderungen in einer dynamischen Umwelt reagieren zu können. Daher
@@ -557,7 +557,7 @@ auch der Weiterentwicklung der Organisation (vgl. Dehnbostel, 2022, S.
 
 Als Teil eines aktiven Wissensmanagements orientieren sich Unternehmen
 häufig an der *Lernenden Organisation,* in der „Menschen lernen,
-miteinander zu lernen" (vgl. Senge, 2011, S. 13). Die Lernfähigkeit der
+miteinander zu lernen“ (vgl. Senge, 2011, S. 13). Die Lernfähigkeit der
 Angestellten ist Grundvoraussetzung für die Lernfähigkeit des
 Unternehmens (vgl. Müller, 2015, S. 56; vgl. Reinmann-Rothmeier & Mandl,
 1993, S. 236), die eine Grundlage des Erfolgs von Unternehmen ist (vgl.
@@ -566,8 +566,8 @@ sowohl an ihren eigenen Lerninteressen (vgl. Grotlüschen & Krämer, 2009,
 S. 23; vgl. Krapp, 2000, S. 59) als auch an betrieblichen Lernvorgaben
 orientiert (vgl. Müller, 2015, S. 57). Lernen ist ein Prozeß, der im
 Gehirn einzelner Personen stattfindet. Er geschieht jedoch in einen
-äußeren Kontext eingebettet, in eine Umgebung, die die lernenden
-Personen beeinflußt und die von ihnen beeinflußt wird (vgl. Geißler,
+äußeren Kontext eingebettet, in eine Umgebung, die die Lerner
+beeinflußt und die von ihnen beeinflußt wird (vgl. Geißler,
 1994, S. 81--82).
 
 Das Zielbild der Lernenden Organisation ist kein Selbstzweck.
@@ -593,7 +593,7 @@ Nolda, 2023, S. 443; vgl. North & Güldenberg, 2009, S. 35). Dabei nennen
 die Führungs- und Organisationsentwicklungsliteratur (vgl. Iansiti,
 1993) insbesondere das Zielbild der *T‑shaped-*Angestellten. Dabei
 handelt es sich um „Personen mit fachlichem Tiefenwissen sowie mit
-vielseitigen Kompetenzen in der Breite" (Mayrberger, 2020, S. 325). Der
+vielseitigen Kompetenzen in der Breite“ (Mayrberger, 2020, S. 325). Der
 Buchstabe T symbolisiert bildlich Kompetenzen, die in einem engen
 Bereich sehr stark ausgeprägt sind, wofür der senkrechte Strich steht
 (vgl. Wilbers, 2019, S. 22). Angestellte weisen hier eine hohe
@@ -632,8 +632,8 @@ Computern, können Menschen unterstützen, jedoch kein eigenes Wissen
 tragen (vgl. Romhardt, 2002, S. 6). Die sozialen Prozesse in der
 Generierung, Vermittlung und dem Erlernen von Wissen müssen beachtet
 werden. Ebensowenig reicht aus, ein Kompetenzverzeichnis von
-Fachpersonen zu führen, um deren Wissen auf diese Art greifbar zu
-machen. Denn auch das Wissen von Fachleuten lebt im Austausch
+Experten zu führen, um deren Wissen auf diese Art greifbar zu
+machen. Denn auch das Wissen von Experten lebt im Austausch
 untereinander (vgl. North et al., 2004, S. 16--17). Unternehmensweite
 Wissensbestände, beispielsweise in Form von Wissensdatenbanken, sind der
 Organisation zugeordnet, sie sind jedoch eine Form trägen Wissens,
@@ -699,7 +699,7 @@ Bild der Spirale zu gelangen.
 
 Das Konzept des stillen Wissens wird in neuerer Literatur zumeist
 mittels des Begriffs des *impliziten Wissens* aufgegriffen und
-inhaltlich ausgeweitet. Das Wort „still" bezeichnet eine Sprachhandlung,
+inhaltlich ausgeweitet. Das Wort „still“ bezeichnet eine Sprachhandlung,
 wohingegen Polanyis Definition sich nicht auf unausgesprochenes Wissen
 bezieht, gegebenenfalls auch nur kontingent unausgesprochen, sondern
 gezielt nur auf Wissen, das nicht ausgesprochen oder mitgeteilt werden
@@ -707,7 +707,7 @@ gezielt nur auf Wissen, das nicht ausgesprochen oder mitgeteilt werden
 Gegenstück zu *explizitem Wissen*, d.h. in Artefakten kodiertem und
 übermittelbarem Wissen (vgl. Collins, 2012, S. 80)*.* Als Gegenstück zur
 polanyischen Definition des stillen Wissens ist hingegen der Begriff
-„erklärbar" (englisch: „explicable") geeignet (vgl. Collins, 2012, S.
+„erklärbar“ (englisch: „explicable“) geeignet (vgl. Collins, 2012, S.
 4). Implizites Wissen ist also Wissen, das nicht explizit (gemacht) ist
 (vgl. Collins, 2012, S. 1). Diese Sicht versteht implizites Wissen nicht
 als eine natürliche Kategorie, sondern lediglich als Kategorie eines
@@ -727,15 +727,15 @@ keine tieferen Gründe, warum die Personen nicht miteinander sprechen, um
 das Wissen zu übermitteln, sie tun es nur einfach nicht (vgl. Collins,
 2012, S. 91). Es kann sich um bewußt verborgenes Wissen bis hin zu
 Geheimnissen handeln, das dennoch durch engen Kontakt mit
-wissenstragenden Personen erworben werden kann (vgl. Collins, 2012, S.
+Wissensträgern erworben werden kann (vgl. Collins, 2012, S.
 91--92), es kann sich um verborgenes Wissen handeln, das niemand
 absichtlich zurückhält, beispielsweise wenn angenommen wird, die andere
 Person besitze dieses Wissen bereits und das Wissen nie aus einer
 Situation heraus zur Sprache kommt (vgl. Collins, 2012, S. 95), oder es
-kann sich um Wissen handeln, deren tragende Person sich überhaupt nicht
-bewußt ist, das Wissen zu besitzen. Dies kann leicht geschehen, wenn die
-wissenstragende Person etwas zufällig für sich selbst entdeckt hat, ohne
-daß dies mit einem bewußten „Aha-Erlebnis" verbunden wäre (vgl. Collins,
+kann sich um Wissen handeln, deren Träger sich überhaupt nicht
+bewußt ist, das Wissen zu besitzen. Dies kann leicht geschehen, wenn der
+Wissensträger etwas zufällig für sich selbst entdeckt hat, ohne
+daß dies mit einem bewußten „Aha-Erlebnis“ verbunden wäre (vgl. Collins,
 2012, S. 95--96). Das relationale implizite Wissen kann expliziert
 werden, da solche Gründe für das Implizit-Sein kontingent sind und
 geändert werden können. Jedoch ist nicht realistisch, alles relationale
@@ -764,7 +764,7 @@ Sprache und Praxis dieser Gruppe zentral sind (vgl. Collins, 2012, S.
 Der Kompetenzbegriff (vgl. Gnahs, 2010; vgl. Kaufhold, 2006) wird ob
 seiner inflationär scheinenden Verwendung vielfach kritisiert (vgl.
 Erpenbeck, 1996, S. 9). So spottet Walter Volpert gar über eine
-hypothetische „Suppe-Ess-Kompetenz" (zitiert nach Faulstich, 2013, S.
+hypothetische „Suppe-Ess-Kompetenz“ (zitiert nach Faulstich, 2013, S.
 1). Dennoch hat sich der Begriff etabliert. Denn die vormalige,
 nachfrageorientierte Sicht auf die Angestellten, bei der arbeitsbezogene
 Fähigkeiten im Vordergrund stehen -- *Qualifikationen* (vgl. Kaufhold,
@@ -799,7 +799,7 @@ Güldenberg, 2009, S. 158). Häufig handelt es sich dabei um Wissen, auch
 Handlungs- und Erfahrungswissen. Dies können beispielsweise Kenntnisse
 einer Programmiersprache sein (Faktenwissen), oder auch die Fähigkeit,
 schnell und fehlerfrei zu löten. Hingegen handelt es sich bei den drei
-anderen Kompetenzarten um die „übewrfachlichen Kompetenzen" (sic!)
+anderen Kompetenzarten um die „übewrfachlichen Kompetenzen“ (sic!)
 (Gnahs, 2010, S. 27), die in ganz verschiedenen Tätigkeitsfeldern
 nutzbringend sein können.
 
@@ -815,7 +815,7 @@ Abstraktionsfähigkeiten sowie die Fähigkeit, Entscheidungen zu fällen
 Sozialkompetenzen beziehen sich auf individuelle Fähigkeiten, um die
 Zusammenarbeit in der Gruppe zu erleichtern (vgl. Wilkens et al., 2006,
 S. 132). Es kann sich im Negativen um „wertende Äußerungen gegenüber
-Personen und ihren Handlungen" (Kaufhold, 2006, S. 164), aber auch im
+Personen und ihren Handlungen“ (Kaufhold, 2006, S. 164), aber auch im
 Positiven um die eigene Konfliktfähigkeit handeln. Dies umfaßt nicht
 nur, sich auf unterschiedliche Persönlichkeitstypen einzustellen,
 sondern auch aktive Arbeit, ein gutes Arbeitsklima herzustellen und
@@ -855,7 +855,7 @@ Jedoch besteht häufig eine Diskrepanz zwischen Wissen und Handeln
 (Franke, 2001). Kompetenzen sollen den Angestellten ermöglichen, ihre
 Arbeitsaufgaben tatsächlich zu bewältigen, nicht nur hypothetisch. Daher
 ist Kompetenz untrennbar mit Handeln verknüpft (vgl. Kaufhold, 2006, S.
-49). Zum grundsätzlichen „Können" muß auch das „Wollen" hinzukommen,
+49). Zum grundsätzlichen „Können“ muß auch das „Wollen“ hinzukommen,
 damit eine konkrete Handlung entsteht (Gillen, 2006, S. 76). Dies ist
 eine motivationale Komponente, die mittels Motivationstheorien
 untersucht und erklärt werden können. Als eine unter verschiedenen
@@ -877,11 +877,11 @@ betrieblicher Weiterbildung und beruflichen Handelns (vgl. Dehnbostel,
 eigenen Kompetenzentwicklung auseinandersetzen und dient der
 Selbststeuerung (vgl. Weixelbaum, 2016, S. 63). Insbesondere kann die
 Frage gestellt werden, „ob die zur Anwendung kommenden Handlungsroutinen
-noch angemessen sind" (Wilkens et al., 2006, S. 131). Dabei können
-*reflection-in-action,* bei der während die handelnde Person der
+noch angemessen sind“ (Wilkens et al., 2006, S. 131). Dabei können
+*reflection-in-action,* bei der der Handelnde während der
 Durchführung der Handlung in der Gegenwart reflektiert, um
 gegebenenfalls Modifikationen vorzunehmen, und *reflection-on-action,*
-bei der die handelnde Person ihre Handlung unterbricht, um durch
+bei der der Handelnde seine Handlung unterbricht, um durch
 Verbalisierung des relevanten Wissensbestandes eine Handlung
 retrospektiv zu bewerten, unterschieden werden (vgl. Weixelbaum, 2016,
 S. 85). Selbstreflexion resultiert in neuer Information, die in die
@@ -912,7 +912,7 @@ nachgedacht werden kann. Dadurch eröffnen sich neue Denkräume über das
 Selbst (vgl. von Wright, 1992, S. 61). Insofern vermag sie die scharfe
 Trennung zwischen intern und extern, zwischen Subjekt und Objekt zu
 verwischen (vgl. Höhne, 2003, S. 85). In der Reflexion überprüfen die
-Teilnehmenden ihr Handeln unter Berücksichtigung der jeweiligen
+Teilnehmern ihr Handeln unter Berücksichtigung der jeweiligen
 Handlungssituation (vgl. North et al., 2018, S. 80), auch im Umgang mit
 anderen Personen (vgl. North & Güldenberg, 2009, S. 254).
 
@@ -951,7 +951,7 @@ Definitionen der Literatur (vgl. Reinmann-Rothmeier & Mandl, 1993, S.
 besondere Rolle spielt. Reflexion kann im Team genutzt werden, um
 strukturierte Rückmeldungen zu erlangen, „die sich positiv auf das
 Denken und Handeln der Gruppe auswirkt und dadurch den Teamerfolg
-erhöht" (Weixelbaum, 2016, S. 95). Durch kollektive Kompetenzentwicklung
+erhöht“ (Weixelbaum, 2016, S. 95). Durch kollektive Kompetenzentwicklung
 im Wege kollektiven Lernens wird neues Wissen geschaffen, das keine
 einzelne Person hätten schaffen können, da ihm eine Verknüpfung der
 individuellen Wissensbestände mehrerer Personen zugrundeliegt (vgl.
@@ -971,7 +971,7 @@ empirischer Studien darlegt (vgl. Weixelbaum, 2016, S. 126-128, Tabellen
 Ergebnis-Reviews, in denen das Team die Wirksamkeit der eigenen Arbeit
 anhand eines konkreten Ergebnisses überprüft (vgl. Weixelbaum, 2016, S.
 59). Durch Verbalisierung der durch individuelle Reflexion erlangten
-Erkenntnisse können andere Teilnehmende diese in ihre jeweiligen
+Erkenntnisse können andere Teilnehmer diese in ihre jeweiligen
 Gedanken aufnehmen und ihre individuellen Reflexionsergebnisse
 gegebenenfalls anpassen. Diese Prozeß führt idealerweise zu einem
 gemeinsamen Verständnis der vergangenen und gegenwärtigen Situation
@@ -981,7 +981,7 @@ wenn die Gruppe eine gemeinsame Sicht auf das Problem besitzt. Diese
 gemeinsame Sicht wird durch kollektive Reflexion innerhalb der Gruppe
 gefördert (vgl. Beutel-Wedewardt, 1994, S. 258). Dabei schließt die
 gemeinsame Sicht unterschiedliche Meinungen, Ideen und Strategien der
-einzelnen Teilnehmenden nicht aus.
+einzelnen Teilnehmern nicht aus.
 
 ## Die Community of Practice aus Unternehmensperspektive
 
@@ -1022,7 +1022,7 @@ jedoch weniger effizient und rasch vonstatten geht als der eigene
 fachspezifische Kompetenzaufbau, führt die Community of Practice
 tendentiell zu einem T-förmigen Ausbau der eigenen Kompetenz (siehe
 Kapitel 3.1): tief im eigenen Fachbereich, flach und breit in den
-Fachbereichen der anderen Teilnehmenden.
+Fachbereichen der anderen Teilnehmern.
 
 Reflexion ist ein wichtiger Aspekt für die Verknüpfung von der
 Kompetenzentwicklung der Angestellten als Individuen mit der
@@ -1039,7 +1039,7 @@ Duguid, 1991). Strukturelle Reflexion des Arbeitsumfelds spielt
 insbesondere deshalb eine bedeutende Rolle, weil „mittlerweile
 organisatorische Tätigkeiten wie Prozessplanung,
 Informationsübermittlung und Kontrolle gegenüber der inhaltlichen
-Konstruktionsarbeit überwiegen" (Weixelbaum, 2016, S. 29). Aus Sicht der
+Konstruktionsarbeit überwiegen“ (Weixelbaum, 2016, S. 29). Aus Sicht der
 Organisationsentwicklung besitzt Lernen verschiedene Ausprägungen auf
 unterschiedlichen Hierarchieebenen: einzelne Angestellte beteiligen sich
 an der Praxis einer Gruppe, Gruppen verändern ihre Praxis in Hinblick
@@ -1048,7 +1048,7 @@ zwischen Gruppen, verwalten dadurch das gewonnene Wissen und finden
 Wege, es zu nutzen (vgl. Wenger, 1998, S. 7--8). Dies ist der Kern
 betrieblichen Wissensmanagements (siehe Kapitel 3.1).
 „Reflexionsförderliche Arbeitsstrukturen und -prozesse können die
-individuelle Reflexion der Beschäftigten fördern \[...\]" (Müller, 2015,
+individuelle Reflexion der Beschäftigten fördern \[...\]“ (Müller, 2015,
 S. 4), und daher kann die Community of Practice als eine solche
 Arbeitsstruktur aus Unternehmenssicht ein wertvoller Ansatz zur
 Arbeitsorganisation sein. Als Gruppe von Gleichrangigen (vgl.
@@ -1057,7 +1057,7 @@ strukturierte Gemeinschaften, die Äußerung einer Fremdwahrnehmung
 zuzulassen und aufzunehmen (vgl. Romhardt, 2002, S. 72). Dies ist eine
 wesentliche Voraussetzung zur Selbst- und Teamreflexion, siehe Kapitel
 3.2.3 und 3.2.4. Aufgrund der Gelegenheit, kontinuierlich von anderen
-Teilnehmenden reflektiert zu werden (vgl. Gruber, 2021, S. 113), können
+Teilnehmern reflektiert zu werden (vgl. Gruber, 2021, S. 113), können
 anschließende Prozesse der kommunikativen Validierung stattfinden, um zu
 einer gemeinsamen Bewertung zu gelangen, da die Fremdwahrnehmung nicht
 korrekt sein muß. Diese Fremdwahrnehmung wird aufgrund der Eigenschaft
@@ -1076,7 +1076,7 @@ beteiligten Personen von einer gemeinsamen Beschreibung der Wirklichkeit
 ausgehen. Diese wird in der Gruppe sozial konstruiert und dient als
 Grundlage, um Probleme zu beschreiben und Lösungsansätze oder neue Ideen
 zu erarbeiten (vgl. North & Güldenberg, 2009, S. 180). Durch Vorliegen
-eines „gemeinsamen Problembewusstseins" und „Teamgeists" (Müller, 2015,
+eines „gemeinsamen Problembewusstseins“ und „Teamgeists“ (Müller, 2015,
 S. 144) wird die kollektive Reflexion der Gruppe gestärkt. Die Community
 of Practice setzt das gemeinsame Problembewußtsein im Grunde durch die
 gemeinsame Domäne jedoch bereits voraus. Der Teamgeist kann im Zuge der
@@ -1091,7 +1091,7 @@ Weixelbaum, 2016, S. 174). Antizipierte Sinnlosigkeit durch mangelnde
 wahrgenommene Selbstwirksamkeit (siehe Kapitel 4.2.1) ist wiederum eine
 erhebliche Schwelle, der Teamreflexion überhaupt Raum zu verschaffen und
 sich als einzelne Person auf solch eine Teamreflexion einzulassen (vgl.
-Weixelbaum, 2016, S. 175). Im Ergebnis stimmen Teilnehmende zwar oftmals
+Weixelbaum, 2016, S. 175). Im Ergebnis stimmen Teilnehmer zwar oftmals
 grundsätzlich der Sinnhaftigkeit einer Teamreflexion zu, wenden
 reflektive Prozesse jedoch selten konkret an. Häufig überwiegt die
 emotionale Wertung vergangener Ereignisse, während die analytische
@@ -1100,14 +1100,14 @@ Retrospektiven sind formalisierte Gelegenheiten zur Reflexion, um in der
 Gruppe aus Erfahrungen zu lernen. Sie beschränken sich nicht auf Fehler,
 sondern betrachten auch Erfolge. Dabei besteht aufgrund höherer
 Priorität anderer Tätigkeiten sowie mangelnder Zeit oder Willens der
-beteiligten Personen stets die Gefahr, solche Reflexionsprozesse
+Beteiligten stets die Gefahr, solche Reflexionsprozesse
 auszulassen (vgl. North & Güldenberg, 2009, S. 162).
 
 Auch wenn Wissenserwerb das offensichtliche Ziel des Lernens ist, so
 werden die Lernenden insbesondere auch Teil der Gemeinschaft (vgl. Lave
 & Wenger, 1991, S. 111), was im Unternehmen zugleich das Betriebsklima
 verbessert. Ziel des Situierten Lernens ist nicht, die Praxis zu
-erlernen, sondern zu Praktizierenden zu werden (vgl. Brown & Duguid,
+erlernen, sondern zu Praktikern zu werden (vgl. Brown & Duguid,
 1991, S. 48). Hier spiegelt sich die Handlungsorientierung der Kompetenz
 wider (siehe Kapitel 3.2.2). Wenn Angestellte jedoch durch solche aktive
 Partizipation an einer Gruppenpraxis zu den Zielen eines Unternehmens
@@ -1125,9 +1125,9 @@ Beteiligung einer einzelnen Person oder der gesamten Gruppe. Eine häufig
 anzutreffende Ausprägung impliziten Wissens ist gruppenspezifischer
 Jargon, der sich kontingent in einer Gruppe ausgebildet hat. Im
 Gegensatz dazu ist Fachjargon allen vergleichbar ausgebildeten oder in
-vergleichbaren Gebieten tätigen Personen bekannt. Solch eine gemeinsame
+vergleichbaren Gebieten Tätigen bekannt. Solch eine gemeinsame
 Sprache im Sinne von Fachjargon oder gruppenspezifischer Ausdrucksweisen
-ist ein Beispiel für „spezialisierte Symbolsysteme" (Reinmann-Rothmeier
+ist ein Beispiel für „spezialisierte Symbolsysteme“ (Reinmann-Rothmeier
 & Mandl, 1993, S. 240), und die Arbeit mit solchen Symbolen ein
 Indikator für Wissensarbeit (vgl. Höhne, 2003, S. 45), siehe Kapitel 1
 und Kapitel 3. Die gemeinsame Sprache kann nicht von außerhalb erlernt
@@ -1145,7 +1145,7 @@ zu hinterfragen (vgl. Wenger, 1998, S. 61), können eine Community of
 Practice erstarren lassen; sie vollzieht dann nur noch mechanisch die
 äußerlich erkennbaren Schritte, statt die Praxis mit Leben zu füllen. In
 einer Community of Practice werden nicht nur Wissensbestände
-weitergegeben, sondern auch „Gewohnheiten, Einstellungen und Werte"
+weitergegeben, sondern auch „Gewohnheiten, Einstellungen und Werte“
 (Dehnbostel, 2022, S. 53). Dies sind gerade schriftlich schwer
 fixierbare Aspekte, also wichtige Ziele des impliziten Lernens.
 Idealerweise findet und sichert eine Community of Practice auch nicht
@@ -1157,20 +1157,20 @@ Innovation fördert.
 
 Die Community of Practice steht allen Interessierten offen, unabhängig
 von Tätigkeitsfeld und Unternehmenshierarchie (vgl. Enkel et al., 2002,
-S. 110). Die Teilnehmenden unterliegen also einer Selbstselektion
+S. 110). Die Teilnehmer unterliegen also einer Selbstselektion
 entsprechend ihrer Interessen (siehe Kapitel 4.2.2). Diese periphere
-Partizipation ermöglicht den niederschwelligen Zugang zu Fachpersonen
+Partizipation ermöglicht den niederschwelligen Zugang zu Experten
 (vgl. Lave & Wenger, 1991, S. 37), was der Silobildung entgegenwirkt
 (vgl. Stone, 2004, S. 17), da bei Erkennen von Problemen und offenen
 Fragestellungen eine passende Community of Practice aufgesucht werden
 kann, so sie bereits existiert. Wenn sie unternehmensintern
 bekanntgemacht wird bzw. internes Marketing betreibt, kann sie zugleich
-als Kompetenzverzeichnis dienen. Teilnehmende einer solchen Community of
+als Kompetenzverzeichnis dienen. Teilnehmer einer solchen Community of
 Practice können dann zum Thema angesprochen werden, ohne zu befürchten,
-diese könnten sich behelligt fühlen. Respekt und Scheu Fachpersonen
-gegenüber können dazu führen, daß Neu-Teilnehmende besser von etwas
+diese könnten sich behelligt fühlen. Respekt und Scheu Experten
+gegenüber können dazu führen, daß Neu-Teilnehmer besser von etwas
 fortgeschrittenen Teilnehmern lernen, die jedoch selbst noch nicht zu
-den Fachpersonen zählen (vgl. Lave & Wenger, 1991, S. 92). Die formelle
+den Experten zählen (vgl. Lave & Wenger, 1991, S. 92). Die formelle
 Gleichrangigkeit innerhalb der Community of Practice ist hierbei durch
 emotionale Barrieren unterminiert, was zugleich bedeutet, daß das
 zentrale Merkmal der Legitimität der Partizipation nicht mehr gegeben
@@ -1178,9 +1178,9 @@ ist.
 
 Communities of Practice neigen -- wie viele sozialen Gruppierungen --
 dazu, sich selbst zu reproduzieren (vgl. Enkel et al., 2002, S. 121).
-Wenn die Teilnehmenden sich überwiegend aus einer Unternehmensabteilung,
+Wenn die Teilnehmer sich überwiegend aus einer Unternehmensabteilung,
 einer Hierarchiestufe oder einer anderen abgrenzbaren Eigenschaft heraus
-rekrutieren, werden auch neue Teilnehmende überwiegend aus diesen
+rekrutieren, werden auch neue Teilnehmer überwiegend aus diesen
 Bereichen stammen. Im selben Maße wächst die Gefahr, daß
 Betriebsblindheit einsetzt und Ideen vorwiegend deshalb akzeptiert oder
 verworfen werden, weil sie sich in der Vergangenheit bereits bewährt
@@ -1190,8 +1190,8 @@ neigen eingeschworene Gemeinschaften dazu, ihren eigenen Jargon zu
 prägen und ihre Gruppenidentität dadurch zu festigen, wodurch sie sich
 vom Rest des Unternehmens isolieren könnten (vgl. Enkel et al., 2002, S.
 122). Aufgrund der notwendigen Reproduktion der Community of Practice
-erfolgt jedoch auch ein Ausscheiden vormaliger Teilnehmender, die durch
-andere Teilnehmende ersetzt werden (vgl. Lave & Wenger, 1991, S. 57).
+erfolgt jedoch auch ein Ausscheiden vormaliger Teilnehmerr, die durch
+andere Teilnehmer ersetzt werden (vgl. Lave & Wenger, 1991, S. 57).
 Dieser oftmals schleichende Prozeß, der aufgrund der freiwilligen
 Teilnahme in der Regel eigenbestimmt erfolgt, erlaubt wiederum eher die
 graduelle Akzeptanz neuer Ideen als statische Team- oder Projektgruppen,
@@ -1259,7 +1259,7 @@ Work-Life-Balance, also ein als gerecht empfundener Ausgleich zwischen
 den Anforderungen des Berufs und des Privatlebens, wird als wichtig
 eingeschätzt (vgl. Glaubitz, 2023, S. 81; vgl. North & Güldenberg, 2009,
 S. 91--92). Die allgemeine Zufriedenheit mit dem Beruf, also ein
-„Wohlfühlen", steht ebenso im Vordergrund (vgl. Senge, 2011, S. 158),
+„Wohlfühlen“, steht ebenso im Vordergrund (vgl. Senge, 2011, S. 158),
 und wird von Unternehmen zunehmend durch Gesundheits- und
 Lifestyleaktionen bedient. Angestellte fordern auch explizit
 Mitbestimmung und eigene Wirksamkeit ein (vgl. Ewinger et al., 2016, S.
@@ -1304,7 +1304,7 @@ auf motivierte Handlungen anhand eines Spektrums entlang der Dimension
 der Selbstbestimmtheit oder Kontrolliertheit (vgl. Deci & Ryan, 1993, S.
 225).
 
-Intrinsisch ist eine Handlung dann motiviert, wenn die Handlung den
+Intrinsisch ist eine Handlung dann motiviert, wenn die Handlung dem
 Handelnden selbst genügend Anreiz zur Ausführung ist. Darunter fallen
 insbesondere durch Neugier und Experimentiertrieb motivierte Handlungen
 (vgl. Deci & Ryan, 1993, S. 225), aber auch die freudvolle Erfahrung des
@@ -1360,8 +1360,8 @@ sein (vgl. Krapp & Ryan, 2002, S. 72; vgl. Schwarzer & Jerusalem, 2002,
 S. 35; vgl. Straka, 2009, S. 4). Das Gefühl von Autonomie oder
 Selbstbestimmung ist damit verwandt, wird in der Literatur teilweise mit
 der Wirksamkeit identifiziert (vgl. Rosendahl & Straka, 2007, S. 7), und
-bezieht sich auf das Selbst als hauptsächlich handelnder Person (vgl.
-Krapp & Ryan, 2002, S. 72), die „nach eigenen Plänen" (Straka, 2009, S.
+bezieht sich auf das Selbst als hauptsächlich Handelndem (vgl.
+Krapp & Ryan, 2002, S. 72), die „nach eigenen Plänen“ (Straka, 2009, S.
 4) vorgeht. Autonomie wird insbesondere durch Auswahlmöglichkeiten und
 Anerkennung gefördert (vgl. Deci & Ryan, 1993, S. 230). Anerkennung
 durch andere Personen kann ebenfalls die intrinsische Motivation
@@ -1396,14 +1396,14 @@ auch in der Regel klischeebehaftet und in ihrem tatsächlichen
 Erklärungsvermögen fragwürdig; so existiert das Bild des männlichen
 Jugendlichen, der gefesselt von seinem Elektrobaukasten zur Elektronik
 als Hobby gelangt und später als Elektroingenieur Schaltungen entwirft
-(vgl. Funk, 2015, S. 235). Ein situationsbedingter Anreiz, der die
-lernende Person mit einem Thema erstmalig in Berührung bringt,
+(vgl. Funk, 2015, S. 235). Ein situationsbedingter Anreiz, der den
+Lerner mit einem Thema erstmalig in Berührung bringt,
 verstetigt sich zu einem dauerhaften situativen Interesse, das sich
 schließlich zur Disposition verfestigt (vgl. Wild, 2022, S. 12881).
 Interesse zeichnet sich insbesondere durch drei Eigenheiten aus: die
 Person erwirbt zum sie interessierenden Gegenstand eine Beziehung, die
 sich „in einer differenzierenden und vielfältig variierbaren
-Gegenstandsauffassung" (Prenzel et al., 1986, S. 166) niederschlägt. Die
+Gegenstandsauffassung“ (Prenzel et al., 1986, S. 166) niederschlägt. Die
 Beschäftigung mit dem Gegenstand ist emotional positiv gefärbt und
 fördert die weitere Beschäftigung damit. Der Gegenstand wird von der
 Person, die sich dafür interessiert, auch besonders wertgeschätzt (vgl.
@@ -1416,7 +1416,7 @@ Identität bei (vgl. Prenzel et al., 1986, S. 168), beispielsweise in
 Form des Selbstverständnisses als Elektronikerin oder Elektroniker.
 
 Die Person-Gegenstands-Theorie schlägt stattdessen ein Verständnis des
-Interesses vor, das sowohl die Dispositionen der Einzelperson in Form
+Interesses vor, das sowohl die Dispositionen des Einzelnen in Form
 individuellen Interesses als auch das Interesse als Eigenschaft des
 Kontextes integriert (vgl. Krapp, 2007, S. 7). Individuelle
 Dispositionen in Form von Präferenzen für Themen sind relativ stabil,
@@ -1424,7 +1424,7 @@ jedoch auch bestimmend für die Lernmotivation. (vgl. Krapp, 2002, S.
 407). Kontextbezogenes Interesse beruht nicht auf einer statischen
 Disposition, sondern auf Eigenschaften der aktuell ausgeübten Tätigkeit
 (vgl. Krapp, 2007, S. 9). Beide Aspekte des Interesses hängen zusammen.
-Sofern eine Person aufgrund einer wiederholten Lernsituation (vgl.
+Sofern jemand aufgrund einer wiederholten Lernsituation (vgl.
 Krapp, 2007, S. 14) situatives, also kontextbezogenes Interesse
 entwickelt, kann dieses zu einem dispositionalen Interesse
 internalisiert werden (vgl. Krapp, 2007, S. 13), also Teil der
@@ -1461,15 +1461,15 @@ Organisation eines Ausgleichs zwischen Beruf und Privatleben und damit
 auch das eigene Zufriedenheitsgefühl.
 
 Die individuelle Motivation muß nicht immer der Community of Practice
-förderlich sein. So ist die persönliche Profilierung als Fachperson, um
+förderlich sein. So ist die persönliche Profilierung als Experten, um
 die eigene Karriere voranzutreiben (vgl. North et al., 2004, S. 18),
 sicherlich häufig ein latent vorhandenes Motiv, wenn es jedoch stark im
 Vordergrund steht, so kann sich kaum das Vertrauen eines *performing*
 Teams, siehe Kapitel 5, einstellen. Zudem besteht die Gefahr, daß von
-einzelnen Personen bewußt ihnen allein verfügbares Wissen aufgebaut wird
+einzelnen bewußt ihnen allein verfügbares Wissen aufgebaut wird
 (vgl. Heiss, 2009, S. 92). Heiss untersucht die Motivationslage der
 Angestellten bezüglich Wissensmanagement qualitativ durch Interviews mit
-Teilnehmenden einer Community of Practice der Siemens AG (vgl. Heiss,
+Teilnehmern einer Community of Practice der Siemens AG (vgl. Heiss,
 2009). Dabei wurden vorab Lernen, Gerechtigkeit, Anerkennung, Macht,
 Anschluß, Selbstdarstellung, Autonomie, Rückmeldung und Hilfehandeln
 (vgl. Heiss, 2009, S. 90) als mögliche Motivationen hypothetisiert.
@@ -1478,14 +1478,14 @@ Mitarbeitenden Informationen vorzuenthalten, um sie in ihren Handlungen
 zu blockieren (vgl. Heiss, 2009, S. 92). Dies ist vorwiegend dann
 vorzufinden, wenn die Handlungen der anderen eigene Ziele gefährden.
 *Kontakt* beziehungsweise *Anschluß* ist ein „zentrales intrinsisches
-Arbeitsmotiv zum sozialen Handeln" (Heiss, 2009, S. 92). Im Ergebnis der
+Arbeitsmotiv zum sozialen Handeln“ (Heiss, 2009, S. 92). Im Ergebnis der
 Studie erwies sich der reziproke Austausch von Wissen *(Hilfehandeln)*
 als ein wesentliches Motiv in der Community of Practice. Dabei ist nach
 einer Vorleistung anderer gar eine eigene Übererfüllung der daraus
 entstandenen reziproken Verpflichtung wahrscheinlich (vgl. Heiss, 2009,
 S. 96). *Selbstdarstellung* als Motiv darf trotz der als nieder
 empfundenen Motivation nicht unterschätzt werden. Die Studie bestätigt,
-daß einige Teilnehmende einer Community of Practice lediglich am
+daß einige Teilnehmer einer Community of Practice lediglich am
 Außenbild, insbesondere der eigenen Führungskraft gegenüber, und damit
 verbunden einem erhofften Karriereschub interessiert seien (vgl. Heiss,
 2009, S. 97). Das Machtmotiv konnte in der Studie allerdings nicht
@@ -1494,7 +1494,7 @@ ob eine derart negativ konnotierte und destruktiv orientierte Motivation
 durch Befragung überhaupt korrekt erfaßt werden kann.
 
 Durch die länger währende gemeinsame Arbeit stellen sich in Communities
-of Practice zwischen den Teilnehmenden nicht nur soziale (Betriebsklima)
+of Practice zwischen den Teilnehmern nicht nur soziale (Betriebsklima)
 und kognitive Verbindungen ein (gemeinsame mentale Modelle, siehe
 Kapitel 5), sondern auch emotionale Verbundenheit. Ein solcher sicherer
 Raum, in dem gegenseitiges Vertrauen herrscht, ermöglicht erst den
@@ -1502,7 +1502,7 @@ freien Austausch von Ideen (vgl. Enkel et al., 2002, S. 122; vgl.
 Roberts, 2006, S. 628).
 
 Die Wichtigkeit der sozialen Identität der Gruppe zeigt sich auch daran,
-daß die Studie ergab, daß die Ähnlichkeit der Teilnehmenden zueinander
+daß die Studie ergab, daß die Ähnlichkeit der Teilnehmern zueinander
 eine erhöhte Rolle spielte (vgl. Heiss, 2009, S. 106). Im Gegensatz zum
 gängigen Ansatz, Arbeits- bzw. Projektgruppen möglichst interdisziplinär
 und abteilungsübergreifend zu gestalten, um keine Silos aufkommen zu
@@ -1510,7 +1510,7 @@ lassen (vgl. Stone, 2004, S. 17), scheint also der Ansatz des Situierten
 Lernens in einer real gemeinsam arbeitenden Praxisgemeinschaft durchaus
 wichtig zu sein. Dabei ist festzuhalten, daß dies einer berufs- oder
 tätigkeitsübergreifenden Zusammensetzung der Community of Practice nicht
-entgegensteht, die Teilnehmenden müssen sich nur als ähnlich betrachten.
+entgegensteht, die Teilnehmer müssen sich nur als ähnlich betrachten.
 Beispielsweise ist die Abgrenzung zwischen Software- und
 Hardwareentwicklerinnen und -entwicklern üblicherweise in ihrem
 Selbstverständnis durchaus deutlich gegeben, jedoch kann die Arbeit an
@@ -1523,10 +1523,10 @@ S. 106). Auf diese Weise wird die Community of Practice nicht als eine
 oktroyierte Idee der Führungsebene wahrgenommen, die ihre eigenen
 Probleme zu lösen und ihre eigenen Interessen zu wahren sucht, sondern
 sie wirkt als eine originär eigennützige Vorgehensweise für die
-Teilnehmenden. Indem Teilnehmende wahrnehmen, daß ihre Gruppenergebnisse
+Teilnehmern. Indem Teilnehmer wahrnehmen, daß ihre Gruppenergebnisse
 positive Effekte aufs Unternehmen aufweisen, und die Erkenntnis, daß
 diese Ergebnisse auf den vielfältigen individuellen Kompetenzen der
-verschiedenen Teilnehmenden beruhen, die sich sinnvoll ergänzen,
+verschiedenen Teilnehmern beruhen, die sich sinnvoll ergänzen,
 erfahren sie auch ihren eigenen Einfluß auf das Unternehmen. Diese auch
 eigenen Erfolge konterkarieren eventuelle Gefühle der Nutzlosigkeit
 eigener Tätigkeit (siehe Kapitel 2.1.2) und stellen eine Form der
@@ -1541,7 +1541,7 @@ Erfolgswahrscheinlichkeit im künftigen Unterfangen einhergeht (vgl.
 Schwarzer & Jerusalem, 2002, S. 41; vgl. Weixelbaum, 2016, S. 54).
 
 Die Community of Practice hat auch eine Orientierungsfunktion. Durch sie
-wird nach außerhalb der Gruppe sichtbar, aber einzelnen Teilnehmenden
+wird nach außerhalb der Gruppe sichtbar, aber einzelnen Teilnehmern
 auch unmittelbar erkennbar, wer Expertise besitzt (vgl. Heiss, 2009, S.
 107).
 
@@ -1583,14 +1583,14 @@ extrinsische Motivationsversuche hinaus und sind weniger wirksam.
 Zwischen diesen divergierenden Interessenlagen gilt es zu vermitteln
 (vgl. Gillen, 2006, S. 36--38). Unternehmen nutzen betriebliche
 Weiterbildung, um dem wirtschaftlichen Strukturwandel zu begegnen,
-folgen also einer primär „ökonomischen Handlungslogik" (Meyer, 2005, S.
+folgen also einer primär „ökonomischen Handlungslogik“ (Meyer, 2005, S.
 8). Daraus leiten Unternehmen auch ab, daß Angestellte „ihr gesamtes
-Potential und ihre Persönlichkeit in das Unternehmen einbringen sollen"
+Potential und ihre Persönlichkeit in das Unternehmen einbringen sollen“
 (Meyer, 2005, S. 8). Eine solche Vereinnahmung der Persönlichkeit birgt
 Widerstandspotential. Die Community of Practice läßt diese Konfliktlinie
 zwar nicht verschwinden, durch die gesteigerte Autonomiewahrnehmung in
 einer Community of Practice kann diese Konfliktlinie jedoch abgemildert
-werden. Da die Teilnehmenden einer Community of Practice weitgehend
+werden. Da die Teilnehmer einer Community of Practice weitgehend
 aufgrund ihres persönlichen Interesses selbstselektiert sind, mag diese
 Vereinnahmung der ganzen Persönlichkeit auch weniger negativ empfunden
 werden.
@@ -1631,7 +1631,7 @@ gefunden, wenn die Gruppe eine gemeinsame Sicht auf das Problem besitzt.
 Diese gemeinsame Sicht wird durch kollektive Reflexion innerhalb der
 Gruppe gefördert (vgl. Beutel-Wedewardt, 1994, S. 258). Dabei schließt
 die gemeinsame Sicht unterschiedliche Meinungen, Ideen und Strategien
-der einzelnen Teilnehmenden nicht aus. Die Lösung solcher Probleme setzt
+der einzelnen Teilnehmern nicht aus. Die Lösung solcher Probleme setzt
 häufig auf *mentale Modelle.* Diese sind innere Vorstellungen, die
 schwer abzulegen sind (vgl. Senge, 2011, S. 193). Menschen handeln oft
 nicht nach Grundsätzen und Thesen, die sie äußern, sondern nach ihren
@@ -1663,7 +1663,7 @@ Verknüpfung verschiedener Wissensbestände, die derart organisiert ist,
 daß ein effizienter Zugriff anhand inhaltlicher Kriterien sowohl beim
 Hinzufügen neuen Wissens als auch im Abruf bestehenden Wissens möglich
 ist. Insofern handelt es sich um eine Art indexierter Wissensbestände.
-Auf diese Weise können Fachpersonen neue Information schnell in ihre
+Auf diese Weise können Experten neue Information schnell in ihre
 kognitiven Netzwerke integrieren und Muster zuverlässig erkennen (vgl.
 Gruber, 2021, S. 111). Beispielsweise erfordern
 Organisationsverbesserungen, eigene mentale Modelle zu modifizieren
@@ -1674,22 +1674,22 @@ damit sich die Community of Practice realistisch im Unternehmen
 erreichbaren Zielen widmet und für das Unternehmen relevante Themen
 bearbeitet (vgl. North et al., 2004, S. 20).
 
-Geteilte mentale Modelle sind solche, die allen Teilnehmenden einer
-Gruppe bekannt sind und die alle Teilnehmenden nutzen können, um sich
+Geteilte mentale Modelle sind solche, die allen Teilnehmern einer
+Gruppe bekannt sind und die alle Teilnehmern nutzen können, um sich
 miteinander zu verständigen. Sie fungieren insofern als gemeinsame
 Sprache (auch im Sinne des Kapitels 2.1.1). Allerdings kann dieses enge
 Verständnis etwas erweitert werden, indem die Kenntnis und Nutzung des
-mentalen Modells nicht ausnahmslos allen Teilnehmenden auferlegt ist,
-sondern auch zugelassen wird, daß unterschiedliche Teilnehmende jeweils
+mentalen Modells nicht ausnahmslos allen Teilnehmern auferlegt ist,
+sondern auch zugelassen wird, daß unterschiedliche Teilnehmer jeweils
 zueinander ähnliche mentale Modelle oder Teilstücke eines gemeinsamen
 mentalen Modells besitzen, so lange sich diese Verteilung in ihrer
 Gesamtheit sinnvoll ergänzt (vgl. Weixelbaum, 2016, S. 40). Solche
 geteilten mentalen Modelle entwickeln sich durch explizite Kommunikation
-der Teilnehmenden (vgl. Weixelbaum, 2016, S. 182). Sie entstehen also
+der Teilnehmern (vgl. Weixelbaum, 2016, S. 182). Sie entstehen also
 auch im Reflexionsprozeß, sind zugleich aber auch Voraussetzung der
-Teamreflexion, damit alle Teilnehmenden „zu einer übereinstimmenden
-Einschätzung der aktuellen Situation kommen" (Weixelbaum, 2016, S. 182).
-Dem steht eine Diversität von Sichtweisen der Teilnehmenden nicht
+Teamreflexion, damit alle Teilnehmern „zu einer übereinstimmenden
+Einschätzung der aktuellen Situation kommen“ (Weixelbaum, 2016, S. 182).
+Dem steht eine Diversität von Sichtweisen der Teilnehmern nicht
 entgegen; zunächst unterschiedliche individuelle mentale Modelle können
 durch Kommunikation konvergieren (vgl. Weixelbaum, 2016, S. 187). Dazu
 ist gegenseitiges Vertrauen hilfreich. Das Bewußtmachen und
@@ -1710,19 +1710,19 @@ Modell ausdrücken kann.
 Reflexion erfordert Selbstbestimmung, welche als Erfahrung eigener
 Autonomie, Kompetenz und der Einbettung ins Sozialgefüge bestimmt werden
 kann (vgl. Hetzner et al., 2012, S. 539). Das Sozialgefüge einer
-Community of Practice ist die Gruppe der Teilnehmenden. Gruppen müssen
+Community of Practice ist die Gruppe der Teilnehmern. Gruppen müssen
 sich zunächst in einem sozialen Prozeß zusammenfinden und die
-relationalen Verhältnisse zwischen den Teilnehmenden eruieren. Diese
+relationalen Verhältnisse zwischen den Teilnehmern eruieren. Diese
 Phase wird als *forming* bezeichnet. In der zweiten Phase, dem
 *storming,* werden Konflikte ausgetragen. Mit einer Befriedung der
 Konflikte und der internen Einigung auf Arbeitsweisen und -standards
 geht die dritte Phase, das *norming,* einher. In dieser Phase stellen
-sich auch Vertrauen und emotionale Sicherheit zwischen den Teilnehmenden
+sich auch Vertrauen und emotionale Sicherheit zwischen den Teilnehmern
 ein. Diese vertrauensvolle Zusammenarbeit kann in der finalen Phase, dem
 *performing,* in die Leistungsfähigkeit der Gruppe kanalisiert werden.
 In dieser Phase sind interpersonelle Konflikte so weit dem gegenseitigen
 Vertrauen gewichen, daß auch neuartige Rollenverteilungen der
-Teilnehmenden aufgrund aktuellen Bedarfs flexibel eingenommen werden
+Teilnehmern aufgrund aktuellen Bedarfs flexibel eingenommen werden
 können (vgl. Tuckman, 1965, S. 78). In solchen bereits existierenden und
 eingespielten Arbeitsabläufen funktionieren der Erwerb und die
 Verbreitung von Wissen besonders gut (vgl. Heiss, 2009, S. 82), so kann
@@ -1734,7 +1734,7 @@ Practice ermöglicht (vgl. North et al., 2004, S. 43), zu solch
 eingespielten Abläufen in vertrauensvoller Zusammenarbeit zu gelangen.
 In all diesen Phasen der Gruppenfindung und -bildung spielen
 Sozialkompetenzen eine wichtige Rolle, werden jedoch durch die Übung der
-Einschätzung anderer Teilnehmender (siehe Kapitel 3.2.2) ebenso wie die
+Einschätzung anderer Teilnehmer (siehe Kapitel 3.2.2) ebenso wie die
 Personalkompetenz durch die kommunikative Rückmeldung von
 Fremdwahrnehmungen in einer Community of Practice auch gefördert (siehe
 Kapitel 3.2.2).
@@ -1749,7 +1749,7 @@ Lernenden Organisation (siehe Kapitel 3.1) einerseits positiv erscheint,
 so schwächt diese Wahrnehmung doch den Stellenwert und auch die gezielte
 eigenverantwortliche Nutzung des selbstorganisierten Lernens. Gestützt
 wird selbstorganisiertes Lernen auch durch die Erfahrung eigener
-Kompetenz, die Personen durch die übrigen Teilnehmenden der Community of
+Kompetenz, die Personen durch die übrigen Teilnehmern der Community of
 Practice widergespiegelt bekommen. Denn diese ist ein wichtiger
 Bestandteil der Selbstwirksamkeit (vgl. Krapp & Ryan, 2002, S. 71) und
 wird als solche als Stärkung eigener Autonomie wahrgenommen, da erhöhte
@@ -1777,14 +1777,14 @@ gegebenenfalls unschärfer, wenn das Schlagwort oder der kurze Satz, der
 das Thema umreißt, in sehr unterschiedlichen betrieblichen Kontexten
 keinerlei Deckung mehr aufweist, so daß versteckt mehrere Communities of
 Practice im Mantel einer einzigen nach außen sichtbaren Gruppe agieren.
-Teilnehmende, die mit funktional ähnlichen Arbeitsaufgaben betraut und
+Teilnehmer, die mit funktional ähnlichen Arbeitsaufgaben betraut und
 insofern relativ homogen sind, stoßen häufiger auf ähnliche
 Herausforderungen und können ihre Ideen und Lösungsansätze leichter
 untereinander transferieren (vgl. Kerno, 2008, S. 74).
 
 # Fazit
 
-Die Vorteile, die die Community of Practice ihren Teilnehmenden bietet,
+Die Vorteile, die die Community of Practice ihren Teilnehmern bietet,
 sind nicht auf diese beschränkt. Indirekt profitiert auch die
 Organisation davon (vgl. Lesser & Storck, 2001, S. 832), da die
 Community of Practice eine Möglichkeit bietet, langsame
@@ -1896,12 +1896,12 @@ technische Mittel erforderlich, um die jeweils im Fokus befindlichen
 aktuellen Aufgaben zu bewältigen (vgl. Gongla & Rizzuto, 2001, S. 848).
 Eine weitere Ressource, die die Angestellten aufwenden müssen, ist Zeit.
 Die Teilnahme in der Community of Practice ist in aller Regel eine
-Nebentätigkeit. Teilnehmenden kann schwer fallen, neben ihrer normalen
+Nebentätigkeit. Teilnehmern kann schwer fallen, neben ihrer normalen
 Arbeitslast noch die Teilnahme an der Community of Practice einzurichten
 (vgl. Retna & Tee Ng, 2011, S. 55). Zeitmangel hemmt das Lernen in der
 Arbeit (vgl. Müller, 2015, S. 34). Dies gilt auch, wenn dieser
 Zeitmangel nur subjektiv empfunden wird. Für die Community of Practice
-kann dies ein Problem darstellen, wenn Teilnehmende einen
+kann dies ein Problem darstellen, wenn Teilnehmer einen
 Rechtfertigungszwang für die aufgewendete Zeit annehmen und auf die
 Teilnahme oder geeignete Vorbereitungen verzichten. Da der
 betriebswirtschaftliche Nutzen betrieblicher Weiterbildung, gerade auch
@@ -1919,7 +1919,7 @@ seltener bereits zu Beginn vorgegeben und allgemein bekannt sind. Auch
 wenn die Teilnahme an einer Community of Practice ein Statussymbol sein
 kann, so lastet insbesondere in wenig sichtbaren und durch die
 Führungskräfte hervorgehobenen Communities of Practice auf den
-Teilnehmenden ein latenter Rechtfertigungszwang (vgl. Enkel et al.,
+Teilnehmern ein latenter Rechtfertigungszwang (vgl. Enkel et al.,
 2002, S. 122). Die Vereinbarkeit ungesteuerten bzw. selbstgesteuerten
 Lernens mit den konkreten Arbeitsaufgaben (vgl. Müller, 2015, S. 34,
 126) ist problematisch, sofern dazu keine transparenten Vereinbarungen
@@ -1947,7 +1947,7 @@ Teilnehmers einer untersuchten Community of Practice belegt: „Though we
 do not work in the same office or department, we communicate freely and
 talk about issues openly when we meet. We trust and help each other and
 because of our good relationship we have managed to come up with
-innovative solutions" (Retna & Tee Ng, 2011, S. 53). Positive Wirkung
+innovative solutions“ (Retna & Tee Ng, 2011, S. 53). Positive Wirkung
 auf die Motivation und Leistungsbereitschaft der Angestellten haben
 entgegengebrachte Anerkennung, die Möglichkeit, sich als ganze Person
 einzubringen und eigene Identifikation mit der Arbeitstätigkeit (vgl.
@@ -1964,7 +1964,7 @@ Zusammenstellung von Personen. Konstitutiv sind Zusammenhalt, Vertrauen
 und emotionale Sicherheit (vgl. Kenny, 1999, S. 35), die durch
 längerdauernde, gleichrangige soziale Interaktion in der Zusammenarbeit
 gestärkt werden. Schwierig ist jedoch, die Gleichberechtigung in der
-Community of Practice zu sichern, wenn Teilnehmende unterschiedlichen
+Community of Practice zu sichern, wenn Teilnehmer unterschiedlichen
 Hierarchieebenen der Organisation angehören (vgl. Senge, 2011, S. 268).
 
 Erfolgreiche Communities of Practice können nicht von oben angeordnet
@@ -1986,7 +1986,7 @@ als Abteilung institutionalisierten Community of Practice bei Siemens
 institutionelle Legitimierung erfolgte, weil die zuvor informelle
 Community of Practice sich aktiv um Unterstützung der Organisation
 bemühte (vgl. Enkel et al., 2002, S. 109), um auf Unternehmensressourcen
-zugreifen zu können, da die Zahl der Teilnehmenden ein größeres Maß an
+zugreifen zu können, da die Zahl der Teilnehmern ein größeres Maß an
 Verwaltung und Unterstützung erforderte (vgl. Enkel et al., 2002, S.
 110; vgl. Franz et al., 2002, S. 139). Dieses Entstehungsmodell weicht
 jedoch stark von der in der Literatur üblicherweise betrachteten Form
@@ -1994,25 +1994,25 @@ einer Community of Practice ab, und kann daher nicht vorbehaltlos
 empfohlen werden.
 
 Die Einrichtung einer Community of Practice kann auf mannigfaltige
-Hindernisse stoßen: Teilnehmende müssen geworben und motiviert werden,
+Hindernisse stoßen: Teilnehmer müssen geworben und motiviert werden,
 diese müssen auch Zeit besitzen, die Schwelle des Informationsaustauschs
 muß abgesenkt werden und schließlich muß sich Vertrauen der
-Teilnehmenden untereinander einstellen (vgl. Tarmizi et al., 2009, S.
+Teilnehmern untereinander einstellen (vgl. Tarmizi et al., 2009, S.
 20). Dabei muß beachtet werden, daß die Community of Practice ihren
 Freiwilligkeitscharakter nicht verlieren darf. Zwangsweise Teilnahme
 führt in der Regel statt echter, intrinsischer Motivation lediglich zu
 passiver Teilnahme (vgl. Senge, 2011, S. 243). Der Zeitfaktor weist
-mehrere Aspekte auf: die Teilnehmenden wenden nicht nur für die Treffen
+mehrere Aspekte auf: die Teilnehmer wenden nicht nur für die Treffen
 der Community of Practice und eventuelle Vor- und Nachbereitungen
 individuell Zeit auf, sondern die Community of Practice muß auch als
 solche Zeit haben, also eine längere Bestandsdauer, in der hinreichend
-viele Teilnehmenden zugleich in der konkreten Domäne arbeiten. Aufgrund
+viele Teilnehmern zugleich in der konkreten Domäne arbeiten. Aufgrund
 des allgegenwärtigen wirtschaftlichen Drucks besteht die Gefahr, daß
 kurzfristige Erwartungshorizonte die Angestellten unter Druck setzen und
 dadurch einen langfristigen und tragfähigen Gruppenbetrieb gefährden
 (vgl. North et al., 2004, S. 16). Dazu ist sicherzustellen, daß die
-Teilnehmenden nicht unablässig durch höherpriore Aufgaben unterbrochen
-oder von dieser Arbeit abgehalten werden. Dazu müssen die Teilnehmende
+Teilnehmern nicht unablässig durch höherpriore Aufgaben unterbrochen
+oder von dieser Arbeit abgehalten werden. Dazu müssen die Teilnehmer
 eine gewisse Autonomie besitzen, ihre Arbeitszeit selbst strukturieren
 zu können (vgl. Kerno, 2008, S. 73). In Bereichen der Wissensarbeit ist
 dies meistens gegeben, jedoch ist die Übertragbarkeit des
@@ -2033,7 +2033,7 @@ Gehalt und Arbeitszeitvorgaben gesichert werden, da das Arbeitsumfeld
 relativ unstrukturiert ist. Ein flexibler Umgang mit Anreizen ist daher
 anzuraten (vgl. North & Güldenberg, 2009, S. 43). Die Unterstützung und
 Anerkennung von Communities of Practice und ihrer Leistungen durch
-höhere Führungskräfte motivieren die Teilnehmenden zusätzlich. Dies kann
+höhere Führungskräfte motivieren die Teilnehmer zusätzlich. Dies kann
 unter anderem durch Sichtbarmachen der Communities of Practice in
 Meetings und formellen Agenden geschehen (vgl. Retna & Tee Ng, 2011, S.
 51--52).
@@ -2052,22 +2052,22 @@ Practice in bestehende Unternehmensstrukturen und -hierarchien einfügen
 können. Dazu könnten entsprechende Untersuchungen zu Matrixstrukturen in
 Unternehmen adaptiert werden (vgl. Kerno, 2008, S. 77). Ferner stellt
 sich die Frage, ob und wie sich Communities of Practice verschiedener
-Größenordnungen an Teilnehmenden unterscheiden (vgl. Roberts, 2006, S.
+Größenordnungen an Teilnehmern unterscheiden (vgl. Roberts, 2006, S.
 630). Ist es plausibel, daß ein und derselbe Satz von Prinzipien und
 Vorgehensweisen ebenso auf die kleine Gruppe von zehn Personen anwendbar
 ist wie auf ein konzernumspannendes Netzwerk von tausenden
-Teilnehmenden? Sind Kipp-Punkte erkennbar, ab denen sich der Charakter
+Teilnehmern? Sind Kipp-Punkte erkennbar, ab denen sich der Charakter
 einer Community of Practice regelmäßig verändert?
 
 In der Peripheren Legitimen Partizipation konzentriert sich auch die
 Frage nach den Machtstrukturen in einer Community of Practice, die Lave
 und Wenger nur oberflächlich beleuchten (vgl. Roberts, 2006, S. 627).
-Nur durch Akzeptanz der Alt-Teilnehmenden gelangen Neu-Teilnehmende auf
+Nur durch Akzeptanz der Alt-Teilnehmern gelangen Neu-Teilnehmer auf
 die Trajektorie, die sie zur vollen Partizipation führen kann (vgl.
 Contu & Willmott, 2003, S. 285). Der Vorbehalt der Partizipation, auch
 wenn diese in aller Regel gewährt wird, ist ein Machtfaktor. Ebenso
-können Alt-Teilnehmende mit relational stärkerer Machtbasis
-Neu-Teilnehmenden die Erlangung einer Identität als (Fach-)Autorität
+können Alt-Teilnehmer mit relational stärkerer Machtbasis
+Neu-Teilnehmern die Erlangung einer Identität als (Fach-)Autorität
 verwehren (vgl. Lave & Wenger, 1991, S. 42). Die Analyse von
 Machtstrukturen ist jedoch auf zweierlei Weisen beschränkt: trotz
 Verwendung ethnographischer Studien aus sehr unterschiedlichen Zeiten
@@ -2432,7 +2432,7 @@ maps as facilitative tools in schools and corporations* (2. Auflage).
 New York, NY: Routledge.
 
 Pedler, M., Boydell, T. & Burgoyne, J. (1994). Auf dem Weg zum
-„Lernenden Unternehmen". In T. Sattelberger (Hrsg.), *Die lernende
+„Lernenden Unternehmen“. In T. Sattelberger (Hrsg.), *Die lernende
 Organisation: Konzepte für eine neue Qualität der
 Unternehmensentwicklung* (S. 57--65). Wiesbaden: Gabler Verlag.
 doi:10.1007/978-3-663-13533-3_2
