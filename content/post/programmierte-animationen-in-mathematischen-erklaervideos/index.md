@@ -619,8 +619,8 @@ teilweise auch erst später folgenden Videos der Reihe zu stellen.
 Die Signalisierung durch Hervorhebung findet in allen Videos andauernd
 statt. Symbole, Vektoren oder Punkte werden unterschiedlich eingefärbt,
 Animationen lenken den Fokus auf die animierten Objekte, und auch die
-Intonation bzw. Prosodie des Sprechers, siehe auch 4.2.22 und 4.2.26,
-weist auf wichtige Teile hin.
+Intonation bzw. Prosodie des Sprechers, siehe auch die Kapitel „Sprechen“
+und „Design“, weist auf wichtige Teile hin.
 
 ### Segmentierung
 
@@ -644,7 +644,7 @@ Beispiele identifiziert werden, in denen K01 erfüllt ist, K19 jedoch
 nicht, oder andersherum.
 
 Zur Diskussion bezüglich Hintergrundgestaltung und Musik, siehe Kapitel
-4.2.1.
+„Minimalismus“.
 
 ### Ton und Bild
 
