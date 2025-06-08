@@ -14,8 +14,8 @@ disableKinds:
     - taxonomy
     
 permalinks:
-  post: '/:year/:month/:filename/'
-  page: '/:filename/'
+  post: '/:year/:month/:contentbasename/'
+  page: '/:contentbasename/'
 
 outputFormats:
     RSS:

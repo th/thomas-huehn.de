@@ -13,7 +13,7 @@
 	{{- if .Params.translated -}}
 	  <link rel="alternate" hreflang="de" href="{{- .Params.translated -}}" />
 	{{- end -}}
-	{{- $css := resources.Get "styles.css" | resources.ToCSS }}
+	{{- $css := resources.Get "styles.css" | css.Sass }}
     <style>{{ $css.Content | safeCSS }}</style>
 	<title>{{ with .Params.Title }}{{ . }}{{ end }}</title>
   </head>
