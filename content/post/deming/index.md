@@ -2,8 +2,9 @@
 title: "Statistische Prozeßlenkung nach W. Edwards Deming"
 description: Übersicht über Statistische Prozeßlenkung und Demings Verdienste darum
 date: 2020-08-06
-tags: ['Qualität', 'Systeme']
+tags: ['Qualität', 'Systemtheorie']
 favorite: true
+aliases: ["/2020/08/deming/"]
 ---
 ## Einführung
 
@@ -79,7 +80,9 @@ Walter Shewhart.
 
 Vieles von dem, wofür Deming bekannt ist, gab es bereits in der ein oder anderen Form bei Shewhart. Was kein Zufall ist, Deming studierte unter Shewhart und arbeitete später mit ihm zusammen. Und am bekanntesten an Shewharts Arbeit ist der Shewhartkreis:
 
-![](deming-cycle-squoosh.png "Plan – Do – Check – Act. Eine Grundlage des Projektmanagements. Auch PDCA-Kreis genannt, PDCA-Zyklus, Scrum-Sprint oder – Überraschung! – der Deming-Kreis.")
+![Plan – Do – Check – Act](deming-cycle-squoosh.png)
+
+Plan – Do – Check – Act. Eine Grundlage des Projektmanagements. Auch PDCA-Kreis genannt, PDCA-Zyklus, Scrum-Sprint oder – Überraschung! – der Deming-Kreis.
 
 Deming selbst nannte dieses Konzept stets „Shewhartkreis“.
 
@@ -103,7 +106,7 @@ Was sonst sollen Sie tun?
 
 Der Produktionsprozeß kann anhand einer Produktionsfunktion P(μ,σ) modelliert werden, die annähernd normalverteilt ist, mit μ als Erwartungswert und σ als Standardabweichung.
 
-![](non-centered-1.jpg "Produktionsfunktion und Verlustfunktion")
+![Produktionsfunktion und Verlustfunktion](non-centered-1.jpg)
 
 Warum eine Normalverteilung? Weil es in der Praxis ganz gut zu funktionieren scheint (der zentrale Grenzwertsatz sagt uns, daß wir unter recht laxen Bedingungen eine annähernde Normalverteilung sehen werden). Und weil es „schöne“ Theoreme für die Normalverteilung gibt, so daß wir damit praktische Dinge errechnen können.
 
@@ -125,7 +128,7 @@ Eine neue Funktion f(μ,σ) kombiniert nun die Produktionsfunktion und die Verlu
 Ich würde vermuten, daß man etwas mehr mathematische Maschinerie benötigt, beispielsweise eine echte Faltung, oder? Sofern ich seine Notation nicht völlig mißverstehe, verwendet Deming aber tatsächlich eine Multiplikation.
 </aside>
 
-![](centered.jpg "Produktionsfunktion und Verlustfunktion (zentriert)")
+![Produktionsfunktion und Verlustfunktion (zentriert)](centered.jpg)
 
 Für übliche Funktion P und L (und besonders in diesem vereinfachten Beispiel) ist offensichtlich: μ sollte dort sitzen, wo die Verlustfunktion ihr Minimum hat. Wenn dies der Fall ist, verursachen die meisten Teile nur geringe Verluste, und die Teile, die relevante Verluste verantworten, sind nur wenige.
 
@@ -177,7 +180,7 @@ Und nun gibt es vier verschiedene Strategien, mit denen er fortfuhr. Jede dieser
 
 Die erste Strategie ist genau die, die Deming für gewöhnliche Fehler empfiehlt: Finger weg! Der Trichter bleibt, wo er ist, also Z = Z‘ = Z“.
 
-![](strategy1.jpg "Experiment 1")
+![Experiment 1](strategy1.jpg)
 
 Die Zielverteilung ist kreisförmig und ziemlich eng.
 
@@ -185,19 +188,19 @@ Die zweite Strategie spiegelt wider, was viele Menschen tun: sie bewegen den Tri
 
 Das ist wie Artillerieschießen. Über den Feind hinweggeschossen? Ziel das nächste Mal kürzer! Es ist auch, was passiert, wenn man gewöhnliche Fehler als besondere Fehler behandelt.
 
-![](strategy2.jpg "Experiment 2")
+![Experiment 2](strategy2.jpg)
 
 Das resultierende Muster ist nach wie vor kreisförmig, hat aber eine um etwa 30% größere Fläche.
 
 Die dritte Strategie ähnelt der zweiten. Jedoch vergleicht man nicht den Treffpunkt T mit dem letzten Zielpunkt, sondern immer mit dem Originalzielpunkt Z in der Mitte des Blatts Papier.
 
-![](strategy3.jpg "Experiment 3")
+![Experiment 3](strategy3.jpg)
 
 Es entsteht ein Zielmuster, das ein wenig wie ein Propeller aussieht. Der Zielpunkt oszilliert zwischen zwei Quadranten, und das gesamte Experiment divergiert. Das bedeutet, der Fehler wird größer und größer.
 
 Die vierte Strategie sieht ähnlich wild aus. Deming zielte einfach immer auf den letzten Treffpunkt, also Z‘ = T. Wieso sollte man so etwas tun? Sie würden es natürlich nicht tun, in diesem Experiment. Aber es ist ziemlich genau das Spiel Stille Post. Sie zielen dorthin, was der letzte Mitspieler Ihnen gesagt hat. Oder, in anderen Worten, dieses Verhalten ist genau das, wenn man jemandem etwas ohne ein stabiles und gemeinsames Lehrbuch beibringt. Der eine Maschinenführer lernt den seinen Nachfolger an, der Nachfolger versteht das meiste, aber nicht alles ganz exakt. Wenn der Nachfolger nun wiederum seinen Nachfolger anlernt, und der ursprüngliche Maschinenführer nicht mehr zur Verfügung steht, dann divergiert das Training genau wie die Kugeln hier.
 
-![](strategy4.jpg "Experiment 4")
+![Experiment 4](strategy4.jpg)
 
 Im Ergebnis sieht das Muster so wie hier aus: es divergiert schnell, und im allgemeinen auch in ziemlich direkter Linie in einer Richtung.
 
@@ -205,7 +208,9 @@ Im Ergebnis sieht das Muster so wie hier aus: es divergiert schnell, und im allg
 
 Gewöhnliche Fehler und besondere Fehler können mathematisch auseinandergehalten werden. Die Basis für diese Unterscheidung ist die [Qualitätsregelkarte](https://de.wikipedia.org/wiki/Qualit%C3%A4tsregelkarte), auf englisch “control chart” oder zuweilen auch “Shewhart chart” oder “process-behaviour chart”.
 
-![](controlchart.jpg "Die y-Achse zeigt eine kontinuierliche Messung, „target“ korrespondiert mit dem Ideal. Es gibt ein “upper control limit” (UCL) und ein “lower control limit” (LCL). Beide sitzen respektive bei +3σ und -3σ.")
+![controlchart](controlchart.jpg)
+
+Die y-Achse zeigt eine kontinuierliche Messung, „target“ korrespondiert mit dem Ideal. Es gibt ein “upper control limit” (UCL) und ein “lower control limit” (LCL). Beide sitzen respektive bei +3σ und -3σ.
 
 **UCL und LCL werden aus echten Prozeßdaten errechnet!** Sie sind keine Spezifikationsgrenzen.
 

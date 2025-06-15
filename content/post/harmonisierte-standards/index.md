@@ -3,9 +3,10 @@ title: "Harmonisierte Standards und EU-Richtlinien"
 description: Die rechtlichen Zusammenhänge der Maschinenrichtlinie und des nationalen Rechts
 date: 2014-03-02
 lastmod: 2014-09-19
-tags: ['Europa', 'Recht', 'Safety']
+tags: ['Europa", "Recht", "Safety']
+aliases: ["/2014/03/harmonisierte-standards/"]
 ---
-Wenn man heutzutage Produktenwicklung für den Europäischen Markt betreibt, muß man allenorten EU-Richtlinien und andere Gesetze einhalten.
+Wenn man heutzutage Produktentwicklung für den Europäischen Markt betreibt, muß man allenorten EU-Richtlinien und andere Gesetze einhalten.
 
 Und obwohl Ingenieure diese Anforderungen auf technischer Seite üblicherweise sehr gut beherrschen, kann es manchmal desillusionieren, wenn man sie über ihre Wahrnehmung der rechtlichen Mechanismen sprechen hört.
 

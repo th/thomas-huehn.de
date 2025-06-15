@@ -1,12 +1,10 @@
 ---
-title: 'Programmierte Animationen in mathematischen Erklärvideos'
+title: "Programmierte Animationen in mathematischen Erklärvideos"
 description: 'Entsprechen die 3Blue1Brown-Videos den Qualitäts- und Gestaltungskriterien, die in der Fachliteratur aufgestellt werden?'
 date: 2023-10-30
-tags: ['Pädagogik', 'Video']
+tags: ['Bildungswissenschaft", "Studium", "Video']
+aliases: ["/2023/10/programmierte-animationen-in-mathematischen-erklaervideos/"]
 ---
-
-#  {#section .unnumbered}
-
 # Einleitung
 
 Anhand eines konkreten Fallbeispiels als Ausgangspunkt werden die
@@ -19,16 +17,11 @@ und beides anschließend auf das Fallbeispiel angewendet.
 Der YouTuber Grant Sanderson stellt auf seinem Kanal 3Blue1Brown
 Erklärvideos zu verschiedenen Themen der (höheren) Mathematik ein.
 Sanderson nutzt grafische Animationen zur Verdeutlichung und legt Wert
-darauf, mathematische Intuition zu fördern. Viele Menschen -- die Videos
-haben bis zu 16 Millionen Aufrufe -- schauen sich diese Videos
+darauf, mathematische Intuition zu fördern. Viele Menschen – die Videos
+haben bis zu 16 Millionen Aufrufe – schauen sich diese Videos
 regelmäßig im Abonnement oder aufgrund einer Suche zum jeweiligen Thema
 an. Dabei kommentiert ein Teil von ihnen diese Videos, wobei mehrere
-tausend Kommentare bei beliebten Videos vorkommen können. Die
-Zuschauerinnen und Zuschauer rekrutieren sich nicht nur aus
-studentischen Kreisen, sondern durch die attraktive graphische
-Gestaltung gehen diese Videos zuweilen „viral“ und werden auch von
-Menschen geteilt, die wenig Mathematikinteresse besitzen, sondern denen
-das Zuschauen Freude bereitet (vgl. Valentin, 2020, S. 52). Ob
+tausend Kommentare bei beliebten Videos vorkommen können. Die Zuschauer rekrutieren sich nicht nur aus studentischen Kreisen, sondern durch die attraktive graphische Gestaltung gehen diese Videos zuweilen „viral“ und werden auch von Menschen geteilt, die wenig Mathematikinteresse besitzen, sondern denen das Zuschauen Freude bereitet (vgl. Valentin, 2020, S. 52). Ob
 tatsächliches Lernen stattfindet, ist dabei nicht überprüfbar.
 Insbesondere die einfache Auffindbarkeit, der Unterhaltungswert und die
 Gestaltung lassen eher einen Unterhaltungs- denn einen Lernwert
@@ -77,7 +70,7 @@ Zuschauenden etwas zu erklären (intentionaler Aspekt), (2) dies wird in
 der medieneigentümlichen Gestaltung des Medienformats „Video"
 ausgedrückt (gestalterisch-didaktischer Aspekt) (vgl. Fey, 2021, S. 21).
 Der intentionale Aspekt umfaßt also instruktionale Erklärungen (vgl.
-Kulgemeyer, 2018, S. 9, vgl. 2020a, S. 5--6), mithin allgemein- wie
+Kulgemeyer, 2018, S. 9, vgl. 2020a, S. 5–6), mithin allgemein- wie
 fachdidaktische Überlegungen. Der gestalterische Aspekt umfaßt den
 gezielten Einsatz des Medienformats „Video“ unter Nutzung der
 spezifischen Vorteile und Möglichkeiten und damit neben
@@ -116,7 +109,7 @@ with Media".
 
 ## Medium
 
-Nach Wiesing sind alle Medien Werkzeuge, um die Trennung Genese--Geltung
+Nach Wiesing sind alle Medien Werkzeuge, um die Trennung Genese–Geltung
 zu vollziehen, und alle Werkzeuge, die dies leisten, sind Medien (vgl.
 Wiesing, 2008, S. 240).
 
@@ -158,7 +151,7 @@ Die Kognitive Theorie Multimedialen Lernens postuliert getrennte
 Verarbeitungseinheiten für unterschiedliche Sinneskanäle wie Hören und
 Sehen (vgl. Schmidt-Borcherding, 2020, S. 63). Dadurch addieren sich die
 Verarbeitungskapazitäten verschiedener Informationsmodalitäten, z.B. das
-Arbeitsgedächtnis (vgl. Schmidt-Borcherding, 2020, S. 65--66), und es
+Arbeitsgedächtnis (vgl. Schmidt-Borcherding, 2020, S. 65–66), und es
 tritt eine scheinbare Erhöhung der Verarbeitungskapazität ein, die auf
 der effektiveren Nutzung aller Verarbeitungseinheiten basiert.
 
@@ -167,7 +160,7 @@ der effektiveren Nutzung aller Verarbeitungseinheiten basiert.
 Die Cognitive-Affective Theory of Learning with Media setzt auf diesen
 Prinzipien auf und fügt eine affektionelle und motivationale Komponente
 hinzu, die selbstregulierend wirkt. Dabei sollen diese Faktoren
-insbesondere die Aufmerksamkeit der Lernenden erhöhen oder halten, aber
+insbesondere die Aufmerksamkeit der Lerner erhöhen oder halten, aber
 auch die kognitive Auseinandersetzung mit dem Lernstoff stimulieren
 (vgl. Moreno, 2006, S. 151).
 
@@ -176,9 +169,10 @@ motivations- bzw. emotionswirksame Kriterien in den Katalogen der
 Qualitätskriterien in der Literatur bzw. des synthetisierten
 Kriterienkatalogs (z.B. K07, K11, K13, K21, K25 und K26).
 
-![A diagram of a memory Description automatically
-generated](./image1.png "Abbildung 1 Schematische Darstellung der
-Cognitive-Affective Theory of Learning with Media (Moreno, 2006, S. 151)")
+![image1](image1.png)
+
+Abbildung 1 Schematische Darstellung der
+Cognitive-Affective Theory of Learning with Media (Moreno, 2006, S. 151)
 
 # Kriterien für Erklärvideos
 
@@ -201,7 +195,9 @@ er bezieht sich also vorwiegend auf den intentionalen Aspekt, nicht so
 sehr den gestalterischen oder ästhetischen Aspekt (vgl. Kulgemeyer,
 2018, S. 10). Der Kriterienkatalog ist in Abbildung 2 abgebildet.
 
-![](./image2.png "Abbildung 2 Kulgemeyer 2018, S. 10")
+![image2](image2.png)
+
+Abbildung 2 Kulgemeyer 2018, S. 10
 
 Seine Untersuchungen sind besonders geeignet, da er insbesondere
 Erklärvideos im Fach Physik untersucht (vgl. Kulgemeyer & Peters, 2016).
@@ -209,7 +205,9 @@ Konkretere Hinweise zum Instruktionsdesign erarbeitete er
 in einer Folgearbeit (vgl. Kulgemeyer, 2020b, S. 73).
 Dieser Kriterienkatalog ist in Abbildung 3 zu finden.
 
-![](./image3.png "Abbildung 3 Kulgemeyer 2019, S. 73")
+![image3](image3.png)
+
+Abbildung 3 Kulgemeyer 2019, S. 73
 
 ### Brame
 
@@ -217,7 +215,9 @@ Ebenfalls recht detaillierte Hinweise gibt Brame in ihrem
 Kriterienkatalog (Abbildung 4); sie fügt auch Begründungen hinzu (vgl.
 Brame, 2016, S. 3).
 
-![](./image4.png "Abbildung 4 Brame 2016, S. 3")
+![image4](image4.png)
+
+Abbildung 4 Brame 2016, S. 3
 
 Sie betrachtet dazu drei Elemente: Kognitive Last
 bezeichnet die Beanspruchung des Arbeitsgedächtnisses (vgl. Sweller,
@@ -236,18 +236,24 @@ In einer Metaauswertung verschiedener empirischer Studien zu den
 Einflußmerkmalen von Gestaltungselementen auf Zielgrößen läßt sich
 ablesen, welche Gestaltungselemente zuverlässig positiv oder negativ zu
 einer Zielgröße beitragen und welche keinen gesicherten Erfolg haben
-(vgl. Findeisen et al., 2019, S. 21--23). Vorliegend soll nur die
+(vgl. Findeisen et al., 2019, S. 21–23). Vorliegend soll nur die
 Zielgröße „Lernerfolg“ Beachtung finden, weitere Zielgrößen wie
 „Lernanstrengung" oder „Selbstwirksamkeit“ sind in Bezug auf die
 Forschungsfrage wenig relevant, zudem ist dort keine Anschlußfähigkeit
 an die anderen Kriterienkataloge gegeben. Der Kriterienkatalog ist in
 Abbildung 5, Abbildung 6 sowie Abbildung 7 zu finden.
 
-![](./image5.png "Abbildung 5 Findeisen/Horn/Seifried 2019, S. 21")
+![image5](image5.png)
 
-![](./image6.png "Abbildung 6 Findeisen/Horn/Seifried 2019, S. 22")
+Abbildung 5 Findeisen/Horn/Seifried 2019, S. 21
 
-![](./image7.png "Abbildung 7 Findeisen/Horn/Seifried 2019, S. 23")
+![image6](image6.png)
+
+Abbildung 6 Findeisen/Horn/Seifried 2019, S. 22
+
+![image7](image7.png)
+
+Abbildung 7 Findeisen/Horn/Seifried 2019, S. 23
 
 Als einflußreich ergaben sich die Gestaltungsmerkmale „Interaktion", „Perspektive",
 „Alter“, „Dauer“ und „Design“ (vgl. Findeisen et al., 2019, S. 30). Da
@@ -295,7 +301,7 @@ sind.
 Es ergibt sich die folgende Tabelle. Dieser Kriterienkatalog wird der eigenen
 Auswertung der 3Blue1Brown-Videos zugrundegelegt.
 
-ID       |Kriterium                |Beschreibung
+|ID       |Kriterium                |Beschreibung|
 |--------|-------------------------|---------------------------------------|
 |K01     |Minimalismus             |Konzentration aufs wesentliche, Sparsamkeit mit Effekten|
 |K02     |Rule-Example-Strategie   |Erst Prinzip, dann Veranschaulichung|
@@ -323,7 +329,7 @@ ID       |Kriterium                |Beschreibung
 |K24     |Interaktivität           |Direktwahl von Kapiteln, Wiedergabegeschwindigkeit|
 |K25     |Alter                    |Höheres Alter der erklärenden Person wirkt positiv (vgl. Findeisen et al., 2019, S. 30)|
 |K26     |Design                   |Positive Emotionen, Ästhetik, Nutzerfreundlichkeit|
-                    
+
 # 3Blue1Brown-Videos
 
 Der Kanal 3Blue1Brown enthält derzeit 129 Videos. Diese sind
@@ -338,8 +344,8 @@ referenziert als [ELA01] bis [ELA16] im Videoverzeichnis). Die
 vorliegende Arbeit stützt sich auf diese Videos, um besonders beliebte
 Videos zugrundezulegen, aber auch weil der Lehranspruch in dieser
 Videoreihe besonders deutlich wird. Ferner wurde eine zusammenhängende
-Videoreihe gewählt, um das Kriterium der Struktur (K09) --
-videoübergreifende Ordnungsprinzipien und Verweise -- nicht ins Leere
+Videoreihe gewählt, um das Kriterium der Struktur (K09) –
+videoübergreifende Ordnungsprinzipien und Verweise – nicht ins Leere
 laufen zu lassen. Dies bedeutet jedoch nicht, daß die diskutierten
 Kriterien in anderen Videos nicht veranschaulicht und bewertet werden
 könnten.
@@ -359,8 +365,8 @@ undenkbar. Genau diese Trennung „Sanderson produziert ein Video"
 (Genese) und „die Lineare Algebra funktioniert genau so“ (Geltung) macht
 die Medieneigenschaft des Erklärvideos aus.
 
-Sie führt auch dazu, daß die körperliche Welt -- bei digitalen Videos:
-Magnetisierungszustände oder Halbleiterspannungspotentiale -- von der
+Sie führt auch dazu, daß die körperliche Welt – bei digitalen Videos:
+Magnetisierungszustände oder Halbleiterspannungspotentiale – von der
 Welt der Bedeutung getrennt wird. Wenn ein Koordinatensystem linear oder
 nicht-linear transformiert, und diese Transformation in einer Animation
 im Zeitverlauf graphisch dargestellt wird (siehe Abbildung 8, Abbildung
@@ -369,17 +375,25 @@ Denn selbst wenn man ein Gummituch nähme und dieses verzerrte und
 verformte, so würden sich unweigerlich Ungenauigkeiten, Verzerrungen und
 Falten, vielleicht gar Risse ergeben.
 
-![](./image8.png "Abbildung 8 Koordinatentransformation 1, [ELA03], Zeitstempel 02:15")
+![image8](image8.png)
 
-![](./image9.png "Abbildung 9 Koordinatentransformation 2, [ELA03], Zeitstempel 02:16")
+Abbildung 8 Koordinatentransformation 1, [ELA03], Zeitstempel 02:15
 
-![](./image10.png "Abbildung 10 Koordinatentransformation 3, [ELA03], Zeitstempel 02:17")
+![image9](image9.png)
+
+Abbildung 9 Koordinatentransformation 2, [ELA03], Zeitstempel 02:16
+
+![image10](image10.png)
+
+Abbildung 10 Koordinatentransformation 3, [ELA03], Zeitstempel 02:17
 
 Duale Kodierung findet sich in den Videos allerorten: die Beschriftung
 relevanter Koordinaten oder Vektoren ist nur ein Beispiel (Abbildung 11
 [ELA03], Zeitstempel 04:10).
 
-![](./image11.png "Abbildung 11 [ELA03], Zeitstempel 04:10")
+![image11](image11.png)
+
+Abbildung 11 [ELA03], Zeitstempel 04:10
 
 3Blue1Brown-Videos sind auch ein gutes Beispiel für die Prinzipien der
 Kognitiven Theorie Multimedialen Lernens: neben den programmierten
@@ -390,7 +404,9 @@ gesprochene Text sich nur teilweise schriftlich im Bild wiederfindet,
 sondern tatsächlich zusätzliche Information gegeben wird, die durch die
 bildliche Begleitung erweitert und konkretisiert wird, siehe Abbildung 12.
 
-![](./image12.png "Abbildung 12 “then î lands on the coordinates zero-one”, [ELA03], Zeitstempel 08:13")
+![image12](image12.png)
+
+Abbildung 12 “then î lands on the coordinates zero-one”, [ELA03], Zeitstempel 08:13
 
 Die Cognitive-Affective Theory of Learning with Media stellt weniger
 konkrete Eigenschaften bereit, die ein Erklärvideo erfüllen könnte,
@@ -404,14 +420,16 @@ und Gestik, um Emotionen mit mathematischen Ergebnissen zu verbinden
 mathematical results is pedagogically beneficial", [PI], Zeitstempel
 11:50).
 
-![](./image13.png "Abbildung 13 Pi creatures, [ELA09], Zeitstempel 04:10")
+![image13](image13.png)
+
+Abbildung 13 Pi creatures, [ELA09], Zeitstempel 04:10
 
 ## Anwendung des Kriterienkatalogs
 
 In der Anwendung ergiebiger als die Theorie sind die konkreten
 Qualitätskriterien. Nach Erarbeitung des synthetisierten
 Kriterienkatalogs wurden die Videos sorgfältig durchgesehen, um zu den
-Kriterien passende -- oder ihnen widersprechende -- Stellen in den
+Kriterien passende – oder ihnen widersprechende – Stellen in den
 Videos zu suchen. Die Zuordnung der Kriterien zu den Stellen in den
 einzelnen 3Blue1Brown-Videos ist in Anhang C dokumentiert.
 
@@ -441,7 +459,9 @@ gehalten, die Hintergründe sind schwarz und leer, Sanderson zeigt sich
 selbst nicht, womit auch diese Quelle von Bewegung und Ablenkung
 wegfällt (siehe Abbildung 14).
 
-![](./image14.png "Abbildung 14 Leerer Hintergrund, [ELA09], Zeitstempel 01:05")
+![image14](image14.png)
+
+Abbildung 14 Leerer Hintergrund, [ELA09], Zeitstempel 01:05
 
 ### Rule-Example-Strategie
 
@@ -475,8 +495,8 @@ eine Eigentümlichkeit des Distributionswegs YouTube sowie der
 an bestimmte benennbare Personen zu wenden, so wie dies in einem
 Klassenzimmer oder einem definierten Hochschulmodul möglich wäre. An
 dieser Stelle verläßt sich Sanderson auf die Selbstselektion der
-Zuschauenden, die sich gemäß ihrer persönlichen Interessen -- die auch
-reine Unterhaltung sein können -- verhalten. Allerdings bringt Sanderson
+Zuschauenden, die sich gemäß ihrer persönlichen Interessen – die auch
+reine Unterhaltung sein können – verhalten. Allerdings bringt Sanderson
 in der Mehrzahl der Videos nicht nur Rückschau und Vorschau auf die
 Videos zuvor und danach unter, sondern auch bei relevanten bereits
 behandelten Themen direkte, anklickbare Verweise auf diese vorherigen
@@ -515,10 +535,12 @@ das Spannungsfeld zu K01 „Minimalismus".
 Sanderson verwendet durchgängig Fachsprache, er schreckt auch vor
 Symbolen wie ĵ („j hat") oder dem Wort „Parallelepiped“ nicht zurück.
 
-![](./image15.png "Abbildung 15 Parallelepiped, [ELA06], Zeitstempel 06:14")
+![image15](image15.png)
+
+Abbildung 15 Parallelepiped, [ELA06], Zeitstempel 06:14
 
 Diese Fachbegriffe verwendet er selbstverständlich und ohne besondere
-Heraushebung oder Belustigung, die bei anderen YouTube-Produzierenden
+Heraushebung oder Belustigung, die bei anderen YouTube-Produzenten
 zuweilen zu beobachten ist. Neue Fachbegriffe werden jedoch stets bei
 Erstverwendung eingeführt und erläutert.
 
@@ -528,11 +550,17 @@ Die kommentierte Umformung von Termen und Gleichungen nimmt großen Raum
 in den Videos ein, so sind etwa 50 Fundstellen verzeichnet. Ein Beispiel
 zeigen Abbildung 16, Abbildung 17 und Abbildung 18.
 
-![](./image16.png "Abbildung 16 Mathematisierung, [ELA05], Zeitstempel 03:18")
+![image16](image16.png)
 
-![](./image17.png "Abbildung 17 Mathematisierung, [ELA05], Zeitstempel 03:20")
+Abbildung 16 Mathematisierung, [ELA05], Zeitstempel 03:18
 
-![](./image18.png "Abbildung 18 Mathematisierung, [ELA05],  Zeitstempel 03:25")
+![image17](image17.png)
+
+Abbildung 17 Mathematisierung, [ELA05], Zeitstempel 03:20
+
+![image18](image18.png)
+
+Abbildung 18 Mathematisierung, [ELA05],  Zeitstempel 03:25
 
 ### Struktur
 
@@ -547,9 +575,9 @@ sich weniger als zehn Fundstellen für K10. Dies liegt auch daran, daß es
 sich um kein Video handelt, das eine praktische Handlung vorführt,
 sondern um mathematische Instruktion auf universitärem Niveau. Die
 Anwendungsbezogenheit wird zwar stets gefordert, aber insbesondere in
-einem Grundlagenkurs -- wie eine erste Lineare-Algebra-Vorlesung es an
-der Universität ist -- darf auch legitim ein Interesse und
-Eigenmotivation der Lernenden vorausgesetzt werden, ohne unmittelbar mit
+einem Grundlagenkurs – wie eine erste Lineare-Algebra-Vorlesung es an
+der Universität ist – darf auch legitim ein Interesse und
+Eigenmotivation der Lerner vorausgesetzt werden, ohne unmittelbar mit
 Anwendungsgebieten zu locken. Einzelne Beispiele gibt es dennoch für
 dieses Kriterium, so wird in [ELA05], Zeitstempel 03:44 deutlich
 gemacht, daß die gezeigten dreidimensionalen Vektor-Matrix- und
@@ -570,14 +598,18 @@ bearbeiten, gibt es in der Videoreihe nicht. Vereinzelt stellt Sanderson
 „Puzzles" oder weiterführende Aufgaben (Abbildung 19), blendet sie aber
 nur kurz ein.
 
-![](./image19.png "Abbildung 19 “Think about why this definition would make sense.”, [ELA02], Zeitstempel 09:33")
+![image19](image19.png)
+
+Abbildung 19 “Think about why this definition would make sense.”, [ELA02], Zeitstempel 09:33
 
 Häufiger sind kurze Pausen im Video mit der Aufforderung,
 über etwas nachzudenken (Abbildung 20), dies sind aber keine Aufgaben im
 Sinne einer ernsthaften Bearbeitung, sondern eher kurze Segmente zur
 Steuerung der Aufmerksamkeit der Rezipierenden.
 
-![](./image20.png "Abbildung 20 “Pause, and take a moment to see...”, [ELA03], Zeitstempel 09:05")
+![image20](image20.png)
+
+Abbildung 20 “Pause, and take a moment to see...”, [ELA03], Zeitstempel 09:05
 
 ### Direkte Ansprache
 
@@ -715,7 +747,7 @@ animierten Erklärvideos nicht vollständig befriedigend behandeln kann.
 Zum einen sind einige Kriterien allgemein erfüllt, so zum Beispiel K06
 (Multimedia), zum anderen sind Kriterien wie K24 (Interaktivität) bei
 YouTube-Videos eher eine Frage der technischen und medialen Kompetenz
-der Lernenden sowie der technischen Umsetzung des Videoplayers.
+der Lerner sowie der technischen Umsetzung des Videoplayers.
 
 Dennoch ergibt die Auswertung des aufgestellten Kriterienkatalogs, daß
 Sanderson die meisten Qualitätskriterien konsistent erfüllt und nur in
@@ -733,10 +765,10 @@ positiv beantwortet werden kann, die 3Blue1Brown-Videos erfüllen die
 Qualitätskriterien aus der Literatur.
 
 In dieser Arbeit wurde lediglich das eigentliche Erklärvideo analysiert,
-also die Produzierendenseite. Aufschlußreich könnte aber auch eine
-Betrachtung der Kommentierenden unter den Videos sein. Denn
+also die Produzentenseite. Aufschlußreich könnte aber auch eine
+Betrachtung der Kommentatoren unter den Videos sein. Denn
 YouTube-Kanäle können auch als soziales Netz verstanden werden (vgl.
-Valentin, 2020, S. 50). So können Kommentierende inhaltlich über die
+Valentin, 2020, S. 50). So können Kommentatoren inhaltlich über die
 Videos diskutieren, sich gegenseitig beim Verständnis unterstützen oder
 das Thema durch ihre Diskussion ausweiten. Dies mag im allgemeinen aus
 guten Gründen bezweifelt werden (vgl. Dorgerloh & Wolf, 2020, S. 61),
@@ -748,8 +780,8 @@ untersucht werden. Die spezielle Form der programmierten Animation
 mittels manim (Sanderson, 2015/2023) hat eine Reihe von Nachahmern
 gefunden, die eigene Erklärvideos ähnlicher ästhetischer Art produzieren
 und dabei teilweise dieselbe Software einsetzen, teilweise ähnliche
-Effekte mittels anderer Software erzielen. Diese Nachahmer -- der
-Begriff soll nicht pejorativ verstanden werden -- könnten mit
+Effekte mittels anderer Software erzielen. Diese Nachahmer – der
+Begriff soll nicht pejorativ verstanden werden – könnten mit
 3Blue1Brown verglichen werden.
 
 # Literaturverzeichnis
@@ -759,50 +791,50 @@ Classroom*. Jossey-Bass; Washington, DC.
 
 Brame, Cynthia (2016). Effective Educational Videos: Principles and
 Guidelines for Maximizing Student Learning from Video Content. *Cell
-Biology Education*, *15*, es6--es6.
+Biology Education*, *15*, es6–es6.
 https://doi.org/10.1187/cbe.16-03-0125
 
 Dorgerloh, Stephan, & Wolf, Karsten D. (Hrsg.) (2020). *Lehren und
 Lernen mit Tutorials und Erklärvideos: mit E-Book inside* (1. Auflage).
 Beltz; Weinheim Basel.
 
-Fey, Carl-Christian (2021). Erklärvideos -- eine Einführung zu
+Fey, Carl-Christian (2021). Erklärvideos – eine Einführung zu
 Forschungsstand, Verbreitung, Herausforderungen. In Eva Matthes, Stefan
-Siegel, & Thomas Heiland, *Lehrvideos -- das Bildungsmedium der Zukunft?
+Siegel, & Thomas Heiland, *Lehrvideos – das Bildungsmedium der Zukunft?
 Erziehungswissenschaftliche und fachdidaktische Perspektiven* (S.
-15--30).
+15–30).
 
 Findeisen, Stefanie, Horn, Sebastian, & Seifried, Jürgen (2019). Lernen
-durch Videos -- Empirische Befunde zur Gestaltung von Erklärvideos.
+durch Videos – Empirische Befunde zur Gestaltung von Erklärvideos.
 *MedienPädagogik: Zeitschrift für Theorie und Praxis der Medienbildung*,
-16--36. https://doi.org/10.21240/mpaed/00/2019.10.01.X
+16–36. https://doi.org/10.21240/mpaed/00/2019.10.01.X
 
 Krämer, Sybille (2008). Medien, Boten, Spuren. In Stefan Münker &
 Alexander Roesler, *Was ist ein Medium?* (Originalausgabe Edition, S.
-65--90). Suhrkamp Verlag; Frankfurt am Main.
+65–90). Suhrkamp Verlag; Frankfurt am Main.
 
 Kulgemeyer, Christoph (2018). Wie gut erklären Erklärvideos? Ein
-Bewertungs-Leitfaden. *Computer + Unterricht*, 8--11.
+Bewertungs-Leitfaden. *Computer + Unterricht*, 8–11.
 
 Kulgemeyer, Christoph (2020a). A Framework of Effective Science
 Explanation Videos Informed by Criteria for Instructional Explanations.
-*Research in Science Education*, *50*, 2441--2462.
+*Research in Science Education*, *50*, 2441–2462.
 https://doi.org/10.1007/s11165-018-9787-7
 
 Kulgemeyer, Christoph (2020b). *Didaktische Kriterien für gute
-Erklärvideos* (S. 70--75).
+Erklärvideos* (S. 70–75).
 
 Kulgemeyer, Christoph, & Peters, Cord (2016). Exploring the explaining
 quality of physics online explanatory videos. *European Journal of
-Physics*, *37*, 1--14. https://doi.org/10.1088/0143-0807/37/6/065705
+Physics*, *37*, 1–14. https://doi.org/10.1088/0143-0807/37/6/065705
 
-Matthes, Eva, Siegel, Stefan, & Heiland, Thomas (2021). *Lehrvideos --
+Matthes, Eva, Siegel, Stefan, & Heiland, Thomas (2021). *Lehrvideos –
 das Bildungsmedium der Zukunft? Erziehungswissenschaftliche und
 fachdidaktische Perspektiven*.
 
 Moreno, R. (2006). Does the modality principle hold for different media?
 A test of the method-affects-learning hypothesis. *Journal of Computer
-Assisted Learning*, *22*(3), 149--158.
+Assisted Learning*, *22*(3), 149–158.
 https://doi.org/10.1111/j.1365-2729.2006.00170.x
 
 Sanderson, Grant (2023). *3b1b/manim* [Python].
@@ -811,27 +843,27 @@ https://github.com/3b1b/manim (Original work published 2015)
 Schmidt-Borcherding, Florian (2020). Zur Lernpsychologie von
 Erklärvideos: Theoretische Grundlagen. In Stephan Dorgerloh & Karsten D.
 Wolf (Hrsg.), *Lehren und Lernen mit Tutorials und Erklärvideos: mit
-E-Book inside* (1. Auflage, S. 63--70). Beltz; Weinheim Basel.
+E-Book inside* (1. Auflage, S. 63–70). Beltz; Weinheim Basel.
 
 Sweller, John (1994). Cognitive load theory, learning difficulty, and
-instructional design. *Learning and Instruction*, *4*(4), 295--312.
+instructional design. *Learning and Instruction*, *4*(4), 295–312.
 https://doi.org/10.1016/0959-4752(94)90003-5
 
 Sweller, John (2011). Cognitive Load Theory. *Psychology of Learning and
-Motivation*, *55*, 37--76.
+Motivation*, *55*, 37–76.
 https://doi.org/10.1016/B978-0-12-387691-1.00002-8
 
 Valentin, Katrin (2018). Subjektorientierte Erforschung des
 Aneignungsverhaltens von Rezipierenden von Video-Tutorials. *Journal for
-educational research online*, *10*(1), 52--69.
+educational research online*, *10*(1), 52–69.
 
 Valentin, Katrin (2020). Erklärvideos auf YouTube: Was machen die
 Rezipierenden aus den Videos? In Stephan Dorgerloh & Karsten D. Wolf
 (Hrsg.), *Lehren und Lernen mit Tutorials und Erklärvideos: mit E-Book
-inside* (1. Auflage, S. 49--53). Beltz; Weinheim Basel.
+inside* (1. Auflage, S. 49–53). Beltz; Weinheim Basel.
 
 Wiesing, Lambert (2008). Was sind Medien? In Stefan Münker & Alexander
-Roesler, *Was ist ein Medium?* (Originalausgabe Edition, S. 235--248).
+Roesler, *Was ist ein Medium?* (Originalausgabe Edition, S. 235–248).
 Suhrkamp Verlag; Frankfurt am Main.
 
 # Videoverzeichnis
@@ -860,7 +892,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 
 # Anhänge
 
-## Fundstellen in Videos {#fundstellen-in-videos .Anhang-Heading}
+## Fundstellen in Videos
 
 ### [ELA01] Vectors
 
@@ -1637,7 +1669,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 12:15  |       | K07       | Begriff "vector spaces", Axiome                                                                                            |
 | 13:11  |       | K26       | Menge der pi creatures samt Operationen darauf als Vektorraum|
 |        |       | K21       | "crazy type of vector space"|
-|15:09   |       | **-K02**  | Empfehlung: erst konkret vorstellen, dann abstrakte Definition
+|15:09   |       | **-K02**  | Empfehlung: erst konkret vorstellen, dann abstrakte Definition|
 
 
 [^1]: Kriterien, denen explizit zuwidergehandelt wurde, werden fett geschrieben markiert.

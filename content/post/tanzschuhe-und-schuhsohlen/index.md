@@ -2,11 +2,12 @@
 title: "Tanzschuhe und Schuhsohlen"
 description: Verschiedene Materialien der Sohle beim Tanzschuh
 date: 2020-07-09
-tags: ['Tanzen']
+tags: ['Tanzen", "Bekleidung']
+aliases: ["/2020/07/tanzschuhe-und-schuhsohlen/"]
 ---
-![](IMG_6181.jpg)
+![IMG_6181](IMG_6181.jpg)
 
- Eine häufige Frage von Tanzanfängern lautet: „Welche Tanzschuhe und Schuhsohlen brauche ich denn zum Tanzen?“. Und auch im weiteren Verlauf der Tanzkarriere probieren viele Tänzer ganz verschiedene Schuhe aus.
+Eine häufige Frage von Tanzanfängern lautet: „Welche Tanzschuhe und Schuhsohlen brauche ich denn zum Tanzen?“. Und auch im weiteren Verlauf der Tanzkarriere probieren viele Tänzer ganz verschiedene Schuhe aus.
 
 In dieser kleinen Reihe möchte ich ein paar Arten von Tanzschuhen vorstellen, die ich selbst schon getragen habe. Oder eigentlich eher verschiedene Arten von Schuhsohlen – denn der Rest des Schuhs ist hauptsächlich eine Frage von Geschmack, Mode und Komfort. Die Schuhsohle „erdet“ den Tänzer jedoch, und damit ist sie wichtig.
 

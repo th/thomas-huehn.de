@@ -2,8 +2,9 @@
 title: "Kalibriertes Schätzen"
 description: Wie man seine Schätzungen kalibriert und zu einem besseren Schätzer wird
 date: 2020-10-02
-tags: ['Management', 'Psychologie', 'Schätzen']
+tags: ['Projektmanagement", "Psychologie", "Schätzen']
 favorite: true
+aliases: ["/2020/10/kalibriertes-schaetzen/"]
 ---
 ## Warum das alles?
 
@@ -55,7 +56,7 @@ Dabei ist unerheblich, wie weit außerhalb oder innerhalb des Intervalls die Lö
 
 Hier nun die Fragen:
 
-* Wieviel liegt ein Learjet 75 in Kilogramm?
+* Wieviel wiegt ein Learjet 75 in Kilogramm?
 * Welchen Radius in Meter (Erdmittelpunkt – Satellit) hat der geostationäre Orbit?
 * Wieviele Meter unter dem Meeresspiegel lag das havarierte russische U-Boot Kursk?
 * Wieviele Millimeter ist ein Zehn-Euro-Schein lang?
@@ -66,7 +67,7 @@ Hier nun die Fragen:
 * In welchem Jahr wurde Macbeth uraufgeführt?
 * Wie hoch war der Listenpreis des Golf 1 in DM?
 
-## Teil Zwei: Konfidenz
+### Teil Zwei: Konfidenz
 
 Die Übung besteht aus zehn Sachaussagen. Jede ist entweder wahr oder falsch.
 
@@ -125,7 +126,7 @@ Nun zu Teil Zwei:
 
 Markieren Sie die Aussagen, deren Wahrheitsgehalt Sie korrekt bewertet haben.
 
-Nun rechen Sie die Konfidenzen in von Prozenten in Zahlenwerte um (aus 70% wird 0,7) und addieren Sie diese zehn Zahlenwerte auf. So viele richtige Schätzungen erwarten Sie.
+Nun rechnen Sie die Konfidenzen in von Prozenten in Zahlenwerte um (aus 70% wird 0,7) und addieren Sie diese zehn Zahlenwerte auf. So viele richtige Schätzungen erwarten Sie.
 
 Ein Beispiel:
 
@@ -143,7 +144,7 @@ Ein Beispiel:
 |wahr|falsch|nein|60%|0,6|
 
 
-Also 5 richtige Antworten und eine Summer der Konfidenzen von 7,7.
+Also 5 richtige Antworten und eine Summe der Konfidenzen von 7,7.
 
 In diesem Beispiel hätten Sie also mit Ihrer Antwort eigentlich etwa 8 mal richtig liegen sollen, haben aber nur 5 Treffer gehabt.
 
@@ -155,7 +156,7 @@ Keine Sorge, solche Ergebnisse (und schlechter) sind normal.
 
 Natürlich war das nur ein einzelner Versuch mit zehn Fragen, also eine sehr kleine Stichprobe. „ich hatte sieben Antworten im Intervall, das ist doch innerhalb der statistischen Schwankung“ mag Ihnen auf der Zunge liegen. Doch ist dem so?
 
-Für den ersten Teil ist eine Abschätzung recht einfach. Wenn wir eine Bernoulliverteilung annehmen (und das ist vernünftig, auch wenn es hier zu weit führen würde), können wir uns die Frage stellen:
+Für den ersten Teil ist eine Abschätzung recht einfach. Wenn wir eine Bernoulliverteilung annehmen (und das ist vernünftig, auch wenn die Erklärung hier zu weit führen würde), können wir uns die Frage stellen:
 
 Angenommen, ich bin ein kalibrierter Schätzer. Wie wahrscheinlich ist dann mein Ergebnis?
 
@@ -183,7 +184,7 @@ Kurzer Plausibilitätscheck:
 
 Und dasselbe nochmal als Schaubild:
 
-![](kalibriertesschaetzen.png "Auswertung Teil Eins des Kalibrierten Schätzens")
+![Auswertung Teil Eins des Kalibrierten Schätzens](kalibriertesschaetzen.png)
 
 Deutlich wird dabei, daß sieben Treffer schon sehr unwahrscheinlich sind, alles darunter praktisch verschwindet.
 

@@ -2,9 +2,10 @@
 title: "Das Risikoakzeptanzkriterium GAMAB"
 description: Ein älteres französisches Maß zur Risikoreduktion
 date: 2020-09-19
-tags: ['Risiko', 'Safety']
+tags: [Safety]
+aliases: ["/2020/09/das-risikoakzeptanzkriterium-gamab/"]
 ---
-Kommen wir nach dem [Beitrag zu ALARP]({{< relref "das-risikoakzeptanzkriterium-alarp" >}}) nun zu einem anderen Risikoakzeptanzkriterium. GAMAB kommt aus Frankreich und steht für „Globalement au moins aussi bons“ und bedeutet damit „generell mindestens so gut“.
+Kommen wir nach dem [Beitrag zu ALARP](/das-risikoakzeptanzkriterium-alarp) nun zu einem anderen Risikoakzeptanzkriterium. GAMAB kommt aus Frankreich und steht für „Globalement au moins aussi bons“ und bedeutet damit „generell mindestens so gut“.
 
 Ebenfalls verwendet wird GAME – „Globalement au moins èquivalent“.
 
@@ -31,4 +32,3 @@ Ebenfalls ist unklar, ob ein Teilsystem unsicherer sein darf als das Referenzsys
 Ein echter Vorteil ist, daß dieses Risikoakzeptanzkriterium trotz aller Schwierigkeiten einfach zu vermitteln ist: „besser als“ versteht auch jeder Laie.
 
 GAMAB ist insgesamt jedoch eher simplistisch und bildet komplexe Zusammenhänge nicht ab.
-

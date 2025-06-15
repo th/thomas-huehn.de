@@ -1,11 +1,10 @@
 ---
 title: "Impressum"
-description: Impressum für www.thomas-huehn.de
-date: 2022-02-15T00:00:00+01:00
+date: 2024-10-02
 ---
 ## Betreiber
 
-Dieses Webangebot wird betrieben und betreut von Thomas Hühn.
+Dieses Webangebot wird betrieben und betreut von [Thomas Hühn](/thomas/).
 
 ## Postanschrift
 

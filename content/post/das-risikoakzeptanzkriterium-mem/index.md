@@ -2,7 +2,8 @@
 title: "Das Risikoakzeptanzkriterium MEM"
 description: Ein älteres deutsches Maß zur Risikoreduktion
 date: 2020-09-19
-tags: ['Risiko', 'Safety']
+tags: [Safety]
+aliases: ["/2020/09/das-risikoakzeptanzkriterium-mem/"]
 ---
 Die Minimale Endogene Mortalität ist ein relativ altes deutsches Risikoakzeptanzkriterium, das versucht, die Frage der Risikominderung auf feste Fundamente zu stellen.
 
@@ -21,7 +22,7 @@ Dabei rechnen wir mögliche Verletzungen in Todesfälle um: hundert Leichtverlet
 Und weil Unfälle mit einer großen Anzahl von Toten gesellschaftlich als besonders schwerwiegend wahrgenommen werden, modifizieren wir den oben errechneten Schwellwert und senken ihn für über hundert Tote linear immer weiter ab:
 Minimale Endogene Mortalität
 
-![](MEM-scaled.jpg)
+![MEM-scaled](MEM-scaled.jpg)
 
 ## Eigenschaften
 
@@ -33,4 +34,4 @@ Die Minimale Endogene Mortalität ist insofern fundiert, als dem Risikoziel eine
 
 Sie ist aber auch sehr simplistisch und bildet komplexe Zusammenhänge nicht ab.
 
-Inzwischen ist die Minimale Endogene Mortalität als Riskoakzeptanzkriterium mehr oder weniger ausgestorben. Sie findet höchstens noch Verwendung im Zusammenspiel mit [ALARP]({{< relref "das-risikoakzeptanzkriterium-alarp" >}}) oder [GAMAB]({{< relref "das-risikoakzeptanzkriterium-gamab" >}}), um eine harte Grenze zu definieren. So kann diese Minimale Endogene Mortalität als Schwelle zur “broadly acceptable region” in ALARP dienen.
+Inzwischen ist die Minimale Endogene Mortalität als Riskoakzeptanzkriterium mehr oder weniger ausgestorben. Sie findet höchstens noch Verwendung im Zusammenspiel mit [ALARP](/das-risikoakzeptanzkriterium-alarp) oder [GAMAB](/das-risikoakzeptanzkriterium-gamab), um eine harte Grenze zu definieren. So kann diese Minimale Endogene Mortalität als Schwelle zur “broadly acceptable region” in ALARP dienen.

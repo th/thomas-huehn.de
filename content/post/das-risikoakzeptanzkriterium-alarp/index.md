@@ -2,7 +2,8 @@
 title: "Das Risikoakzeptanzkriterium ALARP"
 description: Ein gängiges Maß zur Risikoreduktion
 date: 2020-09-10
-tags: ['Risiko', 'Safety']
+tags: [Safety]
+aliases: ["/2020/09/das-risikoakzeptanzkriterium-alarp/"]
 ---
 ALARP steht für “as low as reasonably practicable” und ist ein verbreitetes Risikoakzeptanzkriterium. Infolge verschiedentlicher Standardisierung im Automatisierungs-, Prozeß- und Automobilbereich (IEC 61508 als Basisnorm, darauf aufbauend IEC 61511 oder angelehnt ISO 26262) ist ALARP heutzutage das verbreitetste – wenn nicht in der Praxis gar das einzige – Risikoakzeptanzkriterium.
 

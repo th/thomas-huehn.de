@@ -2,8 +2,9 @@
 title: "Ein Start in Blender 3D"
 description: Ein Wochenende mit einem Anfängerkurs in der 3D-Software Blender
 date: 2020-11-15
-tags: ['Blender']
+tags: ['Blender", "Software']
 favorite: true
+aliases: ["/2020/11/ein-start-in-blender-3d/"]
 ---
 Das Wochenende ist da, Corona verhindert viele Freizeitaktivitäten, da lerne ich doch einfach mal was neues.
 
@@ -53,16 +54,16 @@ Schwierigkeiten auf dem Weg waren vor allem folgende:
 
 * Beim Cycles-Rendern fiel mir auf, daß da ein Apfelstiel durch das Tuch durchgesteckt ist. Zunächst dachte ich, das sei ja eine ganz nette Sache, das könne ja auch real passieren, bis mir auffiel, daß der Stiel, um zum Tuch zu kommen, erstmal durch die Metallschale tunneln müßte. Ich hab den Stiel dann gelöscht, aber im Eevee-Render sieht man ihn noch.
 
-  ![](eevee-klein.jpg "Eevee-Render")
+  ![Eevee-Render](eevee-klein.jpg)
 
 * Nach den Apfelhälften das größte Problem: irgendwas stimmt mit dem Licht an meinem Messer nicht. Die Klinge ist schwarz, ebenso ist die Rückseite des Messer viel zu dunkel.
 
-  ![](cycles-klein.jpg "Cycles-Render")  
+  ![Cycles-Render](cycles-klein.jpg)
+
+Selbst nachdem ich nochmal ein Licht direkt darüber gepackt habe, sehe ich kein Licht auf der Klinge reflektieren oder wenigstens die silbrig-metallische Textur. Auch Rotieren des Messers half nicht.
   
-  Selbst nachdem ich nochmal ein Licht direkt darüber gepackt habe, sehe ich kein Licht auf der Klinge reflektieren oder wenigstens die silbrig-metallische Textur. Auch Rotieren des Messers half nicht.
+Ich weiß überhaupt nicht, was da los ist, und damit weiß ich auch nicht, wonach ich googeln sollte.
   
-  Ich weiß überhaupt nicht, was da los ist, und damit weiß ich auch nicht, wonach ich googeln sollte.
-  
-  Es sieht jedenfalls doof aus, und deswegen ist der Eevee-Render „mein“ finales Ergebnis.
+Es sieht jedenfalls doof aus, und deswegen ist der Eevee-Render „mein“ finales Ergebnis.
   
 Insgesamt ein lohnendes Wochenende. Und ich möchte weitermachen. Zach Reinhardt hat auch noch einen [bezahlten Kurs](https://academy.cgboost.com/p/blender-2-8-launch-pad) mit geradezu Lastwagenladungen voll Videos. Inklusive Animation und vielem mehr, was im kostenlosen Kurs nicht vorkam. Das steht nach einer Pause dann als nächstes auf dem Programm.

@@ -3,7 +3,8 @@ title: "Verlage als gesetzgebende Gewalt"
 description: Als der Gesetzgeber geschlampt hat…
 date: 2013-01-16
 lastmod: 2014-03-16
-tags: ['Recht']
+tags: [Recht]
+aliases: ["/2013/01/gesetzgebende-verlage/"]
 ---
 Bei meinem Projekt „den Allgemeinen Teil des BGB wenigstens einmal komplett durchgelesen haben“, stieß ich auf ein paar nette Fußnoten in meiner weißen BGB-Ausgabe des dtv-Verlags.
 
@@ -31,7 +32,7 @@ Die genannten Online-Anbieter haben das falsche „Komma-Leerzeichen-Komma-Leerz
 
 > Die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 1 und 3, der §§ 28, 1a Abs. 1 Satz 2 sowie der §§ 32, 33 und 38 finden insoweit keine Anwendung als die Satzung ein anderes bestimmt.
 
-Bezüglich gesetze-im-internet.de habe ich mich dann ans Bundesministerium der Justiz gewendet. Dort erhielt ich auch ausgesprochen zügig eine Antwort. Die Dokumentationsstelle beim Bundesamt für Justiz sei mit der Fehlerbehebung beauftragt worden.
+Bezüglich [gesetze-im-internet.de](https://www.gesetze-im-internet.de/) habe ich mich dann ans Bundesministerium der Justiz gewendet. Dort erhielt ich auch ausgesprochen zügig eine Antwort. Die Dokumentationsstelle beim Bundesamt für Justiz sei mit der Fehlerbehebung beauftragt worden.
 
 (Die kommerziellen Anbieter sollen ihre Fehler doch selbst finden und ausbügeln.)
 

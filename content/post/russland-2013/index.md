@@ -3,8 +3,9 @@ title: "Rußlandurlaub"
 description: Impressionen aus dem Rußlandurlaub
 date: 2018-06-23
 lastmod: 2020-01-12
-tags: ['Rußland']
+tags: ['Rußland', 'Urlaub']
 favorite: true
+aliases: ["/2018/06/russland-2013/"]
 ---
 ## Moskau
 
@@ -20,7 +21,7 @@ Die Russen vertreten im Fernverkehr eine ganz einfache Ansicht: Wer nach Moskau 
 
 Und daher fahren Fernverkehrszüge auch nicht durch Moskau durch.
 
-Rings um die Stadt liegen lauter Fernbahnhöfe, die nach dem „gegenüberliegenden Reiseziel” benannt sind, hier Weißrußland.
+Rings um die Stadt liegen lauter Fernbahnhöfe, die nach dem „gegenüberliegenden Reiseziel“ benannt sind, hier Weißrußland.
 
 Und wer wirklich durchreisen will, muß sein Gepäck eben in die Metro schleppen, quer durch die Stadt fahren (und Moskau ist groß!) und dort im den gegenüberliegenden Fernbahnhof wieder einen Zug nehmen.
 
@@ -31,6 +32,7 @@ Bei uns gibts sowas nur in Kirchen...
 Ich wollte eigentlich mal die Metro-Linien abfahren und die schönsten Stationen fotografieren, bin dann aber nie dazu gekommen. Außerdem haben Metro-Stationen natürlich so unvorteilhaftes Kunstlicht.
 
 ![Rolltreppe](rus003.jpg)
+
 Wo wir schon bei Metro-Stationen sind: die liegen unter der Erde. Tief unter der Erde.
 
 Nicht nur einmal habe ich gestaunt, wieviele hundert Meter Rolltreppe man zuweilen fahren muß.
@@ -39,7 +41,7 @@ Und auch sonst sind die Metro-Stationen wahre Monster: mein erster Tag auf Erkun
 
 Bestimmt zwanzig Minuten bin ich durch die vier Metro-Stationen, die dort miteinander verbunden sind, geirrt. Ich habe mir stets gedacht, nimm die große Rolltreppe nach oben. Nach laaaanger Rolltreppenfahrt und vielen Dutzend Höhenmetern ging es aber immer nur wieder bergab zur nächsten Station.
 
-Das kommt davon, wenn man nicht wenigstens soviel Russisch lernt, daß man „Выход в город” auf einem Schild erkennt.
+Das kommt davon, wenn man nicht wenigstens soviel Russisch lernt, daß man „Выход в город“ auf einem Schild erkennt.
 
 Apropos Russisch lernen: Wer glaubt, er käme mit Englisch durch, wird von mir hiermit herzlich ausgelacht. Das klappt nichtmal in der Innenstadt von Moskau. In den Cafés am Roten Platz: vielleicht. In der sonstigen Innenstadt kaum.
 
@@ -49,7 +51,7 @@ Ausnahme ist Sankt Petersburg. Da spricht praktisch jeder Englisch.
 
 ![Biblioteka Imeni Lenina](rus004.jpg)
 
-Eine dieser verbundenen Metrostationen ist „Biblioteka Imeni Lenina”.
+Eine dieser verbundenen Metrostationen ist „Biblioteka Imeni Lenina“.
 
 Vor der Bibliothek sitzt diesmal allerdings nicht Puschkin, sondern Dostojewski.
 
@@ -85,9 +87,9 @@ Eigentlich ganz einfach. Also das Transliterieren von Texten, verstehen kann ich
 
 Trotzdem, mein großes Aha-Erlebnis hatte ich, als ich an einem Werbeplakat vorbeiging. Von der Lufthansa. Oben drüber groß gedruckt ein Wort. Also habe ich es einfach mal probiert. Buchstabe für Buchstabe, ganz langsam.
 
-Hm, und was heißt das nun? Sprechen wir es nochmal am Stück aus, alle Laute einfach hintereinander. „Stewardess”! Das paßt zur Lufthansa. Mein erstes wirklich gelesenes russisches Wort! :-)
+Hm, und was heißt das nun? Sprechen wir es nochmal am Stück aus, alle Laute einfach hintereinander. „Stewardess“! Das paßt zur Lufthansa. Mein erstes wirklich gelesenes russisches Wort! :-)
 
-Naja, hier noch ein „Business Center”, anderswo sah ich noch eine „Hemingway Bar”.
+Naja, hier noch ein „Business Center“, anderswo sah ich noch eine „Hemingway Bar“.
 
 ![Kyrillisch](rus010.jpg)
 
@@ -125,7 +127,7 @@ Diese ganzen Türmchen mit Zwiebeln sind eigentlich eigene kleine Kirchen, die u
 
 ![Malerei](rus017.jpg)
 
-Und hier sehen wir auch eines der großen Probleme, die ich mit russisch-orthodoxen Kirchen habe, obwohl sie alle unglaublich prächtig und sehenswert sind: von „negative space” will da niemand etwas wissen.
+Und hier sehen wir auch eines der großen Probleme, die ich mit russisch-orthodoxen Kirchen habe, obwohl sie alle unglaublich prächtig und sehenswert sind: von „negative space“ will da niemand etwas wissen.
 
 Es gibt keinen freien Quadratzentimeter! Kein Fleckchen, das weiß gestrichen wäre. Heiligenbilder und Gemälde gehen immer direkt ineinander über, ohne Zwischenraum, Rahmen oder sonst etwas.
 
@@ -161,7 +163,7 @@ In diesem Fall eine etwas seltsam anmutende Grotte in die Kremlmauer hinein.
 
 Nach ihrem Sieg über Napoleon.
 
-![Hubschrauberlandeplatz](rus023.jpg)
+![Grotte](rus023.jpg)
 
 Hinter dem Kreml, bei den drei großen Kathedralen: ein brandneuer Hubschrauberlandeplatz.
 
@@ -192,8 +194,7 @@ Das KGB-Hauptquartier.
 ![Kirchen](rus028.jpg)
 
 Die Kirchendichte ist schon sehr hoch.
-
-![Elektro-Busse](rus029.jpg "Elektro-Busse")
+![Elektro-Busse](rus029.jpg)
 
 Moskau hat viele Elektro-Busse. Was hier ein Hingucker und oftmals eher neu ist, fährt dort seit Jahrzehnten.
 
@@ -257,7 +258,7 @@ Im Zoo war ich nicht. Aber ich war heilfroh, ihn zu sehen.
 
 Denn als ich nach ein paar Tagen dachte, ich kenne mich jetzt im inneren Stadtgebiet so ein bißchen aus, wurde ich übermütig und bin einfach mal losspaziert.
 
-„Es kommt ja alle paar Meter eine Metrostation, da findest du dich schon zurecht."
+„Es kommt ja alle paar Meter eine Metrostation, da findest du dich schon zurecht.“
 
 Von wegen. Nachdem keine Metrostationen mehr kamen (Moskau hat zwar sehr viele, aber auch auf großer Fläche verteilt), und ich genau gar keine Ahnung mehr hatte, wo ich bin, war ich froh, auf den Zoo zu stoßen. Den habe ich auf meinem Stadtplan nämlich finden können. Und die Metro war dann auch nicht mehr weit.
 
@@ -383,7 +384,7 @@ Und schließlich die letzte Station der Reise: Sankt Petersburg.
 
 In meiner jugendlichen Unschuld dachte ich mir, das einfachste sei, nach Sankt Petersburg zu fliegen.
 
-Nachdem ich mein Hotel gefunden hatte, und direkt um die Ecke einen Fernbahnhof mit Aufschrift „Moskowskij” gesehen hatte, wußte ich, daß ich falsch gelegen hatte. Die Zugverbindung ist wohl einwandfrei, und die Odyssee vom Flughafen zum Hotel wäre mir erspart geblieben.
+Nachdem ich mein Hotel gefunden hatte, und direkt um die Ecke einen Fernbahnhof mit Aufschrift „Moskowskij“ gesehen hatte, wußte ich, daß ich falsch gelegen hatte. Die Zugverbindung ist wohl einwandfrei, und die Odyssee vom Flughafen zum Hotel wäre mir erspart geblieben.
 
 ![Newski-Prospekt](rus070.jpg)
 
@@ -667,6 +668,6 @@ Das ist das Bernsteinzimmer. Bernstein sieht man hier nicht, der ist links und r
 
 Das Bernsteinzimmer hat mich wirklich enttäuscht. Ich dachte, da wäre alles Bernstein, aber es sind eigentlich nur ein paar Tafeln mit Bernsteinmosaiken in die Wände eingelassen.
 
-![Katharinenpalast](rus135.jpg)
+![rus135](rus135.jpg)
 
 Und mit einem letzten Blick auf den Palast endet dieses Fotoalbum nun.

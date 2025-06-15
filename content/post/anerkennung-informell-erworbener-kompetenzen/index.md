@@ -1,9 +1,10 @@
 ---
-title: 'Innerbetriebliche Anerkennung informell erworbener Kompetenzen in Anlehnung an Validierung'
+title: "Innerbetriebliche Anerkennung informell erworbener Kompetenzen in Anlehnung an Validierung"
 description: 'Welche Aspekte der Validierung informell erworbener Kompetenzen können in eine innerbetriebliche Anerkennung übernommen werden?'
 date: 2023-10-03
-tags: ['Beruf', 'Lernen']
+tags: ['Beruf", "Bildungswissenschaft", "Lernen", "Studium']
 favorite: true
+aliases: ["/2023/10/anerkennung-informell-erworbener-kompetenzen/"]
 ---
 ## Einleitung
 
@@ -58,8 +59,8 @@ Mitarbeiter spielen auch in Unternehmen eine große Rolle und werden
 zunehmend aktiv gemanagt, jedoch richten sich diese Maßnahmen nicht nach
 dem Vorgehen der Validierung. Da jedoch informell erworbene Kompetenzen
 in Unternehmen in ihrer Anerkennung noch immer deutlich hinter formalen
-Schulungen und Weiterbildungen zurückstehen -- außer in
-Bewerbungsgesprächen (vgl. Stegemann, 2008, p. 66) -- bietet sich an,
+Schulungen und Weiterbildungen zurückstehen – außer in
+Bewerbungsgesprächen (vgl. Stegemann, 2008, p. 66) – bietet sich an,
 die im Kontext der Validierung angewendeten Prozeßschritte in Hinblick
 auf betriebliche Nutzbarkeit für eine innerbetriebliche Anerkennung
 informell erworbener Kompetenzen der Mitarbeiter zu prüfen. Damit
@@ -110,9 +111,9 @@ Jahren insbesondere Dieter Mertens Begriff der „Schlüsselqualifikation“
 die besonders wichtig sind, um zukünftige Anforderungen und
 Herausforderungen zu bewältigen (vgl. Mertens, 1974, p. 40). Während
 Mertens sich noch weitgehend auf eine Grobklassifikation anhand vier
-Kategorien -- Basisqualifikationen, Horizontqualifikationen,
+Kategorien – Basisqualifikationen, Horizontqualifikationen,
 Breitenelemente und Vintage-Faktoren (vgl. Mertens, 1974, p. 41)
--- beschränkte und lediglich exemplarisch einige konkrete Beispiele
+– beschränkte und lediglich exemplarisch einige konkrete Beispiele
 aufzählte, so sammelte die Literatur alsbald hunderte Beispiele für
 Schlüsselqualifikationen (vgl. Reibold and Regier, 2009, p. 91). Diesen
 blieb jedoch gemein, daß sie aus Richtung der Nachfrager einer
@@ -123,7 +124,7 @@ Dieser Blickwinkel wird mittlerweile überwiegend als zu eng kritisiert:
 es werden sowohl die Sicht auf das Subjekt, also den Menschen, im Ganzen
 (vgl. Gillen, 2006, p. 99), die Einbettung in den Handlungsbezug und die
 Berücksichtigung der individuellen Selbstorganisation und -steuerung von
-Lernprozessen eingefordert (vgl. Kaufhold, 2006, pp. 51--53). Aus diesen
+Lernprozessen eingefordert (vgl. Kaufhold, 2006, pp. 51–53). Aus diesen
 Forderungen ergibt sich der aktuell hauptsächlich verwendete Begriff der
 Kompetenz.
 
@@ -153,7 +154,7 @@ p. 166) und beruflich verwertbar (vgl. Gnahs, 2010, p. 27), weswegen sie
 in Unternehmen bislang primär im Fokus stand und durch fachliche
 Weiterbildungen gefördert wurde. Aber auch Methodenkompetenz und
 Sozialkompetenz gehen mit Wissen einher, jedoch eher mit prozeduralem
-Wissen -- „wie?“ anstelle von „was?“ (vgl. Kaufhold, 2006, p. 166).
+Wissen – „wie?“ anstelle von „was?“ (vgl. Kaufhold, 2006, p. 166).
 Methoden-, Sozial und Personalkompetenzen sind häufig auch außerhalb des
 beruflichen Kontextes einsetzbar und sind damit für Unternehmen schwer
 faßbar (vgl. Gnahs, 2010, p. 27).
@@ -386,7 +387,7 @@ jenseits der vorgefertigten Fragebogenkonstruktion. Als vermittelnde
 Form werden *fokussierende Leitfadeninterviews* vorgeschlagen, die das
 Interview zwar thematisch begrenzen, innerhalb dieser thematischen
 Begrenzung jedoch offen gestaltet werden und freies Erzählen gestatten
-(vgl. Gillen, 2006, pp. 151--154).
+(vgl. Gillen, 2006, pp. 151–154).
 
 Sowohl gesprächsbasierte Methoden, als auch solche Methoden, die auf
 Selbstbeurteilungen basieren, führen in besonderem Maße dazu, daß die
@@ -413,7 +414,7 @@ können. (vgl. Cedefop, 2016, p. 64). Zudem wird das Handeln beobachtet
 Größe, deren künftige Performanz in der Arbeitsausübung genutzt werden
 soll. Wichtig ist, daß die Beobachter wertfrei beobachten und erst in
 einem zweiten Schritt die wahrgenommenen Handlungen und Tatsachen
-bewerten (vgl. North et al., 2018, pp. 99--100). Dabei müssen sie auf
+bewerten (vgl. North et al., 2018, pp. 99–100). Dabei müssen sie auf
 die üblichen Wahrnehmungstäuschungen bzw. Beurteilungsverzerrungen
 achten (vgl. North et al., 2018, p. 88). Im Arbeitskontext finden
 Beobachtungen der Mitarbeiter durch ihre Führungskräfte stets auch
@@ -451,9 +452,9 @@ Arbeitssituationen.
 
 Festzuhalten bleibt, daß mittlerweile nicht nur eine bald
 unüberschaubare Zahl von Kompetenzfeststellungsinstrumenten und
--methoden entwickelt und miteinander kombiniert worden sind -- das
+-methoden entwickelt und miteinander kombiniert worden sind – das
 Handbuch Kompetenzmessung listet gleich 54 benannte Konzepte und
-Prozesse auf (vgl. Erpenbeck et al., 2017) -- sondern die verstärkte
+Prozesse auf (vgl. Erpenbeck et al., 2017) – sondern die verstärkte
 Nachfrage aus der Privatwirtschaft auch eine größere Zahl von
 kommerziellen Beratungsdienstleistern aufkommen ließ (vgl. Geldermann et
 al., 2009, p. 18; vgl. Neß, 2016, p. 614), die von Unternehmen in
@@ -461,8 +462,8 @@ Anspruch genommen werden können.
 
 ## Innerbetriebliche Anerkennung
 
-Wie kann nun die grundlegend gleiche Aufgabenstellung -- die Anerkennung
-informell erworbener Kompetenzen -- aus dem Kontext des formellen
+Wie kann nun die grundlegend gleiche Aufgabenstellung – die Anerkennung
+informell erworbener Kompetenzen – aus dem Kontext des formellen
 Bildungssystems herausgelöst und in die Gegebenheiten und
 Eigentümlichkeiten von privatwirtschaftlichen Unternehmen eingepaßt
 werden? Dazu müssen zunächst die Randbedingungen, insbesondere die
@@ -495,8 +496,8 @@ allgemein anerkannte Zertifizierung im Arbeitsmarkt ein Gut wäre, die
 Unternehmen möchten umgekehrt jedoch einen etwaigen Unternehmenswechsel
 nicht fördern (vgl. Stegemann, 2008, p. 67).
 
-Ebenso scheuen Unternehmen zuweilen das Erfassen und die -- auch nur
-unternehmensinterne -- Sichtbarmachung von Kompetenzen, die nicht als
+Ebenso scheuen Unternehmen zuweilen das Erfassen und die – auch nur
+unternehmensinterne – Sichtbarmachung von Kompetenzen, die nicht als
 Kernanforderung der ausgeübten Tätigkeit verstanden werden, weil
 Mitarbeiter daraus Gehaltsforderungen ableiten können (vgl. Gnahs,
 2010, p. 66; vgl. Stegemann, 2008, p. 67).
@@ -509,7 +510,7 @@ die Zukunft schauende Kompetenzen, die dann aber auch tatsächliche
 Verwendung finden sollen, so möchten Mitarbeiter oftmals entweder eher
 eigenen Interessen folgen oder ihren Wert auf dem Arbeitsmarkt, also
 gegebenenfalls auch für andere Unternehmen, stärken (vgl. Cedefop, 2016,
-pp. 51--52; vgl. Gillen, 2006, p. 38).
+pp. 51–52; vgl. Gillen, 2006, p. 38).
 
 ### Handelnde Personen
 
@@ -561,7 +562,7 @@ Hierarchiestufen und damit offene Positionen aufweisen, und gerade
 technisch orientierte Mitarbeiter oftmals wenig Interesse an
 klassischer Personalführung zeigen (vgl. North et al., 2018, p. 171).
 
-Beide -- Führungskräfte wie Personalabteilung -- agieren
+Beide – Führungskräfte wie Personalabteilung – agieren
 unternehmensintern als Bewerter der informell erworbenen Kompetenzen.
 Doch wo Personalabteilungsmitarbeiter oftmals besonders geschult sind,
 informell erworbene Kompetenzen einzuschätzen, da dies insbesondere bei
@@ -692,8 +693,8 @@ und, wo nötig, vertraulich gehalten wird. Ebenso müssen sachliche
 Rückmeldungen an die Mitarbeiter erfolgen, die offenlegen, welche
 Kompetenzen weswegen oder weswegen nicht anerkannt worden sind (vgl.
 Gillen, 2003, p. 21). Zudem muß das Verfahren fair gehalten sein, das
-bedeutet neben der Transparenz -- es darf kein geheimes Verfahren mit
-Vorzugsbehandlung für einen privilegierten Personenkreis sein -- auch
+bedeutet neben der Transparenz – es darf kein geheimes Verfahren mit
+Vorzugsbehandlung für einen privilegierten Personenkreis sein – auch
 die Bewertung aller Personen anhand gleichen Maßstabs und eine
 nachvollziehbare Auswertung (vgl. Kaufhold, 2006, p. 142).
 
@@ -722,21 +723,21 @@ Qualitätsstandards vonnöten sei (vgl. Cedefop, 2014, p. 91).
 ## Literaturverzeichnis
 
 Annen, S., 2017. Kompetenzerfassung, -messung, -bewertung und
--anerkennung in Europa -- konzeptionelle Gestaltungsmerkmale und die
+-anerkennung in Europa – konzeptionelle Gestaltungsmerkmale und die
 praktische Umsetzung, in: Erpenbeck, J., Rosenstiel, L., Grote, S.,
 Sauter, W. (Eds.), Handbuch Kompetenzmessung. Schäffer-Poeschel, pp.
-697--730. https://doi.org/10.34156/9783791035123
+697–730. https://doi.org/10.34156/9783791035123
 
 Annen, S., Bretschneider, M., 2009. Anerkennung informell erworbener
 Kompetenzen aus bildungspolitischer und wirtschaftswissenschaftlicher
-Perspektive. Bildungsforschung 6, 187--207.
+Perspektive. Bildungsforschung 6, 187–207.
 
 Bjørnåvold, J., 2001. Lernen sichtbar machen. Ermittlung, Bewertung und
 Anerkennung nicht formal erworbener Kompetenzen. Berufsbild. CEDEFOP.
 
 Brussig, M., Leber, U., 2005. Betriebliche Determinanten formeller und
 informeller Weiterbildung im Vergleich. Ger. J. Hum. Resour. Manag. Z.
-Für Pers. 19, 5--24. https://doi.org/10.1177/239700220501900101
+Für Pers. 19, 5–24. https://doi.org/10.1177/239700220501900101
 
 Cedefop, 2016. Europäische Leitlinien für die Validierung nicht formalen
 und informellen Lernens, Cedefop reference series. Publications Office,
@@ -749,17 +750,17 @@ Office, LU.
 Dehnbostel, P., 2023. Betriebliche Validierung zwischen Bildung und
 Ökonomie, in: Schmid, M. (Ed.), Handbuch Validierung non-formal und
 informell erworbener Kompetenzen: Disziplinäre, theoretische und
-konzeptionelle Zugänge. wbv Publikation, Bielefeld, pp. 267--283.
+konzeptionelle Zugänge. wbv Publikation, Bielefeld, pp. 267–283.
 
 Dehnbostel, P., 2015. Validierung informellen und nicht formalen Lernens
-in der Berufsbildung -- neue Wege der Anerkennung beruflicher Bildung.
+in der Berufsbildung – neue Wege der Anerkennung beruflicher Bildung.
 Inf. Lern. Annäherungen - Probl. - Forschungsbefunde, Schriftenreihe für
 Berufs- und Betriebspädagogik. 9.
 
-Dehnbostel, P., 2011. Anerkennung informell erworbener Kompetenzen --
+Dehnbostel, P., 2011. Anerkennung informell erworbener Kompetenzen –
 der Deutsche Qualifikationsrahmen als Schrittmacher?, in: Severing, E.,
 Weiß, R. (Eds.), Prüfungen und Zertifizierungen in der beruflichen
-Bildung. Anforderungen - Instrumente - Forschungsbedarf. pp. 99--113.
+Bildung. Anforderungen - Instrumente - Forschungsbedarf. pp. 99–113.
 
 Dehnbostel, P., Seidel, S., Stamm-Riemer, I., Leykum, B., 2010.
 Einbeziehung von Ergebnissen informellen Lernens in den DQR - eine
@@ -770,7 +771,7 @@ Dobischat, R., Schurgatz, R., 2015. Informelles Lernen: Chancen und
 Risiken im Kontext von Beschäftigung und Bildung, in: Niedermair, G.
 (Ed.), Informelles Lernen. Annäherungen - Problemlagen -
 Forschungsbefunde., Schriftenreihe Für Berufs- Und Betriebspädagogik. 9.
-Trauner Verlag, Linz, pp. 27--42.
+Trauner Verlag, Linz, pp. 27–42.
 
 Dohmen, G., 2001. Das informelle Lernen. Die internationale Erschließung
 einer bisher vernachlässigten Grundform menschlichen Lernens für das
@@ -786,7 +787,7 @@ https://doi.org/10.34156/9783791035123
 
 Fischer, M., 2020. Verfahren der Messung beruflicher
 Kompetenzen/Kompetenzdiagnostik, in: Arnold, R., Lipsmeier, A., Rohs, M.
-(Eds.), Handbuch Berufsbildung. pp. 263--277.
+(Eds.), Handbuch Berufsbildung. pp. 263–277.
 https://doi.org/10.1007/978-3-658-19312-6_22
 
 Frommberger, D., Schmees, J.K., 2022. Durchlässigkeit zwischen
@@ -794,17 +795,17 @@ beruflicher und akademischer Bildung: Kooperative Hochschulangebote im
 internationalen Vergleich, in: Kerst, C., Wolter, A. (Eds.),
 Studierfähigkeit beruflich Qualifizierter ohne schulische
 Studienberechtigung, Higher Education Research and Science Studies.
-Springer Fachmedien Wiesbaden, Wiesbaden, pp. 67--82.
+Springer Fachmedien Wiesbaden, Wiesbaden, pp. 67–82.
 https://doi.org/10.1007/978-3-658-35429-9_4
 
 Geldermann, B., Seidel, S., Severing, E., 2009. Die bildungspolitischen
 Rahmenbedingungen einer Zertifizierung informellen Lernens in
-Deutschland -- Ergebnisse einer Studie. pedocs.
+Deutschland – Ergebnisse einer Studie. pedocs.
 
 Gillen, J., 2006. Kompetenzanalysen als berufliche Entwicklungschance.
 Eine Konzeption zur Förderung beruflicher Handlungskompetenz.
 
-Gillen, J., 2003. Kompetenzanalyse und Kompetenzerhebung -- eine
+Gillen, J., 2003. Kompetenzanalyse und Kompetenzerhebung – eine
 Bestandsaufnahme aus arbeitnehmerorientierter Perspektive.
 
 Gnahs, D., 2010. Kompetenzen - Erwerb, Erfassung, Instrumente.
@@ -816,7 +817,7 @@ Schriftenreihe für Berufs- und Betriebspädagogik. 9.
 
 Gutschow, K., 2020. Validierung und Anerkennung informell erworbener
 Kompetenzen, in: Arnold, R., Lipsmeier, A., Rohs, M. (Eds.), Handbuch
-Berufsbildung. Springer Fachmedien, Wiesbaden, pp. 455--470.
+Berufsbildung. Springer Fachmedien, Wiesbaden, pp. 455–470.
 https://doi.org/10.1007/978-3-658-19312-6_36
 
 Kaufhold, M., 2006. Kompetenz und Kompetenzerfassung. Analyse und
@@ -825,11 +826,11 @@ Beurteilung von Verfahren der Kompetenzerfassung. 1. Aufl.
 Langford, J., Clance, P.R., 1993. The imposter phenomenon: Recent
 research findings regarding dynamics, personality and family patterns
 and their implications for treatment. Psychother. Theory Res. Pract.
-Train. 30, 495--501. https://doi.org/10.1037/0033-3204.30.3.495
+Train. 30, 495–501. https://doi.org/10.1037/0033-3204.30.3.495
 
 Mertens, D., 1974. Schlüsselqualifikationen. Thesen zur Schulung für
 eine moderne Gesellschaft. Mitteilungen Aus Arbeitsmarkt- Berufsforsch.
-7, 36--43.
+7, 36–43.
 
 Molzberger, G., 2007. Rahmungen informellen Lernens. Zur Erschließung
 neuer Lern- und Weiterbildungsperspektiven. 1. Aufl. VS Research.
@@ -837,7 +838,7 @@ neuer Lern- und Weiterbildungsperspektiven. 1. Aufl. VS Research.
 Neß, H., 2016. Verfahren und Instrumente zur Erfassung informell
 erworbener Kompetenzen, in: Rohs, M. (Ed.), Handbuch Informelles Lernen,
 Springer Reference Sozialwissenschaften. Springer Fachmedien, Wiesbaden,
-pp. 609--633. https://doi.org/10.1007/978-3-658-05953-8_24
+pp. 609–633. https://doi.org/10.1007/978-3-658-05953-8_24
 
 Niedermair, G., Mair, W., 2015. Das Kompetenzporträt zur Erfassung
 informell erworbener Kompetenzen. Inf. Lern. Annäherungen - Probl. -
@@ -855,10 +856,10 @@ verlag.
 
 Rohs, M., 2020. Informelles Lernen und berufliche Bildung, in: Arnold,
 R., Lipsmeier, A., Rohs, M. (Eds.), Handbuch Berufsbildung. pp.
-441--454. https://doi.org/10.1007/978-3-658-19312-6_35
+441–454. https://doi.org/10.1007/978-3-658-19312-6_35
 
 Rohs, M., Schmidt, B., 2009. Editorial: Warum informell lernen?
-Argumente und Motive. Bildungsforschung 6, 7--15.
+Argumente und Motive. Bildungsforschung 6, 7–15.
 
 Schreiber, D., Gutschow, K., Weber-Höller, R., Gei, J., 2012.
 Anerkennung beruflicher Kompetenzen am Beispiel der Zulassung zur
@@ -868,11 +869,11 @@ Berufsbildung, Bonn.
 Seufert, S., Meier, C., 2016. Informelles Lernen mit digitalen Medien in
 Unternehmen, in: Rohs, M. (Ed.), Handbuch Informelles Lernen, Springer
 Reference Sozialwissenschaften. Springer Fachmedien, Wiesbaden, pp.
-547--566. https://doi.org/10.1007/978-3-658-05953-8_27
+547–566. https://doi.org/10.1007/978-3-658-05953-8_27
 
 Sonntag, K., Stegmaier, R., Schaper, N., Friebe, J., 2004. Dem Lernen im
 Unternehmen auf der Spur: Operationalisierung von Lernkultur.
-Unterrichtswissenschaft 32, 104--127.
+Unterrichtswissenschaft 32, 104–127.
 
 Stegemann, A., 2008. Informelles Lernen: Identifizierung, Bewertung und
 Anerkennung informell erworbener Kompetenzen. Diplomica Verlag, Hamburg.

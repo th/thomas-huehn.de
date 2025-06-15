@@ -2,7 +2,8 @@
 title: "Wie ich zwitschere"
 description: Tips für Twitter
 date: 2021-06-01
-tags: ['Twitter']
+tags: [Soziale Medien]
+aliases: ["/2021/06/wie-ich-zwitschere/"]
 ---
 Twitter steht bei vielen Menschen im Ruf, auch nur ein weiteres sinnloses Social-Media-Netzwerk zu sein. Ich glaube aber, daß man Twitter ganz hervorragend gewinnbringend nutzen kann.
 
@@ -28,9 +29,13 @@ Zum nächsten Problem der normalen Chronik: sie ist keine. Die Tweets erscheinen
 
 Auch hier gibt es eine Teil-Lösung: Mit der „Sternschaltfläche“ oben rechts kann man von „Home“ auf „Latest Tweets show up as they happen“ umschalten.
 
-![Oben rechts klicken…](twitter_algo1.png)
+Oben rechts klicken…
 
-![…und auswählen](twitter_algo2.png)
+![twitter_algo1](twitter_algo1.png)
+
+…und auswählen
+
+![twitter_algo2](twitter_algo2.png)
 
 Warum ist das nur eine Teil-Lösung? Weil Twitter das immer wieder mal selbstständig auf den von ihnen gewünschten Default „wild durcheinander“ zurückschaltet. Es besteht ganz leise Hoffnung, daß sie damit aufgehört haben, bei mir ist die Einstellung nun schon bestimmt zwei Monate stabil, aber ich habe das schon mehrfach neu einschalten müssen.
 

@@ -13,4 +13,4 @@ Seit dem Abschluß als Diplom-Informatiker an der Universität Stuttgart arbeite
 
 Ich bin qualifiziert als [FS Engineer](https://www.tuv.com/landingpage/en/training-functional-safety-cyber-security/detail-pages/zertifikate/fs-engineer.html) (TÜV Rheinland – Zertifizierungsnummer 6094 / 12) und [Zertifizierter Maschinensicherheitsexperte](https://www.cmse.com/de-INT/about-cmse) (TÜV Nord).
 
-Außerdem besitze ich einen [Scheck von Donald Knuth]({{< ref "knuth-scheck" >}}). Für Informatiker ist das ein großes Ding.
+Außerdem besitze ich einen [Scheck von Donald Knuth]({{< ref "knuth-schecks" >}}). Für Informatiker ist das ein großes Ding.

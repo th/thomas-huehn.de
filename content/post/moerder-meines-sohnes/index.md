@@ -2,8 +2,9 @@
 title: "Wie wir den Mörder meines Sohnes zur Strecke gebracht haben"
 description: Deutsche Übersetzung der Geschichte von Bertrand Might
 date: 2014-07-06
-tags: ['Krankheit', 'Übersetzung']
+tags: ['Gesundheit', 'Übersetzung']
 favorite: true
+aliases: ["/2014/07/moerder-meines-sohnes/"]
 ---
 ![](taken-0c7012dd.jpg)
 
@@ -687,11 +688,13 @@ Ich habe eine Nonsens-(Stop-)Mutation in Exon 8, Cristina hat einen Frame-Shift 
 
 Cristina und ich stellen im Vergleich zu Menschen ohne diese Mutation jeweils etwa die halbe Menge N-Glykanase 1 her. Bertrand hat beide mutierten NGLY1-Gene geerbt, wodurch er nicht in der Lage ist, das Enzym herzustellen.
 
-![](blot-4262464c.png "Die dunklen Bänder auf diesem Klecks zeigen die N-Glykanase-1-Menge an. Bertrand ist „Patient 2“.")
+![](blot-4262464c.png)
+
+Die dunklen Bänder auf diesem Klecks zeigen die N-Glykanase-1-Menge an. Bertrand ist „Patient 2“.
 
 Er ist der erste und bislang einzige Mensch, von dem bekannt ist, daß ihm dieses Enzym fehlt:
 
-![](pngase-lo-14284dc2.jpg "N-Glykanase 1")
+![](pngase-lo-14284dc2.jpg)
 
 N-Glykanase 1 spielt eine wichtige Rolle bei der Deglykosylierung falsch gefalteter Proteine, wodurch diese in ihre Aminosäure-Bestandteile recycelt werden können.
 
@@ -713,7 +716,9 @@ Wir wissen heute, daß eine Eins-in-vier-Wahrscheinlichkeit bestand, daß Victor
 
 Sie hat keine.
 
-![](v-pushing-small-a802a347.jpg "Mit nicht einmal einem Jahr schiebt Victoria Bertrand zur Haltestelle für den Schulbus.")
+![](v-pushing-small-a802a347.jpg)
+
+Mit nicht einmal einem Jahr schiebt Victoria Bertrand zur Haltestelle für den Schulbus.
 
 ## Neue Optionen
 
@@ -755,7 +760,7 @@ Und daher werden wir genau das tun.
 
 ## Nachwort
 
-In dem[ düsteren Blogeintrag vor drei Jahren, in dem wir die Entdeckung von Oligosacchariden bekanntgegeben haben](http://overcomingmovementdisorder.blogspot.com/2009/03/bad-news.html), haben wir mit einem Versprechen an Bertrand geschlossen:
+In dem [düsteren Blogeintrag vor drei Jahren, in dem wir die Entdeckung von Oligosacchariden bekanntgegeben haben](http://overcomingmovementdisorder.blogspot.com/2009/03/bad-news.html), haben wir mit einem Versprechen an Bertrand geschlossen:
 
 > Natürlich werden wir alles für ihn tun, was möglich ist.
 > 

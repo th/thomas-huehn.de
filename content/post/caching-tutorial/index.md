@@ -3,7 +3,8 @@ title: "Caching-Tutorial für Webautoren und Webmaster"
 description: Deutsche Übersetzung von Mark Nottinghams Caching-Tutorial
 date: 2010-02-26
 lastmod: 2014-12-07
-tags: ['Übersetzung', 'Web', 'Caching']
+tags: ['Caching', 'Web', 'Übersetzung']
+aliases: ["/2010/02/caching-tutorial/"]
 ---
 **Anmerkung des Übersetzers:** Dies ist das [Caching Tutorial for Web Authors and Webmasters](https://www.mnot.net/cache_docs/) von [Mark Nottingham](https://www.mnot.net/personal/), übersetzt ins Deutsche von [Thomas Hühn](https://www.thomas-huehn.de/).
 
@@ -520,8 +521,8 @@ Alle Markenzeichen darin sind von ihren jeweiligen Inhabern geschützt.
 
 Auch wenn der Autor glaubt, daß die Inhalte zum Zeitpunkt der Veröffentlichung akkurat sind, wird keine Haftung für sie, ihre Anwendung oder jegliche Folgen daraus übernommen. Falls Sie irgendwelche Falschdarstellungen, Fehler oder andere Notwendigkeiten für eine Klärung finden, kontaktieren Sie den Autor bitte umgehend.
 
-Die jüngste Fassung dieses Dokuments kann stets unter https://www.thomas-huehn.de/2010/02/caching-tutorial/ abgerufen werden.
+Die jüngste Fassung dieses Dokuments kann stets unter [https://www.thomas-huehn.de/caching-tutorial/](https://www.thomas-huehn.de/caching-tutorial/) abgerufen werden.
 
-Das englische Original finden Sie unter http://www.mnot.net/cache_docs/.
+Das englische Original finden Sie unter [http://www.mnot.net/cache_docs/](http://www.mnot.net/cache_docs/).
 
 Übersetzungen in weitere Sprachen sind für das [Chinesische](https://www.chedong.com/tech/cache_docs.html), das [Tschechische](https://www.jakpsatweb.cz/clanky/caching-tutorial-czech-translation.html) sowie das das [Französische](https://www.mnot.net/cache_docs/index.fr.html) verfügbar.

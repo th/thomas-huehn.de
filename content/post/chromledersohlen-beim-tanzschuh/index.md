@@ -2,9 +2,10 @@
 title: "Chromledersohlen beim Tanzschuh"
 description: Vor- und Nachteile von Chromleder fürs Tanzen
 date: 2020-09-04
-tags: ['Tanzen']
+tags: ['Tanzen", "Bekleidung']
+aliases: ["/2020/09/chromledersohlen-beim-tanzschuh/"]
 ---
-![](IMG_6186.jpg)
+![IMG_6186](IMG_6186.jpg)
 
 Wer aus dem Standard- oder Lateintanz kommt, der kennt sie bestimmt: die Chromledersohle. Häufig auch als Rauhleder oder Wildleder bezeichnet, sind diese beiden Bezeichnungen jedoch nicht korrekt und bezeichnen eigentlich andere Lederarten.
 

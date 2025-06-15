@@ -2,9 +2,10 @@
 title: "Gummisohlen beim Tanzschuh"
 description: Vor- und Nachteile der Gummisohle fürs Tanzen
 date: 2020-08-07
-tags: ['Tanzen']
+tags: ['Tanzen", "Bekleidung']
+aliases: ["/2020/08/gummisohlen-beim-tanzschuh/"]
 ---
-![](IMG_6182.jpg)
+![IMG_6182](IMG_6182.jpg)
 
 Der klassische Sneaker oder Turnschuh mit Gummisohle klingt zunächst nach einer guten Wahl für Straßentänze wie Lindy Hop. Er ist nicht so formell, es gibt ihn in vielen Designs, er ist sportlich, man kann sich gut darin bewegen.
 

@@ -3,7 +3,8 @@ title: "Die Rangfolge der savignyschen Auslegungsmethoden"
 description: In welchem Verhältnis stehen die 4 Auslegungsmethoden nach Savigny?
 date: 2013-01-16
 lastmod: 2014-12-17
-tags: ['Recht']
+tags: [Recht]
+aliases: ["/2013/01/auslegung-savigny/"]
 ---
 Viele Studenten, die erstmals mit dem savignyschen Auslegungskanon in Berührung kommen, fragen sich, in welcher Rangfolge die klassischen Auslegungsmethoden von Savigny (grammatisch, systematisch, teleologisch, historisch) stehen.
 
@@ -11,7 +12,7 @@ Denn das Problem ist, daß Lehrer des Rechts sich offenbar erstens nicht sauber 
 
 So fand ich sowohl Darstellungen, wonach die grammatische Auslegung Vorrang habe, als auch Darstellungen, wonach die teleologische Auslegung führend sei.
 
-Man muß sich aber vergegenwärtigen, daß die gram­matische Auslegung eigentlich in zwei Teile zerfällt: die Wortlautgrenze ist Grenze aller Auslegung, danach kommt bereits die Rechtsfortbildung. So betrachtet kann man mit Fug und Recht sagen, die grammatische Auslegung habe unbedingten Vorrang.
+Man muß sich aber vergegenwärtigen, daß die grammatische Auslegung eigentlich in zwei Teile zerfällt: die Wortlautgrenze ist Grenze aller Auslegung, danach kommt bereits die Rechtsfortbildung. So betrachtet kann man mit Fug und Recht sagen, die grammatische Auslegung habe unbedingten Vorrang.
 
 Jedoch kann man auch innerhalb der Wortlautgrenze weiter grammatisch auslegen. Die Wortlautgrenze ist nur die äußere Begrenzung potentiell vieler Auslegungsergebnisse. Und eines oder mehrere dieser Auslegungsergebnisse können aus der grammatischen Auslegung stammen.
 
