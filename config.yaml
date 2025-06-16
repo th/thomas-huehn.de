@@ -14,7 +14,7 @@ disableKinds:
     - taxonomy
     
 permalinks:
-  post: '/:year/:month/:contentbasename/'
+  post: '/:contentbasename/'
   page: '/:contentbasename/'
 
 outputFormats:
