@@ -1,8 +1,8 @@
 ---
-title: "Die Community of Practice im Spannungsfeld zwischen Unternehmens- und Angestellteninteressen"
+title: Die Community of Practice im Spannungsfeld zwischen Unternehmens- und Angestellteninteressen
 date: 2024-07-04
-tags: ["Beruf", "Bildungswissenschaft", "Community of Practice", "Lernen", "Studium"]
-aliases: ["/2024/07/community-of-practice/"]
+tags: [Beruf, Bildungswissenschaft, Community of Practice, Lernen, Studium]
+aliases: [/2024/07/community-of-practice/]
 description: "Welchen Beitrag leisten Communities of Practice zur Vermittlung zwischen Unternehmens- und Angestellteninteressen in der betrieblichen Weiterbildung?"
 favorite: true
 ---
@@ -2160,7 +2160,7 @@ Science*, *14* (3), 283–296.
 
 Csíkszentmihályi, M. & Aebli, H. (1985). *Das flow-Erlebnis: Jenseits
 von Angst und Langeweile - im Tun aufgehen*. (U. Aeschbacher, Übers.)
-(12. Auflage). Stuttgart: Klett-Cotta/J. G. Cotta'sche Buchhandlung
+(12. Auflage). Stuttgart: Klett-Cotta/J. G. Cottasche Buchhandlung
 Nachfolger.
 
 Czauderna, A. (2014). Theoretische Perspektive. In A. Czauderna (Hrsg.),
@@ -2172,7 +2172,7 @@ Davenport, T. H. & Probst, G. J. B. (2002a). *Knowledge Management Case
 Book: Siemens Best Practises* (2. Auflage). Erlangen, New York:
 Publicis.
 
-Davenport, T. H. & Probst, G. J. B. (2002b). Siemens' Knowledge Journey.
+Davenport, T. H. & Probst, G. J. B. (2002b). Siemens Knowledge Journey.
 *Knowledge Management Case Book: Siemens Best Practises* (2. Auflage, S.
 10–21). Erlangen, New York: Publicis.
 

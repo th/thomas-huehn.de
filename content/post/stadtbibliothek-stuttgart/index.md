@@ -1,8 +1,8 @@
 ---
-title: "Stadtbibliothek Stuttgart"
+title: Stadtbibliothek Stuttgart
 date: 2018-06-22
-tags: ["Bibliothek"]
-description: "Ein Besuch in der hochgelobten neuen Stadtbibliothek Stuttgart"
+tags: [Bibliothek]
+description: Ein Besuch in der hochgelobten neuen Stadtbibliothek Stuttgart
 ---
 ![](stabistuttgart01.jpg)
 

@@ -1,7 +1,7 @@
 ---
-title: "Der Billard-Verband Baden-Württemberg und die Anti-Doping-Regelungen"
+title: Der Billard-Verband Baden-Württemberg und die Anti-Doping-Regelungen
 date: 2007-08-11
-tags: ["Sport"]
+tags: [Sport]
 ---
 # Worum geht es?
 
@@ -19,7 +19,7 @@ Ich vermute jedoch stark, daß diese Zusammenhänge Einfluß auf die Entscheidun
 
 Ich habe mir den genauen Wortlaut damals jedoch notiert.
 
-> "Die wichtigsten Änderungen der STO des BVBW zur Saison 2005/2006" (Kommentar zu Punkt 2.4):
+> Die wichtigsten Änderungen der STO des BVBW zur Saison 2005/2006 (Kommentar zu Punkt 2.4):
 >
 > Das Präsidium des BVBW und die Kreisvorstände ersuchen alle Vereine mit dieser Regelung feinfühlig umzugehen. Wir haben uns hier an Vorgaben aus den übergeordneten Organisationen zu halten, würden es aber nur ungern sehen, wenn wir diese auch anwenden müssten. Wir sind nicht im geringsten daran interessiert unseren Spielbetrieb damit einzuschränken und SpielerInnen zu maßregeln. Natürlich nur, solange wir keinen Anlass dazu haben.
 

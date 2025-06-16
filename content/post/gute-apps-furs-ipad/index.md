@@ -1,7 +1,7 @@
 ---
-title: "Gute Apps fürs iPad"
+title: Gute Apps fürs iPad
 date: 2010-05-26
-tags: ["Technik"]
+tags: [Technik]
 ---
 In den letzten Wochen, in denen ich mein iPad benutzt habe, haben sich
 einige Apps als besonders lohnenswert herausgestellt. Ich benutze sie
@@ -95,7 +95,7 @@ Artikel in Instapaper
 
 ### Twittelator
 
-Twitter-Apps gibt es einige, die "offizielle" von Twitter selbst ist
+Twitter-Apps gibt es einige, die offizielle von Twitter selbst ist
 aber (noch) nicht fürs iPad angepaßt. Ich habe eine ganze Reihe von
 Twitter-Apps durchprobiert.
 [**TweetDeck**](http://itunes.apple.com/de/app/tweetdeck-for-iphone/id318518757)
@@ -145,7 +145,7 @@ Artikel in NewsRack
 ### NewsTap
 
 Nein, das Usenet ist tatsächlich noch nicht tot. Auch wenn es
-mittlerweile schon etwas streng riecht. Und die "Usenet-Keimzelle" [vom
+mittlerweile schon etwas streng riecht. Und die Usenet-Keimzelle [vom
 Netz gegangen
 ist](http://www.heise.de/ct/meldung/Usenet-Keimzelle-geht-vom-Netz-1004201.html).
 
@@ -243,7 +243,7 @@ Wallpapers
 ### Guardian Eyewitness
 
 [Der Guardian](http://itunes.apple.com/de/app/the-guardian-eyewitness/id363993651) bringt täglich ein faszinierendes Foto von einem professionellen
-Fotografen. Den "pro tip" kann man getrost den Hasen geben, aber die Bilder selbst sind erstklassig.
+Fotografen. Den pro tip kann man getrost den Hasen geben, aber die Bilder selbst sind erstklassig.
 
 ![Guardian Eyewitness](29-1.jpg)
 
@@ -262,7 +262,7 @@ Entweder im klassischen Stil, mit der ganzen Seite sichtbar.
 
 Ganze Seite in Marvel
 
-Oder im "Zoom-Stil", bei dem das Auge des Lesers von Panel zu Panel
+Oder im Zoom-Stil, bei dem das Auge des Lesers von Panel zu Panel
 geführt wird (und teilweise auch innerhalb eines Panels).
 
 ![Gezoomt in Marvel](31-1.jpg)
@@ -336,8 +336,8 @@ WeatherBug
 
 ### IMDb
 
-Und noch eine App aus der Reihe "kann auch nicht mehr als die Webseite,
-die dahintersteht, macht aber dennoch Spaß": Die [Internet Movie Data
+Und noch eine App aus der Reihe kann auch nicht mehr als die Webseite,
+die dahintersteht, macht aber dennoch Spaß: Die [Internet Movie Data
 Base](http://itunes.apple.com/de/app/imdb-filme-tv/id342792525).
 
 ![IMDb](41-1.png)
@@ -399,7 +399,7 @@ Adobe Ideas
 
 ### Epicurious
 
-[Epicurious](http://itunes.apple.com/de/app/epicurious-recipes-shopping/id312101965) ist wunderbar, um darin nach Rezepten zu stöbern. Essen, Cocktails, Kuchen, was auch immer. Mit amerikanischen Maßen ("cup") sollte man
+[Epicurious](http://itunes.apple.com/de/app/epicurious-recipes-shopping/id312101965) ist wunderbar, um darin nach Rezepten zu stöbern. Essen, Cocktails, Kuchen, was auch immer. Mit amerikanischen Maßen (cup) sollte man
 natürlich zurechtkommen.
 
 ![Epicurious](49-1.jpg)
@@ -463,10 +463,10 @@ ausgewürfelt. Am Ende seines Zuges bekommt jeder Spieler nocheinmal so
 viele Armeen, wie er sein größtest zusammenhängendes Gebiet groß ist.
 Ziel: Die Weltherrschaft.
 
-Das Spiel eignet sich sehr gut für "mal eben schnell" zwischendurch, ein
+Das Spiel eignet sich sehr gut für mal eben schnell zwischendurch, ein
 Match dauert nicht lange. Und man kann tausend Einstellungen zum
-Spielprinzip vornehmen. Multiplayer wird auch unterstützt, sowohl "Pass
-and Play" als auch online.
+Spielprinzip vornehmen. Multiplayer wird auch unterstützt, sowohl Pass
+and Play als auch online.
 
 ![Strategery](56-1.jpg)
 
@@ -488,7 +488,7 @@ Friendsheep
 
 ### Air Hockey
 
-"In echt" macht [Air Hockey](http://itunes.apple.com/de/app/air-hockey/id286106725) noch viel mehr Spaß, aber für ein rasches Spielchen zu zweit ist diese App auch nicht zu verachten.
+In echt macht [Air Hockey](http://itunes.apple.com/de/app/air-hockey/id286106725) noch viel mehr Spaß, aber für ein rasches Spielchen zu zweit ist diese App auch nicht zu verachten.
 
 ![Air Hockey](59-1.jpg)
 
@@ -513,7 +513,7 @@ Lösung kann man sich anzeigen lassen.
 
 Wiki Hunt: Lösung
 
-Weitere Spielvariante: "Six Clicks to Jesus".
+Weitere Spielvariante: Six Clicks to Jesus.
 
 ### Demolition Master
 
@@ -534,7 +534,7 @@ Demolition Master
 
 ### The Battle for Wesnoth
 
-[The Battle for Wesnoth](http://itunes.apple.com/de/app/battle-for-wesnoth/id340691963) ist ein auf dem PC relativ bekanntes rundenbasiertes Strategiespiel mit Fantasy-Hintergrund. Also so ein bißchen "Warcraft als Open-Source". Als App kostet es einen geringen Betrag.
+[The Battle for Wesnoth](http://itunes.apple.com/de/app/battle-for-wesnoth/id340691963) ist ein auf dem PC relativ bekanntes rundenbasiertes Strategiespiel mit Fantasy-Hintergrund. Also so ein bißchen Warcraft als Open-Source. Als App kostet es einen geringen Betrag.
 
 ![The Battle for Wesnoth](66-1.jpg)
 
@@ -621,4 +621,4 @@ die Frage ernsthaft stellt.
 
 ### Linkinus
 
-Ein IRC-Client. Noch so ein "veraltetes" Kommunikationsmedium. [Linkinus](http://itunes.apple.com/de/app/linkinus/id364899309) reizt mich sehr, allerdings glaube ich, daß das erst sinnvoll ist, wenn iPhoneOS 4 mit Multitasking da ist. Die Channel, die ich kenne, haben relativ lange Idling-Phasen. Und alle paar Minuten rein und wieder raus führt im Zweifel nur zu einem administrativ durchgesetzten Dauer-Raus.
+Ein IRC-Client. Noch so ein veraltetes Kommunikationsmedium. [Linkinus](http://itunes.apple.com/de/app/linkinus/id364899309) reizt mich sehr, allerdings glaube ich, daß das erst sinnvoll ist, wenn iPhoneOS 4 mit Multitasking da ist. Die Channel, die ich kenne, haben relativ lange Idling-Phasen. Und alle paar Minuten rein und wieder raus führt im Zweifel nur zu einem administrativ durchgesetzten Dauer-Raus.

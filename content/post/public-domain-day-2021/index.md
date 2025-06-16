@@ -1,8 +1,8 @@
 ---
-title: "Public Domain Day 2021"
+title: Public Domain Day 2021
 date: 2020-12-31
-tags: ["Musik", "Recht"]
-description: "Heute werden wieder eingie Werke gemeinfrei"
+tags: [Musik, Recht]
+description: Heute werden wieder eingie Werke gemeinfrei
 ---
 Heute ist der [Public Domain Day 2021](https://web.law.duke.edu/cspd/publicdomainday/2021/)! Das bedeutet, daß Werke von 1925 in den USA „in the public domain“ fallen, also gemeinfrei werden.
 

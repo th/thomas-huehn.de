@@ -1,9 +1,9 @@
 ---
-title: "Kunststoffsohlen beim Tanzschuh"
+title: Kunststoffsohlen beim Tanzschuh
 description: Vor- und Nachteile der Kunststoffsohle fürs Tanzen
 date: 2020-08-21
-tags: ["Tanzen", "Bekleidung"]
-aliases: ["/2020/08/kunststoffsohlen-beim-tanzschuh/"]
+tags: [Tanzen, Bekleidung]
+aliases: [/2020/08/kunststoffsohlen-beim-tanzschuh/]
 ---
 ![IMG_6183](IMG_6183.jpg)
 
@@ -11,7 +11,7 @@ Ein Klassiker bei Lindy-Hoppern ist der Freizeitschuh mit Kunststoffsohle.
 
 Besonders die Tänzerinnen sieht man viel mit [Keds](https://keds.de/), die fast schon eine Art Uniform auf der Tanzfläche geworden sind.
 
-Ich selbst habe eine Zeitlang mit [Dockers](https://dockersbygerli.de/) getanzt und war damit immer sehr zufrieden. Irgendwann waren sie dann natürlich durch und Ersatz mußte her. Nach längerer Zeit mit [Ledersohlen]({{< relref "ledersohlen-beim-tanzschuh" >}}) und den speziellen Saint-Savoy-Sohlen habe ich nun wieder Freizeitschuhe mit Kunststoffsohle gekauft.
+Ich selbst habe eine Zeitlang mit [Dockers](https://dockersbygerli.de/) getanzt und war damit immer sehr zufrieden. Irgendwann waren sie dann natürlich durch und Ersatz mußte her. Nach längerer Zeit mit [Ledersohlen]({{< relref ledersohlen-beim-tanzschuh >}}) und den speziellen Saint-Savoy-Sohlen habe ich nun wieder Freizeitschuhe mit Kunststoffsohle gekauft.
 
 Die oben abgebildeten Espadrilles habe ich also erst seit kurzem und erst eine halbe Kursphase lang getragen.
 

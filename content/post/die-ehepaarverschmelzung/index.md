@@ -1,8 +1,8 @@
 ---
-title: "Die Ehepaarverschmelzung"
+title: Die Ehepaarverschmelzung
 date: 2012-03-04
-tags: ["Soziales"]
-aliases: ["/weblog/2012/die-ehepaarverschmelzung/"]
+tags: [Soziales]
+aliases: [/weblog/2012/die-ehepaarverschmelzung/]
 ---
 Frischverheiratete Paare suhlen sich zuweilen derart in ihrem persönlichen Glück, daß sie in ihren eigenen Augen zu einer einzigen Person, dem „wir“ morphen.
 

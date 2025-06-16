@@ -1,9 +1,9 @@
 ---
-title: "Marit Larsen in Stuttgart"
+title: Marit Larsen in Stuttgart
 date: 2010-03-01
-tags: ["Konzert", "Musik"]
-aliases: ["/artikel/marit-larsen-in-stuttgart.html/"]
-description: "Konzertbericht vom Marit-Larsen-Konzert im Theaterhaus Stuttgart"
+tags: [Konzert, Musik]
+aliases: [/artikel/marit-larsen-in-stuttgart.html/]
+description: Konzertbericht vom Marit-Larsen-Konzert im Theaterhaus Stuttgart
 ---
 [Ohne Foto, denn ich hatte nur meine Handykamera dabei, und die Bilder wurden vorhersehbar nichts]
 
@@ -43,6 +43,6 @@ Als besondere Überraschung kam Marit nach der Zugabe, als schon einige Leute de
 
 Insgesamt ein sehr schöner Abend (bis auf die Anfahrt, die sich im Berufsverkehr etwas stressig gestaltete).
 
-Und definitiv preiswert. R.E.M. war für mich vergangenes Jahr nochmal etwas Größeres, aber nachdem Marit mit etwa 25 Euro für die Karte zufrieden ist, gibts da rein gar nichts zu meckern. Das wird bei R.E.M. dann doch teurer (die armen Schweine, die auf Destiny's Child, Tom Jones oder Celine Dion stehen, seien hiermit gebührend bemitleidet).
+Und definitiv preiswert. R.E.M. war für mich vergangenes Jahr nochmal etwas Größeres, aber nachdem Marit mit etwa 25 Euro für die Karte zufrieden ist, gibts da rein gar nichts zu meckern. Das wird bei R.E.M. dann doch teurer (die armen Schweine, die auf Destinys Child, Tom Jones oder Celine Dion stehen, seien hiermit gebührend bemitleidet).
 
 Ich hätte nicht übel Lust, am 6. nochmal nach Karlsruhe und/oder am 12. nach Freiburg zu fahren. Aber das wäre für mich ein geradezu unerhörter Schritt.

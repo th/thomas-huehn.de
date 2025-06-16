@@ -1,8 +1,8 @@
 ---
-title: "Belohnungsscheck über $2.56"
+title: Belohnungsscheck über $2.56
 date: 2008-11-11
-tags: ["Donald Knuth"]
-description: "Ich habe einen Scheck von Donald Knuth!"
+tags: [Donald Knuth]
+description: Ich habe einen Scheck von Donald Knuth!
 ---
 ## Der unerreichbare Scheck
 

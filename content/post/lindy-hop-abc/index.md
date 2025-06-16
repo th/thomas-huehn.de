@@ -1,8 +1,8 @@
 ---
-title: "Lindy Hop ABC"
+title: Lindy Hop ABC
 date: 2020-06-21
-tags: ["Tanzen"]
-description: "Rezension einer Lindy-Hop-DVD"
+tags: [Tanzen]
+description: Rezension einer Lindy-Hop-DVD
 ---
 Mit der DVD [„Lindy Hop ABC“](https://2020.dietanzfabrik.de/?p=535) können Lindy-Hop-Anfänger einfache Lindy-Hop-Figuren lernen, um ihr tänzerisches Repertoire zu erweitern.
 

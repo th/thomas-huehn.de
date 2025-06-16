@@ -1,8 +1,8 @@
 ---
-title: "Eine Woche mit dem iPad"
+title: Eine Woche mit dem iPad
 date: 2010-04-24
-tags: ["Technik"]
-description: "Rezension des iPad"
+tags: [Technik]
+description: Rezension des iPad
 ---
 Ich hatte mit einem Arbeitskollegen während der iPad-Vorstellungs-Keynote die Liveberichterstattung verfolgt. Und ich hatte mehr erwartet. Etwas aufgeregt wurde ich, als Steve Jobs iBooks vorstellte, aber insgesamt? Keine Kamera, kein USB, keine sonstigen relevanten Schnittstellen, keine Erweiterbarkeit, zunächst kein GPS oder 3G. Okay, der Preis war wirklich fair. Aber andere Hersteller hatten ja auch schon den Markteinstieg angekündigt.
 

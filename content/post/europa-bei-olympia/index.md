@@ -1,8 +1,8 @@
 ---
-title: "Europa bei Olympia"
+title: Europa bei Olympia
 date: 2012-01-23
-tags: ["Sport"]
-aliases: ["/weblog/2012/europa-bei-olympia/"]
+tags: [Sport]
+aliases: [/weblog/2012/europa-bei-olympia/]
 ---
 Immer, wenn von europäischer Einigung die Rede ist, speziell wenn gestritten wird, wie schnell und wie eng die Verflechtung der europäischen Länder ausfallen soll, frage ich mich, warum man nicht mit einem relativ überschaubaren, emotional geprägten, aber realpolitisch unwichtigen Thema anfängt: dem Sport.
 

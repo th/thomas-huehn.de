@@ -1,8 +1,8 @@
 ---
-title: "Brennen unter Linux"
+title: Brennen unter Linux
 date: 2008-02-02
-tags: ["Linux", "Softwarelizenzen", "Open Source"]
-description: "CDs und DVDs unter Linux brennen"
+tags: [Linux, Softwarelizenzen, Open Source]
+description: CDs und DVDs unter Linux brennen
 ---
 ## Einleitung
 
@@ -52,7 +52,7 @@ Jörg Schilling bezichtigt cdrkit verschiedener Dinge: Zum einen enthalte cdrkit
 
 Zum anderen beschuldigt er cdrkit, in den zugehörigen man pages würde behauptet, das Original werde nicht mehr weiterentwickelt. Wer diese man pages einmal durchliest, findet jedoch nichts derartiges. Jörg Schilling weigert sich beständig zu erläutern, wo er seine Behauptung herauslesen will. Vermutlich meint er diese Stelle:
 
-> This application is a spinoff from the original program "cdrecord" delivered in the cdrtools package [1] created by Joerg Schilling, who deserves the most credits for its success. However, he is not involved into the development of this spinoff and therefore he shall not be made responsible for any problem caused by it. Do not refer to this applica‐ tion as "cdrecord", do not try to get support for wodim by contacting the original authors. 
+> This application is a spinoff from the original program cdrecord delivered in the cdrtools package [1] created by Joerg Schilling, who deserves the most credits for its success. However, he is not involved into the development of this spinoff and therefore he shall not be made responsible for any problem caused by it. Do not refer to this applica‐ tion as cdrecord, do not try to get support for wodim by contacting the original authors. 
 
 Selbstverständlich sagt sie nichts derartiges, sondern nur, daß Jörg Schilling nicht an der Fortentwicklung des Spin-Offs beteiligt ist, was zweifelsohne stimmt.
 

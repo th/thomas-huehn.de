@@ -8,17 +8,24 @@
         <div class="dates">
         {{- if .Date -}}
           <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }} class="created">
-            {{- .Date.Format (default "2006-01-02" .Site.Params.date_format) -}}
+            {{- .Date.Format "2." }} {{ index .Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Format "2006" -}}
           </time>
         {{- end -}}
         {{- if ne .Params.lastmod .Date -}}
           <p>, Update:&nbsp;
-              <time {{ .Params.lastmod.Format (default "2006-01-02" site.Params.date_format) | safeHTMLAttr }} class="lastmod">
-                {{- .Params.lastmod.Format (default "2006-01-02" site.Params.date_format) -}}
+              <time {{ .Params.lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTMLAttr }} class="lastmod">
+                {{- .Params.lastmod.Format "2." }} {{ index .Site.Data.monate (printf "%d" .Params.lastmod.Month) }} {{ .Params.lastmod.Format "2006" -}}
               </time>
           </p>
         {{- end -}}
         </div>
+        {{- if .Params.tags -}}
+        <div class="tags-inline">
+          {{- range .Params.tags -}}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+          {{- end -}}
+        </div>
+        {{- end -}}
     </div>
     </header>
       {{- .Content -}}

@@ -1,9 +1,9 @@
 ---
-title: "Wikipedia als Übersetzungshilfe"
+title: Wikipedia als Übersetzungshilfe
 description: Wikipedia hilft übersetzen!
 date: 2021-01-28
-tags: ["Übersetzung"]
-aliases: ["/2021/01/wikipedia-als-uebersetzungshilfe/"]
+tags: [Übersetzung]
+aliases: [/2021/01/wikipedia-als-uebersetzungshilfe/]
 ---
 Es ist keine weltbewegende Erkenntnis, aber: mir wurde neulich klar, daß Wikipedia eine großartige kontextabhängige Übersetzungsfunktion hat. Sozusagen.
 

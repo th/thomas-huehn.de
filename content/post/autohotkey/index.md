@@ -1,10 +1,10 @@
 ---
-title: "AutoHotKey"
+title: AutoHotKey
 description: Beispielkonfiguration für AutoHotKey
 date: 2018-08-12
 lastmod: 2019-12-08
-tags: ["Software"]
-aliases: ["/2018/08/autohotkey/"]
+tags: [Software]
+aliases: [/2018/08/autohotkey/]
 ---
 Ich verwende schon seit langem [AutoHotKey](https://www.autohotkey.com/), um wiederkehrende Aufgaben zu automatisieren oder Ärgernisse zu umschiffen.
 
@@ -52,9 +52,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 <^>!+u::Send Ü
 
 ;für Plain TeX
-<^>!ä::Send \"a
-<^>!ö::Send \"o
-<^>!ü::Send \"u
+<^>!ä::Send \a
+<^>!ö::Send \o
+<^>!ü::Send \u
 
 ;für Pollen
 <^>!l::Send ◊
@@ -68,7 +68,7 @@ Capslock::Ctrl
 
 :co:ZEIT::
 FormatTime, zeit, , HH:mm
-zeit := zeit . " Uhr "
+zeit := zeit .  Uhr 
 Send %zeit%
 return
 
@@ -82,7 +82,7 @@ return
 InputBox,u,Unicode-Zeichen,Codepunkt (Hex),Bitte geben Sie den Codepunkt ein.,,,,,,,
 if not ErrorLevel
 {
-u := "U+" . u
+u := U+ . u
   Send {%u%}
 }
 return

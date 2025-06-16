@@ -1,10 +1,10 @@
 ---
-title: "Statische Typen und Defaultargumente in C++"
+title: Statische Typen und Defaultargumente in C++
 description: Defaultargumente in C++
 date: 2019-02-17
 lastmod: 2019-10-19
-tags: ["C++"]
-aliases: ["/2019/02/statische-typen-defaultargumente-cpp/"]
+tags: [C++]
+aliases: [/2019/02/statische-typen-defaultargumente-cpp/]
 ---
 Quiz. Was gibt dieses Programm aus?
 
@@ -16,8 +16,8 @@ class Vehicle
 public:
   virtual void FillUp(int amount = 20)
   {
-      std::cout << "Filling up the vehicle with "
-                << amount << " gallons of gas" << std::endl;
+      std::cout << Filling up the vehicle with 
+                << amount <<  gallons of gas << std::endl;
   };
 };
 
@@ -26,8 +26,8 @@ class Car : public Vehicle
 public:
   virtual void FillUp(int amount = 10)
   {
-    std::cout << "Filling up the car with "
-              << amount << " gallons of gas" << std::endl;
+    std::cout << Filling up the car with 
+              << amount <<  gallons of gas << std::endl;
   };
 };
 

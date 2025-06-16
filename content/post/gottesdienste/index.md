@@ -1,9 +1,9 @@
 ---
-title: "Gottesdienste"
+title: Gottesdienste
 date: 2005-12-24
-tags: ["Kirche"]
-aliases: ["/artikel/gottesdienste/"]
-description: "Bericht zum Besuch zweier Gottesdienste"
+tags: [Kirche]
+aliases: [/artikel/gottesdienste/]
+description: Bericht zum Besuch zweier Gottesdienste
 ---
 Gestern, am Heiligen Abend, war ich in der Christmette (evangelisch) in der Stiftskirche. Leider fand ich den Gottesdienst nicht so berauschend.
 

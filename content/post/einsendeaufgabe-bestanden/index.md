@@ -1,7 +1,7 @@
 ---
-title: "Einsendeaufgabe bestanden"
+title: Einsendeaufgabe bestanden
 date: 2011-11-29
-tags: ["Recht", "Studium"]
+tags: [Recht, Studium]
 ---
 
 Heute lag ein Umschlag da. Und was grü­nes blitzte durch den Adreßausschnitt.

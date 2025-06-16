@@ -1,7 +1,7 @@
 ---
-title: "Verwirrende Normenbezeichnungen"
+title: Verwirrende Normenbezeichnungen
 date: 2025-06-07
-tags: ["Recht"]
+tags: [Recht]
 ---
 Internationale Standards bzw. Normen haben Bezeichnungen, die die Herkunft beinhalten. So kann einer DIN-Norm ansehen, daß sie in Deutschland standardisiert wurde, oder einer EVS-Norm, daß sie aus Estland stammt. Dies sind nationale Standardisierungsorganisationen.
 

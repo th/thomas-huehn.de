@@ -1,9 +1,9 @@
 ---
-title: "Drahtkammbinden"
+title: Drahtkammbinden
 description: Drahtkammbinden zuhause
 date: 2021-01-29
-tags: ["Büro"]
-aliases: ["/2021/01/drahtkammbinden/"]
+tags: [Büro]
+aliases: [/2021/01/drahtkammbinden/]
 ---
 Spiralbindungen kennt jeder vom Collegeblock. Doch sie haben ein offensichtliches Problem:
 

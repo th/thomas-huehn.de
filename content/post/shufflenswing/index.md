@@ -1,8 +1,8 @@
 ---
-title: "Shuffle’n’Swing"
+title: Shuffle’n’Swing
 date: 2020-11-27
-tags: ["Tanzen", "Lernen"]
-description: "Karten, um Lindy Hop zu lernen"
+tags: [Tanzen, Lernen]
+description: Karten, um Lindy Hop zu lernen
 ---
 Das hier sieht lustig und praktisch aus: [Shuffle’n’Swing](https://www.kickstarter.com/projects/ronsmits/shuffle-n-swing/).
 

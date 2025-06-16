@@ -1,9 +1,9 @@
 ---
-title: "Commitment und Konsistenz"
+title: Commitment und Konsistenz
 description: Kurzzusammenfassung des psychologischen Effekts des Commitments
 date: 2015-04-05
-tags: ["Psychologie"]
-aliases: ["/2015/04/commitment-und-konsistenz/"]
+tags: [Psychologie]
+aliases: [/2015/04/commitment-und-konsistenz/]
 ---
 Die Wahrscheinlichkeit, daß Menschen einer Bitte nachkommen, ist höher, wenn sie zuvor bereits einer unwesentlichen Bitte nachgekommen sind. Dies gilt sogar dann, wenn die beiden Bitten nur entfernt miteinander zu tun haben. Wenn Sie also jemanden dazu bringen möchten, etwas zu tun, lohnt es sich, mit einer kleinen Bitte anzufangen, die Ihnen vermutlich nicht abgeschlagen werden wird.
 

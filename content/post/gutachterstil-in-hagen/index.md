@@ -1,8 +1,8 @@
 ---
-title: "Gutachterstil in Hagen"
+title: Gutachterstil in Hagen
 date: 2011-11-26
-tags: ["Recht", "Studium"]
-aliases: ["/weblog/2011/gutachterstil-in-hagen/"]
+tags: [Recht, Studium]
+aliases: [/weblog/2011/gutachterstil-in-hagen/]
 ---
 Ges­tern war ich in Hagen und habe an der Ver­an­stal­tung „Gut­ach­ter­stil“ teilgenommen.
 

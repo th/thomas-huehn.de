@@ -1,10 +1,10 @@
 ---
-title: "Ein Konsument auf der Suche nach dem Markt"
+title: Ein Konsument auf der Suche nach dem Markt
 description: Über die Verfügbarkeit fremdsprachiger eBooks
 date: 2010-08-17
 lastmod: 2014-03-16
-tags: ["Buch"]
-aliases: ["/2010/08/konsument-sucht-markt/"]
+tags: [Buch]
+aliases: [/2010/08/konsument-sucht-markt/]
 ---
 Hallo? Ist dort jemand?
 Nein, nicht Sie, verehrter Leser, auch wenn Sie mir natürlich

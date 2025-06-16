@@ -1,9 +1,9 @@
 ---
 title: "Kalibriertes Schätzen: Übungen I"
-description: Übungen zum kalibrierten Schätzen
+description: "Übungen zum kalibrierten Schätzen"
 date: 2021-05-27
-tags: ["Projektmanagement", "Psychologie", "Schätzen"]
-aliases: ["/2021/05/kalibriertes-schaetzen-uebungen-i/"]
+tags: [Projektmanagement, Psychologie, Schätzen]
+aliases: [/2021/05/kalibriertes-schaetzen-uebungen-i/]
 ---
 Wie in [Kalibriertes Schätzen](/kalibriertes-schaetzen) schon gesagt, möchte ich meine Schätzversuche hier im Weblog dokumentieren, auch wenn es peinlich werden kann.
 

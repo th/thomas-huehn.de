@@ -1,7 +1,7 @@
 ---
-title: "Spiele für iPhone und iPad"
+title: Spiele für iPhone und iPad
 date: 2019-01-25
-tags: ["Spiele", "Technik"]
+tags: [Spiele, Technik]
 ---
 ## Paar Spiele, die ich installiert habe:
 ### Framed
@@ -43,7 +43,7 @@ Ich wollte ein Tower-Defense-Spiel, Fieldrunners früher war ganz okay, aber den
 
 ### 80 Days
 
-Eine Adaption von Jules Vernes' In 80 Tagen um die Welt, allerdings mit Steampunk-Elementen. Dies ist mein erstes Spiel der inkle Studios, die eben immer so ein Choose-Your-Own-Adventure mit toller grafischer Umsetzung machen.
+Eine Adaption von Jules Vernes In 80 Tagen um die Welt, allerdings mit Steampunk-Elementen. Dies ist mein erstes Spiel der inkle Studios, die eben immer so ein Choose-Your-Own-Adventure mit toller grafischer Umsetzung machen.
 
 Nicht sehr schwer, die ersten paar Spiele war ich gleich erfolgreich. Extrem hoher Wiederspielwert, weil man immer neue Geschichten erlebt, selbst wenn man vermeintlich dieselben Routen nimmt. Ganz dicker Tipp!
 

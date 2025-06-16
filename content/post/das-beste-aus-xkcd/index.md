@@ -1,9 +1,9 @@
 ---
-title: "Das Beste aus xkcd"
+title: Das Beste aus xkcd
 date: 2010-02-22
-tags: ["Comic"]
-aliases: ["/artikel/das-beste-aus-xkcd/"]
-description: "Meine Lieblings-xkcd-Comicstrips"
+tags: [Comic]
+aliases: [/artikel/das-beste-aus-xkcd/]
+description: Meine Lieblings-xkcd-Comicstrips
 ---
 [xkcd](http://www.xkcd.com/) ist ein bekannter Webcomic, in dem Randall Munroe mit zeichnerisch vergleichsweise einfachen Mitteln (nämlich mit Strichmännchen) immer wieder beeindruckende Strips erschafft.
 

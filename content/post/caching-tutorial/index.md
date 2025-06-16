@@ -1,10 +1,10 @@
 ---
-title: "Caching-Tutorial für Webautoren und Webmaster"
+title: Caching-Tutorial für Webautoren und Webmaster
 description: Deutsche Übersetzung von Mark Nottinghams Caching-Tutorial
 date: 2010-02-26
 lastmod: 2014-12-07
-tags: ["Caching", "Web", "Übersetzung"]
-aliases: ["/2010/02/caching-tutorial/"]
+tags: [Caching, Web, Übersetzung]
+aliases: [/2010/02/caching-tutorial/]
 ---
 **Anmerkung des Übersetzers:** Dies ist das [Caching Tutorial for Web Authors and Webmasters](https://www.mnot.net/cache_docs/) von [Mark Nottingham](https://www.mnot.net/personal/), übersetzt ins Deutsche von [Thomas Hühn](https://www.thomas-huehn.de/).
 
@@ -113,7 +113,7 @@ Server: Apache/1.3.3 (Unix)
 Cache-Control: max-age=3600, must-revalidate
 Expires: Fri, 30 Oct 1998 14:19:41 GMT
 Last-Modified: Mon, 29 Jun 1998 02:28:12 GMT
-ETag: "3e86-410-3596fbbc"
+ETag: 3e86-410-3596fbbc
 Content-Length: 1040
 Content-Type: text/html
 ```
@@ -344,14 +344,14 @@ Hier ist eine Beispiel-.htaccess-Datei, die den Gebrauch einiger Header vorführ
 ```
 #### mod_expires aktivieren
 ExpiresActive On
-####  .gif's laufen einen Monat nach dem letzten Zugriff ab
+####  .gifs laufen einen Monat nach dem letzten Zugriff ab
 ExpiresByType image/gif A2592000
 #### Alles andere läuft einen Tag nach der letzten Änderung ab
 #### (hier wird die alternative Syntax verwendet)
-ExpiresDefault "modification plus 1 day"
+ExpiresDefault modification plus 1 day
 #### Einen Cache-Control-Header auf index.html anwenden
 <Files index.html>
-Header append Cache-Control "public, must-revalidate"
+Header append Cache-Control public, must-revalidate
 </Files>
 ```
 
@@ -387,16 +387,16 @@ CGI-Skripte sind eine der beliebtesten Arten, Inhalte zu erzeugen. Sie können H
 
 ``` perl
 #!/usr/bin/perl
-print "Content-type: text/html\n";
-print "Expires: Thu, 29 Oct 1998 17:04:19 GMT\n";
-print "\n";
+print Content-type: text/html\n;
+print Expires: Thu, 29 Oct 1998 17:04:19 GMT\n;
+print \n;
 #### Der Body-Inhalt folgt...
 ```
 
 Weil dies alles reiner Text ist, können Sie die Expires- und andere Zeit-bezogene Header leicht mit eingebauten Funktionen erzeugen. Es ist sogar noch einfacher, wenn sie `Cache-Control: max-age` verwenden.
 
 ```
-print "Cache-Control: max-age=600\n";
+print Cache-Control: max-age=600\n;
 ```
 
 Dies sorgt dafür, daß das Skript für zehn Minuten nach der Anforderung gecachet werden kann, so daß der Benutzer die Anforderung nicht erneut schickt, wenn er den “Zurück”-Button anklickt.
@@ -425,9 +425,9 @@ Zum Beispiel lassen sich so ein Cache-Control-Header und ein Expires-Header, der
 
 ``` php
 <?php
-Header("Cache-Control: must-revalidate");
+Header(Cache-Control: must-revalidate);
 $offset = 60 * 60 * 24 * 3;
-$ExpStr = "Expires: " . gmdate("D, d M Y H:i:s", time() + $offset) . " GMT";
+$ExpStr = Expires:  . gmdate(D, d M Y H:i:s, time() + $offset) .  GMT;
 Header($ExpStr);
 ?>
 ```
@@ -447,7 +447,7 @@ Schauen Sie sich auch die [cgi_buffer-Bibliothek](https://github.com/nigelhorne/
 Cold Fusion macht das Setzen beliebiger HTTP-Header durch das `CFHEADER`-Tag relativ leicht. Leider führt ihr Beispiel zum Setzen eines Expires-Headers, wie unten zu sehen, etwas in die Irre.
 
 ```
-<CFHEADER NAME="Expires" VALUE="#Now()#">
+<CFHEADER NAME=Expires VALUE=#Now()#>
 ```
 
 Es funktioniert nicht so, wie Sie meinen könnten, da die Zeitangabe (in diesem Fall: wann die Anforderung gestellt wurde) nicht in eine in HTTP gültige Zeitangabe umgewandelt wird; stattdessen wird sie als eine Repräsentation von Cold Fusions Datums/Zeit-Objekt ausgegeben. Die meisten Clients werden einen solchen Wert entweder ignorieren oder ihn zu einem Standardwert wie den 1. Januar 1970 umwandeln.
@@ -455,7 +455,7 @@ Es funktioniert nicht so, wie Sie meinen könnten, da die Zeitangabe (in diesem 
 Cold Fusion bietet jedoch auch eine Funktion zur Datumsformatierung an, die die Aufgabe erledigt: `GetHTTPTimeString`. In Kombination mit `DateAdd` ist es leicht, Expires-Zeitangaben zu setzen. Hier setzen wir einen Header, der angibt, daß Repräsentationen der Seite in einem Monat ablaufen sollen:
 
 ```
-<cfheader name="Expires" value="#GetHttpTimeString(DateAdd('m', 1, Now()))#">
+<cfheader name=Expires value=#GetHttpTimeString(DateAdd(m, 1, Now()))#>
 ```
 
 Sie können auch das `CFHEADER`-Tag verwenden, um `Cache-Control: max-age` und andere Header zu setzen.
@@ -475,7 +475,7 @@ und so die Anzahl der Minuten von der Anforderung an festzulegen, nach der die R
 `Cache-Control`-Header können folgendermaßen gesetzt werden:
 
 ```
-<% Response.CacheControl="public" %>
+<% Response.CacheControl=public %>
 ```
 
 In ASP.NET ist `Response.Expires` veraltet, die richtige Art, cachebezogene Header zu setzen, geht mit `Response.Cache`:

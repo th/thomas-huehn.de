@@ -1,7 +1,7 @@
 ---
-title: "Neuroplastizität durch Tanzen"
+title: Neuroplastizität durch Tanzen
 date: 2020-07-25
-tags: ["Gehirn", "Gesundheit", "Tanzen"]
+tags: [Gehirn, Gesundheit, Tanzen]
 ---
 ## PLOS
 

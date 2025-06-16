@@ -1,9 +1,9 @@
 ---
-title: "Programmierte Animationen in mathematischen Erklärvideos"
-description: 'Entsprechen die 3Blue1Brown-Videos den Qualitäts- und Gestaltungskriterien, die in der Fachliteratur aufgestellt werden?'
+title: Programmierte Animationen in mathematischen Erklärvideos
+description: "Entsprechen die 3Blue1Brown-Videos den Qualitäts- und Gestaltungskriterien, die in der Fachliteratur aufgestellt werden?"
 date: 2023-10-30
-tags: ["Bildungswissenschaft", "Studium", "Video"]
-aliases: ["/2023/10/programmierte-animationen-in-mathematischen-erklaervideos/"]
+tags: [Bildungswissenschaft, Studium, Video]
+aliases: [/2023/10/programmierte-animationen-in-mathematischen-erklaervideos/]
 ---
 # Einleitung
 
@@ -67,7 +67,7 @@ anderen Videoformen mit Lehranspruch wie z.B. Lehrvideos ab. Vorliegend
 wird dem Definitionsversuch von Fey gefolgt, der zwei zentrale Merkmale
 identifiziert: (1) es besteht die Absicht der Produzierenden, den
 Zuschauenden etwas zu erklären (intentionaler Aspekt), (2) dies wird in
-der medieneigentümlichen Gestaltung des Medienformats „Video"
+der medieneigentümlichen Gestaltung des Medienformats „Video
 ausgedrückt (gestalterisch-didaktischer Aspekt) (vgl. Fey, 2021, S. 21).
 Der intentionale Aspekt umfaßt also instruktionale Erklärungen (vgl.
 Kulgemeyer, 2018, S. 9, vgl. 2020a, S. 5–6), mithin allgemein- wie
@@ -79,7 +79,7 @@ mediendidaktischen auch medienpraktische und medientechnische
 
 Die klassischen 3Blue1Brown-Videos sind vollständig computergeneriert,
 es findet keine Videokamera Verwendung. Ausnahmen existieren bei
-„FAQ-Videos" (Videoverzeichnis: [QA]) oder Ankündigungsvideos,
+„FAQ-Videos (Videoverzeichnis: [QA]) oder Ankündigungsvideos,
 beispielsweise für den „Summer of Math Exposition“ (Videoverzeichnis:
 [SoME]). Sanderson hat dazu mit manim (Sanderson, 2015/2023) eine
 Programmbibliothek entwickelt, die es ihm ermöglicht, Videos in der
@@ -105,7 +105,7 @@ Lernens” vorgestellt, die aufgrund der multimedialen Verknüpfung von
 Sprache und Bild in Erklärvideos Ansätze zur Untersuchung der
 3Blue1Brown-Videos liefern kann. Abschließend wird eine Erweiterung
 dieser Theorie vorgestellt, die „Cognitive-Affective Theory of Learning
-with Media".
+with Media.
 
 ## Medium
 
@@ -224,8 +224,8 @@ bezeichnet die Beanspruchung des Arbeitsgedächtnisses (vgl. Sweller,
 1994, S. 45). Studentisches Engagement ist ein motivationaler Aspekt.
 Aktives Lernen beinhaltet neben Engagement mit dem Lehrstoff auch Denken
 höherer Stufen, studentische Aktivitäten (Diskussion, Schreiben) und
-„Beteiligung durch mehr als Zuhören" (vgl. Bonwell, 1991, S. 2
-englisches Original: „...involved in more than listening.") . Besonders
+„Beteiligung durch mehr als Zuhören (vgl. Bonwell, 1991, S. 2
+englisches Original: „...involved in more than listening.) . Besonders
 hervorgehoben werden der Nutzen von studentischer Interaktion, die die
 Handlungskontrolle auf studentische Seite verlagert, sowie der Gebrauch
 leitender Fragen (vgl. Brame, 2016, S. 5)
@@ -238,7 +238,7 @@ ablesen, welche Gestaltungselemente zuverlässig positiv oder negativ zu
 einer Zielgröße beitragen und welche keinen gesicherten Erfolg haben
 (vgl. Findeisen et al., 2019, S. 21–23). Vorliegend soll nur die
 Zielgröße „Lernerfolg“ Beachtung finden, weitere Zielgrößen wie
-„Lernanstrengung" oder „Selbstwirksamkeit“ sind in Bezug auf die
+„Lernanstrengung oder „Selbstwirksamkeit“ sind in Bezug auf die
 Forschungsfrage wenig relevant, zudem ist dort keine Anschlußfähigkeit
 an die anderen Kriterienkataloge gegeben. Der Kriterienkatalog ist in
 Abbildung 5, Abbildung 6 sowie Abbildung 7 zu finden.
@@ -255,7 +255,7 @@ Abbildung 6 Findeisen/Horn/Seifried 2019, S. 22
 
 Abbildung 7 Findeisen/Horn/Seifried 2019, S. 23
 
-Als einflußreich ergaben sich die Gestaltungsmerkmale „Interaktion", „Perspektive",
+Als einflußreich ergaben sich die Gestaltungsmerkmale „Interaktion, „Perspektive,
 „Alter“, „Dauer“ und „Design“ (vgl. Findeisen et al., 2019, S. 30). Da
 es sich um eine Auswertung empirischer Studien handelt, ist diese Arbeit
 von besonderem Interesse, da sie durch die Empirie einerseits besonders
@@ -272,16 +272,16 @@ Aus Abbildung 2 und Abbildung 3 werden alle Kriterien übernommen.
 
 Aus Abbildung 4 werden alle Kriterien der Kategorie Kognitive Last
 übernommen. In der Kategorie Studentisches Engagement entfällt das
-Kriterium „Relevanz zum Kurs betonen", da kein formales Lernsetting im
+Kriterium „Relevanz zum Kurs betonen, da kein formales Lernsetting im
 Sinne einer Vorlesung vorliegt. In der Kategorie Aktives Lernen entfällt
-das Kriterium „Interaktive Fragen", da solche Möglichkeiten bei einem
+das Kriterium „Interaktive Fragen, da solche Möglichkeiten bei einem
 YouTube-Video im Gegensatz zu einem Learning-Management-System nicht
 bestehen.
 
 Aus Abbildung 5, Abbildung 6 und Abbildung 7 werden zunächst nur die
 bereits genannten in der Gesamtschau der empirischen Studien wirksamen
-Gestaltungselemente aufgenommen: „Interaktion", „Alter", „Dauer“ und
-„Design". Das Gestaltungselement „Perspektive“ entfällt, da in
+Gestaltungselemente aufgenommen: „Interaktion, „Alter, „Dauer“ und
+„Design. Das Gestaltungselement „Perspektive“ entfällt, da in
 3Blue1Brown-Videos keine Handlung demonstriert wird und die Zuschauenden
 nicht im Video zu sehen sind. „Interaktion“ überschneidet sich mit dem
 oben ausgeschlossenen Kriterium der „Interaktiven Fragen“ bei Brame,
@@ -317,7 +317,7 @@ Auswertung der 3Blue1Brown-Videos zugrundegelegt.
 |K12     |Aufgabe                  |Eigene Bearbeitung durch Rezipienten durch „Hausaufgabe“ fördern|
 |K13     |Direkte Ansprache        |z.B. durch Fragen an Rezipienten|
 |K14     |Exkurse vermeiden        |Auf eine Kernidee fokussieren|
-|K15     |Sprachliche Kohärenz     |Verwendung von Satz(teil)-Verbindungen wie „weil"|
+|K15     |Sprachliche Kohärenz     |Verwendung von Satz(teil)-Verbindungen wie „weil|
 |K16     |Konzepte und Prinzipien  |Thema des Videos: neues Prinzip, das relativ komplex ist|
 |K17     |Signalisierung           |Wichtige Elemente besonders hervorheben, beispielsweise farblich|
 |K18     |Segmentierung            |Kurze Videos, weniger als 6 Minuten Dauer; anspringbare Kapitel|
@@ -353,7 +353,7 @@ könnten.
 ## Anwendung der Theorie
 
 Die 3Blue1Brown-Videos sind Medien. Sie erklären mathematische
-Sachverhalte, die zu allen Zeiten „in der Welt existieren", und auch vor
+Sachverhalte, die zu allen Zeiten „in der Welt existieren, und auch vor
 ihrer Entdeckung durch Mathematiker bereits existierten. Ebenso ist ein
 wahres mathematisches Theorem nicht in seinem Bestand gefährdet,
 innerhalb seines Definitions- und Geltungsbereichs wird es auch in
@@ -361,7 +361,7 @@ Zukunft wahr bleiben. Diese Geltung ist also nicht kontingent, ob
 Sanderson ein Video zum Thema produziert oder nicht, spielt keine Rolle.
 Die Handlung des Produzierens erschafft jedoch das konkrete Video in
 genau dieser Form, ohne Sandersons Handlung wäre seine Existenz
-undenkbar. Genau diese Trennung „Sanderson produziert ein Video"
+undenkbar. Genau diese Trennung „Sanderson produziert ein Video
 (Genese) und „die Lineare Algebra funktioniert genau so“ (Geltung) macht
 die Medieneigenschaft des Erklärvideos aus.
 
@@ -398,7 +398,7 @@ Abbildung 11 [ELA03], Zeitstempel 04:10
 3Blue1Brown-Videos sind auch ein gutes Beispiel für die Prinzipien der
 Kognitiven Theorie Multimedialen Lernens: neben den programmierten
 Animationen wird eine Erläuterung des Gezeigten gesprochen (vgl.
-„zeitliches Kontinuitätsprinzip", Schmidt-Borcherding, 2020, S. 67). Ein
+„zeitliches Kontinuitätsprinzip, Schmidt-Borcherding, 2020, S. 67). Ein
 Beispiel ist in [ELA03], Zeitstempel 08:01 bis 08:21 zu finden, wo der
 gesprochene Text sich nur teilweise schriftlich im Bild wiederfindet,
 sondern tatsächlich zusätzliche Information gegeben wird, die durch die
@@ -413,11 +413,11 @@ konkrete Eigenschaften bereit, die ein Erklärvideo erfüllen könnte,
 sondern sie führt zur Aufnahme von motivationalen und affektiven
 Aspekten in den Kriterienkatalogen. Aus Kriterium K26 kann dann
 beispielsweise „Positive Emotionen“ herausgegriffen und anhand der „pi
-creatures" gezeigt werden. „Pi creatures“ sind von Sanderson genutzte
+creatures gezeigt werden. „Pi creatures“ sind von Sanderson genutzte
 Charaktere in Form farbiger Pi-Symbole (siehe Abbildung 13) mit Mimik
 und Gestik, um Emotionen mit mathematischen Ergebnissen zu verbinden
 („having character in some capacity expressing emotion in response to
-mathematical results is pedagogically beneficial", [PI], Zeitstempel
+mathematical results is pedagogically beneficial, [PI], Zeitstempel
 11:50).
 
 ![image13](image13.png)
@@ -454,7 +454,7 @@ Medienform zu untersuchen, ob eine minimalistische Umsetzung erfolgt
 ist. Vorliegend kann dies bejaht werden. Es gibt höchstens in den
 letzten Sekunden des Videos kurze melodische Untermalungen, ansonsten
 keine Hintergrundmusik, Geräusche nur aus Effektgründen oder weitere
-auditive „Störungen". Visuell sind die Videos schlicht und reduziert
+auditive „Störungen. Visuell sind die Videos schlicht und reduziert
 gehalten, die Hintergründe sind schwarz und leer, Sanderson zeigt sich
 selbst nicht, womit auch diese Quelle von Bewegung und Ablenkung
 wegfällt (siehe Abbildung 14).
@@ -528,12 +528,12 @@ bedeutungsvolle Darstellung eingesetzt werden. Nichtsdestoweniger sind
 stärkere multimediale Anteile weiterhin denkbar, so ist abgesehen von
 dem „Jingle“ in [ELA15] keine besondere Audionutzung jenseits des
 gesprochenen Worts im Einsatz. Zu beachten ist in dieser Hinsicht aber
-das Spannungsfeld zu K01 „Minimalismus".
+das Spannungsfeld zu K01 „Minimalismus.
 
 ### Sprachebene
 
 Sanderson verwendet durchgängig Fachsprache, er schreckt auch vor
-Symbolen wie ĵ („j hat") oder dem Wort „Parallelepiped“ nicht zurück.
+Symbolen wie ĵ („j hat) oder dem Wort „Parallelepiped“ nicht zurück.
 
 ![image15](image15.png)
 
@@ -586,7 +586,7 @@ Robotik eine grundlegende Rolle spielen.
 
 ### Interesse wecken
 
-Diese Kriterium fällt beim vorliegenden Thema „Lineare Algebra"
+Diese Kriterium fällt beim vorliegenden Thema „Lineare Algebra
 annähernd mit dem vorherigen Kriterium zusammen. Tatsächlich konnte über
 K10 hinaus keine Fundstelle für dieses Kriterium K11 identifiziert
 werden.
@@ -595,7 +595,7 @@ werden.
 
 Aufgaben im Sinne von Hausaufgaben mit klarer Aufforderung, sie zu
 bearbeiten, gibt es in der Videoreihe nicht. Vereinzelt stellt Sanderson
-„Puzzles" oder weiterführende Aufgaben (Abbildung 19), blendet sie aber
+„Puzzles oder weiterführende Aufgaben (Abbildung 19), blendet sie aber
 nur kurz ein.
 
 ![image19](image19.png)
@@ -641,7 +641,7 @@ Dieses Kriterium wurde in der Literatur enger gefaßt, als die
 Video zu behandeln und dieses angemessen zu Beginn vorzustellen. Die
 Essence-of-Linear-Algebra-Reihe behandelt im wesentlichen auch
 tatsächlich nur ein Thema pro Video, diese Themen sind größere Konzepte,
-die sich in jedem „Undergraduate"-Lineare-Algebra-Buch direkt im
+die sich in jedem „Undergraduate-Lineare-Algebra-Buch direkt im
 Inhaltsverzeichnis als Kapitel wiederfinden. Sanderson nimmt sich häufig
 einige Minuten Zeit, dieses Thema in den Kontext der vorigen oder
 teilweise auch erst später folgenden Videos der Reihe zu stellen.
@@ -660,11 +660,11 @@ Die Essence-of-Linear-Algebra-Videos sind deutlich länger als die
 empfohlenen 6 Minuten aus K18, die Laufzeit schwankt zwischen knapp neun
 Minuten und über 17 Minuten. Zwei Videos erfüllen diese
 Laufzeitempfehlung, nämlich [ELA05] und [ELA08]. Beide werden als
-„footnote between chapters" eingeführt.
+„footnote between chapters eingeführt.
 
 Die Empfehlung, anspringbare Kapitel bereitzustellen, ist doppelt
 erfüllt: die Videos der Reihe sind selbst Kapitel (und auch als
-„Chapter" bezeichnet), darüber hinaus sind die Videos in sich wiederum
+„Chapter bezeichnet), darüber hinaus sind die Videos in sich wiederum
 in „YouTube-Chapters“ segmentiert, die direkt angesprungen werden können
 und ein Thumbnail als Vorschau bereitstellen.
 
@@ -688,14 +688,14 @@ bereits erörtert.
 
 Es sind zahlreiche Beispiele für die Verwendung umgangssprachlicher
 Begriffe, aber insbesondere auch der Verwendung der Personalpronomina
-„ich" und „du“ in den Videos zu finden. Der Verfasser hat in Anhang C
+„ich und „du“ in den Videos zu finden. Der Verfasser hat in Anhang C
 knapp 50 Videostellen dokumentiert, aber keine Vollständigkeit
 angestrebt.
 
 ### Sprechen
 
 Sanderson spricht relativ zügig. Enthusiasmus dringt immer wieder durch,
-so sind „isn't that a beautiful mental image“ ([ELA02], Zeitstempel
+so sind „isnt that a beautiful mental image“ ([ELA02], Zeitstempel
 06:52) und „To me this is utterly beautiful“ ([ELA09, Zeitstempel
 12:10) deutliche Zeichen seiner Liebe zum Fach.
 
@@ -730,11 +730,11 @@ kann nicht mehr dazu gesagt werden.
 ### Design
 
 Positive Emotionen werden sowohl durch die als niedlich empfundenen „Pi
-creatures" (s.o.) geweckt, aber insbesondere auch durch Sandersons
+creatures (s.o.) geweckt, aber insbesondere auch durch Sandersons
 Emotionalität im Sprechen. Neben den in Kapitel 4.2.22 genannten
 Beispielen, in denen er Sachverhalte als „beautiful“ bezeichnet, finden
 sich auch bewundernd-kommentierende Äußerungen wie „Now for the cool
-part..." ([ELA11, Zeitstempel 09:21). Mit knapp 20 Vorkommen des
+part... ([ELA11, Zeitstempel 09:21). Mit knapp 20 Vorkommen des
 Kriteriums K26 in den Fundstellen zeigt sich eine angemessene
 Emotionalität; im Schnitt knapp über ein Vorkommen pro Video. Dies
 bewahrt die angestrebte Ernsthaftigkeit, färbt die Reihe aber dennoch
@@ -752,7 +752,7 @@ der Lerner sowie der technischen Umsetzung des Videoplayers.
 Dennoch ergibt die Auswertung des aufgestellten Kriterienkatalogs, daß
 Sanderson die meisten Qualitätskriterien konsistent erfüllt und nur in
 Einzelfällen gegen Qualitätskriterien verstößt. Der Hauptverstoß besteht
-darin, daß das Kriterium K02 („Erst Prinzip, dann Veranschaulichung")
+darin, daß das Kriterium K02 („Erst Prinzip, dann Veranschaulichung)
 konsequent mißachtet wird, wie oben bereits diskutiert wurde.
 
 Interesse wecken und Relevanz darstellen kommt ebenfalls zu kurz. Zwar
@@ -881,7 +881,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |ELA09 |[Dot products and duality](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=9)|
 |ELA10 |[Cross products](https://www.youtube.com/watch?v=eu6i7WJeinw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)|
 |ELA11 |[Cross products in the light of linear transformations](https://www.youtube.com/watch?v=BaM7OCEm3G0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=11)|
-|ELA12 |[Cramer's rule, explained geometrically](https://www.youtube.com/watch?v=jBsC34PxzoM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=12)|
+|ELA12 |[Cramers rule, explained geometrically](https://www.youtube.com/watch?v=jBsC34PxzoM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=12)|
 |ELA13 |[Change of basis](https://www.youtube.com/watch?v=P2LTAUO1TdA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=13)|
 |ELA14 |[Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)|
 |ELA15 |[A quick trick for computing eigenvalues](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)|
@@ -898,23 +898,23 @@ Suhrkamp Verlag; Frankfurt am Main.
 
 |Beginn  |Ende   |Kriterium    |Kommentar|
 |--------|-------|-------------|----------------------------------------|
-|00:15   |       |K13          |"make sure we're all on the same page"|
+|00:15   |       |K13          |make sure were all on the same page|
 |        |       |K21          || 
-|00:20   |       |K13          |"you see"|
+|00:20   |       |K13          |you see|
 |        |       |K21          ||
-|02:00   |       |K21          |"let's just settle in"|
+|02:00   |       |K21          |lets just settle in|
 |        |       |K13          || 
-|00:25   |00:30  |K10          |the Physics student perspective, the Computer Science student perspective and the mathematician's perspective|
+|00:25   |00:30  |K10          |the Physics student perspective, the Computer Science student perspective and the mathematicians perspective|
 |        |       |K16||           
 |        |       |K03||           
 |        |       |K07          |Pfeil, Matrix/Liste, Symbol|
-|01:40   |       |**-K02**     |"vectors can be anything"[^1]|
+|01:40   |       |**-K02**     |vectors can be anything[^1]|
 |        |       |K20          ||
 |        |       |K22          || 
 | 02:00  | 02:20 | K23       | “think of vector as arrow”                                                                                                                                |
 |        |       | **-K02**      | erst konkrete Ausprägung                                                                                                                                  |
 |        |       | K13       |                                                                                                                                                           |
-| 02:20  | 02:22 | K22       | schnell, ausgeprägte Prosodie: "a liiitttle bit different", angenehme Stimme                                                                               |
+| 02:20  | 02:22 | K22       | schnell, ausgeprägte Prosodie: a liiitttle bit different, angenehme Stimme                                                                               |
 | 02:19  | 02:24 | K03       | “a little bit different from the Physics student perspective where vectors can freely sit anywhere they want in space”                                    |
 |        |       | K20       | Pfeil im Bild verschiebt sich, Sprache beschreibt parallel und fügt hinzu Unterschied zu Lineare Algebra                                                  |
 | 02:41  | 02:52 | K03       | Koordinatensystem wiederholt, obwohl vielen bekannt                                                                                                       |
@@ -947,12 +947,12 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                                                           |
 |        |       | K20       |                                                                                                                                                           |
 |        |       | K17       | Komponenten in verschiedenen Farben, Vektoren in verschiedenen Farben                                                                                     |
-| 07:27  |       | K07       | Begriffe “scaling", "scalar”                                                                                                                              |
+| 07:27  |       | K07       | Begriffe “scaling, scalar”                                                                                                                              |
 |        |       | K16       | Konzept: “scalar” entspricht einer Zahl                                                                                                                   |
 | 08:06  |       | K20       | komponentenweise Multiplikation farbig und animiert: 2 wandert in Komponente                                                                              |
 |        |       | K26       |                                                                                                                                                           |
 |        |       | K06       |                                                                                                                                                           |
-| 08:10  |       | K09       | “you'll see in the following videos what I mean when I say" "and I'll talk more in the [last] video about..." "in truth”                                  |
+| 08:10  |       | K09       | “youll see in the following videos what I mean when I say and Ill talk more in the [last] video about... in truth”                                  |
 | 08:50  | 09:11 | K04       | data analyst anderer Blick als physicists (Raum beschreiben)                                                                                              |
 | 09:12  |       | K04       | Sandersons Animationen beruhen auf Linearer Algebra                                                                                                       |
 | 09:28  |       | K09       | Vektorgrundlagen, als nächsten span, lineare Abhängigkeit                                                                                                 |
@@ -963,7 +963,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 00:12  | 00:25 | K09       | Rückblick auf letztes Video                                                                                                            |
 | 00:24  | 00:28 | K13       | “already familiar to a lot of you”                                                                                                     |
 |        |       | K21       |                                                                                                                                        |
-| 00:28  |       | K16       | “there's another kind of interesting way to think about these coordinates, which is pretty central to linear algebra”                  |
+| 00:28  |       | K16       | “theres another kind of interesting way to think about these coordinates, which is pretty central to linear algebra”                  |
 |        |       | K17       |                                                                                                                                        |
 | 00:38  | 00:39 | K21       | “I want to think about...”                                                                                                             |
 |        |       | K23       |                                                                                                                                        |
@@ -996,7 +996,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 03:29  | 04:00 | K06       | animiert zeigen: linear unabhängig, linear abhängig, beide Vektoren Null                                                               |
 |        |       | K16       |                                                                                                                                        |
 |        |       | K08       |                                                                                                                                        |
-| 04:01  |       | K07       | "Here's some more terminology": span etc.                                                                                              |
+| 04:01  |       | K07       | Heres some more terminology: span etc.                                                                                              |
 |        |       | K08       |                                                                                                                                        |
 | 04:46  |       | K07       | Vektoren vs. Punkte                                                                                                                    |
 |        |       | K05       |                                                                                                                                        |
@@ -1011,7 +1011,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K17       |                                                                                                                                        |
 | 06:26  |       | K21       | “you can kind of imagine...”                                                                                                           |
 |        |       | K13       |                                                                                                                                        |
-| 06:52  |       | K13       | “isn't that a beautiful mental image?”                                                                                                 |
+| 06:52  |       | K13       | “isnt that a beautiful mental image?”                                                                                                 |
 |        |       | K22       |                                                                                                                                        |
 | 06:55  |       | K23       | “what happens if we add a third vector?”                                                                                               |
 |        |       | K13       |                                                                                                                                        |
@@ -1036,7 +1036,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K23       | Hinweis auf zentrales Prinzip, das jeder kennen soll: Lineare Abbildungen                                                                                            |
 | 00:27  |       | K09       | Dieses Video: wie sieht lineare Abbildung aus und was hat das mit Matrizen zu tun? Matrixmultiplikation ohne Auswendiglernen                                         |
 |        |       | K16       |                                                                                                                                                                       |
-| 00:44  |       | K21       | “let's just parse this term 'linear transformation'”                                                                                                                 |
+| 00:44  |       | K21       | “lets just parse this term linear transformation”                                                                                                                 |
 |        |       | L13       |                                                                                                                                                                       |
 | 00:47  |       | K08       | warum Abbildung statt Funktion                                                                                                                                       |
 | 01:02  | 02:25 | K05       | Analogie: Bewegung von Vektoren/Punkten, grid, Verformung                                                                                                             |
@@ -1044,7 +1044,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K17       |                                                                                                                                                                       |
 |        |       | K06       |                                                                                                                                                                       |
 | 01:42  |       | K09       | Rückverweis zu letztem Video                                                                                                                                         |
-| 02:15  | 02:22 | K13       | “you've gotta admit”                                                                                                                                                 |
+| 02:15  | 02:22 | K13       | “youve gotta admit”                                                                                                                                                 |
 |        |       | K21       |                                                                                                                                                                       |
 | 02:32  | 03:16 | K07       | Begriff „lineare“ Abbildung, was bedeutet linear hier?                                                                                                               |
 |        |       | K08       |                                                                                                                                                                       |
@@ -1069,11 +1069,11 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                                                                       |
 | 06:48  |       | K05       | Matrixmultiplikation mit Transformation der Basisvektoren vergleichen                                                                                                |
 | 06:55  | 07:48 | **-K02**      | verallgemeinert zu Variablen a, b, c, d                                                                                                                              |
-|        |       | K13       | “Let's see what that looks like...”                                                                                                                                  |
-|        |       | K21       | “Any ol' vector”                                                                                                                                                     |
-| 07:48  |       | K22       | “But, isn't it more fun...”                                                                                                                                          |
+|        |       | K13       | “Lets see what that looks like...”                                                                                                                                  |
+|        |       | K21       | “Any ol vector”                                                                                                                                                     |
+| 07:48  |       | K22       | “But, isnt it more fun...”                                                                                                                                          |
 |        |       | K13       |                                                                                                                                                                       |
-| 08:01  |       | K13       | “Let's practice”                                                                                                                                                     |
+| 08:01  |       | K13       | “Lets practice”                                                                                                                                                     |
 |        |       | K04       | Rotation, Scherung                                                                                                                                                   |
 | 09:05  | 09:45 | K12       | “Pause, and take a moment to see...”                                                                                                                                |
 |        |       | (K24)     |                                                                                                                                                                       |
@@ -1093,7 +1093,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                                  |
 |        |       | K17       | Komposition hat beide Farben                                                                                                     |
 | 02:26  |       | K07       | Begriff „Komposition“                                                                                                            |
-| 03:04  |       | K05       | “Here's one way to think about that new matrix.”                                                                                 |
+| 03:04  |       | K05       | “Heres one way to think about that new matrix.”                                                                                 |
 |        |       | K08       | Produkt zweier Matrizen                                                                                                          |
 | 04:31  | 05:57 | K04       | weiteres Beispiel                                                                                                                |
 |        |       | K08       | Matrizen mit konkreten Zahlen: M1 und M2, Multiplikationsregel herleiten, Gleichungen umformen                                    |
@@ -1110,7 +1110,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 08:14  | 09:30 | K13       | “Notice! By thinking in terms of transformations...”                                                                             |
 | 08:22  |       | K21       | “I remember, when I first took Linear Algebra”                                                                                   |
 |        |       | K07       | Begriff „Assoziativität“                                                                                                         |
-| 08:48  |       | K21       | “Now, if you try to work through this numerically, like I did back then, it's horrible, just horrible.”                          |
+| 08:48  |       | K21       | “Now, if you try to work through this numerically, like I did back then, its horrible, just horrible.”                          |
 |        |       | K22       |                                                                                                                                  |
 | 09:04  |       | K23       | “Can you see why?”                                                                                                               |
 |        |       | K13       |                                                                                                                                  |
@@ -1168,14 +1168,14 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 02:50  | 03:30 | K04       | Beispiele für konkrete Determinanten                                                                                      |
 |        |       | K06       |                                                                                                                           |
 |        |       | K17       |                                                                                                                           |
-| 03:32  |       | K09       | “You'll see in the next few videos...”                                                                                    |
+| 03:32  |       | K09       | “Youll see in the next few videos...”                                                                                    |
 | 03:43  |       | K21       | “I need to confess...”                                                                                                    |
 |        |       | K26       | pi creature                                                                                                               |
 | 03:55  | 06:43 | K07       | Begriff „Orientierung“                                                                                                    |
 |        |       | K16       |                                                                                                                           |
 |        |       | K06       |                                                                                                                           |
 |        |       | K17       |                                                                                                                           |
-| 05:25  |       | K13       | “Doesn't it feel natural...”                                                                                              |
+| 05:25  |       | K13       | “Doesnt it feel natural...”                                                                                              |
 | 06:44  |       | K13       | “Those of you who watched chapter 2...”                                                                                   |
 |        |       | K03       |                                                                                                                           |
 | 06:53  |       | K23       | “Can you see why?”                                                                                                        |
@@ -1191,7 +1191,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 08:37  |       | K08       | geometrische Herleitung der Determinantenformel                                                                           |
 |        |       | K06       |                                                                                                                           |
 |        |       | K17       |                                                                                                                           |
-| 09:19  |       | K12       | “Here's kind of a fun question to think about”                                                                            |
+| 09:19  |       | K12       | “Heres kind of a fun question to think about”                                                                            |
 | 09:42  |       | K09       | Vorschau auf folgendes Video                                                                                              |
 
 
@@ -1203,7 +1203,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K13       |                                                                                                                         |
 | 00:20  |       | K07       | Konzepte: inverse matrices, column space, rank, null space                                                              |
 |        |       | K16       |                                                                                                                         |
-|        |       | K09       | “I'm not gonna talk about the methods for actually computing these things.”                                             |
+|        |       | K09       | “Im not gonna talk about the methods for actually computing these things.”                                             |
 | 00:42  |       | K21       | “I think most of the value that I actually have to add here is on the intuition”                                       |
 | 00:52  | 03:00 | K10       | Usefulness of matrices: Computergraphik, Robotik, allgemein: Gleichungssysteme lösen                                    |
 |        |       | K17       |                                                                                                                         |
@@ -1211,7 +1211,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K08       | Lineares Gleichungssystem, Nullkoeffizienten                                                                            |
 | 02:05  |       | K07       | Begriff „Lineares Gleichungssystem“                                                                                     |
 | 02:08  |       | K13       | “You might notice that...”                                                                                              |
-| 03:01  | 03:14 | K13       | “Think about what's happening here”                                                                                     |
+| 03:01  | 03:14 | K13       | “Think about whats happening here”                                                                                     |
 |        |       | K23       |                                                                                                                         |
 |        |       | K16       | mehrere Gleichungen können zurückgeführt werden auf Verzerrung des Raums und Abbildung von Vektoren                     |
 |        |       | K17       |                                                                                                                         |
@@ -1221,9 +1221,9 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                         |
 |        |       | K17       |                                                                                                                         |
 | 03:42  |       | K03       | “In the language of the last video”                                                                                     |
-| 03:51  | 05:39 | K21       | “Let's start with the most likely case...”                                                                              |
+| 03:51  | 05:39 | K21       | “Lets start with the most likely case...”                                                                              |
 | 04:45  |       | **-K02**      | “In general...”                                                                                                         |
-|        |       | K07       | “A inverse is...", "identity transformation”                                                                            |
+|        |       | K07       | “A inverse is..., identity transformation”                                                                            |
 | 05:21  |       | K21       | “Once you find this inverse...”                                                                                         |
 | 05:40  | 07:44 | K08       | Anzahl Lösungen                                                                                                         |
 |        |       | K06       |                                                                                                                         |
@@ -1233,7 +1233,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K08       |                                                                                                                         |
 |        |       | K06       |                                                                                                                         |
 |        |       | K17       |                                                                                                                         |
-| 08:03  | 08:28 | K07       | “We have some language...": "rank”                                                                                      |
+| 08:03  | 08:28 | K07       | “We have some language...: rank”                                                                                      |
 |        |       | K06       |                                                                                                                         |
 |        |       | K17       |                                                                                                                         |
 | 08:29  | 08:55 | K04       | Beispiele                                                                                                               |
@@ -1241,7 +1241,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 08:56  |       | K07       | Begriff: “column space”                                                                                                 |
 |        |       | K06       |                                                                                                                         |
 |        |       | K17       |                                                                                                                         |
-| 09:04  |       | K21       | "You can probably guess where that name comes from".                                                                    |
+| 09:04  |       | K21       | You can probably guess where that name comes from.                                                                    |
 | 09:39  |       | K13       | “Notice...”                                                                                                             |
 | 09:47  | 10:56 | K07       | Begriff “null space”, “kernel”                                                                                          |
 |        |       | K06       |                                                                                                                         |
@@ -1264,7 +1264,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                |
 |        |       | K17       |                                                                                                |
 | 01:07  | 01:21 | K16       | Erklärung, warum Transformation nicht animiert in einer Grafik statt in zwei                   |
-| 01:21  |       | K03       | “really the same thing as we've done before”                                                   |
+| 01:21  |       | K03       | “really the same thing as weve done before”                                                   |
 |        |       | K21       |                                                                                                |
 | 01:48  |       | K13       | “Notice...”                                                                                    |
 |        |       | K06       |                                                                                                |
@@ -1284,7 +1284,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                                                                |
 |        |       | K17       |                                                                                                                                                                |
 |        |       | K02       | erst Regel, dann konkrete Zahlen                                                                                                                               |
-| 02:33  |       | K13       | “doesn't that feel like a very different process?”                                                                                                             |
+| 02:33  |       | K13       | “doesnt that feel like a very different process?”                                                                                                             |
 | 03:57  |       | K16       | welcher Zusammenhang zwischen numerischem Prozeß und geometrischer Interpretation?                                                                             |
 |        |       | K06       |                                                                                                                                                                |
 |        |       | K17       |                                                                                                                                                                |
@@ -1295,8 +1295,8 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 04:50  | 05:19 | K05       | statt formeller Definition: äquivalente graphische Eigenschaft                                                                                                  |
 |        |       | K06       |                                                                                                                                                                |
 |        |       | K17       |                                                                                                                                                                |
-| 05:20  |       | K03       | “as with the cases we've seen before”                                                                                                                          |
-| 05:42  |       | K04       | “let's walk through an example”                                                                                                                                |
+| 05:20  |       | K03       | “as with the cases weve seen before”                                                                                                                          |
+| 05:42  |       | K04       | “lets walk through an example”                                                                                                                                |
 |        |       | K13       |                                                                                                                                                                |
 |        |       | K06       |                                                                                                                                                                |
 |        |       | K17       |                                                                                                                                                                |
@@ -1307,10 +1307,10 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 07:18  | 10:33 | K04       | Beispiel                                                                                                                                                       |
 |        |       | K06       |                                                                                                                                                                |
 |        |       | K17       |                                                                                                                                                                |
-| 07:29  |       | K21       | “What I'm gonna do here is...”                                                                                                                                |
+| 07:29  |       | K21       | “What Im gonna do here is...”                                                                                                                                |
 | 07:45  |       | K23       | besondere Wichtigkeit eines gezeigten Elements für das folgende herausgestellt                                                                                 |
 |        |       | K13       |                                                                                                                                                                |
-| 08:59  |       | K22       | “This part's super cool...”                                                                                                                                    |
+| 08:59  |       | K22       | “This parts super cool...”                                                                                                                                    |
 | 10:34  |       | K04       | weiteres Beispiel                                                                                                                                              |
 |        |       | K06       |                                                                                                                                                                |
 |        |       | K17       |                                                                                                                                                                |
@@ -1336,7 +1336,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |--------|-------|-----------|------------------------------------------------------------------------------------------------------------------------------|
 | 00:09  |       | K09       | Rückblick auf letztes Video                                                                                                  |
 | 00:18  | 00:40 | K09       | Vorschau auf dieses und kommende Video: ähnliche Struktur wie letztes Video                                                  |
-| 00:41  |       | K21       | “We'll start in 2 dimensions.”                                                                                               |
+| 00:41  |       | K21       | “Well start in 2 dimensions.”                                                                                               |
 |        |       | K08       |                                                                                                                              |
 |        |       | K06       |                                                                                                                              |
 |        |       | K17       |                                                                                                                              |
@@ -1345,7 +1345,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 01:29  |       | K13       | “Notice! This means that order matters.”                                                                                     |
 | 02:03  |       | K04       | Beispiel                                                                                                                     |
 |        |       | K02       | zuvor allgemeine Rechenregel, nun Beispiel                                                                                   |
-| 02:04  |       | K13       | “I'll just tell you...”                                                                                                      |
+| 02:04  |       | K13       | “Ill just tell you...”                                                                                                      |
 |        |       | K21       |                                                                                                                              |
 | 02:16  |       | K23       | Wie berechnen?                                                                                                               |
 |        |       | K26       | pi creature                                                                                                                  |
@@ -1372,7 +1372,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 06:09  |       | K04       | Beispiel                                                                                                                     |
 |        |       | K06       |                                                                                                                              |
 |        |       | K17       |                                                                                                                              |
-| 06:46  |       | K08       | "For more general computations...", mit Variablen statt konkreten Zahlen gezeigt                                             |
+| 06:46  |       | K08       | For more general computations..., mit Variablen statt konkreten Zahlen gezeigt                                             |
 |        |       | **-K02**      |                                                                                                                              |
 |        |       | K06       |                                                                                                                              |
 |        |       | K17       |                                                                                                                              |
@@ -1387,7 +1387,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | Beginn | Ende  | Kriterium | Kommentar                                                                                                                              |
 |--------|-------|-----------|----------------------------------------------------------------------------------------------------------------------------------------|
 | 00:16  | 01:50 | K09       | Rückblick auf letztes Video                                                                                                           |
-|        |       | K21       | “Hey folks!", "those guys", "funky”                                                                                                   |
+|        |       | K21       | “Hey folks!, those guys, funky”                                                                                                   |
 |        |       | K13       |                                                                                                                                        |
 | 01:51  | 03:06 | K03       | Verweis auf vorherige Videos zu Determinante und Dualität des Skalarprodukts, kurze Wiederholung                                      |
 |        |       | K09       |                                                                                                                                        |
@@ -1396,16 +1396,16 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                                        |
 |        |       | K17       |                                                                                                                                        |
 |        |       | K22       | “definitely worth it”                                                                                                                  |
-| 03:13  | 12:47 | K09       | “The Plan", "What I'm gonna do...”                                                                                                     |
+| 03:13  | 12:47 | K09       | “The Plan, What Im gonna do...”                                                                                                     |
 |        |       | K08       |                                                                                                                                        |
 |        |       | K06       |                                                                                                                                        |
 |        |       | K17       |                                                                                                                                        |
 | 04:39  |       | K03       | “And, as you know from chapter 5...”                                                                                                   |
 |        |       | K13       |                                                                                                                                        |
-| 05:58  |       | K23       | “now, this might seem like a random thing to do.", "why are we doing this?”                                                            |
-| 06:20  |       | K12       | “I'll actually leave it to you to work through the details of why this is true...”                                                     |
+| 05:58  |       | K23       | “now, this might seem like a random thing to do., why are we doing this?”                                                            |
+| 06:20  |       | K12       | “Ill actually leave it to you to work through the details of why this is true...”                                                     |
 |        |       | K13       |                                                                                                                                        |
-| 07:32  |       | K21       | “let's dig in”                                                                                                                         |
+| 07:32  |       | K21       | “lets dig in”                                                                                                                         |
 | 09:21  |       | K26       | “Now for the cool part...”                                                                                                             |
 |        |       | K21       |                                                                                                                                        |
 | 09:37  |       | K23       | “What vector p... has the special property...?”                                                                                        |
@@ -1414,7 +1414,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 12:48  | 13:09 | K09       | Vorschau auf folgendes Video                                                                                                           |
 
 
-### [ELA12] Cramer's rule, explained geometrically
+### [ELA12] Cramers rule, explained geometrically
 
 | Beginn | Ende  | Kriterium | Kommentar                                                                                                                     |
 |--------|-------|-----------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -1436,7 +1436,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 05:42  | 10:47 | K08       | Erarbeitung der neuen Idee                                                                                                   |
 |        |       | K06       |                                                                                                                              |
 |        |       | K17       |                                                                                                                              |
-| 10:13  | 10:19 | K07       | Begriff “Cramer's Rule”                                                                                                      |
+| 10:13  | 10:19 | K07       | Begriff “Cramers Rule”                                                                                                      |
 | 10:47  | 11:50 | K12       | “...I highly recommend you pause and think through it yourself.”                                                             |
 |        |       | K13       |                                                                                                                              |
 |        |       | K24       |                                                                                                                              |
@@ -1454,7 +1454,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K21       |                                                                                                                              |
 | 01:36  | 03:23 | K05       | Beispiel                                                                                                                     |
 |        |       | K26       | pi creature mit Name „Jennifer“                                                                                              |
-| 02:22  |       | K09       | “in a little bit I'll show you...”                                                                                           |
+| 02:22  |       | K09       | “in a little bit Ill show you...”                                                                                           |
 | 02:26  |       | **-K02**  | “In general...”                                                                                                              |
 | 04:13  |       | K23       | wie zwischen Koordinatensystemen übersetzen?                                                                                 |
 | 04:18  | 05:58 | K05       | Beispiel                                                                                                                     |
@@ -1463,12 +1463,12 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 05:30  |       | K03       | Einblendung mit Erinnerung an Kapitel 3                                                                                      |
 |        |       | K09       |                                                                                                                              |
 | 05:59  | 06:42 | K05       |                                                                                                                              |
-|        |       | K13       | “let's walk through what it would mean”                                                                                      |
+|        |       | K13       | “lets walk through what it would mean”                                                                                      |
 | 06:44  |       | K21       | “I remember when I was first learning this, it always felt kind of backwards to me.”                                        |
 |        |       | K06       |                                                                                                                              |
 |        |       | K17       |                                                                                                                              |
 | 08:56  |       | K09       | Voraussetzungen: Lineare Abbildungen und Matrizenmultiplikation (Kapitel 3 und 4)                                           |
-|        |       | K13       | “...it's important that you...”                                                                                              |
+|        |       | K13       | “...its important that you...”                                                                                              |
 | 09:15  |       | K13       | “Consider...”                                                                                                                |
 |        |       | K08       |                                                                                                                              |
 |        |       | K17       |                                                                                                                              |
@@ -1517,7 +1517,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 05:28  |       | K08       | Berechnungsmöglichkeiten skizziert, Formelumwandlungen                                                                                                |
 |        |       | K06       |                                                                                                                                                       |
 |        |       | K17       |                                                                                                                                                       |
-| 07:14  | 09:35 | K09       | “And if you've watched chapters 5 and 6...”                                                                                                           |
+| 07:14  | 09:35 | K09       | “And if youve watched chapters 5 and 6...”                                                                                                           |
 |        |       | K13       |                                                                                                                                                       |
 | 09:37  | 10:48 | K08       | Beispiel von zuvor nocheinmal durchgearbeitet mit neuem Stoff                                                                                         |
 |        |       | K06       |                                                                                                                                                       |
@@ -1541,7 +1541,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K17       |                                                                                                                                                       |
 | 14:26  |       | K12       | “...try computing...”                                                                                                                                 |
 |        |       | K13       |                                                                                                                                                       |
-|        |       | K22       | “...it's a /nightmare/...” (prosodisch hervorgehoben)                                                                                                 |
+|        |       | K22       | “...its a /nightmare/...” (prosodisch hervorgehoben)                                                                                                 |
 |        |       | K21       |                                                                                                                                                       |
 | 14:57  |       | K09       | Erinnerung an letztes Video                                                                                                                           |
 |        |       | K03       |                                                                                                                                                       |
@@ -1572,7 +1572,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K06       |                                                                                                                                                                              |
 |        |       | K17       |                                                                                                                                                                              |
 |        |       | K08       |                                                                                                                                                                              |
-| 04:06  |       | K16       | “So let's wrap up what we just did in a general formula.”                                                                                                                    |
+| 04:06  |       | K16       | “So lets wrap up what we just did in a general formula.”                                                                                                                    |
 |        |       | **-K02**  |                                                                                                                                                                              |
 |        |       | K13       |                                                                                                                                                                              |
 | 04:42  |       | K26       | Jingle zum Merken einer Formel                                                                                                                                                |
@@ -1594,7 +1594,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K10       |                                                                                                                                                                              |
 |        |       | K06       |                                                                                                                                                                              |
 |        |       | K17       |                                                                                                                                                                              |
-| 07:55  | 10:25 | K13       | “If you're curious...”                                                                                                                                                        |
+| 07:55  | 10:25 | K13       | “If youre curious...”                                                                                                                                                        |
 |        |       | K10       | Bedeutung in Physik                                                                                                                                                           |
 |        |       | **-K14**  | recht ausführlich                                                                                                                                                             |
 | 10:05  |       | K12       | “...you might also enjoy pausing for a brief moment to confirm that...”                                                                                                       |
@@ -1613,7 +1613,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 
 | Beginn | Ende  | Kriterium | Kommentar                                                                                                                  |
 |--------|-------|-----------|----------------------------------------------------------------------------------------------------------------------------|
-| 00:17  |       | K09       | “I'd like to revisit...”                                                                                                   |
+| 00:17  |       | K09       | “Id like to revisit...”                                                                                                   |
 |        |       | K21       |                                                                                                                            |
 |        |       | K03       |                                                                                                                            |
 |        |       | K23       | “What are vectors?”                                                                                                        |
@@ -1649,7 +1649,7 @@ Suhrkamp Verlag; Frankfurt am Main.
 |        |       | K07       | formale Definition von Linearität                                                                                          |
 |        |       | K06       |                                                                                                                            |
 |        |       | K17       |                                                                                                                            |
-| 06:12  |       | K09       | “As you'll see in just a moment...”                                                                                        |
+| 06:12  |       | K09       | “As youll see in just a moment...”                                                                                        |
 |        |       | K13       |                                                                                                                            |
 | 06:18  |       | K10       | Anwendung der Linearität in der Ableitung (Analysis)                                                                       |
 |        |       | K04       |                                                                                                                            |
@@ -1666,9 +1666,9 @@ Suhrkamp Verlag; Frankfurt am Main.
 | 11:12  |       | K07       | Begriffe aus Linearer Algebra und äquivalente Begriffe aus Bereich der Funktionen                                          |
 | 11:57  |       | K13       | “Take a moment to imagine...”                                                                                              |
 |        |       | K24       |                                                                                                                            |
-| 12:15  |       | K07       | Begriff "vector spaces", Axiome                                                                                            |
+| 12:15  |       | K07       | Begriff vector spaces, Axiome                                                                                            |
 | 13:11  |       | K26       | Menge der pi creatures samt Operationen darauf als Vektorraum|
-|        |       | K21       | "crazy type of vector space"|
+|        |       | K21       | crazy type of vector space|
 |15:09   |       | **-K02**  | Empfehlung: erst konkret vorstellen, dann abstrakte Definition|
 
 

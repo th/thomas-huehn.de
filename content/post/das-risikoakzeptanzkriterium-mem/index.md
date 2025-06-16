@@ -1,9 +1,9 @@
 ---
-title: "Das Risikoakzeptanzkriterium MEM"
+title: Das Risikoakzeptanzkriterium MEM
 description: Ein älteres deutsches Maß zur Risikoreduktion
 date: 2020-09-19
-tags: ["Safety"]
-aliases: ["/2020/09/das-risikoakzeptanzkriterium-mem/"]
+tags: [Safety]
+aliases: [/2020/09/das-risikoakzeptanzkriterium-mem/]
 ---
 Die Minimale Endogene Mortalität ist ein relativ altes deutsches Risikoakzeptanzkriterium, das versucht, die Frage der Risikominderung auf feste Fundamente zu stellen.
 

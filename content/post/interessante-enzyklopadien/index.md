@@ -1,9 +1,9 @@
 ---
-title: "Interessante Enzyklopädien"
+title: Interessante Enzyklopädien
 date: 2020-07-26
-tags: ["Buch", "Systemtheorie"]
-aliases: ["/2020/07/interessante-enzyklopaedien/"]
-description: "Ungewöhnliche Enzyklopädien"
+tags: [Buch, Systemtheorie]
+aliases: [/2020/07/interessante-enzyklopaedien/]
+description: Ungewöhnliche Enzyklopädien
 ---
 Weil ich mich gerade etwas für Systemtheorie und Systems Thinking interessiere, hatte ich neulich die [„International Encyclopedia of Systems and Cybernetics“](https://en.wikipedia.org/wiki/International_Encyclopedia_of_Systems_and_Cybernetics) ausgeliehen. Diese ist ein wertvolles Werk, weil sie all die Begriffe, die in der Systemtheorie-Literatur (bis 2004) verwendet werden, definiert, einordnet und miteinander in Beziehung setzt.
 

@@ -1,10 +1,10 @@
 ---
-title: "The Forever War"
+title: The Forever War
 description: Rezension zum SciFi-ROman The Forever War
 date: 2013-01-20
 lastmod: 2014-03-16
-tags: ["Buch"]
-aliases: ["/2013/01/the-forever-war/"]
+tags: [Buch]
+aliases: [/2013/01/the-forever-war/]
 ---
 <em>The Forever War</em> von Joe Haldeman war ein Spontankauf für meinen Kindle.
 Einen Tag später kann ich sagen, es hat sich gelohnt. Aber der Reihe nach.
