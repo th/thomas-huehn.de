@@ -2,7 +2,7 @@
 title: "Seriennummern"
 description: Idee zur Kodierung und Darstellung von Seriennummern
 date: 2015-09-01
-tags: [Idee]
+tags: ["Idee"]
 aliases: ["/2015/09/seriennummern/"]
 ---
 ## Motivation

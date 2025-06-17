@@ -3,7 +3,7 @@ title: "Verlage als gesetzgebende Gewalt"
 description: Als der Gesetzgeber geschlampt hat…
 date: 2013-01-16
 lastmod: 2014-03-16
-tags: [Recht]
+tags: ["Recht"]
 aliases: ["/2013/01/gesetzgebende-verlage/"]
 ---
 Bei meinem Projekt „den Allgemeinen Teil des BGB wenigstens einmal komplett durchgelesen haben“, stieß ich auf ein paar nette Fußnoten in meiner weißen BGB-Ausgabe des dtv-Verlags.

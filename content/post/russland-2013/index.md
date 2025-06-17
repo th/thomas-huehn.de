@@ -3,7 +3,7 @@ title: "Rußlandurlaub"
 description: Impressionen aus dem Rußlandurlaub
 date: 2018-06-23
 lastmod: 2020-01-12
-tags: ['Rußland', 'Urlaub']
+tags: ["Rußland", "Urlaub"]
 favorite: true
 aliases: ["/2018/06/russland-2013/"]
 ---

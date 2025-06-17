@@ -2,7 +2,7 @@
 title: "Safety in der Karibik"
 description: Eine Fundstelle aus einem alten Buch zum Thema Sicherheit
 date: 2020-08-15
-tags: ['Safety", "Skurriles", "Zitat']
+tags: ["Safety", "Skurriles", "Zitat"]
 aliases: ["/2020/08/safety-in-der-karibik/"]
 ---
 Eine etwas makabre Interpretation von Safety beziehungsweise Arbeitssicherheit finden wir in einem Buch von 1844.

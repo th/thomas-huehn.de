@@ -2,7 +2,7 @@
 title: "Manchmal muß man loslassen"
 description: Rückblick auf mein Informatik- und COmputerlinguistikstudium
 date: 2021-09-11
-tags: [Studium]
+tags: ["Studium"]
 aliases: ["/2021/09/manchmal-muss-man-loslassen/"]
 ---
 Nächsten Monat ist es zwanzig Jahre her, daß ich mein Informatikstudium begonnen hatte. Übriggeblieben außer ein paar Bescheinigungen, einer gedruckten Studien- und Diplomarbeit sowie dem Diplomzeugnis waren aber immer noch ein paar Aktenordner mit Skripten, Übungsblättern, Mitschrieben und so.

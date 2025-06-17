@@ -3,7 +3,7 @@ title: "Einstellungen für eine neue DokuWiki-Installation"
 description: Konfiguration fürs DokuWiki
 date: 2018-08-12
 lastmod: 2019-01-01
-tags: ['Software", "Wiki']
+tags: ["Software", "Wiki"]
 aliases: ["/2018/08/einstellungen-dokuwiki/"]
 ---
 DokuWiki ist ein sehr feines, no-nonsense Wikisystem. Es bietet viele Features, sieht okay aus und braucht keine Datenbank (was das [Backup](/backup-dokuwiki-tarsnap/) trivial macht).

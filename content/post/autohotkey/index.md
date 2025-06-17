@@ -3,7 +3,7 @@ title: "AutoHotKey"
 description: Beispielkonfiguration für AutoHotKey
 date: 2018-08-12
 lastmod: 2019-12-08
-tags: [Software]
+tags: ["Software"]
 aliases: ["/2018/08/autohotkey/"]
 ---
 Ich verwende schon seit langem [AutoHotKey](https://www.autohotkey.com/), um wiederkehrende Aufgaben zu automatisieren oder Ärgernisse zu umschiffen.

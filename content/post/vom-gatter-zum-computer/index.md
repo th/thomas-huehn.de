@@ -2,7 +2,7 @@
 title: "Vom Gatter zum Computer"
 description: Der Aufbau einer kompletten Hardware- und Softwarehierarchie zu Lehrzwecken
 date: 2020-11-30
-tags: [Hardware]
+tags: ["Hardware"]
 aliases: ["/2020/11/vom-gatter-zum-computer/"]
 ---
 Das Verständnis dafür, wie ein Computer im Kern funktioniert, ist kein Allgemeinwissen.

@@ -2,7 +2,7 @@
 title: "Programmierte Animationen in mathematischen Erklärvideos"
 description: 'Entsprechen die 3Blue1Brown-Videos den Qualitäts- und Gestaltungskriterien, die in der Fachliteratur aufgestellt werden?'
 date: 2023-10-30
-tags: ['Bildungswissenschaft", "Studium", "Video']
+tags: ["Bildungswissenschaft", "Studium", "Video"]
 aliases: ["/2023/10/programmierte-animationen-in-mathematischen-erklaervideos/"]
 ---
 # Einleitung

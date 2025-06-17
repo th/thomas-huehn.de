@@ -2,7 +2,7 @@
 title: "Ein Start in Blender 3D"
 description: Ein Wochenende mit einem Anfängerkurs in der 3D-Software Blender
 date: 2020-11-15
-tags: ['Blender", "Software']
+tags: ["Blender", "Software"]
 favorite: true
 aliases: ["/2020/11/ein-start-in-blender-3d/"]
 ---

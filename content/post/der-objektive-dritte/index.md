@@ -3,7 +3,7 @@ title: "Der objektive Dritte"
 description: Der Aspekt des Erklärungsempfängers bei Willenserklärungen
 date: 2013-01-16
 lastmod: 2014-03-03
-tags: [Recht]
+tags: ["Recht"]
 aliases: ["/2013/01/der-objektive-dritte/"]
 ---
 Kürzlich war ich an einer Diskussion beteiligt, die ich ziemlich unergiebig fand, weil mein Gegenüber auf meine Argumente überhaupt nicht eingehen wollte und stattdessen immer nur seine, meiner Meinung nach wirklich abwegige, Ansicht wiederholte.
