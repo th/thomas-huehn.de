@@ -229,21 +229,22 @@ a.favitem {
 
 a.favitem:before {
     content: "★";
-    text-align: center;
+    position: absolute;
+    top: -16px;
+    left: -32px;
     color: black;
-    display: inline-block;
-    width: 1.5rem;
-    margin-left: -1.5rem;
+    font-size: 32px;
+    line-height: 1;
+    z-index: 1;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 a.favitem:hover:before {
-    transform: scale(1.05);
-}
-
-/* Add left margin and top padding to favorite item text to prevent overlap */
-a.favitem {
-    margin-left: 1rem;
-    padding-top: 0.25rem;
+    transform: scale(1.1);
 }
 
 @media (max-width: 600px) {
@@ -251,7 +252,7 @@ a.favitem {
         font-size: 24px;
         width: 24px;
         height: 24px;
-        top: -24px;
+        top: -12px;
         left: -24px;
     }
     
