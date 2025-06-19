@@ -1,5 +1,6 @@
 ---
 title: Gutachterstil in Hagen
+description: "Erfahrungsbericht von einer Präsenzveranstaltung zum Gutachtenstil an der FernUniversität."
 date: 2011-11-26
 tags:
   - Recht

@@ -1,5 +1,6 @@
 ---
 title: Gute Apps fürs iPad
+description: "Meine liebsten iPad-Apps."
 date: 2010-05-26
 tags:
   - Technik

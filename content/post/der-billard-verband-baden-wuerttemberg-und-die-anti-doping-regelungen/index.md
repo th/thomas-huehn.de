@@ -1,5 +1,6 @@
 ---
 title: Der Billard-Verband Baden-Württemberg und die Anti-Doping-Regelungen
+description: "Kritik an der Handhabung der Anti-Soping-Regeln im Amateur-Billard."
 date: 2007-08-11
 tags:
   - Sport

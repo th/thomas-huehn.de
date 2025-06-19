@@ -1,5 +1,6 @@
 ---
 title: Versammlungsfreiheit im Virtual Classroom
+description: "Erfahrungsbericht aus einer Online-Veranstaltung im Jura-Fernstudium."
 date: 2011-12-12
 tags:
   - Studium

@@ -1,5 +1,6 @@
 ---
 title: Schöne Kinderbücher – wunderschön illustriert
+description: "Meine kuratierte Liste herausragend illustrierter Kinderbücher."
 date: 2019-08-09
 tags:
   - Buch

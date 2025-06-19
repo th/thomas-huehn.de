@@ -1,5 +1,6 @@
 ---
 title: Die Ehepaarverschmelzung
+description: "Wenn Frischverheiratete ihre E-Mail-Adressen zusammenlegen."
 date: 2012-03-04
 tags:
   - Soziales

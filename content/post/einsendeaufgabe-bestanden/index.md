@@ -1,5 +1,6 @@
 ---
 title: Einsendeaufgabe bestanden
+description: "Erfolgserlebnis im Fernstudium: Erste bestandene Einsendeaufgabe."
 date: 2011-11-29
 tags:
   - Recht

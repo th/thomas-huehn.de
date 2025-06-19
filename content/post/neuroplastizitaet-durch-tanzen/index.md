@@ -1,5 +1,6 @@
 ---
 title: Neuroplastizität durch Tanzen
+description: "Tanzen hält geistig fit!"
 date: 2020-07-25
 tags:
   - Gehirn

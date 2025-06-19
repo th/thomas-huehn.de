@@ -1,5 +1,6 @@
 ---
 title: Verwirrende Normenbezeichnungen
+description: "Warum die Normennumerierung verwirren kann."
 date: 2025-06-07
 tags:
   - Recht

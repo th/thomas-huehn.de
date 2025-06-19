@@ -1,5 +1,6 @@
 ---
 title: Spiele für iPhone und iPad
+description: "Meine liebsten Spiele für iPhone und iPad.."
 date: 2019-01-25
 tags:
   - Spiele

@@ -1,5 +1,6 @@
 ---
 title: Europa bei Olympia
+description: "Europa ist ein Olympia-Riese."
 date: 2012-01-23
 tags:
   - Sport
