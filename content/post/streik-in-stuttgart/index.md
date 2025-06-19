@@ -1,8 +1,11 @@
 ---
 title: Streik in Stuttgart
 date: 2005-09-24
-tags: [Recht, Studium]
-aliases: [/artikel/streik-in-stuttgart/]
+tags:
+  - Recht
+  - Studium
+aliases:
+  - /artikel/streik-in-stuttgart/
 description: Streik an der Universität Stuttgart
 ---
 Nun habe ich mich entschlossen, doch mal über den „Streik“ und die Protestaktionen gegen Studiengebühren in Stuttgart zu bloggen. Das hatte ich nun schon länger vor.

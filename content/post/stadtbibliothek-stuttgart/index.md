@@ -1,7 +1,8 @@
 ---
 title: Stadtbibliothek Stuttgart
 date: 2018-06-22
-tags: [Bibliothek]
+tags:
+  - Bibliothek
 description: Ein Besuch in der hochgelobten neuen Stadtbibliothek Stuttgart
 ---
 ![](stabistuttgart01.jpg)

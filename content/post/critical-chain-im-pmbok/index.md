@@ -2,8 +2,10 @@
 title: Critical Chain im PMBOK
 description: Critical-Chain-Projektmanagement und die PMI
 date: 2020-10-04
-tags: [Projektmanagement]
-aliases: [/2020/10/critical-chain-im-pmbok/]
+tags:
+  - Projektmanagement
+aliases:
+  - /2020/10/critical-chain-im-pmbok/
 ---
 In der fünften Auflage von 2013 hatte [„A Guide to the Project Management Body of Knowledge“](https://de.wikipedia.org/wiki/A_Guide_to_the_Project_Management_Body_of_Knowledge) die Critical-Chain-Methode von [Goldratt](https://de.wikipedia.org/wiki/Eliyahu_M._Goldratt) endlich in Kapitel 6 aufgenommen.
 

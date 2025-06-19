@@ -2,8 +2,11 @@
 title: Ledersohlen beim Tanzschuh
 description: Vor- und Nachteile der Ledersohle fürs Tanzen
 date: 2020-07-24
-tags: [Tanzen, Bekleidung]
-aliases: [/2020/07/ledersohlen-beim-tanzschuh/]
+tags:
+  - Tanzen
+  - Bekleidung
+aliases:
+  - /2020/07/ledersohlen-beim-tanzschuh/
 ---
 ![IMG_6184](IMG_6184.jpg)
 

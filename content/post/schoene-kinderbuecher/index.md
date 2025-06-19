@@ -1,7 +1,8 @@
 ---
 title: Schöne Kinderbücher – wunderschön illustriert
 date: 2019-08-09
-tags: [Buch]
+tags:
+  - Buch
 ---
 Hier finden Sie meine persönliche Auswahl meisterhaft illustrierter Kinderbücher.
 

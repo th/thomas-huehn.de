@@ -2,8 +2,10 @@
 title: Wie ich zwitschere
 description: Tips für Twitter
 date: 2021-06-01
-tags: [Soziale Medien]
-aliases: [/2021/06/wie-ich-zwitschere/]
+tags:
+  - Soziale Medien
+aliases:
+  - /2021/06/wie-ich-zwitschere/
 ---
 Twitter steht bei vielen Menschen im Ruf, auch nur ein weiteres sinnloses Social-Media-Netzwerk zu sein. Ich glaube aber, daß man Twitter ganz hervorragend gewinnbringend nutzen kann.
 

@@ -1,8 +1,11 @@
 ---
 title: Spiegelteleskop aus Karton
 date: 2008-02-02
-tags: [Astronomie, Basteln]
-aliases: [/artikel/teleskop-karton/]
+tags:
+  - Astronomie
+  - Basteln
+aliases:
+  - /artikel/teleskop-karton/
 description: Der Zusammenbau eines AstroMedia-Bausatzes
 ---
 Astromedia verkauft viele interessante Bausätze, darunter auch einen Sextanten, ein Mikroskop, diverse Sternenkarten und einiges mehr. Und von denen ist auch dieser Bausatz.

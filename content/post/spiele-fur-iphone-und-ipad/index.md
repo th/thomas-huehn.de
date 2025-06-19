@@ -1,7 +1,9 @@
 ---
 title: Spiele für iPhone und iPad
 date: 2019-01-25
-tags: [Spiele, Technik]
+tags:
+  - Spiele
+  - Technik
 ---
 ## Paar Spiele, die ich installiert habe:
 ### Framed

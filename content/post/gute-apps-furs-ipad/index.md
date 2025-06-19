@@ -1,7 +1,8 @@
 ---
 title: Gute Apps fürs iPad
 date: 2010-05-26
-tags: [Technik]
+tags:
+  - Technik
 ---
 In den letzten Wochen, in denen ich mein iPad benutzt habe, haben sich
 einige Apps als besonders lohnenswert herausgestellt. Ich benutze sie

@@ -1,8 +1,10 @@
 ---
 title: "Poker: Ein Glücksspiel?"
 date: 2007-03-19
-tags: [Recht]
-aliases: [/artikel/poker-ein-gluecksspiel/]
+tags:
+  - Recht
+aliases:
+  - /artikel/poker-ein-gluecksspiel/
 description: "Ist Poker ein Glücksspiel?"
 ---
 Thomas Hochstein [schreibt](http://th-h.de/blog/archives/1353-Gluecksspiel-aus-strafrechtlicher-Sicht.html) mal wieder zu einer rechtlichen Fragestellung.

@@ -1,8 +1,10 @@
 ---
 title: Lebenslauf mit currvita
 date: 2008-02-02
-tags: [LaTeX]
-aliases: [/artikel/currvita/]
+tags:
+  - LaTeX
+aliases:
+  - /artikel/currvita/
 description: Es existieren mehrere LaTeX-Pakete, um Lebensläufe zu erstellen. Ich habe mich für currvita entschieden.
 ---
 Es existieren mehrere LaTeX-Pakete, um Lebensläufe zu erstellen. Ich habe mich für [currvita](http://www.ctan.org/tex-archive/macros/latex/contrib/currvita/) entschieden.

@@ -1,8 +1,10 @@
 ---
 title: Knuth-Schecks
 date: 2020-07-25
-tags: [Donald Knuth]
-aliases: [/2020/07/knuth-scheck/]
+tags:
+  - Donald Knuth
+aliases:
+  - /2020/07/knuth-scheck/
 description: Ich besitze zwei Schecks von Donald Knuth!
 ---
 [Donald E. Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) ist so etwas wie der Graue Eminenz der Informatik. Begnadeter Algorithmiker (das Knuth-Morris-Pratt-Verfahren und viele mehr), emeritierter Professor in Stanford, Autor des Standard-Übersichtswerks “The Art of Computer Programming” (schon seit 1962 – geplante Fertigstellung derzeit: 2025), und Schöpfer des Textsatzsystems TeX, von dem Leslie Lamport später LaTeX abgeleitet hat.

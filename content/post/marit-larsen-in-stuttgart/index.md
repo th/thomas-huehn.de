@@ -1,8 +1,11 @@
 ---
 title: Marit Larsen in Stuttgart
 date: 2010-03-01
-tags: [Konzert, Musik]
-aliases: [/artikel/marit-larsen-in-stuttgart.html/]
+tags:
+  - Konzert
+  - Musik
+aliases:
+  - /artikel/marit-larsen-in-stuttgart.html/
 description: Konzertbericht vom Marit-Larsen-Konzert im Theaterhaus Stuttgart
 ---
 [Ohne Foto, denn ich hatte nur meine Handykamera dabei, und die Bilder wurden vorhersehbar nichts]

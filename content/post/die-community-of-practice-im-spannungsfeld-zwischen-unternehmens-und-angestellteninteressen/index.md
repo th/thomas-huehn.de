@@ -1,8 +1,14 @@
 ---
 title: Die Community of Practice im Spannungsfeld zwischen Unternehmens- und Angestellteninteressen
 date: 2024-07-04
-tags: [Beruf, Bildungswissenschaft, Community of Practice, Lernen, Studium]
-aliases: [/2024/07/community-of-practice/]
+tags:
+  - Beruf
+  - Bildungswissenschaft
+  - Community of Practice
+  - Lernen
+  - Studium
+aliases:
+  - /2024/07/community-of-practice/
 description: "Welchen Beitrag leisten Communities of Practice zur Vermittlung zwischen Unternehmens- und Angestellteninteressen in der betrieblichen Weiterbildung?"
 favorite: true
 ---

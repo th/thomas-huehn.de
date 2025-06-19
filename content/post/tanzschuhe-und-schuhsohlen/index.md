@@ -2,8 +2,11 @@
 title: Tanzschuhe und Schuhsohlen
 description: Verschiedene Materialien der Sohle beim Tanzschuh
 date: 2020-07-09
-tags: [Tanzen, Bekleidung]
-aliases: [/2020/07/tanzschuhe-und-schuhsohlen/]
+tags:
+  - Tanzen
+  - Bekleidung
+aliases:
+  - /2020/07/tanzschuhe-und-schuhsohlen/
 ---
 ![IMG_6181](IMG_6181.jpg)
 

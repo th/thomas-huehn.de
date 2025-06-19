@@ -2,9 +2,14 @@
 title: Innerbetriebliche Anerkennung informell erworbener Kompetenzen in Anlehnung an Validierung
 description: "Welche Aspekte der Validierung informell erworbener Kompetenzen können in eine innerbetriebliche Anerkennung übernommen werden?"
 date: 2023-10-03
-tags: [Beruf, Bildungswissenschaft, Lernen, Studium]
+tags:
+  - Beruf
+  - Bildungswissenschaft
+  - Lernen
+  - Studium
 favorite: true
-aliases: [/2023/10/anerkennung-informell-erworbener-kompetenzen/]
+aliases:
+  - /2023/10/anerkennung-informell-erworbener-kompetenzen/
 ---
 ## Einleitung
 

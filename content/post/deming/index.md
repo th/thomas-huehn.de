@@ -2,9 +2,12 @@
 title: Statistische Prozeßlenkung nach W. Edwards Deming
 description: Übersicht über Statistische Prozeßlenkung und Demings Verdienste darum
 date: 2020-08-06
-tags: [Qualität, Systemtheorie]
+tags:
+  - Qualität
+  - Systemtheorie
 favorite: true
-aliases: [/2020/08/deming/]
+aliases:
+  - /2020/08/deming/
 ---
 ## Einführung
 

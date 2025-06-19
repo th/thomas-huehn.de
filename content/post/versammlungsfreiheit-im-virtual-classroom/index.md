@@ -1,8 +1,11 @@
 ---
 title: Versammlungsfreiheit im Virtual Classroom
 date: 2011-12-12
-tags: [Studium, Recht]
-aliases: [/weblog/2011/versammlungsfreiheit-im-virtual-classroom/]
+tags:
+  - Studium
+  - Recht
+aliases:
+  - /weblog/2011/versammlungsfreiheit-im-virtual-classroom/
 ---
 
 

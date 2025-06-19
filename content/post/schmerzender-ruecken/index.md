@@ -1,7 +1,8 @@
 ---
 title: Gegen Rückenschmerzen
 date: 2021-01-04
-tags: [Gesundheit]
+tags:
+  - Gesundheit
 description: Holen Sie sich Ihr Leben zurück!
 ---
 Zwischen den Jahren war es wieder soweit: nach einigen Monaten Ruhe bekam ich wieder starke Rückenschmerzen. Nur diesmal zog es sich eine knappe Woche hin, sonst hatte ich die Schmerzen mit Schmerzmitteln nach wenigen Tagen wieder im Griff.

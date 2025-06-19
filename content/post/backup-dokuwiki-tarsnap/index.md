@@ -3,8 +3,11 @@ title: Backup für DokuWiki mit Tarsnap
 description: Wiem an ein DokuWiki backupt
 date: 2019-02-07
 lastmod: 2019-10-09
-tags: [Software, Wiki]
-aliases: [/2019/02/backup-dokuwiki-tarsnap/]
+tags:
+  - Software
+  - Wiki
+aliases:
+  - /2019/02/backup-dokuwiki-tarsnap/
 ---
 Mein [DokuWiki](/einstellungen-dokuwiki/) wird jede Nacht durch dieses Skript gebackuppt, wobei Verzeichnisse ausgeschlossen sind, die sich permanent ändern:
 

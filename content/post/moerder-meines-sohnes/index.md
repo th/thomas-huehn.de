@@ -2,9 +2,12 @@
 title: Wie wir den Mörder meines Sohnes zur Strecke gebracht haben
 description: Deutsche Übersetzung der Geschichte von Bertrand Might
 date: 2014-07-06
-tags: [Gesundheit, Übersetzung]
+tags:
+  - Gesundheit
+  - Übersetzung
 favorite: true
-aliases: [/2014/07/moerder-meines-sohnes/]
+aliases:
+  - /2014/07/moerder-meines-sohnes/
 ---
 ![](taken-0c7012dd.jpg)
 

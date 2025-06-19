@@ -3,8 +3,10 @@ title: Investment Punk
 description: Rezension des Buchs Investment Punk
 date: 2011-08-13
 lastmod: 2014-05-26
-tags: [Buch]
-aliases: [/2011/08/investment-punk/]
+tags:
+  - Buch
+aliases:
+  - /2011/08/investment-punk/
 ---
 <em>Investment Punk</em> von Gerald Hörhan hat sich 2011 eine kleine Fangemeinde erobert.
 

@@ -1,8 +1,10 @@
 ---
 title: Der Billard-Verband Baden-Württemberg und die Anti-Doping-Regelungen
 date: 2007-08-11
-tags: [Sport]
-aliases: [der-billard-verband-baden-wurttemberg-und-die-anti-doping-regelungen]
+tags:
+  - Sport
+aliases:
+  - der-billard-verband-baden-wurttemberg-und-die-anti-doping-regelungen
 ---
 # Worum geht es?
 

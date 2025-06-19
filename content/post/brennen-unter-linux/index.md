@@ -1,7 +1,10 @@
 ---
 title: Brennen unter Linux
 date: 2008-02-02
-tags: [Linux, Softwarelizenzen, Open Source]
+tags:
+  - Linux
+  - Softwarelizenzen
+  - Open Source
 description: CDs und DVDs unter Linux brennen
 ---
 ## Einleitung

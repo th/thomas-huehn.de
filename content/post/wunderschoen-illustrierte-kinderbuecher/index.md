@@ -2,8 +2,10 @@
 title: Wunderschön illustrierte Kinderbücher
 date: 2019-08-12
 lastmod: 2019-08-22
-tags: [Buch]
-aliases: [/2019/08/wunderschoen-illustrierte-kinderbucher/]
+tags:
+  - Buch
+aliases:
+  - /2019/08/wunderschoen-illustrierte-kinderbucher/
 description: Mein kleines Projekt zu Kinderbuchillustrationen
 ---
 2015 schrieb [DanBC](https://news.ycombinator.com/user?id=DanBC) [in Hacker News:](https://news.ycombinator.com/item?id=9848031)

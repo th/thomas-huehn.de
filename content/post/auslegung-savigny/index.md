@@ -3,8 +3,10 @@ title: Die Rangfolge der savignyschen Auslegungsmethoden
 description: "In welchem Verhältnis stehen die 4 Auslegungsmethoden nach Savigny?"
 date: 2013-01-16
 lastmod: 2014-12-17
-tags: [Recht]
-aliases: [/2013/01/auslegung-savigny/]
+tags:
+  - Recht
+aliases:
+  - /2013/01/auslegung-savigny/
 ---
 Viele Studenten, die erstmals mit dem savignyschen Auslegungskanon in Berührung kommen, fragen sich, in welcher Rangfolge die klassischen Auslegungsmethoden von Savigny (grammatisch, systematisch, teleologisch, historisch) stehen.
 
