@@ -7,36 +7,36 @@ tags:
 aliases:
   - /weblog/2011/gutachterstil-in-hagen/
 ---
-Ges­tern war ich in Hagen und habe an der Ver­an­stal­tung „Gut­ach­ter­stil“ teilgenommen.
+Gestern war ich in Hagen und habe an der Veranstaltung „Gutachterstil“ teilgenommen.
 
-Kur­zes Fazit: Super wars!
+Kurzes Fazit: Super wars!
 
-Eine echte inhalt­li­che Zusam­men­fas­sung kann ich natür­lich nicht bie­ten, aber ich dachte, ich ver­liere trotz­dem ein paar Worte.
+Eine echte inhaltliche Zusammenfassung kann ich natürlich nicht bieten, aber ich dachte, ich verliere trotzdem ein paar Worte.
 
-Eine Video­auf­zeich­nung war ange­dacht, gab es aber nicht. Der Fach­schafts­ver­tre­ter, der das ganze auch klasse orga­ni­siert hat (samt Mit­tag­es­sen und für die, die frü­her da waren, offen­bar auch Früh­stück), hatte die Kamera bereits auf­ge­baut und dann noch­mal alle Anwe­sen­den gefragt, ob sie Beden­ken haben. Und als sich nie­mand ganz kon­kret dage­gen äußern wollte, hat er beschlos­sen, daß es aber genug Unbe­ha­gen bei dem ein oder ande­ren Teil­neh­mer gab, um die Kamera wie­der abzubauen.
+Eine Videoaufzeichnung war angedacht, gab es aber nicht. Der Fachschaftsvertreter, der das ganze auch klasse organisiert hat (samt Mittagessen und für die, die früher da waren, offenbar auch Frühstück), hatte die Kamera bereits aufgebaut und dann nochmal alle Anwesenden gefragt, ob sie Bedenken haben. Und als sich niemand ganz konkret dagegen äußern wollte, hat er beschlossen, daß es aber genug Unbehagen bei dem ein oder anderen Teilnehmer gab, um die Kamera wieder abzubauen.
 
-Ich hätte nichts gegen die Auf­zeich­nung gehabt, aber ich fand gut, wie er auch die nicht durch direk­tes „Bau das sofort ab!“ aus­ge­drück­ten Vor­be­halte ernst­ge­nom­men hat.
+Ich hätte nichts gegen die Aufzeichnung gehabt, aber ich fand gut, wie er auch die nicht durch direktes „Bau das sofort ab!“ ausgedrückten Vorbehalte ernstgenommen hat.
 
-[Dr. Kreße](http://www.fernuni-hagen.de/ls_wackerbarth/team/bernhard.kresse.shtml) vom Lehr­stuhl Wacker­b­arth war aus­ge­spro­chen sym­pa­thisch und hat sich auch den ein oder ande­ren Scherz erlaubt. Man merkte, daß er Erfah­rung mit der Lei­tung sol­cher Grup­pen hat.
+[Dr. Kreße](http://www.fernuni-hagen.de/ls_wackerbarth/team/bernhard.kresse.shtml) vom Lehrstuhl Wackerbarth war ausgesprochen sympathisch und hat sich auch den ein oder anderen Scherz erlaubt. Man merkte, daß er Erfahrung mit der Leitung solcher Gruppen hat.
 
-Kon­kret hat er mit uns von zehn Uhr bis halb sechs acht Fälle ziem­lich aus­führ­lich gelöst und dabei viele kon­krete Hin­weise gegeben.
+Konkret hat er mit uns von zehn Uhr bis halb sechs acht Fälle ziemlich ausführlich gelöst und dabei viele konkrete Hinweise gegeben.
 
-Ich weiß jeden­falls schon direkt ein oder zwei Dinge, die ich bis­her in allen EAs nicht ganz rich­tig gemacht habe. Zum Bei­spiel dicht am Gesetz blei­ben und die Ober­sätze aus den Rechts­fol­gen zu bil­den. Also nicht zu schrei­ben „Anspruch des K gegen V könnte ver­jährt sein“, son­dern eher „V dürfte nicht nach [§ 214 I BGB](http://dejure.org/gesetze/BGB/214.html) berech­tigt sein, die Nach­er­fül­lung gegen­über K zu ver­wei­gern“. Hof­fent­lich habe ich das jetzt rich­tig wiedergegeben…
+Ich weiß jedenfalls schon direkt ein oder zwei Dinge, die ich bisher in allen EAs nicht ganz richtig gemacht habe. Zum Beispiel dicht am Gesetz bleiben und die Obersätze aus den Rechtsfolgen zu bilden. Also nicht zu schreiben „Anspruch des K gegen V könnte verjährt sein“, sondern eher „V dürfte nicht nach [§ 214 I BGB](http://dejure.org/gesetze/BGB/214.html) berechtigt sein, die Nacherfüllung gegenüber K zu verweigern“. Hoffentlich habe ich das jetzt richtig wiedergegeben…
 
-Wir waren größ­ten­teils im Alten Tes­ta­ment unter­wegs, da die Mehr­zahl der Teil­neh­mer nie­de­ren Semes­ters waren. Und es gab ein paar gar nied­li­che Fälle (Anspruch gegen ein Medium auf Lie­bes­zau­ber gegen die Ange­be­tete — ist das ein Werk– oder ein Dienstvertrag…).
+Wir waren größtenteils im Alten Testament unterwegs, da die Mehrzahl der Teilnehmer niederen Semesters waren. Und es gab ein paar gar niedliche Fälle (Anspruch gegen ein Medium auf Liebeszauber gegen die Angebetete — ist das ein Werk– oder ein Dienstvertrag…).
 
-Man sieht, es waren auch ein oder zwei Schuld­rechts­fälle dabei, da hat Herr Kreße die Grund­la­gen des Schuld­rechts, die für den Fall rele­vant waren, aber rasch (für mich eigent­lich etwas zu rasch, aber fürs Gesamt­ver­ständ­nis noch aus­rei­chend) wie­der­holt, bevor er ein­ge­stie­gen ist.
+Man sieht, es waren auch ein oder zwei Schuldrechtsfälle dabei, da hat Herr Kreße die Grundlagen des Schuldrechts, die für den Fall relevant waren, aber rasch (für mich eigentlich etwas zu rasch, aber fürs Gesamtverständnis noch ausreichend) wiederholt, bevor er eingestiegen ist.
 
-Die ganze Ver­an­stal­tung war durch­aus argu­men­ta­tiv und kom­mu­ni­ka­tiv geprägt. Er hat sich sogar in einem Fall von uns über­zeu­gen las­sen und erklärt, daß er seine Klau­sur– oder EA-Musterlösung in dem einen Punkt nun nicht mehr rich­tig findet.
+Die ganze Veranstaltung war durchaus argumentativ und kommunikativ geprägt. Er hat sich sogar in einem Fall von uns überzeugen lassen und erklärt, daß er seine Klausur– oder EA-Musterlösung in dem einen Punkt nun nicht mehr richtig findet.
 
-Auch ein wenig EA-Taktik und Klau­sur­tak­tik war dabei („das ist rechts­theo­re­tisch schon gut ver­tret­bar, aber gehen Sie doch auf Num­mer sicher und schrei­ben Sie in der Klau­sur lie­ber XYZ“, „Dann wäre der Fall hier vor­bei. Das ist schlecht.“).
+Auch ein wenig EA-Taktik und Klausurtaktik war dabei („das ist rechtstheoretisch schon gut vertretbar, aber gehen Sie doch auf Nummer sicher und schreiben Sie in der Klausur lieber XYZ“, „Dann wäre der Fall hier vorbei. Das ist schlecht.“).
 
-Ein paar Dinge wür­den von ande­ren Dozen­ten sicher ganz anders gese­hen („Ich bin kein Freund von Glie­de­run­gen“), aber das stört ja nicht. Kann man ja selbst aus­pro­bie­ren, wie es einem selbst liegt. Fand ich aber sehr erfri­schend, ansons­ten hört man ja immer, wie unglaub­lich wich­tig die Din­ger sind.
+Ein paar Dinge würden von anderen Dozenten sicher ganz anders gesehen („Ich bin kein Freund von Gliederungen“), aber das stört ja nicht. Kann man ja selbst ausprobieren, wie es einem selbst liegt. Fand ich aber sehr erfrischend, ansonsten hört man ja immer, wie unglaublich wichtig die Dinger sind.
 
-Abschlie­ßend *glaube ich* als zen­trale Bot­schaft von Herrn Kreße mit­ge­nom­men zu haben: Eng am Gesetz arbeiten.
+Abschließend *glaube ich* als zentrale Botschaft von Herrn Kreße mitgenommen zu haben: Eng am Gesetz arbeiten.
 
-Häu­fi­ger Feh­ler in punkto Gut­ach­ten­stil sei, daß Stu­die­rende einen Aspekt des Sach­ver­halts als pro­ble­ma­tisch erken­nen, einen Ober­satz dazu bil­den und das Ding dann „lösen“. Ohne daß es einen Grund gibt, warum das nun gerade jetzt und an die­ser Stelle geschrie­ben wird. Oft gehöre das zwar ins Gut­ach­ten, aber ganz woan­ders hin.
+Häufiger Fehler in punkto Gutachtenstil sei, daß Studierende einen Aspekt des Sachverhalts als problematisch erkennen, einen Obersatz dazu bilden und das Ding dann „lösen“. Ohne daß es einen Grund gibt, warum das nun gerade jetzt und an dieser Stelle geschrieben wird. Oft gehöre das zwar ins Gutachten, aber ganz woanders hin.
 
-„Wenn ich eine Klau­sur kor­ri­giere, will ich nicht den­ken“. Der Bear­bei­ter soll den Weg genau auf­zei­gen, den er nimmt.
+„Wenn ich eine Klausur korrigiere, will ich nicht denken“. Der Bearbeiter soll den Weg genau aufzeigen, den er nimmt.
 
-Also: Ober­satz mit Blick auf die Rechts­folge bil­den. Und dann am Gesetz ent­lang alles abar­bei­ten. Und eben nicht eine eigene Struk­tur jen­seits der kon­kre­ten Tat­be­stands­vor­aus­set­zun­gen der jewei­li­gen Nor­men erfinden.
+Also: Obersatz mit Blick auf die Rechtsfolge bilden. Und dann am Gesetz entlang alles abarbeiten. Und eben nicht eine eigene Struktur jenseits der konkreten Tatbestandsvoraussetzungen der jeweiligen Normen erfinden.

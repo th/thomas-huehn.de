@@ -9,12 +9,12 @@ aliases:
 ---
 
 
-Gerade bin ich im Vir­tual Class­room (mit­tels Adobe Con­nect imple­men­tiert), in einer Nach­be­spre­chung der zwei­ten Pro­jekt­ar­beit zum Modul Propädeutikum.
+Gerade bin ich im Virtual Classroom (mittels Adobe Connect implementiert), in einer Nachbesprechung der zweiten Projektarbeit zum Modul Propädeutikum.
 
-Es geht um die Ver­samm­lungs­frei­heit. Biß­chen High-Level-Diskussion über einen erfun­de­nen, aber rea­lis­ti­schen Sach­ver­halt rund um Occupy Wall­street, Ver­samm­lungs­frei­heit und All­ge­meine Hand­lungs­frei­heit. Nichts tie­fer­ge­hen­des, aber ent­spannte Diskussion.
+Es geht um die Versammlungsfreiheit. Bißchen High-Level-Diskussion über einen erfundenen, aber realistischen Sachverhalt rund um Occupy Wallstreet, Versammlungsfreiheit und Allgemeine Handlungsfreiheit. Nichts tiefergehendes, aber entspannte Diskussion.
 
-Ich habe die Pro­jekt­ar­beit nicht bear­bei­tet, sah aber spon­tan, daß der Ter­min ansteht und habe mich ein­ge­loggt. Wir sind nur rela­tiv wenige Stu­den­ten, etwa zehn. Und das bei zwei Betreuern.
+Ich habe die Projektarbeit nicht bearbeitet, sah aber spontan, daß der Termin ansteht und habe mich eingeloggt. Wir sind nur relativ wenige Studenten, etwa zehn. Und das bei zwei Betreuern.
 
-Nicht jeder hat ein Mikro und nur die Betreuer haben eine Web­cam. Aber es ist ein gutes Gefühl, mal „haut­nah“ mit den Leu­ten zu tun zu haben.
+Nicht jeder hat ein Mikro und nur die Betreuer haben eine Webcam. Aber es ist ein gutes Gefühl, mal „hautnah“ mit den Leuten zu tun zu haben.
 
 Mir hats Spaß gemacht.
