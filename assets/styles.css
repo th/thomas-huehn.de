@@ -257,3 +257,113 @@ h6 {
     font-weight: normal;
     text-transform: italic; /* Italic for distinction */
 }
+
+/* Tag styling */
+.tags-inline {
+    text-align: right;
+    flex: 1 1 50%;
+}
+
+.tags-inline .tag {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.2rem 0.5rem;
+    background-color: #f0f0f0;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    font-size: small;
+}
+
+.tags-inline .tag:hover {
+    background-color: #e0e0e0;
+}
+
+@media (prefers-color-scheme: dark) {
+    .tags-inline .tag {
+        background-color: #333;
+        color: #fff;
+    }
+    
+    .tags-inline .tag:hover {
+        background-color: #444;
+    }
+}
+
+/* Taxonomy page styling */
+.articlelist .tags {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.articlelist .tag {
+    display: inline-block;
+    margin-right: 0.5rem;
+    padding: 0.1rem 0.3rem;
+    background-color: #f0f0f0;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    font-size: small;
+}
+
+.articlelist .tag:hover {
+    background-color: #e0e0e0;
+}
+
+@media (prefers-color-scheme: dark) {
+    .articlelist .tag {
+        background-color: #333;
+        color: #fff;
+    }
+    
+    .articlelist .tag:hover {
+        background-color: #444;
+    }
+}
+
+/* Small tags for list views */
+.tags-small {
+    margin-top: 0.25rem;
+}
+
+.tag-small {
+    display: inline-block;
+    margin-right: 0.4rem;
+    padding: 0.1rem 0.25rem;
+    background-color: #f5f5f5;
+    border-radius: 0.2rem;
+    text-decoration: none;
+    font-size: x-small;
+    color: #666;
+}
+
+.tag-small:hover {
+    background-color: #e5e5e5;
+    color: #444;
+}
+
+@media (prefers-color-scheme: dark) {
+    .tag-small {
+        background-color: #2a2a2a;
+        color: #ccc;
+    }
+    
+    .tag-small:hover {
+        background-color: #3a3a3a;
+        color: #fff;
+    }
+}
+
+/* Article header layout */
+.article-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.25rem;
+}
+
+.article-title {
+    flex: 1;
+    margin-right: 1rem;
+}
