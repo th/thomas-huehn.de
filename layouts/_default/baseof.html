@@ -10,9 +10,6 @@
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{- end -}}
-	{{- if .Params.translated -}}
-	  <link rel="alternate" hreflang="de" href="{{- .Params.translated -}}" />
-	{{- end -}}
 	{{- $css := resources.Get "styles.css" | css.Sass }}
     <style>{{ $css.Content | safeCSS }}</style>
 	<title>{{ with .Params.Title }}{{ . }}{{ end }}</title>
