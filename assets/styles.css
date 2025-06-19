@@ -174,38 +174,83 @@ ul {
 }
 
 .articlelist {
-    display: table;
-	table-layout: fixed;
+    display: block;
 	width: 100%;
 	padding: 0;
 }
 
 .articlelist > li {
     list-style-type: none;
-    display: table-row;
+    display: block;
+    position: relative;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    background-color: #fafafa;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.articlelist > li:hover {
+    background-color: #f5f5f5;
+    border-color: #d1d5db;
+}
+
+.articlelist > li:last-child {
+    margin-bottom: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    .articlelist > li {
+        border-color: #374151;
+        background-color: #1f2937;
+    }
+    
+    .articlelist > li:hover {
+        background-color: #374151;
+        border-color: #4b5563;
+    }
 }
 
 .articlelist > li > a {
-    display: table-cell;
-	padding-bottom: 1rem;
+    display: inline-block;
 	color: black;
 }
 
-
 .articlelist > li > time {
-	display: table-cell;
+	display: inline-block;
     font-size: medium;
-	width: 13ch;
 	text-align: right;
 }
 
+a.favitem {
+    position: relative;
+}
+
 a.favitem:before {
-	content: "★";
+    content: "★";
     text-align: center;
     color: black;
     display: inline-block;
-	width: 1.5rem;
+    width: 1.5rem;
     margin-left: -1.5rem;
+}
+
+a.favitem:hover:before {
+    transform: scale(1.05);
+}
+
+/* Add left margin and top padding to favorite item text to prevent overlap */
+a.favitem {
+    margin-left: 1rem;
+    padding-top: 0.25rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    a.favitem:before {
+        color: white;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+    }
 }
 
 @media print {
@@ -293,7 +338,7 @@ h6 {
 .articlelist .tags {
     list-style: none;
     padding: 0;
-    margin: 0.5rem 0 1rem 0;
+    margin: 0.5rem 0 0 0;
     display: inline-block;
 }
 
@@ -332,7 +377,7 @@ h6 {
 /* Small tags for list views */
 .tags-small {
     margin-top: 0.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
 }
 
 .tag-small {
@@ -372,7 +417,7 @@ h6 {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
 }
 
 .article-title {
