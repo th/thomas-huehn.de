@@ -313,24 +313,31 @@ h6 {
     display: inline-block;
     margin-left: 0.5rem;
     padding: 0.2rem 0.5rem;
-    background-color: #f0f0f0;
+    background-color: #dbeafe;
+    border: 1px solid #93c5fd;
     border-radius: 0.25rem;
     text-decoration: none;
     font-size: small;
+    color: #1d4ed8;
+    font-weight: 500;
 }
 
 .tags-inline .tag:hover {
-    background-color: #e0e0e0;
+    background-color: #bfdbfe;
+    color: #1e40af;
+    text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
     .tags-inline .tag {
-        background-color: #333;
-        color: #fff;
+        background-color: #1e3a8a;
+        border-color: #3b82f6;
+        color: #dbeafe;
     }
     
     .tags-inline .tag:hover {
-        background-color: #444;
+        background-color: #1d4ed8;
+        color: #f0f9ff;
     }
 }
 
@@ -346,31 +353,31 @@ h6 {
     display: inline-block;
     margin-right: 0.5rem;
     padding: 0.2rem 0.4rem;
-    background-color: #e2e8f0;
-    border: 1px solid #cbd5e0;
+    background-color: #dbeafe;
+    border: 1px solid #93c5fd;
     border-radius: 0.25rem;
     text-decoration: none;
     font-size: small;
-    color: #4a5568;
+    color: #1d4ed8;
     font-weight: 500;
 }
 
 .articlelist .tag:hover {
-    background-color: #cbd5e0;
-    color: #2d3748;
+    background-color: #bfdbfe;
+    color: #1e40af;
     text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
     .articlelist .tag {
-        background-color: #4a5568;
-        border-color: #718096;
-        color: #e2e8f0;
+        background-color: #1e3a8a;
+        border-color: #3b82f6;
+        color: #dbeafe;
     }
     
     .articlelist .tag:hover {
-        background-color: #718096;
-        color: #f7fafc;
+        background-color: #1d4ed8;
+        color: #f0f9ff;
     }
 }
 
@@ -384,31 +391,31 @@ h6 {
     display: inline-block;
     margin-right: 0.4rem;
     padding: 0.2rem 0.4rem;
-    background-color: #e2e8f0;
-    border: 1px solid #cbd5e0;
+    background-color: #dbeafe;
+    border: 1px solid #93c5fd;
     border-radius: 0.25rem;
     text-decoration: none;
     font-size: small;
-    color: #4a5568;
+    color: #1d4ed8;
     font-weight: 500;
 }
 
 .tag-small:hover {
-    background-color: #cbd5e0;
-    color: #2d3748;
+    background-color: #bfdbfe;
+    color: #1e40af;
     text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
     .tag-small {
-        background-color: #4a5568;
-        border-color: #718096;
-        color: #e2e8f0;
+        background-color: #1e3a8a;
+        border-color: #3b82f6;
+        color: #dbeafe;
     }
     
     .tag-small:hover {
-        background-color: #718096;
-        color: #f7fafc;
+        background-color: #1d4ed8;
+        color: #f0f9ff;
     }
 }
 
