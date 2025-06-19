@@ -33,7 +33,7 @@ markup:
         noClasses: false
 
 params:
-    description: "Persönliche Gedanken und Notizen von Thomas Hühn - Buchrezensionen, technische Einblicke und Reflexionen"
+    description: "Persönliche Webseite von Thomas Hühn"
     links:
         - title: "Home"
           url: "/"
