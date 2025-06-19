@@ -2,6 +2,7 @@ baseURL: 'https://www.thomas-huehn.de/'
 author: Thomas Hühn
 languageCode: 'de'
 title: 'Entdeckungsreisen'
+theme: 'hugo-theme-th'
 
 assetDir: 'assets'
 dataDir: 'data'
