@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default "en" }}">
+<html lang="{{ $.Site.LanguageCode }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,10 +13,8 @@
       {{- $description = .Params.description -}}
     {{- else if .Summary -}}
       {{- $description = .Summary | plainify | truncate 160 -}}
-    {{- else if .Site.Params.description -}}
-      {{- $description = .Site.Params.description -}}
     {{- else -}}
-      {{- $description = "Persönliche Gedanken und Notizen von Thomas Hühn" -}}
+      {{- $description = .Site.Params.description -}}
     {{- end -}}
     <meta name="description" content="{{ $description }}">
     <meta name="author" content="Thomas Hühn">

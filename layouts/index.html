@@ -9,20 +9,21 @@
                     <a href="{{ .Permalink }}"{{- if .Params.favorite }} class="favitem" {{- end -}}>{{ .Title }}</a>
                 </div>
                 <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02") | safeHTMLAttr }}>
-                    {{- if eq .Site.LanguageCode "de" -}}
                     {{ .Date.Format "2." }} {{ index .Site.Data.monate (printf "%d" .Date.Month) }}
-                    {{else}}
-                    {{ .Date.Format "January 2" }}
-                    {{- end -}}
                 </time>
             </div>
-            {{- if .Params.tags -}}
-            <div class="tags-small">
-              {{- range .Params.tags -}}
-                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag-small">{{ . }}</a>
-              {{- end -}}
+            {{ if .Params.description }}
+            <div class="article-description">
+                {{ .Params.description }}
             </div>
-            {{- end -}}
+            {{ end }}
+            {{ if .Params.tags }}
+            <div class="tags-small">
+              {{ range .Params.tags }}
+                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag-small">{{ . }}</a>
+              {{ end }}
+            </div>
+            {{ end }}
         </li>
         {{ end }}
     </ul>
