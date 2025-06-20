@@ -22,6 +22,17 @@ outputFormats:
         mediatype: "application/rss"
         baseName: "feed"
 
+taxonomies:
+    tag: tags
+    category: categories
+
+outputs:
+    home: ["HTML", "RSS"]
+    page: ["HTML"]
+    section: ["HTML"]
+    taxonomy: ["HTML"]
+    term: ["HTML"]
+
 markup:
     goldmark:
         renderer:
