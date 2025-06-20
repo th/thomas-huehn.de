@@ -48,12 +48,6 @@ params:
     links:
         - title: "Home"
           url: "/"
-        - title: "Thomas Hühn"
-          url: "/thomas/"
-        - title: "Datenschutzerklärung"
-          url: "/datenschutzerklaerung/"
-        - title: "Impressum"
-          url: "/impressum/"
 
 ignoreFiles:
     - \.jpg$
