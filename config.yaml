@@ -12,7 +12,6 @@ disableKinds:
     - section
     - robotsTXT
     - 404
-    - taxonomy
     
 permalinks:
   post: '/:contentbasename/'
