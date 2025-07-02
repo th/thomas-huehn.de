@@ -1,6 +1,6 @@
 ---
 title: The Forever War
-description: Rezension zum SciFi-ROman The Forever War
+description: Rezension zum SciFi-Roman The Forever War
 date: 2013-01-20
 lastmod: 2014-03-16
 tags:
