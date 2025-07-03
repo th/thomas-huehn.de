@@ -15,7 +15,7 @@ Jeder Sportler muß also eine [„Sportlererklärung“](http://bvbw.billardmana
 
 Die [Verbotsliste](http://bvbw.billardmanager.de/images/attachment/244.pdf) der Welt-Anti-Doping-Agentur [WADA](http://www.wada-ama.org/) umfaßt ausdrücklich auch Alkohol, wobei für verschiedene Sportarten verschiedene Grenzwerte festgelegt worden sind. Billard wird ohne Grenzwert aufgeführt, es darf also offenbar überhaupt kein Atem- oder Blutalkohol nachweisbar sein.
 
-Hier soll jetzt nicht thematisiert werden, wie sich das Verbot von Alkohol mit einer Sportart, die überwiegend in Gastronomiebetrieben ausgeübt wird, vereinbaren läßt. Das beleuchte ich etwas näher in einem anderen Artikel.
+Hier soll jetzt nicht thematisiert werden, wie sich das Verbot von Alkohol mit einer Sportart, die überwiegend in Gastronomiebetrieben ausgeübt wird, vereinbaren läßt.
 
 # Der BVBW greift ein
 
