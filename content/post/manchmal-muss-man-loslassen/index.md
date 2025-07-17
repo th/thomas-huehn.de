@@ -1,6 +1,6 @@
 ---
 title: Manchmal muß man loslassen
-description: Nostlagischer Rückblick auf mein Informatik- und Computerlinguistikstudium.
+description: Nostalgischer Rückblick auf mein Informatik- und Computerlinguistikstudium.
 date: 2021-09-11
 tags:
   - Studium
