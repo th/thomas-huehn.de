@@ -4,6 +4,8 @@ languageCode: 'de'
 title: 'Entdeckungsreisen'
 theme: 'hugo-theme-th'
 
+titleCaseStyle: none
+
 assetDir: 'assets'
 dataDir: 'data'
 
