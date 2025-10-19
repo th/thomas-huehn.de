@@ -6,7 +6,6 @@ tags:
   - Normen
   - Recht
 aliases: []
-featured_image: ""
 ---
 Die [Normenübernahmeketten,](/verwirrende-normenbezeichnungen/) die zu solchen Bandwurmbezeichnungen wie DIN EN ISO 13850 führen, bedeuten aber eben auch, daß es im allgemeinen eine Vielzahl von Anbietern eines Normentextes gibt.
 
