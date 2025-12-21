@@ -11,9 +11,9 @@ dataDir: 'data'
 
 disableHugoGeneratorInject: true
 disableKinds:
-    - section
-    - robotsTXT
-    - 404
+    - "section"
+    - "robotsTXT"
+    - "404"
     
 permalinks:
   post: '/:contentbasename/'
