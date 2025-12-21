@@ -3,4 +3,4 @@ resources/_gen/
 .hugo_build.lock
 hugo.lock
 .DS_Store
-
+.idea/
