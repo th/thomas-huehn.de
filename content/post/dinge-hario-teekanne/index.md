@@ -13,7 +13,7 @@ Seit einigen Jahren nutze ich eine Teekanne von Hario. Und diese begeistert mich
 
 Sie sieht etwas merkwürdig aus, sie faßt auch nur 700 Milliliter, aber sie ist eben auch ein guter Kompromiß. Teefans schwören ja auf frei und ungehindert in der Kanne schwimmende Teeblätter und verfluchen Teetaschen oder gar Tee-Eier. Aber mit meinem harten Wasser hier stelle ich ohnehin keine Ansprüche an die letzten drei Prozent Teequalität, sondern möchte ein vernünftiges Maß, das praktisch bleibt. Und diese Kanne mit integriertem Sieb bietet das. Das Sieb füllt mindestens die Hälfte des Volumens aus, mehr geht auch nicht, wenn man es noch nach oben entnehmen möchte. Die Teeblätter können sich damit also noch relativ frei in der Konvektion entfalten.
 
-Profi-Tipp: Wenn man das kochende Wasser nicht bis zum Metallring am Sieb oben eingießt, dann verbrennt man sich hinterher auch nciht die Finger…
+Profi-Tipp: Wenn man das kochende Wasser nicht bis zum Metallring am Sieb oben eingießt, dann verbrennt man sich hinterher auch nicht die Finger…
 
 Der absolute Hammer ist aber die Tülle!
 
