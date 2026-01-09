@@ -52,8 +52,3 @@ params:
           url: "/"
         - title: "englischsprachiger Blog"
           url: "//thomas-huehn.com"
-
-ignoreFiles:
-    - \.jpg$
-    - \.png$
-    - \.svg$
