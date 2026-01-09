@@ -3,7 +3,7 @@ title: "Hario-Teekanne"
 date: 2025-12-21T11:50:23+01:00
 tags:
   - "Dinge"
-description: Diese teekanne ist phänomenal!"
+description: Diese Teekanne ist phänomenal!"
 aliases: []
 draft: false
 ---
