@@ -1,5 +1,4 @@
 baseURL: 'https://www.thomas-huehn.de/'
-author: Thomas Hühn
 languageCode: 'de'
 title: 'Entdeckungsreisen'
 theme: 'hugo-theme-th'
@@ -46,6 +45,9 @@ markup:
         noClasses: false
 
 params:
+    author:
+        email: "mail@thomas-huehn.de"
+        name: "Thomas Hühn"
     description: "Persönliche Webseite von Thomas Hühn"
     links:
         - title: "Home"
