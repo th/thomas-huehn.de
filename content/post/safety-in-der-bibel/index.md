@@ -1,6 +1,6 @@
 ---
 title: Safety in der Bibel
-description: Eine FUndstelle aus der Bibel zum Thema Sicherheit
+description: Eine Fundstelle aus der Bibel zum Thema Sicherheit
 date: 2020-07-25
 tags:
   - Safety
