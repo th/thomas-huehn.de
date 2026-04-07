@@ -6,7 +6,6 @@ tags:
 description: "Zwei Ideen aus Kathy Sierras Buch."
 image: ""
 aliases: []
-draft: true
 ---
 **Badass** von **Kathy Sierra** ist schon etwas älter. Ich habe es neulich aus dem Schrank gezogen und noch einmal gelesen. Sierra war Autorin einiger Programmierbücher (Java, Design Patterns), bevor sie sich nach einem Doxxing-Vorfall aus dem Netz und der Öffentlichkeit komplett zurückgezogen hat.
 
