@@ -6,7 +6,7 @@ tags:
   - Recht
   - Normen
 ---
-Internationale Standards bzw. Normen haben Bezeichnungen, die die Herkunft beinhalten. So kann einer DIN-Norm ansehen, daß sie in Deutschland standardisiert wurde, oder einer EVS-Norm, daß sie aus Estland stammt. Dies sind nationale Standardisierungsorganisationen.
+Internationale Standards bzw. Normen haben Bezeichnungen, die die Herkunft beinhalten. So kann man einer DIN-Norm ansehen, daß sie in Deutschland standardisiert wurde, oder einer EVS-Norm, daß sie aus Estland stammt. Dies sind nationale Standardisierungsorganisationen.
 
 Darüber hinaus existieren internationale Standardisierungsorganisationen. Bekannt sind insbesondere ISO (International Organization for Standardization, also derselbe Spaß mit der Buchstabenreihenfolge wie bei UTC, was bekanntlich für Coordinated Universal Time steht) und IEC (International Electrotechnical Commission).
 

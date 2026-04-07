@@ -9,7 +9,7 @@ aliases: []
 ---
 Die [Normenübernahmeketten,](/verwirrende-normenbezeichnungen/) die zu solchen Bandwurmbezeichnungen wie DIN EN ISO 13850 führen, bedeuten aber eben auch, daß es im allgemeinen eine Vielzahl von Anbietern eines Normentextes gibt.
 
-Dabei sind die Normen inhaltlich identisch, wenn sie nicht in die Landessprache übersetzt worden sind, ansonsten sind sie sogar textuell identisch. Sie unterscheiden sich lediglich im Deckblatt. Und ­ im Preis.
+Dabei sind die Normen inhaltlich identisch, wenn sie nicht in die Landessprache übersetzt worden sind, ansonsten sind sie sogar textuell identisch. Sie unterscheiden sich lediglich im Deckblatt. Und im Preis.
 
 So kann man die DIN EN IEC 62443-4-2 als PDF für (überraschend günstige) 166 Euro kaufen. Oder man schaut zu meinem Geheimtipp: [den Esten](https://www.evs.ee/en/evs-en-iec-62443-4-2-2019). Dort bezahlt man nur 40 Euro.
 
