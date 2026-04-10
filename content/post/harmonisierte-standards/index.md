@@ -38,7 +38,7 @@ Die rechtliche Funktionsweise dieses Themenkomplexes sieht wie folgt aus:
    
    **Die Schlüsselerkenntnis ist diese:** wie Sie diese Anforderungen erfüllen liegt bei Ihnen. Ebenso liegt die Beweislast bei Ihnen, daß Sie diese Anforderungen erfüllt haben.
 
-5. Weil diese Anforderungen ziemlich vage und abstrakt gehalten sind, können Sie nicht unbedingt ganz einfach beweisen, daß Sie alle Anforderungen erfüllen. Daher eröffnet das Gesetz Ihnen einen bequemeren Pfad (und letztenendes, weil dies der Gedanke hinter dem “New Approach” ist, den die EU verfolgt):
+5. Weil diese Anforderungen ziemlich vage und abstrakt gehalten sind, können Sie nicht unbedingt ganz einfach beweisen, daß Sie alle Anforderungen erfüllen. Daher eröffnet das Gesetz Ihnen einen bequemeren Pfad (und letztenendes, weil dies der Gedanke hinter dem „New Approach“ ist, den die EU verfolgt):
 
    Sie dürfen zeigen, daß Sie die Anforderungen bestimmter anwendbarer Standards erfüllen. Wenn sie dies zeigen können (und die Beweislast liegt hierfür nach wie vor bei Ihnen!), dann greift automatisch die **Konformitätsvermutung,** daß Sie Gesetz und Verordnungen befolgen.
 

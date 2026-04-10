@@ -36,4 +36,4 @@ Die Minimale Endogene Mortalität ist insofern fundiert, als dem Risikoziel eine
 
 Sie ist aber auch sehr simplistisch und bildet komplexe Zusammenhänge nicht ab.
 
-Inzwischen ist die Minimale Endogene Mortalität als Riskoakzeptanzkriterium mehr oder weniger ausgestorben. Sie findet höchstens noch Verwendung im Zusammenspiel mit [ALARP](/das-risikoakzeptanzkriterium-alarp) oder [GAMAB](/das-risikoakzeptanzkriterium-gamab), um eine harte Grenze zu definieren. So kann diese Minimale Endogene Mortalität als Schwelle zur “broadly acceptable region” in ALARP dienen.
+Inzwischen ist die Minimale Endogene Mortalität als Riskoakzeptanzkriterium mehr oder weniger ausgestorben. Sie findet höchstens noch Verwendung im Zusammenspiel mit [ALARP](/das-risikoakzeptanzkriterium-alarp) oder [GAMAB](/das-risikoakzeptanzkriterium-gamab), um eine harte Grenze zu definieren. So kann diese Minimale Endogene Mortalität als Schwelle zur „broadly acceptable region“ in ALARP dienen.

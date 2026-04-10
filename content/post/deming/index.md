@@ -19,9 +19,9 @@ Doch selbst wenn Sie keine direkte Anwendbarkeit auf Ihre tägliche Arbeit sehen
 
 Deming hatte eine Anstellung als Wirtschaftsprofessor an einer Wirtschaftsuniversität und arbeitete nebenher als Consultant. Er sprach sich für die Anwendung statistischer Methoden im Qualitätsmanagement in der Industrie aus. Außerdem hielt er es für wichtig, auch Manager eine Einführung in statistische Methoden zu geben, damit sie nicht nur Ad-hoc-Methoden verwenden.
 
-Deming schrieb mehrere Bücher, die bekanntesten sind wohl “The New Economics of Industry, Government, and Education” und “Out of the Crisis”. An den Titeln sehen Sie bereits, sie sind thematisch breit aufgestellt, es sind keine Statistiklehrbücher.
+Deming schrieb mehrere Bücher, die bekanntesten sind wohl „The New Economics of Industry, Government, and Education“ und „Out of the Crisis“. An den Titeln sehen Sie bereits, sie sind thematisch breit aufgestellt, es sind keine Statistiklehrbücher.
 
-Vieles in diesen Büchern ist politisch. Er schreibt über Amerika in der Welt. Die Themen wechseln, es geht um Managerethik, aber auch um die Post. Vieles ist nicht gut gealtert, beispielsweise wenn er sich verächtlich darüber äußert, daß die Regierung so ein wunderbares Monopol wie Bell Telephone zerschlagen hat. Anderes wirkt wahllos, wie beispielsweise mehrere Absätze über den Zusammenhang von Zeugnisnoten und Schlägen für Kinder. Zumindest in “New Economics“ scheinen die ersten Kapitel eher „was ich schon immer mal sagen wollte“ zu sein. Glücklicherweise kommt der Leser zum inhaltlichen Teil, sobald er die ersten paar Kapitel überstanden hat.
+Vieles in diesen Büchern ist politisch. Er schreibt über Amerika in der Welt. Die Themen wechseln, es geht um Managerethik, aber auch um die Post. Vieles ist nicht gut gealtert, beispielsweise wenn er sich verächtlich darüber äußert, daß die Regierung so ein wunderbares Monopol wie Bell Telephone zerschlagen hat. Anderes wirkt wahllos, wie beispielsweise mehrere Absätze über den Zusammenhang von Zeugnisnoten und Schlägen für Kinder. Zumindest in „New Economics“ scheinen die ersten Kapitel eher „was ich schon immer mal sagen wollte“ zu sein. Glücklicherweise kommt der Leser zum inhaltlichen Teil, sobald er die ersten paar Kapitel überstanden hat.
 
 ## Deming und Systeme
 
@@ -89,7 +89,7 @@ Plan – Do – Check – Act. Eine Grundlage des Projektmanagements. Auch PDCA-
 
 Deming selbst nannte dieses Konzept stets „Shewhartkreis“.
 
-Doch Deming änderte den Shewhartkreis auch in einer Hinsicht. Er strich “Check” und ersetzte es durch “Study”. Es scheint unwesentlich, aber Deming bestand darauf. Für seine Ohren klang “check” wie “inspect”.
+Doch Deming änderte den Shewhartkreis auch in einer Hinsicht. Er strich „Check“ und ersetzte es durch „Study“. Es scheint unwesentlich, aber Deming bestand darauf. Für seine Ohren klang „check“ wie „inspect“.
 
 **Deming haßt Inspektion.** Mit Inbrunst. Lesen Sie seine Bücher, er hört gar nicht mehr auf, über das Grundübel der Inspektion zu schreiben.
 
@@ -97,11 +97,11 @@ Doch Deming änderte den Shewhartkreis auch in einer Hinsicht. Er strich “Chec
 
 Aber was ist Inspektion? Inspektion ist, wenn Sie ein gefertigtes Teil nehmen (eine bestückte Leiterplatte, ein Auto, etc.), seine Eigenschaften vermessen und diese mit einer Spezifikation vergleichen. Auf der Basis dieses Vergleichs entscheiden Sie dann, ob Sie das Teil ausliefern oder wegwerfen (oder einschmelzen und neu fertigen) oder reparieren.
 
-Die Idee dabei ist, wegzuwerfen, was außerhalb der Spezifikation liegt. Sie beginnen mit der Spezifikation und fertigen “to spec”.
+Die Idee dabei ist, wegzuwerfen, was außerhalb der Spezifikation liegt. Sie beginnen mit der Spezifikation und fertigen „to spec“.
 
 > Eliminate the need for inspection on a mass basis by building quality into the product in the first place.
 
-Dieses letzte Zitat ist leicht miszuverstehen. Deming sagt nicht „fertigen Sie einfach Teile, schauen Sie diese niemals an und warten Sie einfach auf Kundenreklamationen“. Wenn Sie Ihre Fertigung aufsetzen, werden Sie viele Versuche brauchen, und Sie werden nach jedem Versuch genau anschauen wollen, was das Ergebnis ist. In der laufenden Produktion möchten Sie ebenfalls Stichproben Ihres Fertigungsoutput ziehen und bewerten. Aber Sie sollte nicht jedes Teil vermessen und jeweils für jedes Teil einzeln entscheiden, ob Sie es verkaufen oder wegwerfen.
+Dieses letzte Zitat ist leicht mißzuverstehen. Deming sagt nicht „fertigen Sie einfach Teile, schauen Sie diese niemals an und warten Sie einfach auf Kundenreklamationen“. Wenn Sie Ihre Fertigung aufsetzen, werden Sie viele Versuche brauchen, und Sie werden nach jedem Versuch genau anschauen wollen, was das Ergebnis ist. In der laufenden Produktion möchten Sie ebenfalls Stichproben Ihres Fertigungsoutput ziehen und bewerten. Aber Sie sollte nicht jedes Teil vermessen und jeweils für jedes Teil einzeln entscheiden, ob Sie es verkaufen oder wegwerfen.
 
 Was sonst sollen Sie tun?
 
@@ -145,17 +145,17 @@ Die Standardabweichung zu verringern dreht sich eher um Instandhaltung und Wartu
 
 ## Fehlerarten
 
-Lassen Sie uns über Fehler sprechen. Es gibt zwei grundlegend verschiedene Kategorien von Fehlern, und Deming ist unnachgiebig, wenn es darum geht herauszufinden, zu welcher Kategorie ein beobachteter Fehler gehört: es gibt **besondere Fehler** (“special causes of variation”) und **gewöhnliche Fehler** (“common causes of variation”).
+Lassen Sie uns über Fehler sprechen. Es gibt zwei grundlegend verschiedene Kategorien von Fehlern, und Deming ist unnachgiebig, wenn es darum geht herauszufinden, zu welcher Kategorie ein beobachteter Fehler gehört: es gibt **besondere Fehler** („special causes of variation“) und **gewöhnliche Fehler** („common causes of variation“).
 
 <aside>
-Wenn Sie mit sicherheitsgerichteten System arbeiten, mag Sie die Begrifflichkeit kurz stutzen lassen. “Common causes” in diesem Sinne sind nicht Fehler gemeinsamer Ursache, wie ein einzelner elektromagnetischer Puls, der in zwei verschiedene Leiter einkoppelt. Hier bedeutet “common“ einfach „gewöhnlich“, „normal“.
+Wenn Sie mit sicherheitsgerichteten System arbeiten, mag Sie die Begrifflichkeit kurz stutzen lassen. „Common causes“ in diesem Sinne sind nicht Fehler gemeinsamer Ursache, wie ein einzelner elektromagnetischer Puls, der in zwei verschiedene Leiter einkoppelt. Hier bedeutet „common“ einfach „gewöhnlich“, „normal“.
 </aside>
 
 Warum ist es wichtig, in welche Kategorie ein Fehler gehört? Weil sie grundverschieden behandelt werden müssen!
 
-Gewöhnliche Fehler (bei Shewhart: “chance causes” – Zufallsfehler) passieren zufällig. Sie stellen die normale Prozeßstreuung dar. Sie passieren ständig, und es gibt keine einzelne spezifische Handlung, um sie zu beseitigen.
+Gewöhnliche Fehler (bei Shewhart: „chance causes“ – Zufallsfehler) passieren zufällig. Sie stellen die normale Prozeßstreuung dar. Sie passieren ständig, und es gibt keine einzelne spezifische Handlung, um sie zu beseitigen.
 
-Besondere Fehler (bei Shewhart: “assignable causes” – zuordbare Fehler) werden häufig durch einen Arbeiter auf unterster Ebene verursacht. Der Begriff “assignable cause” ist recht gut, weil er die Intuition „es gibt etwas oder jemanden, auf den wir zeigen können“ abbildet.
+Besondere Fehler (bei Shewhart: „assignable causes“ – zuordbare Fehler) werden häufig durch einen Arbeiter auf unterster Ebene verursacht. Der Begriff „assignable cause“ ist recht gut, weil er die Intuition „es gibt etwas oder jemanden, auf den wir zeigen können“ abbildet.
 
 Beispielsweise könnte ein Bagger am falschen Ort baggern und plötzlich hat Ihre Fabrik keinen Strom mehr. Das wäre ein klassischer besonderer Fehler. Sie können den Schuldigen identifizieren: „der Bagger“, „der Baggerfahrer“, „der Planer“ oder vielleicht auch „derjenige, der nicht daran gedacht hat, eine redundante Stromversorgung vorzusehen“. Es passiert nicht regelmäßig, und Sie würden es wohl kaum als Teil Ihres normalen Produktionsprozesses bezeichnen.
 
@@ -209,11 +209,11 @@ Im Ergebnis sieht das Muster so wie hier aus: es divergiert schnell, und im allg
 
 ## Verschiedene Fehlerarten unterscheiden
 
-Gewöhnliche Fehler und besondere Fehler können mathematisch auseinandergehalten werden. Die Basis für diese Unterscheidung ist die [Qualitätsregelkarte](https://de.wikipedia.org/wiki/Qualit%C3%A4tsregelkarte), auf englisch “control chart” oder zuweilen auch “Shewhart chart” oder “process-behaviour chart”.
+Gewöhnliche Fehler und besondere Fehler können mathematisch auseinandergehalten werden. Die Basis für diese Unterscheidung ist die [Qualitätsregelkarte](https://de.wikipedia.org/wiki/Qualit%C3%A4tsregelkarte), auf englisch „control chart“ oder zuweilen auch „Shewhart chart“ oder „process-behaviour chart“.
 
 ![controlchart](controlchart.jpg)
 
-Die y-Achse zeigt eine kontinuierliche Messung, „target“ korrespondiert mit dem Ideal. Es gibt ein “upper control limit” (UCL) und ein “lower control limit” (LCL). Beide sitzen respektive bei +3σ und -3σ.
+Die y-Achse zeigt eine kontinuierliche Messung, „target“ korrespondiert mit dem Ideal. Es gibt ein „upper control limit“ (UCL) und ein „lower control limit“ (LCL). Beide sitzen respektive bei +3σ und -3σ.
 
 **UCL und LCL werden aus echten Prozeßdaten errechnet!** Sie sind keine Spezifikationsgrenzen.
 

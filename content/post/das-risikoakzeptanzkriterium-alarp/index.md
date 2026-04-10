@@ -7,11 +7,11 @@ tags:
 aliases:
   - /2020/09/das-risikoakzeptanzkriterium-alarp/
 ---
-ALARP steht für “as low as reasonably practicable” und ist ein verbreitetes Risikoakzeptanzkriterium. Infolge verschiedentlicher Standardisierung im Automatisierungs-, Prozeß- und Automobilbereich (IEC 61508 als Basisnorm, darauf aufbauend IEC 61511 oder angelehnt ISO 26262) ist ALARP heutzutage das verbreitetste – wenn nicht in der Praxis gar das einzige – Risikoakzeptanzkriterium.
+ALARP steht für „as low as reasonably practicable“ und ist ein verbreitetes Risikoakzeptanzkriterium. Infolge verschiedentlicher Standardisierung im Automatisierungs-, Prozeß- und Automobilbereich (IEC 61508 als Basisnorm, darauf aufbauend IEC 61511 oder angelehnt ISO 26262) ist ALARP heutzutage das verbreitetste – wenn nicht in der Praxis gar das einzige – Risikoakzeptanzkriterium.
 
-Im Strahlenschutzbereich kennt man ALARP auch, dort aber unter dem Akronym ALARA: “as low as reasonable achievable”. Inhaltlich sind ALARP und ALARA jedoch identisch.
+Im Strahlenschutzbereich kennt man ALARP auch, dort aber unter dem Akronym ALARA: „as low as reasonable achievable“. Inhaltlich sind ALARP und ALARA jedoch identisch.
 
-ALARP stammt aus England und ist unter einem weiteren Akronym – SFAIRP (“so far as is reasonably practicable”) – im dortigen Arbeitsschutzgesetz verankert. Entwickelt wurde das Prinzip aufgrund eines Gerichtsprozesses, in dem es um die Haftung nach einem Grubenunglück im Bergbau ging. Das Gericht entwickelte Grundsätze, um den Fall bewerten zu können, und das Parlament hat diese dann später aufgegriffen:
+ALARP stammt aus England und ist unter einem weiteren Akronym – SFAIRP („so far as is reasonably practicable“) – im dortigen Arbeitsschutzgesetz verankert. Entwickelt wurde das Prinzip aufgrund eines Gerichtsprozesses, in dem es um die Haftung nach einem Grubenunglück im Bergbau ging. Das Gericht entwickelte Grundsätze, um den Fall bewerten zu können, und das Parlament hat diese dann später aufgegriffen:
 
 > Reasonably practicable is a narrower term than “physically possible” and implies that a computation must be made […] in which the quantum of risk is placed in one scale and the sacrifice involved in the measures necessary for averting the risk (whether in time, trouble or money) is placed in the other.\
  —Court of Appeals, Edwards v. National Coal Board, 1949

@@ -11,7 +11,7 @@ aliases:
 ---
 ## PLOS
 
-Gerade macht mal wieder ein Studie von 2018 die Runde: [“Dance training is superior to repetitive physical exercise in inducing brain plasticity in the elderly”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636).
+Gerade macht mal wieder ein Studie von 2018 die Runde: [„Dance training is superior to repetitive physical exercise in inducing brain plasticity in the elderly“](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636).
 
 Die Studie ließ etwa 50 gesunde Teilnehmer ein halbes Jahr regelmäßig zur einen Hälfte Ausdauer- und auch ein wenig Krafttraining, und zur anderen Hälfte Tanzchoreographien üben (Line-Dance, Jazz, Dance, R’n’R etc.).
 
@@ -23,7 +23,7 @@ Die Studie hatte allerdings eine eher kleine Anzahl von Testpersonen und dadurch
 
 ## NEJM
 
-Lange davor, nämlich 2003, gab es schon einmal eine Studie zum selben Thema, die die Tänzer erfreute: [“Leisure Activities and the Risk of Dementia in the Elderly”](https://www.nejm.org/doi/full/10.1056/NEJMoa022252).
+Lange davor, nämlich 2003, gab es schon einmal eine Studie zum selben Thema, die die Tänzer erfreute: [„Leisure Activities and the Risk of Dementia in the Elderly“](https://www.nejm.org/doi/full/10.1056/NEJMoa022252).
 
 Dabei wurde eine größere Zahl von älteren Menschen über mehrere Jahre beobachtet. Und dabei deren Freizeitgestaltung in Korrelation zum Auftreten von Demenz und anderen alterstypischen neurologischen Problemen gesetzt.
 

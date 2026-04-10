@@ -11,7 +11,7 @@ aliases:
 ---
 ![](taken-0c7012dd.jpg)
 
-**Übersetzer:** Dies ist die deutsche Übersetzung des Artikels [“Hunting down my son’s killer”](http://matt.might.net/articles/my-sons-killer/) von [Matt Might](http://matt.might.net/), übersetzt ins Deutsche von [Thomas Hühn](http://www.thomas-huehn.de/).
+**Übersetzer:** Dies ist die deutsche Übersetzung des Artikels [„Hunting down my son’s killer“(http://matt.might.net/articles/my-sons-killer/) von [Matt Might](http://matt.might.net/), übersetzt ins Deutsche von [Thomas Hühn](http://www.thomas-huehn.de/).
 
 **Übersetzer:** Bitte melden Sie mögliche Fehler in der Übersetzung, insbesondere solche medizinischer Natur, unbedingt an <t@2uo.de>.
 
@@ -771,7 +771,7 @@ In dem [düsteren Blogeintrag vor drei Jahren, in dem wir die Entdeckung von Oli
 
 Doch was heißt es, das Unmögliche zu versuchen?
 
-Im [“Illustrated Guide to a Ph.D.”](http://matt.might.net/articles/phd-school-in-pictures/) sprach ich davon, Ausbuchtungen in die Ränder menschlichen Wissens zu machen.
+Im [„Illustrated Guide to a Ph.D.“](http://matt.might.net/articles/phd-school-in-pictures/) sprach ich davon, Ausbuchtungen in die Ränder menschlichen Wissens zu machen.
 
 Dieser Artikel enthält die Geschichte einer solchen Ausbuchtung – des unordentlichen, aber notwendigen Vorgehens in der modernen Wissenschaft.
 

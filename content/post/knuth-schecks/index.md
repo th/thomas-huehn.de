@@ -7,7 +7,7 @@ aliases:
   - /2020/07/knuth-scheck/
 description: Ich besitze zwei Schecks von Donald Knuth!
 ---
-[Donald E. Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) ist so etwas wie der Graue Eminenz der Informatik. Begnadeter Algorithmiker (das Knuth-Morris-Pratt-Verfahren und viele mehr), emeritierter Professor in Stanford, Autor des Standard-Übersichtswerks “The Art of Computer Programming” (schon seit 1962 – geplante Fertigstellung derzeit: 2025), und Schöpfer des Textsatzsystems TeX, von dem Leslie Lamport später LaTeX abgeleitet hat.
+[Donald E. Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) ist so etwas wie der Graue Eminenz der Informatik. Begnadeter Algorithmiker (das Knuth-Morris-Pratt-Verfahren und viele mehr), emeritierter Professor in Stanford, Autor des Standard-Übersichtswerks „The Art of Computer Programming“ (schon seit 1962 – geplante Fertigstellung derzeit: 2025), und Schöpfer des Textsatzsystems TeX, von dem Leslie Lamport später LaTeX abgeleitet hat.
 
 Und absoluter Pedant. So hat er auf seiner Webseite [einen eigenen Abschnitt](https://www-cs-faculty.stanford.edu/~knuth/help.html), mit Personen, die er in seinen Büchern zitiert, von denen er aber nicht weiß, für welche Vornamen die Mittelinitialen stehen. Und er möchte die nun einmal Namen vollständig zitieren.
 
@@ -33,11 +33,11 @@ Und er ist grandios! Ich hatte immer vor meinem geistigen Auge, daß ich die dic
 
 Und dann fiel es mir wie Schuppen von den Augen. An einer Stelle, von der niemand behaupten kann, er sei mit Lesen nicht so weit gekommen.
 
-Denn in “Computer Modern Typefaces” findet sich der Fehler auf der Seite arabisch eins. Im allerersten Absatz. Gleich das allererste Wort ist falsch.
+Denn in „Computer Modern Typefaces“ findet sich der Fehler auf der Seite arabisch eins. Im allerersten Absatz. Gleich das allererste Wort ist falsch.
 
-“Infinitely many…” – nein! Es sind nur endlich viele, wenn auch eine astronomische Anzahl.
+„Infinitely many…“ – nein! Es sind nur endlich viele, wenn auch eine astronomische Anzahl.
 
-Der Eintrag in den [Errata](https://ftp.fau.de/ctan/systems/knuth/dist/errata/errata.twelve) steht unter “Page E1”.
+Der Eintrag in den [Errata](https://ftp.fau.de/ctan/systems/knuth/dist/errata/errata.twelve) steht unter „Page E1“.
 
 Einige Zeit später kam ein Brief.
 

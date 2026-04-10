@@ -134,9 +134,9 @@ Der `Expires`-HTTP-Header ist ein grundlegendes Mittel, um Caches zu steuern; er
 
 Die meisten Webserver erlauben Ihnen, `Expires`-Antwort-Header auf verschiedene Weisen zu setzen. Üblicherweise erlauben sie, eine absolute Zeit bis zum Ablaufen zu setzen, eine Zeit zu setzen, die auf der letzten Zeit basiert, zu der der Client die Repräsentation geholt hat (last *access time*), oder eine Zeit zu setzen, die auf der letzten Zeit basiert, zu der das Dokument auf Ihrem Server verändert worden ist (last *modification time*).
 
-`Expires`-Header sind besonders gut dafür geeignet, statische Bilder (wie Navigationsleisten und Buttons) cachebar zu machen. Weil diese sich nicht viel verändern, können Sie extrem lange Ablaufzeiten für sie festlegen, wodurch Ihre Webpräsenz Ihren Benutzern viel schneller zu reagieren scheint. Auch sind sie nützlich, um das Caching einer Seite zu steuern, die sich häufig ändert. Im Beispiel einer Nachrichtenseite, die Sie einmal am Tag um sechs Uhr früh aktualisieren, können Sie die Repräsentation zu diesem Zeitpunkt ablaufen lassen, so daß die Caches wissen, wann sie eine neue Ausgabe holen müssen, ohne daß die Benutzer den “Neu laden”-Button anklicken müssen.
+`Expires`-Header sind besonders gut dafür geeignet, statische Bilder (wie Navigationsleisten und Buttons) cachebar zu machen. Weil diese sich nicht viel verändern, können Sie extrem lange Ablaufzeiten für sie festlegen, wodurch Ihre Webpräsenz Ihren Benutzern viel schneller zu reagieren scheint. Auch sind sie nützlich, um das Caching einer Seite zu steuern, die sich häufig ändert. Im Beispiel einer Nachrichtenseite, die Sie einmal am Tag um sechs Uhr früh aktualisieren, können Sie die Repräsentation zu diesem Zeitpunkt ablaufen lassen, so daß die Caches wissen, wann sie eine neue Ausgabe holen müssen, ohne daß die Benutzer den „Neu laden“-Button anklicken müssen.
 
-Der **einzig** gültige Wert in einem `Expires`-Header ist eine HTTP-Zeitangabe; alles andere wird höchstwahrscheinlich als “in der Vergangenheit” interpretiert, so daß die Repräsentation uncachebar ist. Denken Sie auch daran, daß die Zeit in einer HTTP-Zeitangabe nach Greenwich Mean Time (GMT) angegeben wird, nicht nach der lokalen Zeit.
+Der **einzig** gültige Wert in einem `Expires`-Header ist eine HTTP-Zeitangabe; alles andere wird höchstwahrscheinlich als „in der Vergangenheit“ interpretiert, so daß die Repräsentation uncachebar ist. Denken Sie auch daran, daß die Zeit in einer HTTP-Zeitangabe nach Greenwich Mean Time (GMT) angegeben wird, nicht nach der lokalen Zeit.
 
 Ein Beispiel:
 
@@ -367,7 +367,7 @@ Die Konfiguration von Apache 2 ähnelt sehr der von Apache 1.3, lesen Sie die 2.
 
 [Microsofts](https://www.microsoft.com/) Internet Information Server macht es sehr leicht, Header auf einigermaßen flexible Art zu setzen. Beachten Sie, daß dies nur in Version 4 des Servers möglich ist, die nur unter Windows NT Server läuft.
 
-Um Header für einen Bereich einer Webpräsenz zu festzulegen, wählen Sie diesen Bereich in “Administration Tools” und öffnen Sie dessen Eigenschaften. Nachdem Sie das Tab „HTTP Headers“ angewählt haben, sollten Sie zwei interessante Bereiche sehen: „Enable Content Expiration“ und „Custom HTTP headers“. Der erste sollte selbsterklärend sein, und der zweite kann genutzt werden, um Cache-Control-Header anzuwenden.
+Um Header für einen Bereich einer Webpräsenz zu festzulegen, wählen Sie diesen Bereich in “Administration Tools“ und öffnen Sie dessen Eigenschaften. Nachdem Sie das Tab „HTTP Headers“ angewählt haben, sollten Sie zwei interessante Bereiche sehen: „Enable Content Expiration“ und „Custom HTTP headers“. Der erste sollte selbsterklärend sein, und der zweite kann genutzt werden, um Cache-Control-Header anzuwenden.
 
 Lesen Sie den ASP-Abschnitt weiter unten, um Informationen zu erhalten, wie Sie Header in den Active Server Pages setzen können. Es ist auch möglich, Header aus ISAPI -Modulen heraus zu setzen; schauen Sie für Details ins MSDN.
 
@@ -403,7 +403,7 @@ Weil dies alles reiner Text ist, können Sie die Expires- und andere Zeit-bezoge
 print Cache-Control: max-age=600\n;
 ```
 
-Dies sorgt dafür, daß das Skript für zehn Minuten nach der Anforderung gecachet werden kann, so daß der Benutzer die Anforderung nicht erneut schickt, wenn er den “Zurück”-Button anklickt.
+Dies sorgt dafür, daß das Skript für zehn Minuten nach der Anforderung gecachet werden kann, so daß der Benutzer die Anforderung nicht erneut schickt, wenn er den „Zurück“-Button anklickt.
 
 Die CGI-Spezifikation macht Anforderungs-Header, die der Client sendet, auch in der Umgebung des Skripts verfügbar; jeder Header hat dabei seinem Namen „HTTP_“ vorangestellt. Wenn ein Client eine `If-Modified-Since`-Anforderung stellt, wird dies also folgendermaßen auftauchen:
 

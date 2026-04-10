@@ -31,7 +31,7 @@ Insbesondere die einfache Auffindbarkeit, der Unterhaltungswert und die
 Gestaltung lassen eher einen Unterhaltungs- denn einen Lernwert
 vermuten. Nichtsdestoweniger kommentieren Menschen oftmals, sie hätten
 das Thema nun erstmals begriffen. Sanderson hat bereits zwei Jahre in
-Folge einen “Summer of Math Exposition” ausgerufen, in dem er andere
+Folge einen „Summer of Math Exposition” ausgerufen, in dem er andere
 Menschen ermutigt, eigene Erklärvideos zu produzieren und ihnen durch
 diesen Wettbewerb Aufmerksamkeit seiner eigenen Abonnenten zu schenken.
 
