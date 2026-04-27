@@ -1,7 +1,9 @@
 baseURL: 'https://www.thomas-huehn.de/'
 languageCode: 'de'
 title: 'Entdeckungsreisen'
-theme: 'hugo-theme-th'
+module:
+    imports:
+        - path: github.com/th/hugo-theme-th
 
 titleCaseStyle: none
 
