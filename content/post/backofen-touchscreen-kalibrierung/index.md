@@ -13,7 +13,7 @@ Der Touchscreen mit den Touch-Buttons von Bosch-Backöfen fällt öfter aus, Man
 
 1. Man lebt ohne bestimmte, nebensächliche Funktionen (wie Umluft oder Einstellung der Garzeit).
 2. Man ruft den Bosch-Kundendienst, der für die Anfahrt bereits deutlich über 100 Euro nimmt, und dann gerne gleich das Logicboard tauscht (mehrere hundert Euro). Da das Fehlerbild alle zwei, drei Jahre auftreten wird, ist das dann ein teurer Backofen.
-3. Man probiert, den Touchscreen selbst erneut zu kalibrieren. Oft löst das das Problem.Und manchmal verzichtet auch der Bosch-Techniker sogar auf den teuren Platinentausch, wodurch es eben eine teure Kalibrierung wird.
+3. Man probiert, den Touchscreen selbst erneut zu kalibrieren. Oft löst das das Problem. Und manchmal verzichtet auch der Bosch-Techniker sogar auf den teuren Platinentausch, wodurch es eben eine teure Kalibrierung wird.
 
 Das Prozedere unterscheidet sich zwischen Backofenmodellen leicht. Das grundstäzliche Vorgehen ist identisch, aber da die Prozedur keine Fehler verzeiht, sollte man auf YouTube einmal suchen, ob jemand eine passende Prozedur für den eigenen Backofen zeigt.
 
