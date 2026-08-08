@@ -33,7 +33,7 @@ Der Kontext ist mehr als das Tool. Doch typischerweise verspricht die Werbung vo
 
 Wir wollen unsere Benutzer zu erfolgreichen Benutzern machen. Zu besseren Benutzern. Denn bessere User nutzen mehr Features, die uns von der Konkurrenz abheben. Denn bessere User reden mit Freunden darüber oder missionieren gar. Denn bessere User bleiben dabei und kaufen Nachfolgeprodukte oder Zubehör.
 
-Das Problem ist der gap of stuck: etwas wirft die Benutzer aus der Bahn und läßt sie aufhören, das Produkt zu nutzen. Das Snowboard vergammelt im Keller nach dem ersten Winterurlaub.
+Das Problem ist der *gap of stuck:* etwas wirft die Benutzer aus der Bahn und läßt sie aufhören, das Produkt zu nutzen. Das Snowboard vergammelt im Keller nach dem ersten Winterurlaub.
 
 Es ist natürlich, daß neue Fähigkeiten Zeit und Mühe brauchen. Und es ist schwer, durch diese Frustrationszone hindurchzukommen.
 
