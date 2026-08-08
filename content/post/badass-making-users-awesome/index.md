@@ -37,7 +37,7 @@ Das Problem ist der gap of stuck: etwas wirft die Benutzer aus der Bahn und lä�
 
 Es ist natürlich, daß neue Fähigkeiten Zeit und Mühe brauchen. Und es ist schwer, durch diese Frustrationszone hindurchzukommen.
 
-Genau deshalb muß der Hersteller unterstützen. Probleme und hakeligkeiten müssen offen angesprochen, nicht unter den Teppich gekehrt werden. Auf allen Kanälen (YouTube, Handbuch, Support, Training) muß immer wieder folgendes kommuniziert werden: „Du bist nicht allein. Das geht allen so. Aller Anfang ist schwer. Wir helfen Dir. Und wir verbessern das Produkt weiter, damit es einfacher wird.“
+Genau deshalb muß der Hersteller unterstützen. Probleme und Hakeligkeiten müssen offen angesprochen, nicht unter den Teppich gekehrt werden. Auf allen Kanälen (YouTube, Handbuch, Support, Training) muß immer wieder folgendes kommuniziert werden: „Du bist nicht allein. Das geht allen so. Aller Anfang ist schwer. Wir helfen Dir. Und wir verbessern das Produkt weiter, damit es einfacher wird.“
 
 Was können wir tun, damit unsere Kunden glänzen? Und zwar konkrete Menschen, auch im Unternehmenskontext. Wodurch kann der Mitarbeiter Müller bei Benutzung unseres Produkts vor seinem Chef gut aussehen und glänzen? Denn Mitarbeiter haben durchaus Einfluß auf Anschaffungsentscheidungen. ReSharper von IntelliJ beispielsweise wird massenhaft lizenziert, weil .NET-Entwickler ihren Chefs sagen, daß Visual Studio schon ganz gut, ReSharper aber essentiell ist.
 
